@@ -1,0 +1,146 @@
+[
+  {
+    "ID": "0207e935-6f4c-4d96-8ad7-b9c2ee789663",
+    "effective_cve": "CVE-2013-2512",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ftpd",
+      "version": "0.2.1"
+    },
+    "timestamp": "2023-01-27T13:32:39+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-7vxr-6cxg-j3x8"
+  },
+  {
+    "ID": "04a34af3-d6d6-4432-8ee1-8834b947148f",
+    "effective_cve": "CVE-2018-10237",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "guava",
+      "version": "23.0"
+    },
+    "timestamp": "2023-01-27T13:32:55+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-mvr2-9pj6-7w5j"
+  },
+  {
+    "ID": "0d74c6df-4a2d-4575-9da9-3f40d0a98790",
+    "effective_cve": "CVE-2013-2512",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ftpd",
+      "version": "0.2.1"
+    },
+    "timestamp": "2023-01-27T13:32:38+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-2512"
+  },
+  {
+    "ID": "141655c8-4c58-47a0-9029-d7cebbcc1abc",
+    "effective_cve": "CVE-2020-8908",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "guava",
+      "version": "23.0"
+    },
+    "timestamp": "2023-01-27T13:32:45+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-8908"
+  },
+  {
+    "ID": "1a0c7f0c-11e4-4a69-bcb5-24f3592238e6",
+    "effective_cve": "CVE-2018-10237",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "guava",
+      "version": "23.0"
+    },
+    "timestamp": "2023-01-27T13:32:42+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-10237"
+  },
+  {
+    "ID": "5a4f4120-733a-473e-8f5f-7ff15c1c9b3b",
+    "effective_cve": "CVE-2021-21330",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.7.3"
+    },
+    "timestamp": "2023-01-27T13:32:33+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-v6wp-4m6f-gcjg"
+  },
+  {
+    "ID": "9bd08f9e-247e-46bf-9206-fe484bb3efaa",
+    "effective_cve": "CVE-2021-32796",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xmldom",
+      "version": "0.4.0"
+    },
+    "timestamp": "2023-01-27T13:32:57+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-5fg8-2547-mr8q"
+  },
+  {
+    "ID": "aa8816f2-9f94-4fa1-8d30-a7055c89d479",
+    "effective_cve": "CVE-2020-8908",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "guava",
+      "version": "23.0"
+    },
+    "timestamp": "2023-01-27T13:32:47+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-5mg8-w23w-74h3"
+  },
+  {
+    "ID": "b2294d49-58cc-4491-a705-f92a5bbc74c7",
+    "effective_cve": "CVE-2021-21366",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:347fba6fbfa15d4e11217f9d49bf70a5a6eef35c6c642dc8c5db89115912d0c1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xmldom",
+      "version": "0.4.0"
+    },
+    "timestamp": "2023-01-27T13:33:00+00:00",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-h6q6-9hqw-rwfv"
+  }
+]

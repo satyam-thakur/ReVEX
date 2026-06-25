@@ -1,0 +1,3826 @@
+[
+  {
+    "ID": "0014ce60-8cf5-4d9d-866d-d6f7c83c02cf",
+    "effective_cve": "CVE-2021-36087",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "2.8-1"
+    },
+    "timestamp": "2022-12-15T15:15:59+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36087"
+  },
+  {
+    "ID": "0076b0e4-aca7-41c3-be11-08d35950b7d7",
+    "effective_cve": "CVE-2019-19603",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19603"
+  },
+  {
+    "ID": "03eab11f-85f5-489a-b346-63ff2961e56f",
+    "effective_cve": "CVE-2021-27645",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27645"
+  },
+  {
+    "ID": "04074d01-df39-4a9f-aa1b-7916216d134a",
+    "effective_cve": "CVE-2019-20386",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:14+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-20386"
+  },
+  {
+    "ID": "0522d376-3fb5-48a5-ac11-47d5d8e8ac52",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "0556105d-7888-4bcc-854d-ec9ff3510d61",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "06177521-13b1-4b8f-8494-76c8e56755cd",
+    "effective_cve": "CVE-2017-18018",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.30-3"
+    },
+    "timestamp": "2022-12-15T14:24:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-18018"
+  },
+  {
+    "ID": "0896f3f3-445f-407b-81bc-715e9e455aad",
+    "effective_cve": "CVE-2019-15847",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc1",
+      "version": "1:8.3.0-6"
+    },
+    "timestamp": "2022-12-15T15:11:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15847"
+  },
+  {
+    "ID": "099a1ac2-d57d-4bcf-804d-4796d2e5347f",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:25+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "0b68af5e-1195-4808-889b-7a6dc70dbfec",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mount",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:57:02+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "0b82cb6c-052f-498b-a075-cf6204c3bc98",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:46+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "0c53c61c-cf01-43ca-af3d-9127f2874d8e",
+    "effective_cve": "CVE-2020-1751",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:34+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1751"
+  },
+  {
+    "ID": "0c65740d-af5c-42a3-bed3-ec7d006a263d",
+    "effective_cve": "CVE-2021-3520",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "liblz4-1",
+      "version": "1.8.3-1"
+    },
+    "timestamp": "2022-12-15T15:15:23+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3520"
+  },
+  {
+    "ID": "0c9d5943-2437-4cac-b4a4-9650225c9408",
+    "effective_cve": "CVE-2019-19126",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19126"
+  },
+  {
+    "ID": "0f8efbc2-e3d3-4406-906f-5bc56b6af560",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "118ea15c-3175-4f74-b073-393aba0226ab",
+    "effective_cve": "CVE-2021-4160",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:17:12+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4160"
+  },
+  {
+    "ID": "11babb2d-aad9-4198-baec-3cc902c63c09",
+    "effective_cve": "CVE-2021-35942",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:19+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35942"
+  },
+  {
+    "ID": "12563b7f-55c0-4c21-8d6e-c00c230e1591",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:17:10+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "12b3fd91-4817-4848-b65f-ce41cdef8a2b",
+    "effective_cve": "CVE-2021-33910",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:10+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33910"
+  },
+  {
+    "ID": "12d168d6-c0f5-4591-95fa-bda8294c03d3",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:17:10+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "1457ab87-c74a-4048-9614-eaf6dc8c170f",
+    "effective_cve": "CVE-2019-19882",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:34+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19882"
+  },
+  {
+    "ID": "1654351f-ac7c-4f85-bc9a-071977c22017",
+    "effective_cve": "CVE-2019-25013",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-25013"
+  },
+  {
+    "ID": "16717b04-55c1-4596-9357-7ef736a0b772",
+    "effective_cve": "CVE-2018-7169",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-7169"
+  },
+  {
+    "ID": "167743ed-d3eb-48ac-9e4f-79c6c623e998",
+    "effective_cve": "CVE-2019-20386",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:36+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-20386"
+  },
+  {
+    "ID": "16a3816d-3ac4-4945-aadf-dca0561e803c",
+    "effective_cve": "CVE-2013-4392",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:13+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4392"
+  },
+  {
+    "ID": "16b1b65a-873e-4605-9949-63684d8f301c",
+    "effective_cve": "CVE-2021-33574",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:29+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "171afba7-91fc-4d93-8577-501ed695005e",
+    "effective_cve": "CVE-2021-33574",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:09+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "17a2243d-0bc4-4359-ad46-7ec3031eb9fb",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "18f25bce-7263-4958-a4e6-d1ecfe414b67",
+    "effective_cve": "CVE-2020-1752",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:27+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1752"
+  },
+  {
+    "ID": "1a755ebc-e703-483f-ab87-5b4ee28c41a5",
+    "effective_cve": "CVE-2011-3389",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.7-4+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:12:13+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3389"
+  },
+  {
+    "ID": "1b6539e5-d714-4cb1-9853-78d4aec6faa8",
+    "effective_cve": "CVE-2020-13529",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13529"
+  },
+  {
+    "ID": "1b73330d-33fa-4398-b70a-2129b6d61bbb",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libfdisk1",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T15:11:44+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "1ba3ac58-8dd5-4b36-8f09-4365095e062c",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libblkid1",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:26:46+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "1bdf3a0b-93f0-4fff-a1d7-c2ec9c30f619",
+    "effective_cve": "CVE-2021-3326",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3326"
+  },
+  {
+    "ID": "1bf569bc-6478-4b21-bbc3-26724d36d867",
+    "effective_cve": "CVE-2020-10029",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10029"
+  },
+  {
+    "ID": "1e308ea1-9963-43c8-8a26-b414f55332a5",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "perl-modules-5.28",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:54:40+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "1f4220b7-6ba6-4730-ad18-d35b71aca631",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpg-agent",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "1fb8ccb3-8b59-41d5-bc3b-7050fda88bc9",
+    "effective_cve": "CVE-2021-35942",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:58+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35942"
+  },
+  {
+    "ID": "1ffc73da-c83a-45f6-9e55-af3c5c0d15a3",
+    "effective_cve": "CVE-2017-16231",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-16231"
+  },
+  {
+    "ID": "20c6782e-05a4-4384-b650-4a0fc87c2efd",
+    "effective_cve": "CVE-2017-11164",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:35+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "21ff8566-62b9-4df5-92c5-f0100afc3a96",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpg",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:29+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "2310fdb8-f386-48bf-800d-d6975934dc65",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "??",
+    "package": {
+      "name": "util-linux",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:28:22+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "235314bb-4db3-4232-96a9-85ce56a7ec3e",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libperl5.28",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:15:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "23f56a61-082f-4e62-b6d9-6e15b55f63a5",
+    "effective_cve": "CVE-2020-13631",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:51+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13631"
+  },
+  {
+    "ID": "2489da7f-92cc-4151-a9b3-106fac3a20c8",
+    "effective_cve": "CVE-2021-20232",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.7-4+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:12:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20232"
+  },
+  {
+    "ID": "250c0010-72cc-4a73-bd2e-87c796ea7457",
+    "effective_cve": "CVE-2021-3326",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:28+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3326"
+  },
+  {
+    "ID": "252a9beb-ba04-43d6-a6d5-3d6a972a17a5",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "perl-modules-5.28",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:54:40+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "257cb873-bec1-46d7-84c5-b9f505868923",
+    "effective_cve": "CVE-2015-9019",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxslt1.1",
+      "version": "1.1.32-2.2~deb10u1"
+    },
+    "timestamp": "2022-12-15T14:58:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-9019"
+  },
+  {
+    "ID": "25b20b0e-7039-4f18-bbe1-24b7359e177f",
+    "effective_cve": "CVE-2020-35527",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:52+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-35527"
+  },
+  {
+    "ID": "2665bf21-d747-49b5-826b-6377fcb098c3",
+    "effective_cve": "CVE-2019-19244",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19244"
+  },
+  {
+    "ID": "26d9378b-3853-4d97-be65-d360ea4e765f",
+    "effective_cve": "CVE-2021-3326",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:18+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3326"
+  },
+  {
+    "ID": "286feba1-71b1-471e-88ff-e9b096ba25a0",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:12:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "28b02b47-bb90-4214-8550-37eb37a1cc19",
+    "effective_cve": "CVE-2017-7245",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:39+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7245"
+  },
+  {
+    "ID": "29ca6ceb-5348-4e86-baea-f7fc3cabb36e",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:20+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "2dfcdf9e-e1ff-423b-adee-2ea1dc0a71fe",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:13+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "2ed76f46-d5a3-4f42-ab05-e5f5c1bb524a",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "308f4a5f-3f40-40be-842a-3e54ad04e60b",
+    "effective_cve": "CVE-2018-12886",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libstdc++6",
+      "version": "8.3.0-6"
+    },
+    "timestamp": "2022-12-15T15:01:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12886"
+  },
+  {
+    "ID": "31b7eb14-b3c7-422c-a704-3908fbac860b",
+    "effective_cve": "CVE-2020-6096",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:17+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-6096"
+  },
+  {
+    "ID": "32a4c45f-b5ce-4ecc-b40b-a04ebb61278f",
+    "effective_cve": "CVE-2019-17543",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "liblz4-1",
+      "version": "1.8.3-1"
+    },
+    "timestamp": "2022-12-15T15:15:23+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-17543"
+  },
+  {
+    "ID": "3608405e-a69e-49a1-b347-4ce45ef986b1",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:47+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "371572be-3181-46c2-87a8-c82f0ee2750a",
+    "effective_cve": "CVE-2020-1751",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1751"
+  },
+  {
+    "ID": "37c49730-d70b-4e2f-b4e5-0ee8b2f33a9d",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.1+20181013-2+deb10u2"
+    },
+    "timestamp": "2022-12-15T14:56:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "389ed4a3-95c1-4a5e-b8b3-d83894e84118",
+    "effective_cve": "CVE-2021-3712",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T14:56:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3712"
+  },
+  {
+    "ID": "3a64df96-835c-49bd-b45b-d8b96662c454",
+    "effective_cve": "CVE-2021-36086",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "2.8-1"
+    },
+    "timestamp": "2022-12-15T15:15:58+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36086"
+  },
+  {
+    "ID": "3a654c27-864a-437a-adb8-41ca452499d0",
+    "effective_cve": "CVE-2020-1752",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1752"
+  },
+  {
+    "ID": "3e697773-74f2-4f52-b748-941ad482b443",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:09:07+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "3e898e35-ca0b-4518-bf4a-1c0498c2f669",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T14:56:24+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "403c3845-f32a-4167-8f56-d090e904c4b6",
+    "effective_cve": "CVE-2020-1751",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:26+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1751"
+  },
+  {
+    "ID": "40c0f4ac-9cbd-4a99-8454-35cf7c5535ab",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:05+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "427cc616-7d53-48e3-9294-295cfc952caa",
+    "effective_cve": "CVE-2021-3537",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3537"
+  },
+  {
+    "ID": "4564d6c2-0414-4bb5-8374-3d7d11dc3214",
+    "effective_cve": "CVE-2020-6096",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-6096"
+  },
+  {
+    "ID": "45a27593-94f2-4d6c-b085-e6f79ce5cc5c",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib1g",
+      "version": "1:1.2.11.dfsg-1"
+    },
+    "timestamp": "2022-12-15T14:28:33+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-25032"
+  },
+  {
+    "ID": "465c1bd8-44a3-4fc6-9eeb-003038ba0b12",
+    "effective_cve": "CVE-2019-15847",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libstdc++6",
+      "version": "8.3.0-6"
+    },
+    "timestamp": "2022-12-15T15:01:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15847"
+  },
+  {
+    "ID": "47ae6315-4c3b-447a-a9f5-b282abf8a449",
+    "effective_cve": "CVE-2007-5686",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:33+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-5686"
+  },
+  {
+    "ID": "483b6d93-670a-43e7-a40e-8ae31def91e2",
+    "effective_cve": "CVE-2020-1752",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1752"
+  },
+  {
+    "ID": "4852f1d9-17ab-4332-8748-34ac8bad8b1a",
+    "effective_cve": "CVE-2021-35942",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:29+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35942"
+  },
+  {
+    "ID": "4979d2b9-2fa9-4d35-b1fe-bc58d2a898fc",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:13+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "4a00a0a8-5070-48e5-ae41-3c6036937ffc",
+    "effective_cve": "CVE-2021-4209",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.7-4+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:12:18+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4209"
+  },
+  {
+    "ID": "4a7f276c-f850-4582-8d7a-8326edb0cf9e",
+    "effective_cve": "CVE-2021-36085",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "2.8-1"
+    },
+    "timestamp": "2022-12-15T15:15:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36085"
+  },
+  {
+    "ID": "4b212a60-0618-41dc-bc31-b40ab85d1fa3",
+    "effective_cve": "CVE-2021-3711",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T14:56:36+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3711"
+  },
+  {
+    "ID": "4b7fda7d-a5a1-44d6-b549-2c323db87fe0",
+    "effective_cve": "CVE-2021-3517",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:36+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3517"
+  },
+  {
+    "ID": "4b94f196-2a56-4742-970e-f08dab5d3b46",
+    "effective_cve": "CVE-2020-14155",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:46+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-14155"
+  },
+  {
+    "ID": "4c27e813-fa19-4e97-97d7-470990102944",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "4ca669cc-700f-42c8-a17f-08ebc1c53335",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:14+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "4e402420-1b24-4ad1-8934-7b0e595266bc",
+    "effective_cve": "CVE-2020-27618",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27618"
+  },
+  {
+    "ID": "4e424860-e119-4ae6-ae21-43bbf78fd69a",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "4f54742a-770e-4f7f-8a02-8eda1d81bd5b",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:54:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "512da6ba-aaf2-4da8-af22-a393532483d8",
+    "effective_cve": "CVE-2019-19126",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:39+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19126"
+  },
+  {
+    "ID": "5136a891-7e62-448f-b011-d9c6c4d4781c",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libuuid1",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:59:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "516d7df4-dfdc-47e6-b1f5-680f885ebe70",
+    "effective_cve": "CVE-2021-3326",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:17+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3326"
+  },
+  {
+    "ID": "5310c737-2ea5-4b4d-934a-f3d872b85498",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "5613b601-44d8-42c7-b7c1-25f0496606d4",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T14:56:26+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "569d9c90-3347-4220-922b-30ec60b66fd4",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "56c8117a-2938-4379-a9b6-aa3e5e81be71",
+    "effective_cve": "CVE-2019-19126",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:25+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19126"
+  },
+  {
+    "ID": "574383c5-fa93-4141-b617-2ede84396968",
+    "effective_cve": "CVE-2021-43618",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgmp10",
+      "version": "2:6.1.2+dfsg-4"
+    },
+    "timestamp": "2022-12-15T15:12:10+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-43618"
+  },
+  {
+    "ID": "58586121-ab96-4436-be28-2b23007a49d2",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "5879fb6a-3404-4fba-9545-54c8682e41c6",
+    "effective_cve": "CVE-2020-6096",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:24+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-6096"
+  },
+  {
+    "ID": "58e3dfc7-453d-4fcc-94b7-bf5ad8eca0d1",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "597a994f-6bd1-443b-bd06-b32eefa1c47c",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:40+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "5a414219-7cf8-446f-ab9a-6f4fd9ce9bfe",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "dirmngr",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:25:45+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "5a4f2752-14f1-4337-92d7-4caa12318118",
+    "effective_cve": "CVE-2021-27645",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:19+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27645"
+  },
+  {
+    "ID": "5acd1127-c6c7-45ec-bb26-424199428d74",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:24+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "5bed8340-c7d7-43ec-bb85-1d903a9aefc6",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:12+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "5c80c3be-9c42-4305-98f9-441e33bec70b",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1+20181013-2+deb10u2"
+    },
+    "timestamp": "2022-12-15T14:56:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "5f640f17-3d8e-4532-82ef-c4392a1d940f",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncursesw6",
+      "version": "6.1+20181013-2+deb10u2"
+    },
+    "timestamp": "2022-12-15T15:15:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "60d3f4dd-7def-477c-9504-a3c8fcea301c",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libmount1",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T15:15:27+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "627997d0-9321-4fba-b83a-b3daae62305b",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "62c95363-2fef-46e2-9bd4-3e228933a682",
+    "effective_cve": "CVE-2018-7169",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:33+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-7169"
+  },
+  {
+    "ID": "63a4ca11-4c3e-461f-91c2-fb7ec6e85b2e",
+    "effective_cve": "CVE-2017-7246",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7246"
+  },
+  {
+    "ID": "65d767fe-9175-4f38-bb71-02c8619fac97",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:12+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "666e5aa9-bcbc-47f2-8e50-c79cfd7f85dc",
+    "effective_cve": "CVE-2019-9923",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "1.30+dfsg-6"
+    },
+    "timestamp": "2022-12-15T14:28:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9923"
+  },
+  {
+    "ID": "667e9446-ce69-43cb-88e3-32e4e7456c95",
+    "effective_cve": "CVE-2021-30560",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxslt1.1",
+      "version": "1.1.32-2.2~deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:24+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-30560"
+  },
+  {
+    "ID": "66dfb0fc-c647-4949-a632-22ef6084fe2d",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpg-wks-client",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "66ff31db-f2ed-4642-ab98-ac762f638644",
+    "effective_cve": "CVE-2019-5815",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxslt1.1",
+      "version": "1.1.32-2.2~deb10u1"
+    },
+    "timestamp": "2022-12-15T14:58:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-5815"
+  },
+  {
+    "ID": "68c243f8-f677-4035-8aca-1dd426ded4b5",
+    "effective_cve": "CVE-2017-17740",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:19:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-17740"
+  },
+  {
+    "ID": "69a17f7d-0479-4626-8d5a-1e73eff24028",
+    "effective_cve": "CVE-2020-27618",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:07:29+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27618"
+  },
+  {
+    "ID": "6c3aeb12-24f4-41f5-a059-11ca7384d340",
+    "effective_cve": "CVE-2021-27645",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:28+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27645"
+  },
+  {
+    "ID": "6cad587d-b5c1-45a3-b43a-3b427561bff4",
+    "effective_cve": "CVE-2016-3709",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:40+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-3709"
+  },
+  {
+    "ID": "6e3836fa-ec37-4265-893e-3b4943ae2cd2",
+    "effective_cve": "CVE-2007-5686",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-5686"
+  },
+  {
+    "ID": "6e3c50a5-2b19-468b-9e12-b26b7438cacf",
+    "effective_cve": "CVE-2019-12290",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libidn2-0",
+      "version": "2.0.5-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:18+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-12290"
+  },
+  {
+    "ID": "7008eb21-1b24-418b-8e32-3a728e005c20",
+    "effective_cve": "CVE-2020-13776",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:17+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13776"
+  },
+  {
+    "ID": "70125831-80df-49b4-8cc2-090a591301b4",
+    "effective_cve": "CVE-2015-3276",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:19:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3276"
+  },
+  {
+    "ID": "7088fed3-31b3-4f67-9a9c-5dad6bb33c30",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:46+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "709ee078-360d-4719-82a1-979f5fc0804d",
+    "effective_cve": "CVE-2005-2541",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "1.30+dfsg-6"
+    },
+    "timestamp": "2022-12-15T14:28:45+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2005-2541"
+  },
+  {
+    "ID": "70be2373-d549-449a-9e16-658513e90e10",
+    "effective_cve": "CVE-2021-33560",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.4-5"
+    },
+    "timestamp": "2022-12-15T15:12:01+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33560"
+  },
+  {
+    "ID": "70e4319d-88b7-48bc-a20c-04f51d199b95",
+    "effective_cve": "CVE-2021-20305",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnettle6",
+      "version": "3.4.1-1"
+    },
+    "timestamp": "2022-12-15T15:15:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20305"
+  },
+  {
+    "ID": "710af9a2-90f8-4f16-bc18-0422073c32ec",
+    "effective_cve": "CVE-2018-1000654",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.13-3"
+    },
+    "timestamp": "2022-12-15T15:01:03+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000654"
+  },
+  {
+    "ID": "71d7a1df-563c-4424-924c-aee92e40307b",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:23+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "74d8c8a1-aca3-4b82-8d79-a07b01a652d3",
+    "effective_cve": "CVE-2017-16932",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-16932"
+  },
+  {
+    "ID": "755d478e-920a-4989-9001-7037fe6d2b72",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:22+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "768afe2a-eb4e-4e70-ae5f-eaa5477ab1a9",
+    "effective_cve": "CVE-2019-9893",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libseccomp2",
+      "version": "2.3.3-4"
+    },
+    "timestamp": "2022-12-15T15:15:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9893"
+  },
+  {
+    "ID": "77f3d0a0-cf06-4bea-987d-b31f89fa72f4",
+    "effective_cve": "CVE-2021-40528",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.4-5"
+    },
+    "timestamp": "2022-12-15T15:12:04+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-40528"
+  },
+  {
+    "ID": "79e2bf56-eab4-442f-b847-00b4bfd69e16",
+    "effective_cve": "CVE-2019-13627",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.4-5"
+    },
+    "timestamp": "2022-12-15T15:11:59+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-13627"
+  },
+  {
+    "ID": "7abb7952-fd9d-480a-b682-9bf9980f849d",
+    "effective_cve": "CVE-2020-11656",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-11656"
+  },
+  {
+    "ID": "7c2d5c25-da9b-4b09-ab59-6ca9021f9c73",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "7f274c97-89e1-4a96-b8d1-441437d8a473",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:12:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "7f2d974a-9aa1-41ae-aba2-63f6cc17581d",
+    "effective_cve": "CVE-2019-25013",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-25013"
+  },
+  {
+    "ID": "83121650-e280-49b0-a069-3836f4e43bcb",
+    "effective_cve": "CVE-2021-33574",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:58+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "84c6d561-2a30-4f6b-a180-88f4c7a1f8a5",
+    "effective_cve": "CVE-2020-24659",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.7-4+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:12:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-24659"
+  },
+  {
+    "ID": "874fc00b-94b8-4386-b172-b891094d0ce3",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:36+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "87a6af13-8464-48c8-8ff8-30534fedd874",
+    "effective_cve": "CVE-2021-36084",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "2.8-1"
+    },
+    "timestamp": "2022-12-15T15:15:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36084"
+  },
+  {
+    "ID": "87afb027-8026-4d3d-99a6-d4426da75bff",
+    "effective_cve": "CVE-2021-33910",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:19+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33910"
+  },
+  {
+    "ID": "88234621-ced1-4a24-ba81-6f373395c059",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:59+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "882bc44b-1a6f-469e-b2ff-9fe4edc0bb1b",
+    "effective_cve": "CVE-2021-3580",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libhogweed4",
+      "version": "3.4.1-1"
+    },
+    "timestamp": "2022-12-15T15:14:11+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3580"
+  },
+  {
+    "ID": "8c90e137-9aac-41f7-a19c-9384d838ef35",
+    "effective_cve": "CVE-2020-13529",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13529"
+  },
+  {
+    "ID": "8d4793bc-cb44-49dc-aa33-f7442e8aa96a",
+    "effective_cve": "CVE-2020-10029",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:35+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10029"
+  },
+  {
+    "ID": "8d6f157c-0ede-4710-ba1a-cb5f566027da",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpgconf",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "8dcbc86f-3b23-4199-8353-56b8b393512a",
+    "effective_cve": "CVE-2015-3276",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libldap-common",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:20:47+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3276"
+  },
+  {
+    "ID": "8e128b7a-a94b-4fe3-91ad-817447539c46",
+    "effective_cve": "CVE-2020-35525",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:51+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-35525"
+  },
+  {
+    "ID": "8eac82da-0ca8-439f-b8d6-59afbce027c8",
+    "effective_cve": "CVE-2021-4160",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T14:56:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4160"
+  },
+  {
+    "ID": "8ec85ab6-a08d-44b5-bfac-99a8a15399c2",
+    "effective_cve": "CVE-2019-3843",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3843"
+  },
+  {
+    "ID": "8f2f1c68-57fa-43d5-90a2-433c5678e419",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "93b79493-861a-4aac-89e6-4938cec0f065",
+    "effective_cve": "CVE-2020-6096",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:28+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-6096"
+  },
+  {
+    "ID": "94184b32-05d2-4787-9225-d509a80360d1",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:52+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "953bb510-968e-4f26-8d79-e312567c8b86",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg-utils",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:07+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "95ffd33f-f483-476c-b04f-2acfc21d1078",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fdisk",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:25:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "99abf1b5-6c96-43c1-8e6f-52f51ecc9752",
+    "effective_cve": "CVE-2017-14159",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libldap-common",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:20:48+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14159"
+  },
+  {
+    "ID": "9c225562-4498-4e1e-99bf-1ad75f243ec8",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:06:19+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "9ccf41f1-982a-4602-b6d0-255b5d3de309",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:05:44+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "a00b27ee-dd21-4d8c-b209-bb412964d342",
+    "effective_cve": "CVE-2018-12886",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gcc-8-base",
+      "version": "8.3.0-6"
+    },
+    "timestamp": "2022-12-15T14:25:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12886"
+  },
+  {
+    "ID": "a05103ca-41ea-4377-b938-7418cbd8b3d5",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libperl5.28",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:15:48+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "a1c03c9f-6cd6-48a3-932b-6cf28b075809",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:33+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "a286cf6b-7f6a-49b8-be0b-e5ef1d28442b",
+    "effective_cve": "CVE-2019-19924",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19924"
+  },
+  {
+    "ID": "a45b6874-7c31-4306-9542-791bc6eab7e5",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "bsdutils",
+      "version": "1:2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T14:24:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "a7ad1969-8f4b-4849-9bbf-88761bf1aa4e",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:53:06+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "a7bdc7b8-2770-4fbe-b1ac-3d638057019f",
+    "effective_cve": "CVE-2020-10029",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:26+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10029"
+  },
+  {
+    "ID": "a7cff72e-da16-4e41-be50-26a6ea5225e8",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:14+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "a8bb4142-7cd1-486e-9d1f-802c4eb04b28",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.30-3"
+    },
+    "timestamp": "2022-12-15T14:24:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "a92f5cbd-c65e-4566-802a-27433ede3368",
+    "effective_cve": "CVE-2019-3844",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3844"
+  },
+  {
+    "ID": "a966ef75-5daf-49ff-b751-cd1e27d9a25c",
+    "effective_cve": "CVE-2021-36690",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:52+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36690"
+  },
+  {
+    "ID": "ab061519-9783-4671-be27-2b0c14c79592",
+    "effective_cve": "CVE-2019-15847",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gcc-8-base",
+      "version": "8.3.0-6"
+    },
+    "timestamp": "2022-12-15T14:26:01+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15847"
+  },
+  {
+    "ID": "ac150cec-60a7-4984-b926-8aa8f5ec7df2",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg-l10n",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:05+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "afc28d6a-77a6-48f1-8af3-f3220cbd8a13",
+    "effective_cve": "CVE-2017-14159",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:19:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14159"
+  },
+  {
+    "ID": "b0110ba7-c10a-489e-8496-606b5c29cc9f",
+    "effective_cve": "CVE-2019-8457",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg1-0.5"
+    },
+    "timestamp": "2022-12-15T15:11:42+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-8457"
+  },
+  {
+    "ID": "b05974b6-f483-4904-aa6c-ba1b08d2b91d",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:57:57+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "b3ea9ef1-495c-4265-9bb4-10a79755aa34",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:04+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "b7285a5e-3c7c-410d-8ea3-a1e3008f79d4",
+    "effective_cve": "CVE-2020-10029",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10029"
+  },
+  {
+    "ID": "b8b11586-ac1e-44be-b00c-d607cfbe36e8",
+    "effective_cve": "CVE-2020-27618",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27618"
+  },
+  {
+    "ID": "b8e40252-e5eb-43a7-a397-2567277b2154",
+    "effective_cve": "CVE-2021-3516",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:37+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3516"
+  },
+  {
+    "ID": "b99f719a-6aeb-4d07-a7ef-8f0fbb21e58f",
+    "effective_cve": "CVE-2019-18276",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bash",
+      "version": "5.0-4"
+    },
+    "timestamp": "2022-12-15T14:24:25+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18276"
+  },
+  {
+    "ID": "bab1d883-6ca4-47a0-9617-382525e701b8",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:58+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "bcf6c29a-1deb-4d6d-92cb-fe0b9c05d11e",
+    "effective_cve": "CVE-2021-3712",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:17:11+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3712"
+  },
+  {
+    "ID": "be7a0461-128b-460b-b400-d63170f3b06d",
+    "effective_cve": "CVE-2011-3374",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libapt-pkg5.0",
+      "version": "1.8.2.3"
+    },
+    "timestamp": "2022-12-15T14:26:43+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3374"
+  },
+  {
+    "ID": "bf626e30-e6b7-4e23-aec4-ae2c146956a7",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:53:10+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "bf8c564f-1ea1-4e99-99e7-1c319dfbc1f8",
+    "effective_cve": "CVE-2019-19126",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:14+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19126"
+  },
+  {
+    "ID": "bfbc741c-d627-411e-a4b2-7539fbf2f928",
+    "effective_cve": "CVE-2020-15719",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:19:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-15719"
+  },
+  {
+    "ID": "c061ed01-f1a0-4e99-962c-2a5580764765",
+    "effective_cve": "CVE-2018-6829",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.4-5"
+    },
+    "timestamp": "2022-12-15T15:11:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-6829"
+  },
+  {
+    "ID": "c0c6e947-7f4c-4956-bd9d-ef9291db7f9f",
+    "effective_cve": "CVE-2020-1752",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:56+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1752"
+  },
+  {
+    "ID": "c0f18438-e50a-44c2-a8b8-35df67c75d74",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:51+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "c363986d-6e0e-4944-870f-f125e3966b3a",
+    "effective_cve": "CVE-2021-3580",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnettle6",
+      "version": "3.4.1-1"
+    },
+    "timestamp": "2022-12-15T15:15:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3580"
+  },
+  {
+    "ID": "c3a12a70-e409-4cd4-b5bd-111f83241326",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.28.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:54:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "c650ff02-890f-497d-9bd3-572449b743dc",
+    "effective_cve": "CVE-2021-20193",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "1.30+dfsg-6"
+    },
+    "timestamp": "2022-12-15T14:28:39+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20193"
+  },
+  {
+    "ID": "c6cd237a-a685-4bbd-b52d-66acd327eab3",
+    "effective_cve": "CVE-2019-20838",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12"
+    },
+    "timestamp": "2022-12-15T15:15:42+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-20838"
+  },
+  {
+    "ID": "c747849b-0e4c-4d39-a41e-539052505835",
+    "effective_cve": "CVE-2013-4392",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:39+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4392"
+  },
+  {
+    "ID": "c848ecee-b1b4-4dbc-91dc-8cdf134b36ce",
+    "effective_cve": "CVE-2019-25013",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-25013"
+  },
+  {
+    "ID": "c88eb887-3a48-4479-8096-fe14d73f4a24",
+    "effective_cve": "CVE-2016-9318",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:41+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-9318"
+  },
+  {
+    "ID": "c89d6178-9587-4d81-84f4-c5c386e32382",
+    "effective_cve": "CVE-2021-27645",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:17+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27645"
+  },
+  {
+    "ID": "c8b51cdf-ee7c-4b51-885b-bbb7eca1fa70",
+    "effective_cve": "CVE-2011-3374",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "apt",
+      "version": "1.8.2.3"
+    },
+    "timestamp": "2022-12-15T14:24:14+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3374"
+  },
+  {
+    "ID": "c9392985-a83b-414d-99bb-159b133c5a02",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "c970f6fb-04f4-42d3-a44d-2f4ff8151f21",
+    "effective_cve": "CVE-2019-19645",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19645"
+  },
+  {
+    "ID": "cad46ce4-6c57-420c-a0f9-cafe8971a0f3",
+    "effective_cve": "CVE-2021-33574",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:27:17+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "cdb273e9-aaf2-4d6a-88ed-ec6dae26741f",
+    "effective_cve": "CVE-2020-21913",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libicu63",
+      "version": "63.1-6+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-21913"
+  },
+  {
+    "ID": "cf129885-8db5-4518-bba0-96c4c65373c0",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:15:00+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "d3b31100-adac-4f30-98c1-afdc26a96026",
+    "effective_cve": "CVE-2021-35942",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:02+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35942"
+  },
+  {
+    "ID": "d949cab6-ad1e-441c-82f3-55e7d73d813c",
+    "effective_cve": "CVE-2020-1751",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1751"
+  },
+  {
+    "ID": "da83f664-8682-4c6d-a72f-2cb1209e41b5",
+    "effective_cve": "CVE-2020-15719",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libldap-common",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:20:49+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-15719"
+  },
+  {
+    "ID": "dac0e320-70c7-493b-b70e-a6795bbe37c6",
+    "effective_cve": "CVE-2020-27618",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27618"
+  },
+  {
+    "ID": "dd315bb5-b072-4b14-a82d-a71d68d617a2",
+    "effective_cve": "CVE-2019-3843",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3843"
+  },
+  {
+    "ID": "dd53c7ef-8fba-4de0-bf64-1e0ba4a45c2b",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:15:00+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "dd5e967c-59bc-44fc-9161-7eb7a5955cca",
+    "effective_cve": "CVE-2017-17740",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libldap-common",
+      "version": "2.4.47+dfsg-3+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:20:48+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-17740"
+  },
+  {
+    "ID": "e4da2018-5df0-41a8-b8ac-4d62a18019c0",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpg-wks-server",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "e58ffd95-a8e5-427d-b8aa-3f4179bc1cec",
+    "effective_cve": "CVE-2019-25013",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:06:52+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-25013"
+  },
+  {
+    "ID": "e90cae89-4bab-42e3-ab85-0d5df2394b4e",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:12:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "e94c043c-b9ba-443a-80ce-da895fc627ec",
+    "effective_cve": "CVE-2021-3541",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:29+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3541"
+  },
+  {
+    "ID": "e9c18ec3-df8c-4c02-b0d3-2ee0b1961afc",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:45+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "ea5748c6-0f91-4026-89fb-fc73bc947bfd",
+    "effective_cve": "CVE-2021-20231",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.7-4+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:12:15+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20231"
+  },
+  {
+    "ID": "eadbdc11-e010-46c1-bf73-9a3bdc9bfa00",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libtinfo6",
+      "version": "6.1+20181013-2+deb10u2"
+    },
+    "timestamp": "2022-12-15T15:00:50+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "eb37e671-6c63-4a04-870e-f8c0b9a3f5f7",
+    "effective_cve": "CVE-2020-24977",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:38+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-24977"
+  },
+  {
+    "ID": "ebf62347-fd27-4459-91f9-3917c79eace0",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-l10n",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:51+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "ebfbc25d-18cc-4af0-bcd1-b62eeae2ef55",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:26+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "ef990875-1150-4a7d-a785-197354c9747f",
+    "effective_cve": "CVE-2020-13776",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:16+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13776"
+  },
+  {
+    "ID": "efd58d01-8c58-4fc8-ad41-f69ffac544ec",
+    "effective_cve": "CVE-2019-19882",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1.1"
+    },
+    "timestamp": "2022-12-15T15:19:31+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19882"
+  },
+  {
+    "ID": "f0576fc7-e2f0-44d2-8b50-fe0cc4ef531c",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "f070732f-d81f-41a3-9f7b-4e13b48946c1",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libsmartcols1",
+      "version": "2.33.1-0.1"
+    },
+    "timestamp": "2022-12-15T15:16:34+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "f31c8c18-28a3-4e7b-918d-7edbb27ae21d",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T15:08:23+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "f3f8d2a4-6b4e-430e-9f46-8949f7c1a005",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpgv",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  },
+  {
+    "ID": "f46c6a19-2170-4f0b-b366-850fba29373b",
+    "effective_cve": "CVE-2021-20305",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libhogweed4",
+      "version": "3.4.1-1"
+    },
+    "timestamp": "2022-12-15T15:14:11+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20305"
+  },
+  {
+    "ID": "f4856e3e-63e1-4aa8-a533-4004141605db",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:55+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "f6418bc2-4cdc-48eb-9dae-1ad2e9a9735f",
+    "effective_cve": "CVE-2021-3711",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1d-0+deb10u6"
+    },
+    "timestamp": "2022-12-15T15:17:11+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3711"
+  },
+  {
+    "ID": "f748405c-3bff-4fd5-86d4-16958e957128",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:01:28+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "f7f206f0-da96-4d13-b9d7-485682128a0e",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "locales",
+      "version": "2.28-10"
+    },
+    "timestamp": "2022-12-15T14:58:40+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "f9285570-3ad8-47aa-83f4-7fe289bff2c4",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:12:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "fad4f9ee-7cd2-4648-ab04-34a751aaeca7",
+    "effective_cve": "CVE-2021-45346",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.27.2-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:16:53+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45346"
+  },
+  {
+    "ID": "fb793ae2-dbae-47f5-ac8f-31881aad8186",
+    "effective_cve": "CVE-2018-12886",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc1",
+      "version": "1:8.3.0-6"
+    },
+    "timestamp": "2022-12-15T15:11:47+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12886"
+  },
+  {
+    "ID": "fc3f1ed7-11ce-4b81-969d-aa03580f65c8",
+    "effective_cve": "CVE-2021-3518",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.4+dfsg1-7+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:59:34+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3518"
+  },
+  {
+    "ID": "fde46f20-7196-46aa-8c8d-4140c63667b8",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-3+deb10u1"
+    },
+    "timestamp": "2022-12-15T15:14:59+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "fdefca60-17e6-4987-b90e-8a12c8536af6",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.13-3"
+    },
+    "timestamp": "2022-12-15T15:00:54+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "fdf9b9b1-893b-40b4-ba55-33a3fdac1d91",
+    "effective_cve": "CVE-2019-3844",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libudev1",
+      "version": "241-7~deb10u7"
+    },
+    "timestamp": "2022-12-15T15:00:30+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3844"
+  },
+  {
+    "ID": "ff04c360-49fe-40a0-b8f8-31acf0f1c3cd",
+    "effective_cve": "CVE-2019-14855",
+    "image": {
+      "exact": "docker.io/postgres@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gpgsm",
+      "version": "2.2.12-1+deb10u1"
+    },
+    "timestamp": "2022-12-15T14:26:32+00:00",
+    "tool": "grype@v0.54.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14855"
+  }
+]

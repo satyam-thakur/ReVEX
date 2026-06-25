@@ -1,0 +1,337 @@
+[
+  {
+    "ID": "0c0a6186-165f-42f2-add7-b70af696f8d6",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "FP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2025-05-29T21:33:34.567962+00:00",
+    "tool": "grype[reference]@59c66b7",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "0e78c062-a7a2-47d4-9e03-20759f484485",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "FP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2025-05-29T21:33:37.319315+00:00",
+    "tool": "grype[reference]@59c66b7",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "1171ee3a-d76c-4e95-84ec-a607694d0ad3",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "posix-libc-utils",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:06:07.959011",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-xp56-6525-9chf"
+  },
+  {
+    "ID": "15b97046-46a6-4a3e-a59b-ac226432549b",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "FP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2025-05-29T21:33:35.596340+00:00",
+    "tool": "grype[reference]@59c66b7",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "36cc4d11-2822-4844-9ac3-f65c94479cf1",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ld-linux",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:06:06.056503",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-xp56-6525-9chf"
+  },
+  {
+    "ID": "3dcf34e4-08e6-4931-90f8-4cedfd638389",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl3",
+      "version": "3.5.0-r0"
+    },
+    "timestamp": "2025-08-04T11:06:04.236965+00:00",
+    "tool": "grype[custom-db]@v0.97.1-0-ge5e784d5",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-v8qh-5c5w-48pp"
+  },
+  {
+    "ID": "3f473298-6394-4cf9-88b4-68f756812fe1",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto3",
+      "version": "3.5.0-r0"
+    },
+    "timestamp": "2025-08-04T11:05:53.096314+00:00",
+    "tool": "grype[custom-db]@v0.97.1-0-ge5e784d5",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-v8qh-5c5w-48pp"
+  },
+  {
+    "ID": "4b837ebd-12b9-4014-801a-17269b87f64d",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-locale-posix",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:04:07.432418",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-5pf6-63v3-88hw"
+  },
+  {
+    "ID": "4fc3bf46-545b-4a68-986a-a74b0dbbaea0",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-locale-posix",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:05:45.599902",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-qg56-4cfq-w9w3"
+  },
+  {
+    "ID": "657e46d3-5cf7-48ec-b4fe-cb96e0acb0b4",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:05:42.646427",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-qg56-4cfq-w9w3"
+  },
+  {
+    "ID": "6940e8c1-bd40-4610-96d4-56d83ea2232f",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:05:56.225397",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-xp56-6525-9chf"
+  },
+  {
+    "ID": "6cb62969-6437-41bb-b82c-787bd195c745",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "haproxy-3.1-oci-entrypoint",
+      "version": "3.1.7-r0"
+    },
+    "timestamp": "2026-01-26T17:05:10.241460",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-fc36-5gc3-jmhx"
+  },
+  {
+    "ID": "71bb7450-39e0-4003-9355-c9c46d21fb0b",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ld-linux",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:04:09.318563",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-5pf6-63v3-88hw"
+  },
+  {
+    "ID": "8068d8e8-2d6f-4344-bdef-29d641f27884",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "posix-libc-utils",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:04:11.096696",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-5pf6-63v3-88hw"
+  },
+  {
+    "ID": "80a3d4a4-026d-401e-9538-99b199f1293a",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "FP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2025-05-29T21:33:36.462984+00:00",
+    "tool": "grype[reference]@59c66b7",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "9e9382ef-ea30-48d0-8f91-1c5e4ecc7e16",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.37.0-r5"
+    },
+    "timestamp": "2025-09-24T14:57:53.190211+00:00",
+    "tool": "grype[custom-db]@v0.100.0-8-gf22c026e",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-rrv5-483w-xmr9"
+  },
+  {
+    "ID": "a171892a-c1b2-4b6c-9d2c-30c6883b0961",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "haproxy-3.1",
+      "version": "3.1.7-r0"
+    },
+    "timestamp": "2026-01-26T17:04:51.568914",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-fc36-5gc3-jmhx"
+  },
+  {
+    "ID": "b6acdce8-2f8c-413e-ba1b-81c5afa1c1e3",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:04:04.135147",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-5pf6-63v3-88hw"
+  },
+  {
+    "ID": "d5a76dcd-ddde-4170-bf17-16c077a1c507",
+    "effective_cve": "CVE-2024-58251",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.37.0-r5"
+    },
+    "timestamp": "2025-05-30T00:24:01.521955+00:00",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2024-58251"
+  },
+  {
+    "ID": "dc451a2f-3cbd-43f5-86f2-7bdb782bf73d",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-locale-posix",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:06:04.725448",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-xp56-6525-9chf"
+  },
+  {
+    "ID": "e5e8b060-0698-460e-acfc-2c637819c1ac",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ld-linux",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:05:46.951405",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-qg56-4cfq-w9w3"
+  },
+  {
+    "ID": "ee282786-fa52-4c52-a47c-52e2f02147f8",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "posix-libc-utils",
+      "version": "2.41-r0"
+    },
+    "timestamp": "2026-01-26T17:05:47.934479",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-qg56-4cfq-w9w3"
+  },
+  {
+    "ID": "fe054559-b4a9-4b45-b5d0-259b37df40ea",
+    "image": {
+      "exact": "docker.io/dimastopelmini/forgrype@sha256:653c8980c63a9ac403a3b9f56a08f43f929432ece69894423c165b4d61d3dcdb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dataplaneapi",
+      "version": "3.1.5-r2"
+    },
+    "timestamp": "2025-08-04T11:03:35.663710+00:00",
+    "tool": "grype[custom-db]@v0.97.1-0-ge5e784d5",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-wprm-fgrx-xj42"
+  }
+]

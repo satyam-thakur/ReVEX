@@ -1,0 +1,3152 @@
+[
+  {
+    "ID": "0337bfeb-7759-4a38-b8d6-dd105df3f155",
+    "effective_cve": "CVE-2019-19244",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:42:28-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-19244"
+  },
+  {
+    "ID": "036ce6e6-1a1d-4d7f-a969-70fcad033883",
+    "effective_cve": "CVE-2020-35525",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:42:32-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35525"
+  },
+  {
+    "ID": "045df4e7-5d40-4f23-96af-69c9bc007510",
+    "effective_cve": "CVE-2022-3515",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libksba",
+      "version": "1.3.5-7.el8"
+    },
+    "timestamp": "2022-11-01T22:34:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3515"
+  },
+  {
+    "ID": "0478a627-f306-48aa-b801-76f3eb1261c6",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-09-15T19:42:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "055d2a36-ed9a-4e3c-aef9-02d448e472fe",
+    "effective_cve": "CVE-2022-2124",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:36+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2124"
+  },
+  {
+    "ID": "05776ea0-3ff3-48d4-b7d1-2b108ba5d006",
+    "effective_cve": "CVE-2020-19185",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:41.532846",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19185"
+  },
+  {
+    "ID": "07c8d6c3-39d8-4251-83d7-b02fa0c7a376",
+    "effective_cve": "CVE-2022-34903",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.2.20-2.el8"
+    },
+    "timestamp": "2022-11-01T22:33:31+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-34903"
+  },
+  {
+    "ID": "0a350905-71ed-447e-bfad-a281869e8662",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-09-15T19:41:55-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "0a5f3f15-1b9c-4322-9cc5-ccb03c59b431",
+    "effective_cve": "CVE-2022-1720",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:34+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1720"
+  },
+  {
+    "ID": "0e53d5a9-d66d-4ae1-9ea8-8757aece4acd",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-09-15T19:41:56-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "100f2e0a-33c2-4d7a-b075-b70629b129c5",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "12a81560-4849-478e-8bb4-3745c0c02716",
+    "effective_cve": "CVE-2022-2097",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-6.el8_5"
+    },
+    "timestamp": "2022-11-01T22:35:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2097"
+  },
+  {
+    "ID": "12bd738d-ff52-46fb-b3bc-115059d4028f",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-09-15T19:42:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "1644188f-f4d8-4e9a-b395-d2621dd9d33e",
+    "effective_cve": "CVE-2022-2946",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:50+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2946"
+  },
+  {
+    "ID": "165b108f-5e98-439e-aeeb-b0ad613a0e4e",
+    "effective_cve": "CVE-2022-32206",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:33:41+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32206"
+  },
+  {
+    "ID": "1888d3e8-2650-4496-aeb6-f1974289009a",
+    "effective_cve": "CVE-2018-19211",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-09-15T19:42:18-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-19211"
+  },
+  {
+    "ID": "18f03caa-a0a1-46ee-b223-08e338eedcb9",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "196233f7-3dab-4e49-8f78-b2851afc3c26",
+    "effective_cve": "CVE-2022-1304",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcom_err",
+      "version": "1.45.6-4.el8"
+    },
+    "timestamp": "2022-11-01T22:33:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1304"
+  },
+  {
+    "ID": "1aa5c361-1775-4d1c-9b17-6232731e9486",
+    "effective_cve": "CVE-2022-35252",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:33:42+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "1aef8ce3-e45b-40d5-ae6f-9b8149be90e3",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:08+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "1bc4114e-a259-41b4-850e-a708f635d10f",
+    "effective_cve": "CVE-2018-19217",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2026-01-23T16:44:13.212486+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2018-19217"
+  },
+  {
+    "ID": "1bcad618-b7b2-459a-9982-a5b4a85498d1",
+    "effective_cve": "CVE-2018-1000880",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-3.el8_5"
+    },
+    "timestamp": "2022-09-15T19:42:13-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000880"
+  },
+  {
+    "ID": "1c7a77d5-18ea-4f76-a498-a08427974e06",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:20-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "1cd9d662-0e76-47f8-9a28-07392009d01c",
+    "effective_cve": "CVE-2020-26137",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM python3-urllib3@1.24.2-5.el8, which has a distro-specific pathc for this vulnerability.",
+    "package": {
+      "name": "urllib3",
+      "version": "1.24.2"
+    },
+    "timestamp": "2023-08-16T14:22:51.466596",
+    "tool": "grype@v0.65.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-26137"
+  },
+  {
+    "ID": "20a14d54-dcd4-4ecd-be44-7e7fad493950",
+    "effective_cve": "CVE-2020-19186",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:47.585148",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19186"
+  },
+  {
+    "ID": "2160a07e-9119-4ae9-9baa-031a175067e6",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:11+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "24dc8689-604f-4c0b-8ec3-b40e90bfe21e",
+    "effective_cve": "CVE-2022-37434",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.11-18.el8_5"
+    },
+    "timestamp": "2022-11-01T22:36:46+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-37434"
+  },
+  {
+    "ID": "251709ca-fd4a-41da-804a-d70a28b2c18e",
+    "effective_cve": "CVE-2019-14250",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:16-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-14250"
+  },
+  {
+    "ID": "254936e3-3447-47a6-ace8-a15e9c5cff62",
+    "effective_cve": "CVE-2022-3715",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bash",
+      "version": "4.4.20-3.el8"
+    },
+    "timestamp": "2022-11-01T22:32:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3715"
+  },
+  {
+    "ID": "25669687-3c38-47da-a21e-407ba8fd5219",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:04+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "25adb56f-ca7b-4494-9a43-7caa0c6a396e",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-11-01T22:35:09+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "267aebff-30d3-4f10-a8be-b3ffbea39f13",
+    "effective_cve": "CVE-2020-19186",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:41.145850",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19186"
+  },
+  {
+    "ID": "2a5ec6df-6f5b-4e7c-9fc7-0d2e96db7ca0",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:54+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "2b63e7b0-b514-4731-a874-13f736bc6f05",
+    "effective_cve": "CVE-2021-33503",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "This only affects certain version of urllib3\nhttps://github.com/github/advisory-database/pull/692",
+    "package": {
+      "name": "urllib3",
+      "version": "1.24.2"
+    },
+    "timestamp": "2023-08-07T13:19:37.136525",
+    "tool": "grype@v0.63.1+profile=cpe",
+    "user": "bress",
+    "vulnerability_id": "CVE-2021-33503"
+  },
+  {
+    "ID": "2bc65dc4-1b23-46b4-bddb-f8d92093e9c3",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:08+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "2c835306-b562-46a1-a382-82622f38dbf1",
+    "effective_cve": "CVE-2022-2207",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2207"
+  },
+  {
+    "ID": "2e1fd0b2-a487-4a74-a2a7-e64b5de8dbdc",
+    "effective_cve": "CVE-2020-20703",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2023-08-24T14:58:04.516841",
+    "tool": "grype@v0.65.2",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-20703"
+  },
+  {
+    "ID": "30c2b71e-9bb0-4504-ab31-c9375e437daa",
+    "effective_cve": "CVE-2022-2284",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:57+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2284"
+  },
+  {
+    "ID": "30cb7ba4-03d6-46f9-9028-c45474602aa0",
+    "effective_cve": "CVE-2018-20786",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-09-15T19:43:13-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20786"
+  },
+  {
+    "ID": "31b9cbe0-2fb4-4752-992c-2840bb87ee38",
+    "effective_cve": "CVE-2019-12904",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt",
+      "version": "1.8.5-7.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:15-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12904"
+  },
+  {
+    "ID": "33407374-6470-4589-a1a6-b49350200d21",
+    "effective_cve": "CVE-2018-20225",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-pip-wheel",
+      "version": "9.0.3-22.el8"
+    },
+    "timestamp": "2022-09-15T19:42:28-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20225"
+  },
+  {
+    "ID": "35d4e9ee-3469-4b92-b745-9158fb3a46d6",
+    "effective_cve": "CVE-2017-14501",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-3.el8_5"
+    },
+    "timestamp": "2022-09-15T19:42:12-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-14501"
+  },
+  {
+    "ID": "384cad6a-e2f9-40cf-bc31-83686372965c",
+    "effective_cve": "CVE-2021-3236",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2023-08-24T14:58:10.510181",
+    "tool": "grype@v0.65.2",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3236"
+  },
+  {
+    "ID": "386b2c89-1524-48a7-b70a-568e65911dee",
+    "effective_cve": "CVE-2022-2819",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2819"
+  },
+  {
+    "ID": "3870937a-fcfb-4a28-a18f-7ba41361f9c3",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:26-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "39232026-19d1-4a17-93d2-21b528cf8dbc",
+    "effective_cve": "CVE-2022-1619",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1619"
+  },
+  {
+    "ID": "398329b2-fbc0-4f7f-a23b-ea51f1ed9b70",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "399325b7-44df-4b68-9020-eccb664826c4",
+    "effective_cve": "CVE-2021-3826",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3826"
+  },
+  {
+    "ID": "3ab0b0d6-99a5-4a6a-99f9-a18577c51fbe",
+    "effective_cve": "CVE-2016-3709",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-13.el8_6.1"
+    },
+    "timestamp": "2022-09-15T19:42:17-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-3709"
+  },
+  {
+    "ID": "3b12946b-4692-438e-a98e-5c868d0c1b02",
+    "effective_cve": "CVE-2022-2125",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:36+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2125"
+  },
+  {
+    "ID": "3c7754f0-48c1-43e8-a7e5-9a1d31b8f7b1",
+    "effective_cve": "CVE-2018-20657",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:15-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20657"
+  },
+  {
+    "ID": "3d1a44de-9ddb-4e29-8e7e-ccc9fffad4fe",
+    "effective_cve": "CVE-2019-9923",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-09-15T19:42:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9923"
+  },
+  {
+    "ID": "3e9cd2fb-865d-460d-bea3-bed5b7367c31",
+    "effective_cve": "CVE-2022-3235",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:48+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3235"
+  },
+  {
+    "ID": "40c2be38-58a0-42e8-a01e-e25db6d82549",
+    "effective_cve": "CVE-2005-2541",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-09-15T19:42:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2005-2541"
+  },
+  {
+    "ID": "42c4d4c3-d3f5-43c9-899e-5759c5b2297b",
+    "effective_cve": "CVE-2022-2126",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2126"
+  },
+  {
+    "ID": "44af6903-210a-4c42-b898-bfeea4a370dd",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:25-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "45885c57-22a7-4101-93a1-88fbe80c9ed0",
+    "effective_cve": "CVE-2022-40303",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-13.el8_6.1"
+    },
+    "timestamp": "2022-11-01T22:34:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40303"
+  },
+  {
+    "ID": "46ec741d-af48-4fa0-b5d1-47ca8d34bb63",
+    "effective_cve": "CVE-2019-9937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:42:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9937"
+  },
+  {
+    "ID": "47f55e0b-440b-4869-9f2c-97a1f4dbc92f",
+    "effective_cve": "CVE-2022-2182",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2182"
+  },
+  {
+    "ID": "48584d5e-c5b7-41a2-b26e-d11862aabdbf",
+    "effective_cve": "CVE-2018-19211",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-09-15T19:42:19-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-19211"
+  },
+  {
+    "ID": "496e6727-a81c-44c5-8c07-0c955d275f5b",
+    "effective_cve": "CVE-2020-19190",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:45.965767",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19190"
+  },
+  {
+    "ID": "498d564d-6fa6-48a8-b28c-41f4994f07ba",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-09-15T19:41:56-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "4b23e2b6-438e-4748-b9b8-942b603f6b52",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "4c307ad9-7cc9-4532-bf33-0e9ea8b8d8da",
+    "effective_cve": "CVE-2022-3219",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.2.20-2.el8"
+    },
+    "timestamp": "2022-11-01T22:33:30+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3219"
+  },
+  {
+    "ID": "4f20b4b7-56c0-41ba-8fdf-35bfe3dcba85",
+    "effective_cve": "CVE-2019-8905",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "file-libs",
+      "version": "5.33-20.el8"
+    },
+    "timestamp": "2022-09-15T19:42:02-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-8905"
+  },
+  {
+    "ID": "4fcde128-02ad-46fa-aff9-9107c52286e1",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:02+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "50f8aa57-3e9e-495a-9970-4d056500de0e",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-libs",
+      "version": "0.186-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:09.869590+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "52834a53-fd08-4462-a0a2-fb997985a820",
+    "effective_cve": "CVE-2020-35342",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-29T16:19:33.870725",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-35342"
+  },
+  {
+    "ID": "5302c2cf-84b4-4718-883a-4712b0eb79e2",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.28-189.5.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:08-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "554987d6-d904-4925-aa07-f21554d52fed",
+    "effective_cve": "CVE-2017-14166",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-3.el8_5"
+    },
+    "timestamp": "2022-09-15T19:42:10-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-14166"
+  },
+  {
+    "ID": "569e491b-8163-4222-9950-01711e95b802",
+    "effective_cve": "CVE-2020-19189",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:46.224827",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19189"
+  },
+  {
+    "ID": "56d2d808-70a1-4302-8a1e-689c0b20b366",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:20-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "57966907-5ddc-415d-8fe8-a8ebe896cf4e",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "57d56b71-dcff-4002-ac93-c9bd1b6a64d9",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-09-15T19:42:34-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "57e791d1-cdef-4546-bb0b-882a1d815eba",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:04+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "5855d784-d783-4ed3-97ec-d8261d6c4a6e",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-09-15T19:41:55-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "596d6d53-a3a3-4d1c-9e2c-6ea3ff825fb9",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2023-07-27T12:57:26.060809",
+    "tool": "grype@v0.64.2",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "597ba4af-d5c2-495d-ba90-303e6141f55b",
+    "effective_cve": "CVE-2020-19189",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:39.778954",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19189"
+  },
+  {
+    "ID": "5c2518ce-b811-4537-bc45-28c4b4eefcde",
+    "effective_cve": "CVE-2022-0351",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0351"
+  },
+  {
+    "ID": "5cc42a77-1790-4eb8-94f1-44ce82ecd818",
+    "effective_cve": "CVE-2022-2344",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:54+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2344"
+  },
+  {
+    "ID": "5d341473-59b7-44c1-ab67-4a48a4f0261c",
+    "effective_cve": "CVE-2020-17049",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.18.2-14.el8"
+    },
+    "timestamp": "2022-09-15T19:42:09-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-17049"
+  },
+  {
+    "ID": "5ebdeebb-8c81-4aa7-af22-df7ce3b66ccf",
+    "effective_cve": "CVE-2018-16428",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.4-158.el8"
+    },
+    "timestamp": "2022-09-15T19:42:07-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-16428"
+  },
+  {
+    "ID": "64d674f6-454e-4df0-bca4-56a7247a4d2e",
+    "effective_cve": "CVE-2022-2286",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2286"
+  },
+  {
+    "ID": "6b12730c-9f92-4169-a6b4-e2b998f6aeb2",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "6c1621a8-3080-429e-afdc-00286e9b78bb",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should be reported. Seee grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:35.465655",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "6cf16d5c-d079-4577-b75d-8b9a4db8df9e",
+    "effective_cve": "CVE-2022-1785",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1785"
+  },
+  {
+    "ID": "6e7b5b70-3020-407f-ab76-72ca0643d8aa",
+    "effective_cve": "CVE-2020-19187",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:43.956954",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19187"
+  },
+  {
+    "ID": "6e8304b4-d33b-47cc-b72e-6810313a6fba",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "6ff14dfa-6653-40df-b820-31d38562be35",
+    "effective_cve": "CVE-2022-32206",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:32:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32206"
+  },
+  {
+    "ID": "73faa6fc-99ee-4a8f-961c-75514bd54eed",
+    "effective_cve": "CVE-2021-42694",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-11-01T22:33:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-42694"
+  },
+  {
+    "ID": "756fede6-d6a1-49c8-91cb-bcbfbdd086f6",
+    "effective_cve": "CVE-2020-35527",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:42:32-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35527"
+  },
+  {
+    "ID": "77eebb72-b4af-46db-8598-69f3fe9c0ac8",
+    "effective_cve": "CVE-2020-24736",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2023-07-27T12:58:10.418719",
+    "tool": "grype@v0.64.2",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-24736"
+  },
+  {
+    "ID": "78d40122-7eb2-4664-b14d-2d45e8d6008e",
+    "effective_cve": "CVE-2021-3927",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:31+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3927"
+  },
+  {
+    "ID": "78e65280-b85b-4f9f-8a9a-5e24c7c09749",
+    "effective_cve": "CVE-2021-32256",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-24T14:57:51.357917",
+    "tool": "grype@v0.65.2",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-32256"
+  },
+  {
+    "ID": "79e73814-05bc-45a6-8e53-5a50dc72e332",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "7b66785e-4446-44f9-8b27-b329aed8a745",
+    "effective_cve": "CVE-2022-40674",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-8.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:33:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40674"
+  },
+  {
+    "ID": "7cbcf487-d3d2-4919-a21e-1db95b5f9172",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "7cf11d97-5e0b-44b4-b2bd-cc99756e8b67",
+    "effective_cve": "CVE-2022-2923",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:51+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2923"
+  },
+  {
+    "ID": "7cf985d8-a784-4a5c-8315-3c5a08cdcbdb",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-11-01T22:34:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "7e89a17a-70c3-45cd-a25c-4825b9314781",
+    "effective_cve": "CVE-2021-24032",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libzstd",
+      "version": "1.4.4-1.el8"
+    },
+    "timestamp": "2022-11-01T22:34:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-24032"
+  },
+  {
+    "ID": "7ec94c33-82a7-4736-ba1f-9e4446d01548",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should be reported. Seee grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:36.486092",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "80e670e9-2071-4f92-af8c-a2c5b55eb4a0",
+    "effective_cve": "CVE-2022-2206",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2206"
+  },
+  {
+    "ID": "843ba27a-728e-4070-a718-8bca73218ce3",
+    "effective_cve": "CVE-2022-32208",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:32:43+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32208"
+  },
+  {
+    "ID": "849e0a45-3015-4446-93c4-e02a8e70c836",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "85988a38-2b58-4ffa-8461-83c485de80fc",
+    "effective_cve": "CVE-2022-40304",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-13.el8_6.1"
+    },
+    "timestamp": "2022-11-01T22:34:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40304"
+  },
+  {
+    "ID": "863e983d-e85f-4397-9d8f-b30e999a9bac",
+    "effective_cve": "CVE-2019-17543",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lz4-libs",
+      "version": "1.8.3-3.el8_4"
+    },
+    "timestamp": "2022-09-15T19:42:17-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-17543"
+  },
+  {
+    "ID": "8af8bfa9-b84e-41c3-a209-fe066578f87b",
+    "effective_cve": "CVE-2019-9674",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:20-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9674"
+  },
+  {
+    "ID": "8b0ffac2-6d6d-4b6d-ba18-5665acd195f7",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:07+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "8c53b0a8-13c1-401c-8d81-abe21d08f251",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "8febcb1d-0103-4cce-af4a-f33015e663b2",
+    "effective_cve": "CVE-2020-19188",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:40.505515",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19188"
+  },
+  {
+    "ID": "9102a4ed-8621-44e9-b338-a4b3c3354b22",
+    "effective_cve": "CVE-2019-9674",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-09-15T19:42:26-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9674"
+  },
+  {
+    "ID": "91072d31-1a8c-4d62-b0a8-c677b87bfc06",
+    "effective_cve": "CVE-2020-21674",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL re labeled as not affected on 2025-11-21",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-3.el8_5"
+    },
+    "timestamp": "2025-11-21T15:57:57.732543+00:00",
+    "tool": "grype[reference]@v0.104.0-0-gb1706ca1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-21674"
+  },
+  {
+    "ID": "92939d8c-a0fc-467b-80ad-5e9e7a62acb9",
+    "effective_cve": "CVE-2022-1927",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1927"
+  },
+  {
+    "ID": "96c18d48-c99e-4b3b-b4e2-3013a599c75d",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:07+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "97146599-1084-4586-abc1-1102ab4bf121",
+    "effective_cve": "CVE-2022-2849",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:51+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2849"
+  },
+  {
+    "ID": "974230f7-7727-4c3d-9f4e-460b028b281d",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "986ec318-dfaa-419e-a526-406b7588232f",
+    "effective_cve": "CVE-2022-0391",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-11-01T22:35:11+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0391"
+  },
+  {
+    "ID": "9a991fd2-c7ab-41bb-bf42-a7a6da6da98a",
+    "effective_cve": "CVE-2022-23990",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-8.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:33:16+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23990"
+  },
+  {
+    "ID": "9adb8f26-6e05-4df7-b48f-0afe8f6b7345",
+    "effective_cve": "CVE-2022-3256",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3256"
+  },
+  {
+    "ID": "9b28c223-85d7-4832-aa74-30fec97289ec",
+    "effective_cve": "CVE-2022-3296",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3296"
+  },
+  {
+    "ID": "9b6c05e0-0087-4533-94c7-ce31efb49575",
+    "effective_cve": "CVE-2022-2345",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:53+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2345"
+  },
+  {
+    "ID": "9c4a6f28-ac5a-49bf-ae35-f69131784058",
+    "effective_cve": "CVE-2018-1000654",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.13-3.el8"
+    },
+    "timestamp": "2022-09-15T19:42:16-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000654"
+  },
+  {
+    "ID": "9e550cf8-31c7-4d16-b564-bb34f2d2e99d",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this vulnerability. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:33.320889",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "a0243ff2-3d2c-43e8-a323-0d0303e16719",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.13-3.el8"
+    },
+    "timestamp": "2023-07-27T12:56:56.053143",
+    "tool": "grype@v0.64.2",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "a03e57df-13ad-41e7-82ea-2038378b68fa",
+    "effective_cve": "CVE-2022-2343",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:54+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2343"
+  },
+  {
+    "ID": "a1f74768-9c7a-4aed-945b-c0629d3271c5",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-09-15T19:41:56-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "a962c8aa-4a18-4df6-aa7e-da9e36a616f0",
+    "effective_cve": "CVE-2021-20193",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-11-01T22:36:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20193"
+  },
+  {
+    "ID": "a99e84ae-04e6-4345-9d22-42eb14ca6994",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "a9e03239-c791-415a-a8e6-1351b442155b",
+    "effective_cve": "CVE-2022-2210",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:42+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2210"
+  },
+  {
+    "ID": "acb0d97e-5d6e-47f2-a9f3-4a1019e6dbae",
+    "effective_cve": "CVE-2021-4209",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.6.16-4.el8"
+    },
+    "timestamp": "2022-11-01T22:33:31+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4209"
+  },
+  {
+    "ID": "ad34a31e-1834-4e3c-9570-0d60ece4e215",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:21+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "ae875d93-6925-412f-a54d-a0c6b6b5ee1c",
+    "effective_cve": "CVE-2018-20657",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:14-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20657"
+  },
+  {
+    "ID": "b127801a-619f-491a-8215-e78aa8751e75",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.28-189.5.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:08-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "b1650ef9-f4f8-4721-9ab9-489af31aeb3c",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:36:04+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "b20ce0ed-37ac-458d-b53e-6a26b9eed2c4",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-libelf",
+      "version": "0.186-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:11.066646+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "b23d1f68-fdf0-4d8c-924b-f6e7f9de25b8",
+    "effective_cve": "CVE-2020-19188",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:46.782393",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19188"
+  },
+  {
+    "ID": "b243014c-a790-42e2-82db-fcd4cdd79907",
+    "effective_cve": "CVE-2021-20266",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this vulnerability. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:31.682086",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-20266"
+  },
+  {
+    "ID": "b54d285a-57ff-4e4a-94df-aac34336d567",
+    "effective_cve": "CVE-2018-1000879",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-3.el8_5"
+    },
+    "timestamp": "2022-09-15T19:42:13-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000879"
+  },
+  {
+    "ID": "b61637d5-c9db-43b6-b209-09e42d102ed4",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:36:04+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "b690350b-ec86-46a5-b140-1a1fd00ae86c",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-11-01T22:34:34+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "b8f49811-58ce-4adc-aac4-bd0fb6212667",
+    "effective_cve": "CVE-2022-1897",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1897"
+  },
+  {
+    "ID": "bc234fe3-f63a-4a59-b2b3-cc5f611a618d",
+    "effective_cve": "CVE-2020-19726",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-29T16:19:32.963693",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19726"
+  },
+  {
+    "ID": "be08613f-4475-4e0f-bbdc-246e356547c1",
+    "effective_cve": "CVE-2020-26137",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM python3-urllib3@1.24.2-5.el8, which has a distro-specific pathc for this vulnerability.",
+    "package": {
+      "name": "urllib3",
+      "version": "1.24.2"
+    },
+    "timestamp": "2023-08-16T14:23:18.843047",
+    "tool": "grype@v0.65.1",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-wqvq-5m8c-6g24"
+  },
+  {
+    "ID": "befc87c8-be04-4daf-943d-df962efa4ec0",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.28-189.5.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:09-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "bf2394d5-ea76-4d75-a57e-0904ef31ddc2",
+    "effective_cve": "CVE-2021-3974",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3974"
+  },
+  {
+    "ID": "bf5d1d88-6940-4e49-a0ab-c015f4056349",
+    "effective_cve": "CVE-2022-2175",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2175"
+  },
+  {
+    "ID": "c099ce91-0a5e-4eb6-9fb8-bee0eeb1cc45",
+    "effective_cve": "CVE-2021-3421",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this vulnerability. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:32.750550",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3421"
+  },
+  {
+    "ID": "c0bd8a00-9749-4e09-9a43-aab253921147",
+    "effective_cve": "CVE-2021-43618",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gmp",
+      "version": "1:6.1.2-10.el8"
+    },
+    "timestamp": "2022-11-01T22:33:30+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-43618"
+  },
+  {
+    "ID": "c0e72037-5279-45a7-8666-0e50feb3e5a0",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:09+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "c3b448c6-4010-4167-b269-bbefdf0ccfa2",
+    "effective_cve": "CVE-2022-2208",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:41+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2208"
+  },
+  {
+    "ID": "c4bc56d1-c1cd-41ab-b98f-4f59997b59f7",
+    "effective_cve": "CVE-2021-42694",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-11-01T22:34:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-42694"
+  },
+  {
+    "ID": "c616c7ef-1e9f-4829-93e4-85cea3337a9c",
+    "effective_cve": "CVE-2021-46059",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46059"
+  },
+  {
+    "ID": "c639c77f-8456-452f-912e-c1047d88a842",
+    "effective_cve": "CVE-2019-11236",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM python3-urllib3@1.24.2-5.el8, which has a distro-specific pathc for this vulnerability.",
+    "package": {
+      "name": "urllib3",
+      "version": "1.24.2"
+    },
+    "timestamp": "2023-08-16T14:21:53.696323",
+    "tool": "grype@v0.65.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2019-11236"
+  },
+  {
+    "ID": "c8685586-90ed-4c6f-9421-4ee0fb641d8b",
+    "effective_cve": "CVE-2022-2509",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.6.16-4.el8"
+    },
+    "timestamp": "2022-11-01T22:33:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2509"
+  },
+  {
+    "ID": "cae8ba44-5ad9-42bc-8cd8-4365b037dc4d",
+    "effective_cve": "CVE-2019-8906",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "file-libs",
+      "version": "5.33-20.el8"
+    },
+    "timestamp": "2022-09-15T19:42:04-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-8906"
+  },
+  {
+    "ID": "d1144781-6294-48aa-96ea-16fe81fe4eeb",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-11-01T22:34:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "d268ec20-ddea-4258-a931-8ae984fe2453",
+    "effective_cve": "CVE-2021-4166",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4166"
+  },
+  {
+    "ID": "d4861d0d-09e2-40fc-880f-d3a0537bddb6",
+    "effective_cve": "CVE-2020-21490",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-29T16:19:33.279557",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-21490"
+  },
+  {
+    "ID": "d74a301b-1457-44d5-b1af-234444af7d64",
+    "effective_cve": "CVE-2020-19724",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-29T16:19:32.704904",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19724"
+  },
+  {
+    "ID": "d7892953-6aa3-43ea-96bf-c1c5ce2a7368",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:48+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "d85e7601-3d29-46cc-8a49-c9999c9cf3bf",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "d888b69c-4653-457b-b97b-302d4e848968",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should be reported. Seee grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-03T18:42:33.873480",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "d8b6c3c5-a462-4023-931d-ea07e2ac1f32",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-11-01T22:34:57+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "d8f18c46-7f75-40fe-ad1d-8639d1779471",
+    "effective_cve": "CVE-2020-19185",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:43.614811",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19185"
+  },
+  {
+    "ID": "d9070b1e-7588-465c-9c93-4663405397e1",
+    "effective_cve": "CVE-2021-46174",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gdb-gdbserver",
+      "version": "8.2-18.el8"
+    },
+    "timestamp": "2023-08-29T16:19:34.713101",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46174"
+  },
+  {
+    "ID": "d9de88fd-50a0-4f5c-9a2a-b9ef2cf4df27",
+    "effective_cve": "CVE-2022-2287",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2287"
+  },
+  {
+    "ID": "da3ab9a5-cbe5-45bd-8169-ffc775e48ae8",
+    "effective_cve": "CVE-2022-1586",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre2",
+      "version": "10.32-2.el8"
+    },
+    "timestamp": "2022-11-01T22:35:03+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1586"
+  },
+  {
+    "ID": "daaa9a3e-44b6-4306-ad91-35e3be6fdcde",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "??",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-11-01T22:35:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "dd2c37cb-db16-49ff-b302-dacbaf6e0842",
+    "effective_cve": "CVE-2022-3234",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:48+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3234"
+  },
+  {
+    "ID": "dd44bb11-565a-4663-9237-6abb9691ca3b",
+    "effective_cve": "CVE-2022-2522",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:53+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2522"
+  },
+  {
+    "ID": "dd6f6c8b-5461-4139-84b1-b786cecdcd5a",
+    "effective_cve": "CVE-2022-1292",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-6.el8_5"
+    },
+    "timestamp": "2022-11-01T22:35:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1292"
+  },
+  {
+    "ID": "de3f5021-8a60-4ed4-b768-87097f1650c4",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-default-yama-scope",
+      "version": "0.186-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:08.726517+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "dfea57c4-6778-4eb9-ac5f-c19d7f82a77e",
+    "effective_cve": "CVE-2020-22916",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xz-libs",
+      "version": "5.2.4-4.el8_6"
+    },
+    "timestamp": "2023-08-29T16:19:54.115753",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-22916"
+  },
+  {
+    "ID": "e00f2be0-25de-4d35-bbc0-069c6ad9b7ce",
+    "effective_cve": "CVE-2022-2980",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:50+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2980"
+  },
+  {
+    "ID": "e194502a-3ed4-4e08-a6f4-ef9c92985cc2",
+    "effective_cve": "CVE-2018-19217",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2026-01-23T16:44:12.307007+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2018-19217"
+  },
+  {
+    "ID": "e4ac7c42-0950-49ca-a1ad-1325dacc6642",
+    "effective_cve": "CVE-2022-3153",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3153"
+  },
+  {
+    "ID": "e75cc150-aed8-479e-897e-b6ff35da9e0f",
+    "effective_cve": "CVE-2022-2129",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2129"
+  },
+  {
+    "ID": "e9dc8af2-fa43-4982-9f8a-47698c4f594a",
+    "effective_cve": "CVE-2016-3709",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libxml2",
+      "version": "2.9.7-13.el8_6.1"
+    },
+    "timestamp": "2022-09-15T19:42:27-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-3709"
+  },
+  {
+    "ID": "eb73ce35-395f-432d-be16-47eed2522d6c",
+    "effective_cve": "CVE-2022-32208",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:33:41+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32208"
+  },
+  {
+    "ID": "eb7f688d-0baf-4c59-b9eb-79fcdf8457e2",
+    "effective_cve": "CVE-2022-2845",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2845"
+  },
+  {
+    "ID": "ebe8798b-3757-4cf0-bdf0-512be5ba36fa",
+    "effective_cve": "CVE-2019-11236",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM python3-urllib3@1.24.2-5.el8, which has a distro-specific pathc for this vulnerability.",
+    "package": {
+      "name": "urllib3",
+      "version": "1.24.2"
+    },
+    "timestamp": "2023-08-16T14:23:06.243004",
+    "tool": "grype@v0.65.1",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-r64q-w8jr-g9qp"
+  },
+  {
+    "ID": "ed44f39e-2796-480f-9298-522a49faa0f9",
+    "effective_cve": "CVE-2022-0391",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2022-11-01T22:35:17+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0391"
+  },
+  {
+    "ID": "ed91558b-a492-4481-9dc6-f34ce7f0430a",
+    "effective_cve": "CVE-2022-3037",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3037"
+  },
+  {
+    "ID": "edba4281-c4d4-4934-b6bf-2ff1b4d069aa",
+    "effective_cve": "CVE-2020-19190",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:42.759600",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19190"
+  },
+  {
+    "ID": "eddedcfd-cb3c-4ebc-8542-c46dfaeee316",
+    "effective_cve": "CVE-2022-2285",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:56+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2285"
+  },
+  {
+    "ID": "eddef0d2-661c-4b6f-9fec-c71a338dadc9",
+    "effective_cve": "CVE-2020-19187",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:19:40.757251",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19187"
+  },
+  {
+    "ID": "ee6f0c8c-7645-40de-95d5-6945c4881035",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:02+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "eea7ce2a-f33f-4d4f-a9f9-bc1addaeb26c",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:35:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "ef08f0c0-f980-4add-a9db-30b9a5254acd",
+    "effective_cve": "CVE-2022-35252",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8_6.3"
+    },
+    "timestamp": "2022-11-01T22:32:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "f10c1a82-08bd-4141-96de-80cfd587823f",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-23.el8"
+    },
+    "timestamp": "2022-11-01T22:36:03+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "f1a2ae78-2217-4e1b-829f-577fc7ef6461",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-58.el8"
+    },
+    "timestamp": "2022-11-01T22:36:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "f213ff20-de61-4b3f-9246-46d722d1641f",
+    "effective_cve": "CVE-2022-2183",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-19.el8_6.2"
+    },
+    "timestamp": "2022-11-01T22:36:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2183"
+  },
+  {
+    "ID": "f50103f3-ca9f-47d3-9b6e-09f498984ba5",
+    "effective_cve": "CVE-2019-12900",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bzip2-libs",
+      "version": "1.0.6-26.el8"
+    },
+    "timestamp": "2022-09-15T19:41:54-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12900"
+  },
+  {
+    "ID": "f5b1f610-f57d-41d9-af75-441c491b6413",
+    "effective_cve": "CVE-2019-9936",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:42:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9936"
+  },
+  {
+    "ID": "f5e036f6-3c67-4f9f-97c0-2617347f2f40",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-18.el8"
+    },
+    "timestamp": "2022-11-01T22:33:05+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "f76b8806-3780-42fb-9948-6db25eaf7f89",
+    "effective_cve": "CVE-2022-2068",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-6.el8_5"
+    },
+    "timestamp": "2022-11-01T22:35:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2068"
+  },
+  {
+    "ID": "f8827663-d788-4b34-8c37-30930e2ae727",
+    "effective_cve": "CVE-2021-44568",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libsolv",
+      "version": "0.7.20-1.el8"
+    },
+    "timestamp": "2022-11-01T22:34:26+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44568"
+  },
+  {
+    "ID": "fbcafd39-7e15-4dbe-b510-5998c285bec4",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-45.el8"
+    },
+    "timestamp": "2023-07-27T12:57:30.201321",
+    "tool": "grype@v0.64.2",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "ff8f1cce-35ee-4fd0-841d-b606941957c3",
+    "effective_cve": "CVE-2019-14250",
+    "image": {
+      "exact": "registry.access.redhat.com/ubi8@sha256:68fecea0d255ee253acbf0c860eaebb7017ef5ef007c25bee9eeffd29ce85b29"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-10.1.el8_6"
+    },
+    "timestamp": "2022-09-15T19:42:15-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-14250"
+  }
+]

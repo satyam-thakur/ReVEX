@@ -1,0 +1,4840 @@
+[
+  {
+    "ID": "00e47e00-ae5e-489a-b68e-4c63aa4deb3d",
+    "effective_cve": "CVE-2005-2541",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-09-15T19:39:24-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2005-2541"
+  },
+  {
+    "ID": "01afc1e6-b61f-4ce0-bc0a-536fe3a18458",
+    "effective_cve": "CVE-2019-9071",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9071"
+  },
+  {
+    "ID": "025fceb9-4ff0-4e40-ad48-0aea3aba8a4b",
+    "effective_cve": "CVE-2022-25314",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:27+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25314"
+  },
+  {
+    "ID": "03516834-7481-4d48-be46-cca5ba1a961a",
+    "effective_cve": "CVE-2021-3236",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2023-08-24T18:05:15.790905",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3236"
+  },
+  {
+    "ID": "03e841ea-fc27-42fa-b8ea-3b1bf8f524a8",
+    "effective_cve": "CVE-2022-1629",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:16+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1629"
+  },
+  {
+    "ID": "03f1365a-55bf-4cd8-9afc-a85681c78be8",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:46+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "03f4d248-54ab-490d-bdde-5a3dac2fbe8b",
+    "effective_cve": "CVE-2022-23990",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23990"
+  },
+  {
+    "ID": "041ab2ba-608a-4d88-aab9-07bce2e7c73e",
+    "effective_cve": "CVE-2020-21490",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:42.031882",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-21490"
+  },
+  {
+    "ID": "056afa4f-315b-4b09-bafd-0a721d80155b",
+    "effective_cve": "CVE-2021-46143",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46143"
+  },
+  {
+    "ID": "056e4719-c738-4c66-b03c-8cebc1249231",
+    "effective_cve": "CVE-2022-0391",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0391"
+  },
+  {
+    "ID": "06b279ac-17a7-4ba7-86ab-b3e7c0fa63bf",
+    "effective_cve": "CVE-2022-0359",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0359"
+  },
+  {
+    "ID": "0997c180-7918-4c08-adf0-3b6a62374fd7",
+    "effective_cve": "CVE-2022-2343",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2343"
+  },
+  {
+    "ID": "0c624777-27b5-4203-b15e-7a221b845730",
+    "effective_cve": "CVE-2020-19186",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:08.904290",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19186"
+  },
+  {
+    "ID": "0cdbb0b5-e6dd-4c59-acd5-a0d5e7fad878",
+    "effective_cve": "CVE-2020-19186",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:02.587713",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19186"
+  },
+  {
+    "ID": "0d5ac3f2-8fc0-43be-b679-27ec69334f7a",
+    "effective_cve": "CVE-2018-1000880",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:15-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000880"
+  },
+  {
+    "ID": "0d8ff6da-3215-4bdc-82d4-5d65fef8e173",
+    "effective_cve": "CVE-2022-1304",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcom_err",
+      "version": "1.45.6-2.el8"
+    },
+    "timestamp": "2022-11-01T22:46:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1304"
+  },
+  {
+    "ID": "0d92548f-f9b0-4d38-aaf2-d5b405a56a80",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-09-15T19:38:03-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "0e9fa464-1546-4cb8-8922-f60cca89dd15",
+    "effective_cve": "CVE-2019-12900",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bzip2-libs",
+      "version": "1.0.6-26.el8"
+    },
+    "timestamp": "2022-09-15T19:37:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12900"
+  },
+  {
+    "ID": "0eb9e741-d3e8-4f64-8dd2-03019999e912",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "0f0c2cd5-91ba-482b-8a79-e6dc1e4547b4",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-libs",
+      "version": "0.185-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:14.370613+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "109fe722-f1c4-44ae-a203-1ddc69815d5b",
+    "effective_cve": "CVE-2019-14250",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:18-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-14250"
+  },
+  {
+    "ID": "12350467-cc38-4a0f-884b-c61a107be9d2",
+    "effective_cve": "CVE-2022-3296",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3296"
+  },
+  {
+    "ID": "12dcdec4-e1c3-4aba-b225-92ac5622bfd6",
+    "effective_cve": "CVE-2019-12972",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12972"
+  },
+  {
+    "ID": "141a5bfc-556f-45ed-9b28-62cd78dca561",
+    "effective_cve": "CVE-2018-20657",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:17-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20657"
+  },
+  {
+    "ID": "1517b785-7635-4016-8c72-77f8e532ca02",
+    "effective_cve": "CVE-2018-12697",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:25-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12697"
+  },
+  {
+    "ID": "168f72c4-9889-4a0d-9c82-b61e1f3971ac",
+    "effective_cve": "CVE-2020-35494",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35494"
+  },
+  {
+    "ID": "188b2330-d3b9-4e11-a950-a35c21f4b911",
+    "effective_cve": "CVE-2022-3037",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3037"
+  },
+  {
+    "ID": "19ff8a3c-1c23-4277-b314-6449deae5013",
+    "effective_cve": "CVE-2022-23218",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23218"
+  },
+  {
+    "ID": "1a40809a-e6a7-41b0-8506-bf5119fe67e1",
+    "effective_cve": "CVE-2020-19187",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:02.041760",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19187"
+  },
+  {
+    "ID": "1a54d03c-adad-4f40-8722-4e14024ed4fc",
+    "effective_cve": "CVE-2022-27782",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27782"
+  },
+  {
+    "ID": "1af92358-0844-43bf-ae56-de7615ca80dd",
+    "effective_cve": "CVE-2022-2345",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:26+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2345"
+  },
+  {
+    "ID": "1b11ef57-1830-43bb-87cd-4bce36ea174a",
+    "effective_cve": "CVE-2018-12641",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:21-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12641"
+  },
+  {
+    "ID": "1bc3065d-5b80-41dc-bf9a-763693d9c99a",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:44:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "1bdcf3a8-6a01-44eb-afc0-43fae6dd7ad1",
+    "effective_cve": "CVE-2020-19724",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:44.422982",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-19724"
+  },
+  {
+    "ID": "1c68a2aa-36b1-4209-a178-f62262b2a1a1",
+    "effective_cve": "CVE-2022-2206",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:21+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2206"
+  },
+  {
+    "ID": "1fddc764-4e31-4591-8420-64b184d30d11",
+    "effective_cve": "CVE-2018-20651",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:34-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20651"
+  },
+  {
+    "ID": "20d4930b-3dda-4300-bce8-2138236bf208",
+    "effective_cve": "CVE-2018-20225",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-pip-wheel",
+      "version": "9.0.3-20.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:39:09-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20225"
+  },
+  {
+    "ID": "21db4762-21e7-42a2-88bc-200a027b8fcd",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:38:54-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "222b0dff-f188-4fb3-a990-01c38b84dca3",
+    "effective_cve": "CVE-2022-2946",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:30+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2946"
+  },
+  {
+    "ID": "22723217-e012-4f47-af68-20c803575053",
+    "effective_cve": "CVE-2022-2097",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-5.el8_5"
+    },
+    "timestamp": "2022-11-01T22:47:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2097"
+  },
+  {
+    "ID": "2281c8e8-2610-4afa-a665-11730489255c",
+    "effective_cve": "CVE-2022-3235",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3235"
+  },
+  {
+    "ID": "22c74b10-69fa-4efc-950f-702f59dfa1d7",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:53+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "23b95e6b-d028-4a45-8838-918a27b070ee",
+    "effective_cve": "CVE-2020-19187",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:08.542009",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19187"
+  },
+  {
+    "ID": "249dab3d-f77d-4dbb-bdf9-10ad7cb71ba4",
+    "effective_cve": "CVE-2018-18483",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18483"
+  },
+  {
+    "ID": "24cb6b86-6fd7-4d85-acd8-592c8911b0b0",
+    "effective_cve": "CVE-2020-22916",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xz-libs",
+      "version": "5.2.4-3.el8.1"
+    },
+    "timestamp": "2023-08-29T16:18:21.609028",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-22916"
+  },
+  {
+    "ID": "257031a1-f7ab-417b-ac7a-e1083915c422",
+    "effective_cve": "CVE-2022-0392",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:13+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0392"
+  },
+  {
+    "ID": "2572f7d3-0e1a-4377-9bc7-8547f070a465",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2025-08-26T17:07:18.091809",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "2964e2d7-2337-47cd-bf27-51214e5d6d5b",
+    "effective_cve": "CVE-2019-12904",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt",
+      "version": "1.8.5-6.el8"
+    },
+    "timestamp": "2022-09-15T19:38:19-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12904"
+  },
+  {
+    "ID": "2985adca-6097-4ede-a039-056e5cda9743",
+    "effective_cve": "CVE-2021-45960",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:21+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45960"
+  },
+  {
+    "ID": "2b626184-df53-4cfc-a3bb-8dd3c90d1c0e",
+    "effective_cve": "CVE-2021-46174",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:51.239323",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-46174"
+  },
+  {
+    "ID": "2d7cc261-80cd-4ef5-95bc-8eaf77c0f700",
+    "effective_cve": "CVE-2022-2125",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2125"
+  },
+  {
+    "ID": "2e47b11c-8447-4ed2-acf0-d762c3a7beed",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:41+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "2feff83e-02fb-4532-9714-0da4c0a6e1b7",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2025-08-26T17:08:42.125865",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-35737"
+  },
+  {
+    "ID": "31b07387-dce6-4ea4-b15e-bd49d519e7f0",
+    "effective_cve": "CVE-2022-22824",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22824"
+  },
+  {
+    "ID": "31f63373-8a73-4a75-abe2-475e66deae98",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:08+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "3205af9e-c0b5-4333-bd74-ae826eef02df",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this issue. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:49:34.850008",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "32c20b17-2fe7-460b-b8a9-1a249f50a26f",
+    "effective_cve": "CVE-2020-35496",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35496"
+  },
+  {
+    "ID": "3307e59c-65bb-4d26-85f3-993943ce1566",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "33aa91de-cb6d-459e-9147-7dc9493c59d7",
+    "effective_cve": "CVE-2020-35342",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:40.831123",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35342"
+  },
+  {
+    "ID": "33e944bf-cb1f-4908-9c17-7c0985280763",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2025-08-27T06:58:49.135917",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "35ff34ba-a5b1-435a-86ea-d52b2d5d09b0",
+    "effective_cve": "CVE-2021-24032",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libzstd",
+      "version": "1.4.4-1.el8"
+    },
+    "timestamp": "2022-11-01T22:47:05+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-24032"
+  },
+  {
+    "ID": "36378d79-c0ae-428e-af02-2959d215643f",
+    "effective_cve": "CVE-2022-1720",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:16+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1720"
+  },
+  {
+    "ID": "37f51e14-ece1-4e13-bcc8-3efa844e9cb4",
+    "effective_cve": "CVE-2018-20657",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:20-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20657"
+  },
+  {
+    "ID": "37faf6a3-ca63-41e1-9eb0-7f75b35d7dbd",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-26T17:04:17.989052",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-11023"
+  },
+  {
+    "ID": "38b1cbae-68ea-40b6-8b40-2dcd16c86b27",
+    "effective_cve": "CVE-2021-20266",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this issue. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:50:38.406227",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-20266"
+  },
+  {
+    "ID": "39d82cce-e7de-4dd3-9441-716195fd9841",
+    "effective_cve": "CVE-2017-14501",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:09-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-14501"
+  },
+  {
+    "ID": "3a77ecc3-814f-464a-a654-3ba0e428d921",
+    "effective_cve": "CVE-2022-0391",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0391"
+  },
+  {
+    "ID": "3a7c4dc5-15ab-4e78-9606-ae68393f2d5a",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.4-156.el8"
+    },
+    "timestamp": "2025-08-26T17:08:02.031459",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-32891"
+  },
+  {
+    "ID": "3aed741a-7aff-4b3d-8940-6fb30ffb6fbc",
+    "effective_cve": "CVE-2022-22576",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:13+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22576"
+  },
+  {
+    "ID": "3bd6158e-b827-4c29-89b3-c03fdedd9c3e",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-09-15T19:39:18-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "3ccebf92-ad77-4f11-9753-6f5ab744371d",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "3d5d03eb-1065-4c72-bb20-262cc29bb260",
+    "effective_cve": "CVE-2019-9674",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:38:56-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9674"
+  },
+  {
+    "ID": "3f9a9b8c-6051-4686-9fa0-f9943ebeb4a4",
+    "effective_cve": "CVE-2020-19190",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:01.356444",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19190"
+  },
+  {
+    "ID": "411a5d08-285d-4994-bcdf-db2dc3bbd788",
+    "effective_cve": "CVE-2022-27782",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:49+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27782"
+  },
+  {
+    "ID": "42051d68-44e8-48a8-9cf2-954f89476f6a",
+    "effective_cve": "CVE-2022-3256",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3256"
+  },
+  {
+    "ID": "42068f95-4de5-4a9f-bf9e-0f1b456613b2",
+    "effective_cve": "CVE-2018-6872",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-6872"
+  },
+  {
+    "ID": "4313a4da-a657-4e5f-ac80-4f976fbc908b",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "450cb6bc-e213-409b-a311-9fcecf88a10f",
+    "effective_cve": "CVE-2019-8905",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "file-libs",
+      "version": "5.33-20.el8"
+    },
+    "timestamp": "2022-09-15T19:37:43-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-8905"
+  },
+  {
+    "ID": "480d4960-283d-45e3-83b9-ef5153489061",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "48474b3a-7d33-46e0-b586-545f0954413d",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-09-15T19:37:32-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "49d70377-be31-4fc6-908c-e838b12b632f",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.13-3.el8"
+    },
+    "timestamp": "2023-08-24T18:05:02.575686",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "49f3feb6-8fd6-4425-b11b-16df35a101b8",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:44+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "4a0b0232-edf3-4058-b664-59d623cccac7",
+    "effective_cve": "CVE-2018-18701",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18701"
+  },
+  {
+    "ID": "4ab3f4eb-ada1-4c4f-8620-689dbc3619f4",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-09-15T19:37:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "4b28b0a3-c886-4500-82fa-965e8756e96d",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "4c464501-7808-4940-b014-6c5f8b9a928f",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "4e82cd0a-71b2-45b6-94a9-a2c05fd7bf74",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:43+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "51c0d231-d494-4529-a1fa-b2e8b2bcc4a3",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:07+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "53cf1975-0391-43a0-a1ef-968f6c75fc0b",
+    "effective_cve": "CVE-2018-20623",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:34-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20623"
+  },
+  {
+    "ID": "5463dfb3-3070-4fce-9433-40431cef1560",
+    "effective_cve": "CVE-2019-9077",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9077"
+  },
+  {
+    "ID": "54def467-74f4-4c2b-bb3b-e6e1bc0ba55a",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:39:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "55354677-216d-4b88-90de-c6375dda6678",
+    "effective_cve": "CVE-2022-1154",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1154"
+  },
+  {
+    "ID": "55be0500-a272-44c1-9300-54ed7aa6b438",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-libelf",
+      "version": "0.185-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:17.311935+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "560872d0-4eda-4451-bf65-dc73fd4afab0",
+    "effective_cve": "CVE-2022-2124",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2124"
+  },
+  {
+    "ID": "56d624b6-3fe1-4c07-a99f-248f7fe52840",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "5717a00c-1e62-4b1f-839d-16cf48c5b19b",
+    "effective_cve": "CVE-2022-3515",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libksba",
+      "version": "1.3.5-7.el8"
+    },
+    "timestamp": "2022-11-01T22:46:31+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3515"
+  },
+  {
+    "ID": "5ab3920e-6b82-4161-92f2-67c0c066dae3",
+    "effective_cve": "CVE-2021-44568",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libsolv",
+      "version": "0.7.19-1.el8"
+    },
+    "timestamp": "2022-11-01T22:46:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44568"
+  },
+  {
+    "ID": "5c7cd820-d575-4a6e-8458-d913c366ffd6",
+    "effective_cve": "CVE-2022-22827",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22827"
+  },
+  {
+    "ID": "5cdd7185-7bfd-484e-b30e-721736dd2133",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-27T07:08:13.618545",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "5d4765b6-e3ac-400c-ac13-eea18996a911",
+    "effective_cve": "CVE-2018-19932",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-19932"
+  },
+  {
+    "ID": "6225a621-8068-4c2c-aebd-da0a1bb2775c",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "??",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:51+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "6b5bd5d0-8891-421d-b97f-d24e23300165",
+    "effective_cve": "CVE-2021-45078",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-11-01T22:44:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45078"
+  },
+  {
+    "ID": "6b67ae40-b456-4690-ae21-c89910dd6acf",
+    "effective_cve": "CVE-2022-27774",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:45+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27774"
+  },
+  {
+    "ID": "6b94400c-06c5-4ac4-82b8-80b7893dc4b6",
+    "effective_cve": "CVE-2022-35252",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:56+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "6bc61bae-aa1f-4faf-8f0b-c3ce76273c35",
+    "effective_cve": "CVE-2019-19244",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:39:11-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-19244"
+  },
+  {
+    "ID": "6c1aa12d-8d99-4d5b-a95c-ab16343094ff",
+    "effective_cve": "CVE-2020-24736",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2023-08-24T18:05:20.503054",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-24736"
+  },
+  {
+    "ID": "6c542c8e-d1cc-4624-8af3-cdf57c31c95f",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "6df11b0e-5281-4f16-a1cd-ca2bdc0d85bf",
+    "effective_cve": "CVE-2022-1292",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-5.el8_5"
+    },
+    "timestamp": "2022-11-01T22:47:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1292"
+  },
+  {
+    "ID": "6ea213f9-7881-41d2-a4cf-ba81fcd71459",
+    "effective_cve": "CVE-2022-2522",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:26+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2522"
+  },
+  {
+    "ID": "6f11009a-786a-4dbd-963e-6278fb4a5cbc",
+    "effective_cve": "CVE-2018-19211",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-09-15T19:38:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-19211"
+  },
+  {
+    "ID": "6f18b02b-cea1-4252-a9f1-53a5161b96f2",
+    "effective_cve": "CVE-2019-14250",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-14250"
+  },
+  {
+    "ID": "6fa6f039-51c4-4ec8-be7d-d3a553276750",
+    "effective_cve": "CVE-2022-2208",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2208"
+  },
+  {
+    "ID": "7150ed0a-e678-477f-8067-d01785390745",
+    "effective_cve": "CVE-2018-19217",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2026-01-23T16:44:18.473589+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2018-19217"
+  },
+  {
+    "ID": "71685500-c013-43f4-bbb7-4ba593c62d14",
+    "effective_cve": "CVE-2019-9674",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:39:03-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9674"
+  },
+  {
+    "ID": "71ab85d3-af61-4b20-9f62-eb3a1efb054b",
+    "effective_cve": "CVE-2022-27776",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27776"
+  },
+  {
+    "ID": "729917a1-9924-492a-8f94-7695d6f07920",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.4-156.el8"
+    },
+    "timestamp": "2025-08-26T17:08:00.353076",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-32816"
+  },
+  {
+    "ID": "72fdd009-0964-4d5b-8b94-8ec707235a46",
+    "effective_cve": "CVE-2018-12700",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "should not be matching on rejected CVEs",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:37:07-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12700"
+  },
+  {
+    "ID": "7387d4d0-9569-4355-831e-90d46f4b6453",
+    "effective_cve": "CVE-2022-0361",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0361"
+  },
+  {
+    "ID": "73ac03c7-fbc3-4008-8dc3-f89505b14106",
+    "effective_cve": "CVE-2021-42694",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "??",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:36+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-42694"
+  },
+  {
+    "ID": "755eecd9-0325-4c84-b5ea-821e9bde8f17",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "757f8d45-915b-41d3-8af2-bfec5f168c4b",
+    "effective_cve": "CVE-2022-25236",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:26+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25236"
+  },
+  {
+    "ID": "76971aff-b217-4eda-9519-b42cc4028ac7",
+    "effective_cve": "CVE-2022-2068",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-5.el8_5"
+    },
+    "timestamp": "2022-11-01T22:47:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2068"
+  },
+  {
+    "ID": "76c64958-de12-44c7-8aa3-0d48be016b9a",
+    "effective_cve": "CVE-2020-19189",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:01.596549",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19189"
+  },
+  {
+    "ID": "790c26e3-06a5-42da-b7eb-98835827c351",
+    "effective_cve": "CVE-2018-18607",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18607"
+  },
+  {
+    "ID": "7af1a1f2-67d2-4c4e-963a-8a6e07e58dad",
+    "effective_cve": "CVE-2018-18605",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18605"
+  },
+  {
+    "ID": "7b6742aa-48f5-44d9-9c3b-6fb5922e9421",
+    "effective_cve": "CVE-2022-27776",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27776"
+  },
+  {
+    "ID": "7b70895d-4b5b-4186-b89e-a3acd322ba97",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2025-08-27T07:43:40.200346",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-4292"
+  },
+  {
+    "ID": "7bfeecb7-d738-4141-a601-4e30d1901355",
+    "effective_cve": "CVE-2020-35507",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35507"
+  },
+  {
+    "ID": "7d6b8952-6825-4b5f-b7d3-f312e9f8eb8f",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-09-15T19:39:22-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "7de2bfa4-d00c-43ec-a880-f7f9476e32b8",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:48+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "7ea5721e-0a52-4b85-bd2b-472b03ca2f41",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-09-15T19:38:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "7f3153dc-c080-47a3-bbb3-63e16b74caea",
+    "effective_cve": "CVE-2022-40674",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40674"
+  },
+  {
+    "ID": "7f76ff4d-bad7-42ee-b8d9-c41a3dd9c232",
+    "effective_cve": "CVE-2022-2284",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2284"
+  },
+  {
+    "ID": "814ea64f-6351-4ee2-a912-fad543f9399e",
+    "effective_cve": "CVE-2019-17543",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lz4-libs",
+      "version": "1.8.3-3.el8_4"
+    },
+    "timestamp": "2022-09-15T19:38:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-17543"
+  },
+  {
+    "ID": "81be571f-ed97-4a35-a63e-406e0bd48188",
+    "effective_cve": "CVE-2018-18309",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18309"
+  },
+  {
+    "ID": "81fe2bb0-4d78-4a63-9f9d-8cca731c2dc9",
+    "effective_cve": "CVE-2020-19188",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:08.094831",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19188"
+  },
+  {
+    "ID": "838158dc-6c62-463d-9c1b-b82b4d496255",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "83903c49-0cdf-4fe1-a0a8-52b4bfe11603",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-09-15T19:39:18-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "847101d6-0670-4068-9ba4-923e20b6302c",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre2",
+      "version": "10.32-2.el8"
+    },
+    "timestamp": "2025-08-27T07:05:10.699617",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-41409"
+  },
+  {
+    "ID": "861ffbc9-8638-4d7f-8078-4c57d087ec3d",
+    "effective_cve": "CVE-2021-42694",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "??",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-42694"
+  },
+  {
+    "ID": "863be99b-081e-412f-8b54-15737178eeab",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-27T07:40:19.467364",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "88c0afda-e9c2-40a8-8413-d9a84a97a6e7",
+    "effective_cve": "CVE-2018-12698",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:27-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12698"
+  },
+  {
+    "ID": "89d4d2bf-7ccc-4717-b2d4-575fa9b29c2a",
+    "effective_cve": "CVE-2017-14166",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:06-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-14166"
+  },
+  {
+    "ID": "89d8c4c6-3180-4d68-9e0b-bc8df9f78a53",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.4-156.el8"
+    },
+    "timestamp": "2025-08-26T17:07:54.836076",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-32792"
+  },
+  {
+    "ID": "8a1df9cd-5fac-47d4-bf3e-6e38d598ac3c",
+    "effective_cve": "CVE-2022-2210",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2210"
+  },
+  {
+    "ID": "8ae04114-8d81-4c6a-a7fb-03b01f407653",
+    "effective_cve": "CVE-2022-3234",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3234"
+  },
+  {
+    "ID": "8bc16199-aef7-4566-a9f9-1f587f8124e0",
+    "effective_cve": "CVE-2022-25313",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:27+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25313"
+  },
+  {
+    "ID": "8bfc60a0-fa09-4ab2-a889-a8ae9371952a",
+    "effective_cve": "CVE-2018-17985",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-17985"
+  },
+  {
+    "ID": "8c3aec90-a578-43c0-a6b6-41933dc88d47",
+    "effective_cve": "CVE-2022-2509",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.6.16-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:53+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2509"
+  },
+  {
+    "ID": "8d55e9db-369d-43a6-a936-d7ec6b1cbc99",
+    "effective_cve": "CVE-2022-1586",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre2",
+      "version": "10.32-2.el8"
+    },
+    "timestamp": "2022-11-01T22:47:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1586"
+  },
+  {
+    "ID": "8d7571fe-07d5-4ccf-9bf1-67c572ef6f09",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-daemon",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:07+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "8e5d3b16-55cd-488e-87c6-b92d62f46c0e",
+    "effective_cve": "CVE-2021-46059",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46059"
+  },
+  {
+    "ID": "909192d2-ab0a-4a9d-99c5-d013573a8a26",
+    "effective_cve": "CVE-2021-3927",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3927"
+  },
+  {
+    "ID": "9149ea35-3ee5-48a0-a0e6-036a0239ea31",
+    "effective_cve": "CVE-2022-3715",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bash",
+      "version": "4.4.20-2.el8"
+    },
+    "timestamp": "2022-11-01T22:44:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3715"
+  },
+  {
+    "ID": "93eed3c0-8373-42fd-91b5-e4aa31d858c5",
+    "effective_cve": "CVE-2022-25315",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25315"
+  },
+  {
+    "ID": "93feee70-95af-424c-821b-1e04e1df9073",
+    "effective_cve": "CVE-2020-16598",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "should not be matching on rejected CVEs",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:45-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-16598"
+  },
+  {
+    "ID": "9425c291-e306-46da-aedb-3cdd5be2a488",
+    "effective_cve": "CVE-2022-2344",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2344"
+  },
+  {
+    "ID": "94957a94-47d3-4689-beb3-749bc8b8ca2c",
+    "effective_cve": "CVE-2020-21674",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2025-11-21T15:59:40.168516+00:00",
+    "tool": "grype[reference]@v0.104.0-0-gb1706ca1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-21674"
+  },
+  {
+    "ID": "951147f7-26a4-404e-9458-e835d147851c",
+    "effective_cve": "CVE-2022-2845",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:27+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2845"
+  },
+  {
+    "ID": "95785227-fe4d-4cc9-b831-f2da9d1596ce",
+    "effective_cve": "CVE-2018-20657",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20657"
+  },
+  {
+    "ID": "95af0bf4-c67a-4a65-a797-8787def9dc02",
+    "effective_cve": "CVE-2021-46828",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtirpc",
+      "version": "1.1.4-5.el8"
+    },
+    "timestamp": "2022-11-01T22:46:58+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46828"
+  },
+  {
+    "ID": "9702d558-d47a-4300-a556-9aa4fd0ac318",
+    "effective_cve": "CVE-2022-0413",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:14+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0413"
+  },
+  {
+    "ID": "98033292-340f-4c0b-af37-4261e35d4760",
+    "effective_cve": "CVE-2018-20786",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-09-15T19:39:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20786"
+  },
+  {
+    "ID": "990c7102-9d09-45a9-abba-3448a5a460fb",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2025-08-27T07:07:55.821809",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "996193af-3fcb-4fe4-98ae-7186ec364c3c",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "9a09843e-2d9d-4419-9fb5-48cf7c7a4805",
+    "effective_cve": "CVE-2021-4209",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.6.16-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4209"
+  },
+  {
+    "ID": "9a6e755e-7a0d-4b71-89ce-97ac79135a79",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-11-01T22:47:10+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "9afd5be6-45ee-4930-85fb-f99767ff3c78",
+    "effective_cve": "CVE-2022-2849",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2849"
+  },
+  {
+    "ID": "9b92af86-10ee-4200-af7f-d4ecbcabe98b",
+    "effective_cve": "CVE-2022-2175",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:19+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2175"
+  },
+  {
+    "ID": "9c104772-972a-4f4f-9717-e8f3ecc77441",
+    "effective_cve": "CVE-2020-19188",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:01.810059",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19188"
+  },
+  {
+    "ID": "9c2eb5e4-2913-4f48-b32a-694c5464a43b",
+    "effective_cve": "CVE-2022-2129",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:19+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2129"
+  },
+  {
+    "ID": "9c418c77-5d3a-4fe0-a153-2725d3d02c4f",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:47+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "9c63a59d-4607-472c-b2cd-a62daf0a1da3",
+    "effective_cve": "CVE-2022-1897",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:17+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1897"
+  },
+  {
+    "ID": "9ce11db5-ba51-4007-b996-7b2dc7072d63",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-09-15T19:37:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "9df24821-f811-4ddc-8875-5a665ae61398",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "elfutils-default-yama-scope",
+      "version": "0.185-1.el8"
+    },
+    "timestamp": "2026-01-23T16:44:15.773013+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2021-33294"
+  },
+  {
+    "ID": "9e413f2f-2768-47cf-8d3f-b104bebce426",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2025-08-27T07:09:48.627896",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-4285"
+  },
+  {
+    "ID": "9f5d5a83-9ce9-400d-95c1-5f9e275d2742",
+    "effective_cve": "CVE-2022-22826",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22826"
+  },
+  {
+    "ID": "a0125821-78a5-4892-9054-a9cd784fbdb1",
+    "effective_cve": "CVE-2018-12934",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:28-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12934"
+  },
+  {
+    "ID": "a013d590-294f-43fc-83c7-b76b07a275cc",
+    "effective_cve": "CVE-2020-35493",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35493"
+  },
+  {
+    "ID": "a1f8d722-9df9-4c9c-9092-213138b3f59b",
+    "effective_cve": "CVE-2022-23219",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23219"
+  },
+  {
+    "ID": "a2891a81-0fdc-4a0e-aef7-433d273d7825",
+    "effective_cve": "CVE-2022-40304",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-11.el8"
+    },
+    "timestamp": "2022-11-01T22:47:03+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40304"
+  },
+  {
+    "ID": "a383ef30-f7bf-410c-8e8c-ba7df9cc22cc",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should actually be reported. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:49:37.356043",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "a39476df-96f5-434e-a888-a696176326db",
+    "effective_cve": "CVE-2022-35252",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "a3b862a7-0df1-47b6-8167-041015466056",
+    "effective_cve": "CVE-2022-2285",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2285"
+  },
+  {
+    "ID": "a446bf80-cd18-4fb4-9d50-f3c371b4ccf3",
+    "effective_cve": "CVE-2022-23218",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23218"
+  },
+  {
+    "ID": "a5e21183-2f4c-40fd-949c-0e2e429f5770",
+    "effective_cve": "CVE-2022-0261",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0261"
+  },
+  {
+    "ID": "a66316c7-46f1-4a50-b84d-edf4520e6fb3",
+    "effective_cve": "CVE-2022-27774",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:13+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27774"
+  },
+  {
+    "ID": "a69c10d3-bac0-461e-886f-33c90b2c7a28",
+    "effective_cve": "CVE-2020-17049",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.18.2-14.el8"
+    },
+    "timestamp": "2022-09-15T19:38:05-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-17049"
+  },
+  {
+    "ID": "a6c8b425-141e-48a5-9e03-25e70fe2e434",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:31+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "a71468ef-00a1-4890-8921-2e18a98a15c4",
+    "effective_cve": "CVE-2020-35527",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:39:17-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35527"
+  },
+  {
+    "ID": "a7afec9b-60d8-4e88-ba7b-5bf206bc260c",
+    "effective_cve": "CVE-2018-17794",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-17794"
+  },
+  {
+    "ID": "a7b7414a-fa00-4757-ba65-3ad67b0cb229",
+    "effective_cve": "CVE-2022-22576",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:44+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22576"
+  },
+  {
+    "ID": "a87199cd-fa64-4220-9acc-11036092116b",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-09-15T19:37:38-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "aa48e24f-05c8-44cb-b392-49f71912ea46",
+    "effective_cve": "CVE-2018-18606",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18606"
+  },
+  {
+    "ID": "aaf24e65-c886-436e-be93-ce5e9c9acdae",
+    "effective_cve": "CVE-2018-1000654",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.13-3.el8"
+    },
+    "timestamp": "2022-09-15T19:38:25-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000654"
+  },
+  {
+    "ID": "ab89f99f-0325-409e-94e7-201e7fcd37a8",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "abb2dae3-0030-4ceb-a829-b08266a28db3",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-26T17:04:09.890380",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-11023"
+  },
+  {
+    "ID": "abc93e41-fb02-4bbe-a57c-340b60271e4d",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2025-08-27T07:01:54.593915",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3821"
+  },
+  {
+    "ID": "ad432ff7-6797-42ba-a173-d14b9620706b",
+    "effective_cve": "CVE-2022-1619",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1619"
+  },
+  {
+    "ID": "ad60e7f5-ceaa-4ee7-ab21-631681a2437d",
+    "effective_cve": "CVE-2020-19189",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:07.883743",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19189"
+  },
+  {
+    "ID": "ae6d1385-bda2-477a-a913-6300b77d110d",
+    "effective_cve": "CVE-2022-22825",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22825"
+  },
+  {
+    "ID": "aebaaf29-aea5-4335-b463-04cfad16e6b1",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "??",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:17+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "af5156c1-0b77-44fc-a180-60d24e32d442",
+    "effective_cve": "CVE-2019-14250",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:23-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-14250"
+  },
+  {
+    "ID": "afbcee62-dc79-48f8-a3a2-f2cc383f2c4a",
+    "effective_cve": "CVE-2018-18700",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18700"
+  },
+  {
+    "ID": "b0b12a6d-b16f-4786-8aee-d7831df267d6",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-09-15T19:37:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "b14cfee7-aa96-436d-8cb9-262b2940c20e",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2023-08-24T18:05:08.758355",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "b25a2afd-0025-4146-86f0-a00f204bc0b8",
+    "effective_cve": "CVE-2016-3709",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-11.el8"
+    },
+    "timestamp": "2022-09-15T19:38:28-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-3709"
+  },
+  {
+    "ID": "b3494f5d-dfca-4354-8aca-4c87c99f62a0",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "b48b32e2-a56f-43ad-923d-bb8d616040f7",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-11-01T22:47:13+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "b54d7a53-1f23-44e6-adb0-75bca36751a0",
+    "effective_cve": "CVE-2022-22823",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22823"
+  },
+  {
+    "ID": "b65ad718-85f0-4897-933e-e44f35424bc3",
+    "effective_cve": "CVE-2022-1927",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:17+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1927"
+  },
+  {
+    "ID": "b77d5b2e-a40d-4023-a1a2-fa3907b67b3f",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should actually be reported. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:49:35.533446",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "b79fc95c-b045-4753-8e95-b2d08457fa5a",
+    "effective_cve": "CVE-2022-29824",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-11.el8"
+    },
+    "timestamp": "2022-11-01T22:47:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-29824"
+  },
+  {
+    "ID": "b7bdf746-fc96-4859-9744-340e4bcc006c",
+    "effective_cve": "CVE-2022-42011",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-libs",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42011"
+  },
+  {
+    "ID": "b84a3194-0024-455f-8fc5-a9b133b2d4e4",
+    "effective_cve": "CVE-2022-1271",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gzip",
+      "version": "1.9-12.el8"
+    },
+    "timestamp": "2022-11-01T22:46:03+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1271"
+  },
+  {
+    "ID": "b93edcd5-482b-421d-8a17-9562a115c238",
+    "effective_cve": "CVE-2022-2287",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2287"
+  },
+  {
+    "ID": "b9b75094-ced4-40ff-977a-398165cec153",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:34+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "ba148b68-daba-48cf-bbd0-5ef3c785ca5f",
+    "effective_cve": "CVE-2022-0318",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:11+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0318"
+  },
+  {
+    "ID": "ba191243-8619-416c-bd9a-0d4bbad69d98",
+    "effective_cve": "CVE-2022-23852",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23852"
+  },
+  {
+    "ID": "bac911d3-320e-4b63-ab4c-568159d1cce9",
+    "effective_cve": "CVE-2022-3219",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.2.20-2.el8"
+    },
+    "timestamp": "2022-11-01T22:45:50+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3219"
+  },
+  {
+    "ID": "bec667ae-e0c0-4b30-ac59-bab45a29b72f",
+    "effective_cve": "CVE-2021-20193",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-11-01T22:47:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-20193"
+  },
+  {
+    "ID": "bf564904-9cdb-428a-825d-73651a8cbce2",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-pip-wheel",
+      "version": "9.0.3-20.el8.rocky.0"
+    },
+    "timestamp": "2025-08-26T17:02:04.929746",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "bfd214a2-379f-4e1d-8587-7d79a9a4392e",
+    "effective_cve": "CVE-2021-3826",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-11-01T22:44:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3826"
+  },
+  {
+    "ID": "bfe7203f-448d-431b-9587-9ee6cc45b9c6",
+    "effective_cve": "CVE-2022-34903",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.2.20-2.el8"
+    },
+    "timestamp": "2022-11-01T22:45:51+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-34903"
+  },
+  {
+    "ID": "c43f74ae-4847-4579-9906-5511990af1ea",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "c5e8c901-577b-4f40-a302-f6cd3404841e",
+    "effective_cve": "CVE-2022-2526",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:52+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2526"
+  },
+  {
+    "ID": "c6961de8-1906-42ff-841c-90e0a597f1ba",
+    "effective_cve": "CVE-2022-3153",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3153"
+  },
+  {
+    "ID": "c6af2f4c-5bf7-4427-a7ef-66b41e523719",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-26T17:07:40.486766",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "c7014d12-d23c-4702-895e-809183dcaa3f",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:39:04-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "c848fdb9-c769-4d09-95eb-6b653f1739d4",
+    "effective_cve": "CVE-2018-20671",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20671"
+  },
+  {
+    "ID": "c8eb8f80-d52f-4d30-959c-49276a27ce8e",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "8.5.0-4.el8_5"
+    },
+    "timestamp": "2025-08-27T06:59:14.683655",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "c9b1c27e-8c5b-40f7-9b59-957e91e6a706",
+    "effective_cve": "CVE-2022-23308",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-11.el8"
+    },
+    "timestamp": "2022-11-01T22:46:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23308"
+  },
+  {
+    "ID": "cad57c04-2994-4fc1-a06e-e92a35da167f",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2025-08-27T07:00:10.793346",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-36227"
+  },
+  {
+    "ID": "cc13b825-db05-425f-8d19-011c1f1b1738",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:53+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "cc196475-7a61-4587-9e5b-001d9fdf8dbc",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "ccbfde7f-1888-46dd-ab4f-d765f7959198",
+    "effective_cve": "CVE-2022-23219",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:36+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23219"
+  },
+  {
+    "ID": "ce84ef29-c689-4459-8a4d-c04f3a95430e",
+    "effective_cve": "CVE-2021-3974",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3974"
+  },
+  {
+    "ID": "cf35b336-1c75-4751-91de-2f5791a718b4",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.11-17.el8"
+    },
+    "timestamp": "2022-09-15T19:39:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-25032"
+  },
+  {
+    "ID": "d04f2dfc-054f-4321-beaa-14c9f9131097",
+    "effective_cve": "CVE-2020-35525",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:39:14-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35525"
+  },
+  {
+    "ID": "d0d9d76b-7d7f-4746-b3f6-894bfe6f4722",
+    "effective_cve": "CVE-2022-38533",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-11-01T22:44:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-38533"
+  },
+  {
+    "ID": "d15e5a8c-8ea7-4e94-b2da-ef4cca73cdcc",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2025-08-27T07:01:27.765905",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3821"
+  },
+  {
+    "ID": "d1d90ff4-7fbc-4fd7-b6a1-89fc0797f3f9",
+    "effective_cve": "CVE-2018-1000879",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-09-15T19:38:14-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000879"
+  },
+  {
+    "ID": "d270907b-e23b-4ff4-bd60-eba6b4097520",
+    "effective_cve": "CVE-2022-37434",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.11-17.el8"
+    },
+    "timestamp": "2022-11-01T22:48:35+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-37434"
+  },
+  {
+    "ID": "d29d8481-50f8-482c-bb31-0e3b77ea2dff",
+    "effective_cve": "CVE-2022-32208",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32208"
+  },
+  {
+    "ID": "d31ec55b-cd81-4083-b39d-06e5f160548f",
+    "effective_cve": "CVE-2021-43618",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gmp",
+      "version": "1:6.1.2-10.el8"
+    },
+    "timestamp": "2022-11-01T22:45:48+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-43618"
+  },
+  {
+    "ID": "d363174d-1f26-4cf2-9758-b6cef09db9fa",
+    "effective_cve": "CVE-2020-19726",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:43.015878",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-19726"
+  },
+  {
+    "ID": "d377b2f8-76cf-49cc-947c-fb469756986d",
+    "effective_cve": "CVE-2018-18484",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-18484"
+  },
+  {
+    "ID": "d38ec79c-9063-473a-accd-dbbad36ad850",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:45+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "d44da478-23b9-4b62-9a02-72fb9580c7ad",
+    "effective_cve": "CVE-2021-3421",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", which has a patch for this issue. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:49:34.170558",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3421"
+  },
+  {
+    "ID": "d4697ffc-7166-4179-a883-d0e8798c458c",
+    "effective_cve": "CVE-2022-32206",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:51+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32206"
+  },
+  {
+    "ID": "d4745318-6720-4b83-80ed-6ba322b925ad",
+    "effective_cve": "CVE-2019-9923",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "2:1.30-5.el8"
+    },
+    "timestamp": "2022-09-15T19:39:25-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9923"
+  },
+  {
+    "ID": "d484d4e3-c295-414b-961b-a0a9b25f44fc",
+    "effective_cve": "CVE-2020-35495",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35495"
+  },
+  {
+    "ID": "d4f3d884-e72f-4efe-bad1-63ba70700152",
+    "effective_cve": "CVE-2019-9075",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9075"
+  },
+  {
+    "ID": "d7979874-8cb8-40fe-9de0-50f86c78c38e",
+    "effective_cve": "CVE-2018-19211",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2022-09-15T19:38:47-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-19211"
+  },
+  {
+    "ID": "d8008870-e47a-4909-9f95-bd33e043c405",
+    "effective_cve": "CVE-2022-2980",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2980"
+  },
+  {
+    "ID": "da676388-8d82-429d-9622-5efee83cb165",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2025-08-27T07:01:01.879457",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3705"
+  },
+  {
+    "ID": "db857177-6469-49a4-a65f-5096757d3f02",
+    "effective_cve": "CVE-2022-42010",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:44:58+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42010"
+  },
+  {
+    "ID": "dc08a445-7150-447a-90b2-c143cde85aa7",
+    "effective_cve": "CVE-2022-23218",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:40+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23218"
+  },
+  {
+    "ID": "dc149db6-72a4-4448-b8d1-59045eb19d35",
+    "effective_cve": "CVE-2021-40528",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt",
+      "version": "1.8.5-6.el8"
+    },
+    "timestamp": "2022-11-01T22:46:30+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-40528"
+  },
+  {
+    "ID": "dd85e5be-ed0a-43c2-ad05-7c897c89adc0",
+    "effective_cve": "CVE-2018-17360",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-17360"
+  },
+  {
+    "ID": "de5dca99-cf3e-4716-a266-93123602f2af",
+    "effective_cve": "CVE-2022-2182",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:20+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2182"
+  },
+  {
+    "ID": "df6ce59d-443a-498e-9ede-ebde7a200e5a",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "The package actually present is the RPM \"python3-rpm\", against which this CVE should actually be reported. See grype#1373.",
+    "package": {
+      "name": "rpm",
+      "version": "4.14.3"
+    },
+    "timestamp": "2023-08-02T23:49:36.517948",
+    "tool": "grype@v0.65.0",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "e03ff648-7111-4fd2-a4d1-03b4f5aa5115",
+    "effective_cve": "CVE-2018-16428",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.4-156.el8"
+    },
+    "timestamp": "2022-09-15T19:37:58-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-16428"
+  },
+  {
+    "ID": "e0500a55-b0f3-4be9-be69-c1958a37a1ed",
+    "effective_cve": "CVE-2022-0778",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.1.1k-5.el8_5"
+    },
+    "timestamp": "2022-11-01T22:47:11+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0778"
+  },
+  {
+    "ID": "e0a058e5-27b2-4a8c-8d96-ab1da2165793",
+    "effective_cve": "CVE-2022-1271",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xz-libs",
+      "version": "5.2.4-3.el8.1"
+    },
+    "timestamp": "2022-11-01T22:48:36+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1271"
+  },
+  {
+    "ID": "e0c0d2e4-ea21-4073-928c-04abdb7fb48e",
+    "effective_cve": "CVE-2022-2183",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:21+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2183"
+  },
+  {
+    "ID": "e0d5b151-66e2-4b60-afb0-035076faa0a2",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "e216dac2-5f57-4b9a-a32d-e895353bf81b",
+    "effective_cve": "CVE-2022-1785",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:16+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1785"
+  },
+  {
+    "ID": "e26ceb36-220c-485b-93e6-74983a8348e7",
+    "effective_cve": "CVE-2022-23219",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.28-164.el8"
+    },
+    "timestamp": "2022-11-01T22:45:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23219"
+  },
+  {
+    "ID": "e335680b-9330-4768-b2e0-fa4746fe438a",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "e40e491f-dd42-4420-a8dc-867f7e2d2e5c",
+    "effective_cve": "CVE-2019-9937",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:39:13-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9937"
+  },
+  {
+    "ID": "e48b07c4-b6d4-42ea-8713-38cc48a418a7",
+    "effective_cve": "CVE-2022-2819",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:27+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2819"
+  },
+  {
+    "ID": "e51a3cf8-5bd5-4ec8-a3e9-88426253f13f",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-libs",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-09-15T19:39:03-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "e6910b67-874b-44f2-bc47-d34f3f07abec",
+    "effective_cve": "CVE-2022-32206",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:46:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32206"
+  },
+  {
+    "ID": "e88821e4-b54d-4171-887b-b5a5562271b1",
+    "effective_cve": "CVE-2020-19185",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:03.030327",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19185"
+  },
+  {
+    "ID": "e8a24489-ae79-4137-aa3b-0a18acb7b649",
+    "effective_cve": "CVE-2022-32208",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.61.1-22.el8"
+    },
+    "timestamp": "2022-11-01T22:44:54+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32208"
+  },
+  {
+    "ID": "e911abb1-e149-4b82-a077-b5119d1a82ac",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2022-11-01T22:47:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "ebdea938-f2df-4eb8-8c33-bbe33a5ec28b",
+    "effective_cve": "CVE-2022-2286",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2286"
+  },
+  {
+    "ID": "ed46703f-8c8a-4fc1-b966-0a3f1ec36118",
+    "effective_cve": "CVE-2018-12699",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:28-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-12699"
+  },
+  {
+    "ID": "edb985e2-ebd2-4067-b30e-a4a248664948",
+    "effective_cve": "CVE-2019-9936",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.26.0-15.el8"
+    },
+    "timestamp": "2022-09-15T19:39:13-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9936"
+  },
+  {
+    "ID": "eddb5af8-3c41-4637-85ff-b80624934295",
+    "effective_cve": "CVE-2018-19217",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "FP",
+    "note": "RHEL 8 not affected per Red Hat",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2026-01-23T16:44:19.432734+00:00",
+    "user": "yolo",
+    "vulnerability_id": "CVE-2018-19217"
+  },
+  {
+    "ID": "ef702cf1-abf5-4d80-a373-1d9d27e70fb3",
+    "effective_cve": "CVE-2020-19190",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:07.663962",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19190"
+  },
+  {
+    "ID": "efb66714-2032-4c9c-ae67-5d5d192838b0",
+    "effective_cve": "CVE-2020-35512",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-tools",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-09-15T19:37:40-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-35512"
+  },
+  {
+    "ID": "efca3a0b-4682-4123-9dd5-e56b04daab85",
+    "effective_cve": "CVE-2022-1621",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:15+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1621"
+  },
+  {
+    "ID": "f0835b39-94d3-4c71-9fcb-f5ed35730b5b",
+    "effective_cve": "CVE-2018-20002",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20002"
+  },
+  {
+    "ID": "f14bbc7f-d7bc-4949-b13b-a89c41674385",
+    "effective_cve": "CVE-2022-2923",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:29+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2923"
+  },
+  {
+    "ID": "f1aba712-5069-48b9-8543-28cfed7698ae",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:44:59+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "f1bc61b9-c3f8-4fc9-a1f2-40561e022a0e",
+    "effective_cve": "CVE-2019-8906",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "file-libs",
+      "version": "5.33-20.el8"
+    },
+    "timestamp": "2022-09-15T19:37:44-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-8906"
+  },
+  {
+    "ID": "f2308b7f-7278-48cc-9496-ef08ddc4165b",
+    "effective_cve": "CVE-2022-22822",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22822"
+  },
+  {
+    "ID": "f281e315-3e53-40c4-808d-bb54f68e3442",
+    "effective_cve": "CVE-2018-20673",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-20673"
+  },
+  {
+    "ID": "f2b17490-7b33-447e-91a7-8d8aa8911be6",
+    "effective_cve": "CVE-2022-0351",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:11+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0351"
+  },
+  {
+    "ID": "f3aab6af-feb9-45e6-bf6f-3b09369959eb",
+    "effective_cve": "CVE-2019-9074",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-9074"
+  },
+  {
+    "ID": "f3ff8a6b-89b0-4a6b-bae6-caa6cbbae3ba",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-rpm",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "f45e84fa-ebf3-4bf1-9936-4f21fb0f065b",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2022-11-01T22:47:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "f4cdf937-bf63-441d-8a9d-3f9c5c0d4cd5",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-pam",
+      "version": "239-51.el8_5.3"
+    },
+    "timestamp": "2025-08-27T07:02:40.494754",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3821"
+  },
+  {
+    "ID": "f5b560f8-301c-41c6-97e0-d287638fccb1",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "platform-python",
+      "version": "3.6.8-41.el8.rocky.0"
+    },
+    "timestamp": "2023-08-24T18:05:06.199069",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "f604e4f6-cf81-416f-9cb7-248e98b96c11",
+    "effective_cve": "CVE-2021-31566",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:08+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-31566"
+  },
+  {
+    "ID": "f68d5678-9600-4ee9-8efa-1da71ef81419",
+    "effective_cve": "CVE-2020-20703",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2023-08-24T18:05:16.525875",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-20703"
+  },
+  {
+    "ID": "f6fa2f48-ed8b-4f8b-b5a6-fd34565a04d9",
+    "effective_cve": "CVE-2021-4166",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4166"
+  },
+  {
+    "ID": "f73db28b-c251-4a09-9157-d8763d3d18c7",
+    "effective_cve": "CVE-2021-23177",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.3.3-1.el8_5"
+    },
+    "timestamp": "2022-11-01T22:46:07+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-23177"
+  },
+  {
+    "ID": "f8396f24-6e23-496a-bd58-cec148929b92",
+    "effective_cve": "CVE-2020-19185",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.1-9.20180224.el8"
+    },
+    "timestamp": "2023-08-29T16:18:09.424964",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-19185"
+  },
+  {
+    "ID": "f8cf27f5-ba56-4110-bf51-356830b5c746",
+    "effective_cve": "CVE-2022-2126",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:19+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2126"
+  },
+  {
+    "ID": "f991494b-a336-4b9e-8eba-70d57be59c14",
+    "effective_cve": "CVE-2022-25235",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.2.5-4.el8"
+    },
+    "timestamp": "2022-11-01T22:45:25+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25235"
+  },
+  {
+    "ID": "f9e02a0d-1990-4a13-a164-d459575a142b",
+    "effective_cve": "CVE-2018-1000876",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2022-09-15T19:36:18-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2018-1000876"
+  },
+  {
+    "ID": "fbaf7d34-447b-4a40-a215-f6f92c6f9752",
+    "effective_cve": "CVE-2022-42012",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dbus-common",
+      "version": "1:1.12.8-14.el8"
+    },
+    "timestamp": "2022-11-01T22:45:01+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42012"
+  },
+  {
+    "ID": "fc13c381-cec9-4dca-ac4d-abe395658373",
+    "effective_cve": "CVE-2021-32256",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "binutils",
+      "version": "2.30-108.el8_5.1"
+    },
+    "timestamp": "2023-08-24T18:04:47.695612",
+    "tool": "grype@v0.65.2-7-gca0ddba",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-32256"
+  },
+  {
+    "ID": "fda9d560-25f8-467a-b08c-41cab6fcc0e2",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-build-libs",
+      "version": "4.14.3-19.el8_5.2"
+    },
+    "timestamp": "2022-11-01T22:47:46+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "fe5e6135-a492-4c8b-b56e-9e057187cc80",
+    "effective_cve": "CVE-2022-40303",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.7-11.el8"
+    },
+    "timestamp": "2022-11-01T22:47:00+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40303"
+  },
+  {
+    "ID": "ff288c5a-2dbb-4d16-93cf-5811dce3b1e5",
+    "effective_cve": "CVE-2022-2207",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2022-11-01T22:48:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2207"
+  },
+  {
+    "ID": "ffd97943-6456-4ddd-97be-30a4224b64f1",
+    "image": {
+      "exact": "docker.io/rockylinux@sha256:72afc2e1a20c9ddf56a81c51148ebcbe927c0a879849efe813bee77d69df1dd8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.0.1763-16.el8_5.4"
+    },
+    "timestamp": "2025-08-26T17:08:20.621494",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3352"
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "ID": "09cab6be-eadb-40f4-b877-b9baa8007027",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:32.203402",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "25cc738f-8648-4fc4-b02e-7b4dba679431",
+    "effective_cve": "CVE-2020-8554",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "note": "EFFECTIVELY_PRIVATE",
+    "package": {
+      "name": "k8s.io/kubernetes",
+      "version": "v1.21.9"
+    },
+    "timestamp": "2023-05-10T13:08:17.071946",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-j9wf-vvm6-4r9w"
+  },
+  {
+    "ID": "6144573a-f3a5-40b3-ae2e-c6a8e853ed51",
+    "effective_cve": "CVE-2020-8554",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:09:01.599622",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-8554"
+  },
+  {
+    "ID": "615ea73c-a389-4fce-a589-a282f546d94a",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:29.475378",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "71f02023-6526-4f74-bbc8-f39b52163463",
+    "effective_cve": "CVE-2021-25740",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "note": "NOT_IMPORTABLE",
+    "package": {
+      "name": "k8s.io/kubernetes",
+      "version": "v1.21.9"
+    },
+    "timestamp": "2023-05-10T13:08:45.660047",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-vw47-mr44-3jf9"
+  },
+  {
+    "ID": "7257b86f-9255-4407-b0c0-e001feeb6cb1",
+    "effective_cve": "CVE-2016-1905",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:08:58.762370",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-1905"
+  },
+  {
+    "ID": "72d6b56c-3cc3-4eef-b987-b3fb0e301aba",
+    "effective_cve": "CVE-2021-38604",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:34.395780",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-38604"
+  },
+  {
+    "ID": "76e023af-1569-4278-b2b7-130800733d51",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:23.499708",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "7e6b4590-5a58-425b-ac6d-f318412accfc",
+    "effective_cve": "CVE-2021-3998",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:36.948086",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3998"
+  },
+  {
+    "ID": "b133d0ca-a6d4-4aba-8991-e74ab8728608",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:28.031763",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "bd115b28-d8b6-4c24-bbef-37ec1213c87a",
+    "effective_cve": "CVE-2016-7075",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:09:00.515177",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-7075"
+  },
+  {
+    "ID": "bd525a8f-fe2b-45b4-916b-d84b5f52c3a4",
+    "effective_cve": "CVE-2021-43396",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:38.982031",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-43396"
+  },
+  {
+    "ID": "c9658440-c5d7-445c-92b4-9b2537894c01",
+    "effective_cve": "CVE-2015-7561",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:08:57.182721",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-7561"
+  },
+  {
+    "ID": "ce5889fe-5aa8-4116-af2c-45fd255c8ecd",
+    "effective_cve": "CVE-2016-1906",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:08:59.951033",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-1906"
+  },
+  {
+    "ID": "d4398dfa-0452-40c6-abdb-60db0f9f20db",
+    "effective_cve": "CVE-2020-8561",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "note": "NOT_IMPORTABLE",
+    "package": {
+      "name": "k8s.io/kubernetes",
+      "version": "v1.21.9"
+    },
+    "timestamp": "2023-05-10T13:07:41.797705",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-74j8-88mm-7496"
+  },
+  {
+    "ID": "e73e6dd2-6590-4732-87c5-bfdcf20da21d",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-r0"
+    },
+    "timestamp": "2023-05-10T13:06:30.949461",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "f3e9cd08-b513-420f-94fb-d3e3c12a1a95",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3",
+      "version": "3.10.11-r0"
+    },
+    "timestamp": "2023-05-10T13:09:15.318113",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "f8578848-88be-4d02-84dc-955bc2ffc996",
+    "effective_cve": "CVE-2021-25740",
+    "image": {
+      "exact": "docker.io/datawire/aes@sha256:86a072278135462b6cbef70e89894df8f9b20f428b361fda2132fbb442ef257b"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kubernetes",
+      "version": "21.7.0"
+    },
+    "timestamp": "2023-05-10T13:09:04.453128",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-25740"
+  }
+]

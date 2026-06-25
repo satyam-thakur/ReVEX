@@ -1,0 +1,1150 @@
+[
+  {
+    "ID": "0394e75e-5e2d-488a-a8eb-4b4a0105e547",
+    "effective_cve": "CVE-2023-48313",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:57.230673+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-48313"
+  },
+  {
+    "ID": "054b896d-4bf3-478d-b8e2-dd1ea14e2cbc",
+    "effective_cve": "CVE-2023-42366",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox-binsh",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:07.423717+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42366"
+  },
+  {
+    "ID": "0a985659-1b66-4168-b008-f829e26a3912",
+    "effective_cve": "CVE-2023-42365",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox-binsh",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:06.695411+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42365"
+  },
+  {
+    "ID": "0ee82560-f969-40f3-92fb-24c943d05b9f",
+    "effective_cve": "CVE-2023-29337",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "NuGet.CommandLine",
+      "version": "6.3.1"
+    },
+    "timestamp": "2024-02-06T16:06:59.320039+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-6qmf-mmc7-6c2p"
+  },
+  {
+    "ID": "0ffc689d-10dc-4a66-b8e1-5501d3dbe758",
+    "effective_cve": "CVE-2021-42279",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.ChakraCore",
+      "version": "1.11.24"
+    },
+    "timestamp": "2024-02-06T16:09:45.103072+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-42279"
+  },
+  {
+    "ID": "1f04dc2c-c00d-4f16-bde7-e0a34140f9a9",
+    "effective_cve": "CVE-2023-42366",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ssl_client",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:07:04.932973+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42366"
+  },
+  {
+    "ID": "1f7ab002-f911-4862-ba55-9ba487b073b4",
+    "effective_cve": "CVE-2023-42363",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:03.970266+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42363"
+  },
+  {
+    "ID": "1f90ac4a-d3f2-4569-b211-c1063f6171dc",
+    "effective_cve": "CVE-2023-37267",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms.Infrastructure",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:18.692671+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-h8wc-r4jh-mg7m"
+  },
+  {
+    "ID": "234301fa-4293-44d2-ae06-2b2e8a8b425a",
+    "effective_cve": "CVE-2020-11022",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:06:34.764756+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-gxr4-xjj5-5px2"
+  },
+  {
+    "ID": "2519bf36-4c6f-4487-bfc0-956a0095949c",
+    "effective_cve": "CVE-2023-37267",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms.Web.BackOffice",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:10:01.598083+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-37267"
+  },
+  {
+    "ID": "27787167-0586-4bd0-9237-1cc001cd0684",
+    "effective_cve": "CVE-2023-38694",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:18.428224+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-xxc6-35r7-796w"
+  },
+  {
+    "ID": "29e2d5b1-93ae-4955-9602-4453ac45383a",
+    "effective_cve": "CVE-2023-36414",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Azure.Identity",
+      "version": "1.3.0"
+    },
+    "timestamp": "2024-02-06T16:06:02.322656+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-5mfx-4wcx-rv27"
+  },
+  {
+    "ID": "2c71a735-f2e2-4a33-931c-3f2dc1808ce8",
+    "effective_cve": "CVE-2023-42364",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox-binsh",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:06.348915+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42364"
+  },
+  {
+    "ID": "2cee3e53-56e9-4d75-b89d-1d51a7d0b06e",
+    "effective_cve": "CVE-2020-11023",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:09:44.198863+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-11023"
+  },
+  {
+    "ID": "2e131e18-239b-4f49-a8d0-8e49e8ba462d",
+    "effective_cve": "CVE-2023-42364",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ssl_client",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:07:03.770515+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42364"
+  },
+  {
+    "ID": "3099b13c-09b9-4dd6-9884-258a55227a19",
+    "effective_cve": "CVE-2023-49273",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:56.855295+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-49273"
+  },
+  {
+    "ID": "30b831f9-3f5d-4862-9f16-ab0e722b9f8f",
+    "effective_cve": "CVE-2023-42366",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:05.418796+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42366"
+  },
+  {
+    "ID": "30d8f040-dd00-4197-a47b-22eeb7eaa7ac",
+    "effective_cve": "CVE-2019-0980",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:58.611599+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-0980"
+  },
+  {
+    "ID": "374ce053-fc4b-48dd-91e8-edd5dbb9b0ee",
+    "effective_cve": "CVE-2023-29331",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Security.Cryptography.Pkcs",
+      "version": "7.0.0"
+    },
+    "timestamp": "2024-02-06T16:07:14.235157+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-555c-2p6r-68mm"
+  },
+  {
+    "ID": "3e2157a6-67b4-4c8d-b5c5-7d4d969d6991",
+    "effective_cve": "CVE-2023-48313",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:18.066392+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-v98m-398x-269r"
+  },
+  {
+    "ID": "40db541b-5016-4dbe-abb8-2b828152cf2b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:06:53.975380+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-59j7-ghrg-fj52"
+  },
+  {
+    "ID": "444cb9b9-9e92-420f-8428-4216916fde64",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:07:08.759703+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-59j7-ghrg-fj52"
+  },
+  {
+    "ID": "4c9107e0-16bd-460e-a992-7a4a07a1c097",
+    "effective_cve": "CVE-2024-0056",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.Data.SqlClient",
+      "version": "3.0.0.0"
+    },
+    "timestamp": "2024-02-06T16:09:46.099761+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0056"
+  },
+  {
+    "ID": "4c9ddcf9-2ca4-415e-83e8-5c6a07c48b97",
+    "effective_cve": "CVE-2020-11022",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:09:43.926341+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-11022"
+  },
+  {
+    "ID": "59a0f310-a2c5-42e1-8250-8d598aae0531",
+    "effective_cve": "CVE-2019-0980",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:13.643072+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-xhfc-gr8f-ffwc"
+  },
+  {
+    "ID": "63f81a42-626c-4b3b-b73f-38bc0881ec83",
+    "effective_cve": "CVE-2023-42364",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:04.538087+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42364"
+  },
+  {
+    "ID": "7628dac4-bd91-41c6-a818-29767a6b3bc6",
+    "effective_cve": "CVE-2019-0981",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:58.089093+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-0981"
+  },
+  {
+    "ID": "76c51f4c-97fe-4976-8a0a-193b5555ea43",
+    "effective_cve": "CVE-2023-42363",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ssl_client",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:07:03.092703+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42363"
+  },
+  {
+    "ID": "77aa63a6-04e8-40b5-866a-da5f9afabca2",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:09:48.450132+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21319"
+  },
+  {
+    "ID": "77e65552-c631-4a3d-9eeb-23ec23ef4f20",
+    "effective_cve": "CVE-2023-49278",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:16.608846+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-7x74-h8cw-qhxq"
+  },
+  {
+    "ID": "7d42c775-e995-4c11-829e-cadf40c97466",
+    "effective_cve": "CVE-2021-42279",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.ChakraCore",
+      "version": "1.11.24"
+    },
+    "timestamp": "2024-02-06T16:06:45.100172+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-jgrp-6qqq-3284"
+  },
+  {
+    "ID": "81acb56f-de4e-4e7b-8941-1aacdf80c646",
+    "effective_cve": "CVE-2023-29337",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "NuGet.CommandLine",
+      "version": "6.3.1"
+    },
+    "timestamp": "2024-02-06T16:09:50.804934+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29337"
+  },
+  {
+    "ID": "86074a76-062d-446f-860d-2de6259fcaf4",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:07:07.425849+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8g9c-28fc-mcx2"
+  },
+  {
+    "ID": "92435d87-77fe-457b-b657-b9d2190fc043",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:07:07.161187+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8g9c-28fc-mcx2"
+  },
+  {
+    "ID": "9299786c-e43b-4dd7-b288-e050b84994b8",
+    "effective_cve": "CVE-2023-49273",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:17.584210+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-cfr5-7p54-4qg8"
+  },
+  {
+    "ID": "92c1a756-f231-41d9-bf6c-79cded69ccc4",
+    "effective_cve": "CVE-2023-37267",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms.Web.BackOffice",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:21.028330+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-h8wc-r4jh-mg7m"
+  },
+  {
+    "ID": "94ae64e9-8f32-4dba-b8ef-5297675cf84a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:07:08.080814+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-59j7-ghrg-fj52"
+  },
+  {
+    "ID": "958e450b-d424-49ac-80d9-b128a99c9aea",
+    "effective_cve": "CVE-2023-49089",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:57.033540+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-49089"
+  },
+  {
+    "ID": "99a2dcfe-bea3-4275-aef4-b991572f749e",
+    "effective_cve": "CVE-2019-0657",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:13.185697+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-x5qj-9vmx-7g6g"
+  },
+  {
+    "ID": "9a223f8c-335c-4893-82ab-82ebaba08ae2",
+    "effective_cve": "CVE-2023-49274",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:56.645169+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-49274"
+  },
+  {
+    "ID": "9dd8a805-2d15-4d39-8937-0da2dd2e7610",
+    "effective_cve": "CVE-2024-0056",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.Data.SqlClient",
+      "version": "3.0.0"
+    },
+    "timestamp": "2024-02-06T16:06:45.574047+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-98g6-xh36-x2p7"
+  },
+  {
+    "ID": "a0183291-29bc-4e57-aeab-8d429aa6ac54",
+    "effective_cve": "CVE-2023-38694",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:57.679292+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-38694"
+  },
+  {
+    "ID": "a50127e5-2f96-4157-9645-67fb4d437f86",
+    "effective_cve": "CVE-2023-49089",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:15.461574+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-6324-52pr-h4p5"
+  },
+  {
+    "ID": "a65df754-6a34-4804-bbe8-d49d38bfad4b",
+    "effective_cve": "CVE-2024-0056",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.Data.SqlClient",
+      "version": "3.0.0"
+    },
+    "timestamp": "2024-02-06T16:09:45.447297+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0056"
+  },
+  {
+    "ID": "aa0ee26b-1b17-4c6e-a7ff-9f86b0e605e8",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:06:53.243449+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-59j7-ghrg-fj52"
+  },
+  {
+    "ID": "aa3b8248-a97d-4eac-bbf4-b90811123e6a",
+    "effective_cve": "CVE-2020-23064",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:09:44.487469+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-23064"
+  },
+  {
+    "ID": "aa79dc5a-6b79-4f8c-91a2-916d3e8a1a03",
+    "effective_cve": "CVE-2023-48227",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:57.463313+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-48227"
+  },
+  {
+    "ID": "b3cdaa82-53e0-428e-acd3-6b1500fb427a",
+    "effective_cve": "CVE-2022-2922",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "DotNetNuke.Core",
+      "version": "9.9.1"
+    },
+    "timestamp": "2024-02-06T16:06:32.459773+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-9w72-2f23-57gm"
+  },
+  {
+    "ID": "b5083808-a5a6-41ce-8a71-4da5d97c8032",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:06:56.689311+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8g9c-28fc-mcx2"
+  },
+  {
+    "ID": "b686ea9d-8298-43f3-8e29-5c5e210ccd61",
+    "effective_cve": "CVE-2023-36414",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Azure.Identity",
+      "version": "1.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:41.172367+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-36414"
+  },
+  {
+    "ID": "b9e1e6fc-1510-4d2d-964c-354533f56b80",
+    "effective_cve": "CVE-2024-0056",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.Data.SqlClient",
+      "version": "3.0.0.0"
+    },
+    "timestamp": "2024-02-06T16:06:48.554147+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-98g6-xh36-x2p7"
+  },
+  {
+    "ID": "be8f52ed-1182-4ed2-8812-8d645f491646",
+    "effective_cve": "CVE-2023-49278",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:56.448930+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-49278"
+  },
+  {
+    "ID": "c88f36f8-04b5-4151-b3a0-6e2e86bd011c",
+    "effective_cve": "CVE-2020-11023",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:06:35.574829+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-jpcq-cgw6-v4j6"
+  },
+  {
+    "ID": "cb555dc5-2e73-408a-bbb0-8c2eaed84677",
+    "effective_cve": "CVE-2019-0657",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:59.054775+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-0657"
+  },
+  {
+    "ID": "d0106304-7aed-478c-a41e-916f3b250e6f",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:09:47.728920+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21319"
+  },
+  {
+    "ID": "d406feab-4bba-4b38-b364-8008eb633329",
+    "effective_cve": "CVE-2018-1285",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "log4net",
+      "version": "2.0.6.0-.NET 4.5"
+    },
+    "timestamp": "2024-02-06T16:09:44.781320+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1285"
+  },
+  {
+    "ID": "d754c7fe-1c6a-4295-bfa1-73b53bb957b1",
+    "effective_cve": "CVE-2023-49279",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:09:56.097347+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-49279"
+  },
+  {
+    "ID": "d8c73e6a-8bdf-43ab-b64f-904d36654a33",
+    "effective_cve": "CVE-2023-29331",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Security.Cryptography.Pkcs",
+      "version": "7.0.0"
+    },
+    "timestamp": "2024-02-06T16:09:57.879750+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29331"
+  },
+  {
+    "ID": "dad7711c-dcf5-4d65-86c9-2c685c40aace",
+    "effective_cve": "CVE-2023-42365",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:04.960589+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42365"
+  },
+  {
+    "ID": "db8269f9-fc50-4e1a-ae3f-e9fb06c9a8bb",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:09:53.433489+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21319"
+  },
+  {
+    "ID": "dc156e7f-4ee1-430a-96af-2affa72f4359",
+    "effective_cve": "CVE-2023-48227",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:14.910196+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-335x-5wcm-8jv2"
+  },
+  {
+    "ID": "df111495-229d-4b07-ae40-53eb54bb32d8",
+    "effective_cve": "CVE-2023-49274",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:17.068280+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8qp8-9rpw-j46c"
+  },
+  {
+    "ID": "e09efe8c-d920-4edc-9424-8a67d09defc0",
+    "effective_cve": "CVE-2020-23064",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "jQuery",
+      "version": "3.4.1"
+    },
+    "timestamp": "2024-02-06T16:06:34.003690+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-257q-pv89-v3xv"
+  },
+  {
+    "ID": "e10e347c-84b8-4ef2-90fc-d90576cd45fa",
+    "effective_cve": "CVE-2018-1285",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "log4net",
+      "version": "2.0.6.0-.NET 4.5"
+    },
+    "timestamp": "2024-02-06T16:06:43.847749+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-2cwj-8chv-9pp9"
+  },
+  {
+    "ID": "e179c67e-d7c0-4861-93d7-ffde5ff8e9d6",
+    "effective_cve": "CVE-2019-0981",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.Private.Uri",
+      "version": "4.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:12.533129+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-5f2m-466j-3848"
+  },
+  {
+    "ID": "f24f62f4-6c00-4392-8b60-7d7d4a7e55a0",
+    "effective_cve": "CVE-2023-37267",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms.Infrastructure",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:10:02.032339+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-37267"
+  },
+  {
+    "ID": "f53faf87-fd0d-4461-935e-0eb81f4f0163",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "System.IdentityModel.Tokens.Jwt",
+      "version": "6.8.0.11012235604.824068adaeb7b158df2b36d8787f689646e715e0"
+    },
+    "timestamp": "2024-02-06T16:09:53.177027+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21319"
+  },
+  {
+    "ID": "f97ee163-f4ef-4eda-9a09-8ae3d0b34e82",
+    "effective_cve": "CVE-2022-2922",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "DotNetNuke.Core",
+      "version": "9.9.1"
+    },
+    "timestamp": "2024-02-06T16:09:43.513323+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2922"
+  },
+  {
+    "ID": "fb82a282-17fd-4bd8-9d51-a9956edbe906",
+    "effective_cve": "CVE-2023-49279",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Umbraco.Cms",
+      "version": "11.3.0"
+    },
+    "timestamp": "2024-02-06T16:07:16.022802+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-6xmx-85x3-4cv2"
+  },
+  {
+    "ID": "fe6fa44a-332c-4aa1-b5f9-29c449c098a3",
+    "effective_cve": "CVE-2023-42363",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox-binsh",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:06:05.985762+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42363"
+  },
+  {
+    "ID": "feb51eb2-ead7-4d8f-949c-e67833d15b3e",
+    "effective_cve": "CVE-2024-21319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Microsoft.IdentityModel.JsonWebTokens",
+      "version": "6.8.0"
+    },
+    "timestamp": "2024-02-06T16:06:55.272736+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8g9c-28fc-mcx2"
+  },
+  {
+    "ID": "fed9a843-2650-4839-a653-c2655777bc32",
+    "effective_cve": "CVE-2023-42365",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:e25a9a175433c2bfe9c04e6482e6c5eca0491629144c78061763f7f604fdea80"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ssl_client",
+      "version": "1.36.1-r5"
+    },
+    "timestamp": "2024-02-06T16:07:04.232479+00:00",
+    "tool": "grype@v0.74.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-42365"
+  }
+]

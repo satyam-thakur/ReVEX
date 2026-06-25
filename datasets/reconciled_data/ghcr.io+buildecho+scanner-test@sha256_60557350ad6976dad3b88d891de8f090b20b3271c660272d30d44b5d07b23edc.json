@@ -1,0 +1,162 @@
+[
+  {
+    "ID": "000e11ba-f0ee-4efd-9459-3958d0461597",
+    "effective_cve": "CVE-2017-1000382",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-common",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:19:20.297445+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2017-1000382"
+  },
+  {
+    "ID": "00f7bd25-e7b4-4438-863e-b762e47917bf",
+    "effective_cve": "CVE-2017-1000382",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-runtime",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:19:24.937786+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2017-1000382"
+  },
+  {
+    "ID": "1836e567-0bbf-4eb5-af07-2311e6d588a6",
+    "effective_cve": "CVE-2008-4677",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xxd",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:20:32.591510+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2008-4677"
+  },
+  {
+    "ID": "1c6d6475-f648-435a-a436-177032507a69",
+    "effective_cve": "CVE-2017-1000382",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xxd",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:20:33.844614+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2017-1000382"
+  },
+  {
+    "ID": "1f180dc4-bcb9-40ad-acec-7c7902d8fac6",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "9.1-1"
+    },
+    "timestamp": "2025-05-08T07:03:19.992943+00:00",
+    "tool": "grype[custom-db]@v0.78.0",
+    "user": "orizerah",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "2f07ca51-c34e-421f-9982-150ada26e8dd",
+    "effective_cve": "CVE-2011-3389",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.7.9-2+deb12u4"
+    },
+    "timestamp": "2025-05-08T07:03:26.166001+00:00",
+    "tool": "grype[custom-db]@v0.78.0",
+    "user": "orizerah",
+    "vulnerability_id": "CVE-2011-3389"
+  },
+  {
+    "ID": "7c0b9023-9386-4424-a948-cc7232bb1b75",
+    "effective_cve": "CVE-2008-4677",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-runtime",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:19:23.877033+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2008-4677"
+  },
+  {
+    "ID": "a4360dd8-4a1a-48e9-b085-82e45c710d99",
+    "effective_cve": "CVE-2017-1000382",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:19:11.222530+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2017-1000382"
+  },
+  {
+    "ID": "ea0260b8-d32b-45b1-bd4e-93e10012b417",
+    "effective_cve": "CVE-2008-4677",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:18:47.734034+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2008-4677"
+  },
+  {
+    "ID": "f0aafa1f-650c-4d6c-8c21-8aefc8bc5922",
+    "effective_cve": "CVE-2008-4677",
+    "image": {
+      "exact": "ghcr.io/buildecho/scanner-test@sha256:60557350ad6976dad3b88d891de8f090b20b3271c660272d30d44b5d07b23edc"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-common",
+      "version": "2:9.0.1378-2+deb12u2"
+    },
+    "timestamp": "2025-06-09T19:19:16.492782+00:00",
+    "tool": "grype[custom-db]@path:/Users/willmurphy/work/echo-os/grype+import-db=build/grype-db.tar.zst",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2008-4677"
+  }
+]

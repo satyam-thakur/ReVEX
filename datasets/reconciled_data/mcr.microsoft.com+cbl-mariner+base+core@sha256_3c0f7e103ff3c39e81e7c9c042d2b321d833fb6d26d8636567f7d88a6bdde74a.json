@@ -1,0 +1,567 @@
+[
+  {
+    "ID": "06f5103e-a8a2-4cf8-bb7c-b389810dd6a4",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-libs",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:43:40.229945",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-42916"
+  },
+  {
+    "ID": "10601142-a2bc-4662-a992-a69e07c10ebf",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-libs",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:44:21.734834",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-43551"
+  },
+  {
+    "ID": "17e8c887-b5d7-4b1b-b86a-3058e6403982",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-libs",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:43:14.231162",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-42915"
+  },
+  {
+    "ID": "19c1522e-4b4d-4998-93f1-bb1da12d5539",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:47:57.303567",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "21f80231-a919-4cac-bf96-a2d75863f10c",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:54:47.576802",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "2ddd4786-5e2d-45f8-8443-b33f9535afa4",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:43:44.779452",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "35baa129-0841-4c32-b9e1-6e8974a22628",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.3.3-3.cm2"
+    },
+    "timestamp": "2025-12-19T07:39:51.779805",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-34903"
+  },
+  {
+    "ID": "3cffb9d9-909d-468d-9e52-5f74936eca67",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:44:15.890997",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-43551"
+  },
+  {
+    "ID": "3f70f7ce-36c5-419a-91e8-339fa123615d",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.4.8-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:44:34.971655",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-43680"
+  },
+  {
+    "ID": "46167caf-ddbb-4a05-95bb-47274fc2a1c9",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.36.0-3.cm2"
+    },
+    "timestamp": "2025-12-19T07:40:52.677502",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-35737"
+  },
+  {
+    "ID": "4913957b-503e-46f2-8b27-5ed973ded1f8",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.3.3-3.cm2"
+    },
+    "timestamp": "2025-12-19T07:40:18.402087",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-3515"
+  },
+  {
+    "ID": "4a676b0a-8b71-483e-afc3-6a50edfa2c03",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-2.cm2"
+    },
+    "timestamp": "2023-05-24T14:24:14.642360",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "4d93c28d-86ef-43ab-99b2-bec0ac8fd471",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat-libs",
+      "version": "2.4.8-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:42:58.541714",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-40674"
+  },
+  {
+    "ID": "52bae09a-c244-414a-9d8a-f5e6fbbfa95d",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:43:12.540447",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-42915"
+  },
+  {
+    "ID": "59b5b4e8-0270-47d5-aaf7-477fd318d767",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:54:09.860128",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "5ae1f332-0deb-465f-b212-7d0059e94df9",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:54:49.232253",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "5c7aa26d-34e4-40d0-a6ee-81c1eedaf351",
+    "effective_cve": "CVE-2021-44964",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lua-libs",
+      "version": "5.4.3-4.cm2"
+    },
+    "timestamp": "2023-05-24T14:40:55.435007",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-44964"
+  },
+  {
+    "ID": "6b2a7ee6-4a34-4014-8a66-93c07e116c75",
+    "effective_cve": "CVE-2021-32256",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "11.2.0-2.cm2"
+    },
+    "timestamp": "2025-12-19T12:26:52.581777+00:00",
+    "tool": "grype[custom-db]@v0.104.1-2-g2fb4b753",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-32256"
+  },
+  {
+    "ID": "7627f678-3128-42e4-bc59-858aaeeb451d",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.6.1-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:41:41.600540",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-36227"
+  },
+  {
+    "ID": "76a7e9e3-0033-4246-84d9-273a62e2890c",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:40:30.953495",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "83794110-d34c-4f9f-a399-e2911b1e26a0",
+    "effective_cve": "CVE-2021-45985",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lua-libs",
+      "version": "5.4.3-4.cm2"
+    },
+    "timestamp": "2023-05-24T14:42:01.899633",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-45985"
+  },
+  {
+    "ID": "87eda5ee-d9e3-4950-b8d1-2b58dbce8c7e",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1k-17.cm2"
+    },
+    "timestamp": "2025-12-19T07:38:48.477820",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-2097"
+  },
+  {
+    "ID": "87f2a0f1-0e05-4196-90b7-a4ba6c73d0ac",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "e2fsprogs-libs",
+      "version": "1.46.5-2.cm2"
+    },
+    "timestamp": "2025-12-19T07:38:24.219840",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-1304"
+  },
+  {
+    "ID": "8925003c-17b6-4137-a4d1-ebbbfc3db26b",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:43:21.861697",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-42916"
+  },
+  {
+    "ID": "b27eac3a-2f4f-49bd-a0ee-56e9b20bfe7d",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-libs",
+      "version": "7.84.0-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:40:39.160759",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "b72cf711-eb55-4205-8015-b055e6a5a693",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:54:48.321856",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "b765d1d6-8725-443f-830e-4da77953b4fb",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:42:14.492907",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-37434"
+  },
+  {
+    "ID": "b983b1e5-36bf-4b15-87ee-e980464d6657",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.4.8-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:42:42.735945",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-40674"
+  },
+  {
+    "ID": "bc42dabd-f435-4580-b2d6-dd8c73c08edf",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat-libs",
+      "version": "2.4.8-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:44:44.294032",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-43680"
+  },
+  {
+    "ID": "c3192ac6-f30f-41dd-9f30-d0b276817952",
+    "effective_cve": "CVE-2021-3998",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "FP",
+    "note": "Marked as not applicable in Mariner-specific OVAL feed.\n",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-2.cm2"
+    },
+    "timestamp": "2023-07-18T19:45:05.879943",
+    "tool": "grype@v0.64.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3998"
+  },
+  {
+    "ID": "c43ebd27-a32e-4134-9e0b-dcbfaaae63f5",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:49:14.382930",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "cf352691-819a-4d00-935d-0a727a218b2d",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.3-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:39:25.021253",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-29458"
+  },
+  {
+    "ID": "d3d1ec21-da99-4f35-b9cf-d1076cfc9b2f",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.18.0-2.cm2"
+    },
+    "timestamp": "2023-05-24T14:38:29.360761",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "da515cc3-ea02-4f26-850f-931c4f90da93",
+    "effective_cve": "CVE-2021-32256",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "11.2.0-2.cm2"
+    },
+    "timestamp": "2025-12-19T12:27:51.175796+00:00",
+    "tool": "grype[custom-db]@v0.104.1-2-g2fb4b753",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-32256"
+  },
+  {
+    "ID": "e3f2204e-6b0f-4ae7-b64f-67306b411518",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gzip",
+      "version": "1.11-1.cm2"
+    },
+    "timestamp": "2025-12-19T07:37:36.277862",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-1271"
+  },
+  {
+    "ID": "ed449bae-d080-4372-a17a-a859c3022e93",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-24T14:52:44.942883",
+    "tool": "grype[custom-db]@v0.62.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "f049e201-5503-4460-a081-ded31733ed14",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1.1.1k-17.cm2"
+    },
+    "timestamp": "2025-12-19T07:38:59.993514",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2022-2097"
+  },
+  {
+    "ID": "f30ae1a0-223b-46b9-bc9c-2efe9fc01a77",
+    "effective_cve": "CVE-2020-22218",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:3c0f7e103ff3c39e81e7c9c042d2b321d833fb6d26d8636567f7d88a6bdde74a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssh2",
+      "version": "1.9.0-2.cm2"
+    },
+    "timestamp": "2025-12-19T12:27:25.761880+00:00",
+    "tool": "grype[custom-db]@v0.104.1-2-g2fb4b753",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2020-22218"
+  }
+]

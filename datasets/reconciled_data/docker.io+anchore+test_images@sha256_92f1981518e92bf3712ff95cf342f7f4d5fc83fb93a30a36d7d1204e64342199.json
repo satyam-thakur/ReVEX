@@ -1,0 +1,258 @@
+[
+  {
+    "ID": "1efe0719-5bc9-4fc8-adc1-1d773fc3dfb3",
+    "effective_cve": "CVE-2018-1000519",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp-session",
+      "version": "2.3.0"
+    },
+    "timestamp": "2022-09-29T19:20:27+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-fpwp-69xv-c67f"
+  },
+  {
+    "ID": "265b3d7e-dae5-43fe-9e2b-27dfa717acdb",
+    "effective_cve": "CVE-2020-15251",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sopel-plugins.channelmgnt",
+      "version": "1.0.0"
+    },
+    "timestamp": "2022-09-29T19:20:35+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-j257-jfvv-h3x5"
+  },
+  {
+    "ID": "2fff1bea-c9b4-419e-92ad-68ff77a48848",
+    "effective_cve": "CVE-2017-2592",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "oslo.middleware",
+      "version": "3.20.0"
+    },
+    "timestamp": "2022-09-29T19:20:28+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2592"
+  },
+  {
+    "ID": "42d2fa30-a334-49fe-837b-efad250376b7",
+    "effective_cve": "CVE-2021-21337",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Products.PluggableAuthService",
+      "version": "2.5"
+    },
+    "timestamp": "2022-09-29T19:20:30+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-p44j-xrqg-4xrr"
+  },
+  {
+    "ID": "5b3d0e20-a792-4c0e-9e5b-e35aa1b3b302",
+    "effective_cve": "CVE-2020-1747",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:32+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-1747"
+  },
+  {
+    "ID": "65d3ea44-92f2-4344-ab14-3ec09d6023b5",
+    "effective_cve": "CVE-2022-21195",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "url-regex",
+      "version": "1.0.0"
+    },
+    "timestamp": "2022-09-29T19:20:36+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-hg3w-7hj9-m3f7"
+  },
+  {
+    "ID": "7512a240-cdcc-49e8-905b-e69ea9ecf27d",
+    "effective_cve": "CVE-2021-21431",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sopel-plugins.channelmgnt",
+      "version": "1.0.0"
+    },
+    "timestamp": "2022-09-29T19:20:34+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-23c7-6444-399m"
+  },
+  {
+    "ID": "8591434a-79a5-4abf-957a-3750c563205d",
+    "effective_cve": "CVE-2021-21336",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Products.PluggableAuthService",
+      "version": "2.5"
+    },
+    "timestamp": "2022-09-29T19:20:30+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-p75f-g7gx-2r7p"
+  },
+  {
+    "ID": "ade921ff-56d8-4b9a-8d8f-fddfb9cffcf8",
+    "effective_cve": "CVE-2018-1000814",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp-session",
+      "version": "2.3.0"
+    },
+    "timestamp": "2022-09-29T19:20:28+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-mr4x-c4v9-x729"
+  },
+  {
+    "ID": "b378a64a-9582-4989-837d-7f8a5eb61c60",
+    "effective_cve": "CVE-2020-1747",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:33+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-6757-jp84-gxfx"
+  },
+  {
+    "ID": "d3cc31eb-4ca1-497b-beda-7fb1445beb66",
+    "effective_cve": "CVE-2020-14343",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:32+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-14343"
+  },
+  {
+    "ID": "d9280ba8-af54-4de2-ad62-883f9578483b",
+    "effective_cve": "CVE-2019-20477",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:33+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-3pqx-4fqf-j49f"
+  },
+  {
+    "ID": "da401475-ac33-4e6b-8c51-66ff060fb47a",
+    "effective_cve": "CVE-2021-33507",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "Products.PluggableAuthService",
+      "version": "2.5"
+    },
+    "timestamp": "2022-09-29T19:20:30+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-35rg-466w-77h3"
+  },
+  {
+    "ID": "ed2defa0-8208-438f-b211-495d83be1301",
+    "effective_cve": "CVE-2017-2592",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "oslo.middleware",
+      "version": "3.20.0"
+    },
+    "timestamp": "2022-09-29T19:20:29+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-xcp8-hh74-f6mc"
+  },
+  {
+    "ID": "efd8da02-2c8f-4783-ad8f-16a5581cce68",
+    "effective_cve": "CVE-2019-20477",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:31+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-20477"
+  },
+  {
+    "ID": "fe07d5f4-7915-49fe-bc1a-d0f4009bce4d",
+    "effective_cve": "CVE-2020-14343",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:92f1981518e92bf3712ff95cf342f7f4d5fc83fb93a30a36d7d1204e64342199"
+    },
+    "label": "TP",
+    "package": {
+      "name": "PyYAML",
+      "version": "5.1"
+    },
+    "timestamp": "2022-09-29T19:20:34+01:00",
+    "tool": "grype@34e08a0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-8q59-q68h-6hv4"
+  }
+]

@@ -1,0 +1,1278 @@
+[
+  {
+    "ID": "02b23fda-b9e3-4a87-831b-b7e5fc3c40d3",
+    "effective_cve": "CVE-2017-6991",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.14.1-1build1"
+    },
+    "timestamp": "2022-09-15T19:41:01-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-6991"
+  },
+  {
+    "ID": "03096ab9-b6ac-4e45-a0fd-bf1c1a63ce77",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "libfdisk1",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:15:13.836776+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "034acddc-cc0e-4e90-8360-cf518eeadef6",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsmartcols1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:41:02-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "06770d58-fd37-4ec9-a4f8-fa53e0d58be7",
+    "effective_cve": "CVE-2017-8283",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dpkg",
+      "version": "1.18.10ubuntu1.1"
+    },
+    "timestamp": "2022-09-15T19:40:25-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-8283"
+  },
+  {
+    "ID": "072a1ae9-d0e2-46a4-9860-c9fd2226733e",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "util-linux",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:21:18.552776+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "07efd067-7c57-4d05-9c08-a18c774a899a",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bsdutils",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:20-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "0989b8a5-8e60-48b1-b631-9ba0116e3de1",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:41:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "0c0a3c8e-97a0-486a-b828-4821b437ceeb",
+    "effective_cve": "CVE-2017-1000082",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-1000082 indicates not-affected for newer and older entries, so likely that yakkety should have been unaffected as well",
+    "package": {
+      "name": "libudev1",
+      "version": "231-9ubuntu5"
+    },
+    "timestamp": "2024-06-07T08:57:08.088513+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-1000082"
+  },
+  {
+    "ID": "14c0d1ac-7e82-4df1-a590-3f1a10abcbd5",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:34-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "17bd8c55-2173-49b9-8f88-a7ff0d199091",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "1a062212-6132-4bce-ab9b-7ddd547fd14f",
+    "effective_cve": "CVE-2017-11164",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/active/CVE-2017-11164 strongly indicates yakkety would have also been affected",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2024-06-07T09:54:43.647691+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "1a0eb59f-2b50-4bf2-8a0f-5c0c4bfb2ff7",
+    "effective_cve": "CVE-2017-8804",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "locales",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-8804"
+  },
+  {
+    "ID": "1ca2ad76-1ad1-49ab-b101-27848c9a9d6e",
+    "effective_cve": "CVE-2017-10989",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10989 indicates xenial was affected and checking the yakkety sqlite version indicates it should be considered so as well",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.14.1-1build1"
+    },
+    "timestamp": "2024-06-07T09:49:41.611732+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10989"
+  },
+  {
+    "ID": "229b82d9-c944-4fb9-ab57-bef4adb0c18b",
+    "effective_cve": "CVE-2017-11113",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11113 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libtinfo5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:52:34.041740+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11113"
+  },
+  {
+    "ID": "22a97168-e47c-4136-a778-1d48272d01ee",
+    "effective_cve": "CVE-2017-8804",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:35-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-8804"
+  },
+  {
+    "ID": "25fc6259-4cf6-40fe-b486-d54df15f89cf",
+    "effective_cve": "CVE-2017-7186",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2022-09-15T19:40:43-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-7186"
+  },
+  {
+    "ID": "26385e23-03d6-449f-8945-367aa52ced86",
+    "effective_cve": "CVE-2017-9217",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "231-9ubuntu5"
+    },
+    "timestamp": "2022-09-15T19:41:01-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-9217"
+  },
+  {
+    "ID": "26d32875-c82d-4f29-be07-cbebbff674a9",
+    "effective_cve": "CVE-2017-10684",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10684 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:45:01.397910+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10684"
+  },
+  {
+    "ID": "3159d2ec-f4d4-499a-9a42-35a00d85c5d9",
+    "effective_cve": "CVE-2016-9842",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/active/CVE-2016-9842 indicates a fix released for xenial so highly likely yakkety would have also required a fix if still supported",
+    "package": {
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu5.1"
+    },
+    "timestamp": "2024-06-07T08:51:44.016285+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-9842"
+  },
+  {
+    "ID": "33121484-ceeb-4cf2-ba72-7a752031a004",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "libsmartcols1",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:20:32.803962+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "35f9b515-b70e-4696-8ae1-402e2bc0c710",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.2-3.2ubuntu1.16.10.2"
+    },
+    "timestamp": "2022-09-15T19:40:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "398f6e1a-5e19-475a-b7b1-3d98e3b542aa",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "util-linux",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:57-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "3b722c51-bacc-4699-bd69-beaefec62a0e",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "libblkid1",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:14:59.558824+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "3b91d309-a894-41f0-8c79-c779ec30fee1",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:29-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "3bc54acc-8884-4f28-9b80-00cb6605c3da",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsmartcols1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:41:02-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "3e032f4a-457a-4ae4-9750-e8be6ba570f7",
+    "effective_cve": "CVE-2017-11112",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11112 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libtinfo5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:51:40.774751+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11112"
+  },
+  {
+    "ID": "3ef727a1-52d1-4161-b27a-842da3228868",
+    "effective_cve": "CVE-2017-7245",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2022-09-15T19:41:02-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-7245"
+  },
+  {
+    "ID": "3f49d032-ba74-424f-9e69-a0d3ee9d10fb",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "mount",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "41313f99-a693-4539-b2ef-802ce7d37a6d",
+    "effective_cve": "CVE-2017-7244",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2022-09-15T19:40:44-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-7244"
+  },
+  {
+    "ID": "42518c99-5020-4c02-9f46-02c61d23f319",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "libmount1",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:15:40.241783+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "461cb094-12e7-4d05-a4ff-f0b2ab187035",
+    "effective_cve": "CVE-2017-11113",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11113 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:52:34.502023+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11113"
+  },
+  {
+    "ID": "4a5045c9-3383-4968-b098-9aad23490ab2",
+    "effective_cve": "CVE-2017-9217",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "231-9ubuntu5"
+    },
+    "timestamp": "2022-09-15T19:41:01-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-9217"
+  },
+  {
+    "ID": "4f42f0b4-5746-4c99-bd83-4715ae61dfc3",
+    "effective_cve": "CVE-2017-10685",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncurses5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2022-09-15T19:40:40-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-10685"
+  },
+  {
+    "ID": "4f6ac22c-1e85-47df-88f7-d1ee4cee5a20",
+    "effective_cve": "CVE-2017-11112",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11112 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncurses5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:51:39.841361+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11112"
+  },
+  {
+    "ID": "5290f2e9-a931-4c72-bcca-432a5d743150",
+    "effective_cve": "CVE-2015-5180",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-5180"
+  },
+  {
+    "ID": "57bb01dd-aeab-46db-be53-772be3c5729c",
+    "effective_cve": "CVE-2017-10684",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10684 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:45:00.929475+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10684"
+  },
+  {
+    "ID": "58ed6b46-b72e-4633-8942-0a9d9b40e7d4",
+    "effective_cve": "CVE-2015-8985",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "multiarch-support",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:58-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-8985"
+  },
+  {
+    "ID": "5a7cbd34-722a-4f9e-846b-e0c99dc2fd2e",
+    "effective_cve": "CVE-2017-8804",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:37-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-8804"
+  },
+  {
+    "ID": "61234c95-c37b-4dd2-b735-4d30cd7b2c4f",
+    "effective_cve": "CVE-2017-10684",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10684 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libtinfo5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:45:00.462082+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10684"
+  },
+  {
+    "ID": "620a64f4-7783-4fdc-8cd3-1cc085cf63c9",
+    "effective_cve": "CVE-2017-10684",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10684 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncursesw5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:44:59.994765+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10684"
+  },
+  {
+    "ID": "6d1db107-1362-437d-881a-2bba008cf57a",
+    "effective_cve": "CVE-2017-11112",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11112 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:51:41.242603+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11112"
+  },
+  {
+    "ID": "6f4321f0-cd45-4ce3-aed4-cc2fffb21430",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "mount",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "76b4886c-20bf-484a-bab6-6c8ee79f0f5e",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "multiarch-support",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:58-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "7723dd06-ed93-4dee-a11f-d956d7d70692",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "bsdutils",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:14:38.883276+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "8438b630-2f38-447d-babb-34ebcbaf7e9a",
+    "effective_cve": "CVE-2015-5180",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "multiarch-support",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:59-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-5180"
+  },
+  {
+    "ID": "8b638e4b-da08-4332-a6cc-39c2de99ef11",
+    "effective_cve": "CVE-2017-11113",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11113 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncursesw5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:52:33.575420+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11113"
+  },
+  {
+    "ID": "8c7b5b42-c374-43d3-9b19-5a13c04e506d",
+    "effective_cve": "CVE-2017-1000082",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-1000082 indicates not-affected for newer and older entries, so likely that yakkety should have been unaffected as well",
+    "package": {
+      "name": "libsystemd0",
+      "version": "231-9ubuntu5"
+    },
+    "timestamp": "2024-06-07T08:56:34.199633+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-1000082"
+  },
+  {
+    "ID": "8f775b95-e850-473d-8cfb-57f29bbea655",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:39-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "92c326e0-4fd3-4e09-a98b-8ecd8d96f5c9",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "mount",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:18:58.174856+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "9372844d-ec79-45c6-bdd1-df31790c62a1",
+    "effective_cve": "CVE-2017-6512",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.22.2-3"
+    },
+    "timestamp": "2022-09-15T19:40:57-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-6512"
+  },
+  {
+    "ID": "948144ad-d78d-46db-af8e-50e66044c176",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.2-3.2ubuntu1.16.10.2"
+    },
+    "timestamp": "2022-09-15T19:40:57-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "975fe621-3a75-48d0-8f65-72698e22ff4e",
+    "effective_cve": "CVE-2017-10684",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-10684 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncurses5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:44:59.527741+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-10684"
+  },
+  {
+    "ID": "9cbd0e57-0035-47e4-af18-777945387aa1",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:41:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "a0bb37c8-2b61-46b4-bf3c-7a0fb26cea64",
+    "effective_cve": "CVE-2016-3189",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libbz2-1.0",
+      "version": "1.0.6-8build1"
+    },
+    "timestamp": "2022-09-15T19:40:30-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-3189"
+  },
+  {
+    "ID": "a2ebe175-88bd-4e25-9bed-9291cfb167a9",
+    "effective_cve": "CVE-2015-8985",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:33-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-8985"
+  },
+  {
+    "ID": "a4b63a4e-7b55-49a1-89f2-96de32aac391",
+    "effective_cve": "CVE-2017-2616",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "FP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-2616 indicates util-linux is not affected and util-linux is the source package in this case",
+    "package": {
+      "name": "libuuid1",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2024-06-07T08:21:06.901706+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-2616"
+  },
+  {
+    "ID": "a5ef7d0b-8a8f-48db-b2b6-fd3bc491e45e",
+    "effective_cve": "CVE-2017-11112",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11112 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:51:41.708831+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11112"
+  },
+  {
+    "ID": "a609dfea-9187-4215-8420-389a04ab6163",
+    "effective_cve": "CVE-2017-6983",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.14.1-1build1"
+    },
+    "timestamp": "2022-09-15T19:41:01-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-6983"
+  },
+  {
+    "ID": "a62775a6-2af1-4c66-b098-a3d6b21b4eed",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "locales",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:41:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "a84a6f05-7024-4054-b5b3-9e4830edbac2",
+    "effective_cve": "CVE-2017-10685",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2022-09-15T19:40:58-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-10685"
+  },
+  {
+    "ID": "a9f424d1-972a-4a2e-9da5-f8da91eb5562",
+    "effective_cve": "CVE-2017-7246",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2022-09-15T19:41:02-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-7246"
+  },
+  {
+    "ID": "af154520-8673-4f1f-95bf-97a7beb9fb3c",
+    "effective_cve": "CVE-2017-10685",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtinfo5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2022-09-15T19:41:01-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-10685"
+  },
+  {
+    "ID": "b05e8b7c-a570-42a0-93e0-5e602857cbdf",
+    "effective_cve": "CVE-2015-5180",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "locales",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:41:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-5180"
+  },
+  {
+    "ID": "b45f15a6-a4ad-4346-949e-b522ffcbf02d",
+    "effective_cve": "CVE-2015-5180",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-5180"
+  },
+  {
+    "ID": "bc71a77d-5c4f-462a-9604-1a7ef0bb77e3",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bsdutils",
+      "version": "1:2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:07-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "c21b6fec-c503-49a6-aa93-75cac6b566c4",
+    "effective_cve": "CVE-2016-9841",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/active/CVE-2016-9841 indicates a fix released for xenial so highly likely yakkety would have also required a fix if still supported",
+    "package": {
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu5.1"
+    },
+    "timestamp": "2024-06-07T08:50:56.806404+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-9841"
+  },
+  {
+    "ID": "c8685f31-9d8e-4d0f-9d09-a4fb4b52cabc",
+    "effective_cve": "CVE-2017-11112",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11112 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncursesw5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:51:40.309170+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11112"
+  },
+  {
+    "ID": "ca1e7ee1-ab18-4a48-bd8f-b03ec6ff3b1f",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:39-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "d150a6ef-9d61-4d70-a491-fa9ed7292915",
+    "effective_cve": "CVE-2016-9840",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/active/CVE-2016-9840 indicates a fix released for xenial so highly likely yakkety would have also required a fix if still supported",
+    "package": {
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu5.1"
+    },
+    "timestamp": "2024-06-07T08:47:30.551612+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-9840"
+  },
+  {
+    "ID": "d3ad958d-628b-40bf-a4cc-99f0ef78b671",
+    "effective_cve": "CVE-2017-10685",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncursesw5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2022-09-15T19:40:40-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-10685"
+  },
+  {
+    "ID": "d56a40aa-ae8d-41f1-9b78-5938cc130a7c",
+    "effective_cve": "CVE-2017-10685",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2022-09-15T19:40:57-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-10685"
+  },
+  {
+    "ID": "da6a61e7-cc17-4398-ba41-50685d1c727e",
+    "effective_cve": "CVE-2015-8985",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "locales",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:41:00-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-8985"
+  },
+  {
+    "ID": "dbed98e5-a09b-4d03-a939-1c697abed345",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "util-linux",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:56-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "dc7552bd-318a-47fb-8bee-5ebe97862d2e",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:26-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "de251bb0-8ed8-482e-ac7f-45fef3e76f62",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.25-2ubuntu3~16.10"
+    },
+    "timestamp": "2022-09-15T19:40:22-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "e77d8fe7-5637-45e4-8b57-1c5513f77c78",
+    "effective_cve": "CVE-2016-5011",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libfdisk1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:38-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-5011"
+  },
+  {
+    "ID": "ea13ee2d-af6b-40d2-8b7d-a50720bb4022",
+    "effective_cve": "CVE-2017-8804",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "multiarch-support",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:58-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-8804"
+  },
+  {
+    "ID": "ec5c28ac-2642-44bf-8dcd-31831c4adfcc",
+    "effective_cve": "CVE-2017-11113",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11113 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "libncurses5",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:52:33.093447+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11113"
+  },
+  {
+    "ID": "ed755a18-cf99-439c-b8b8-3a445d072bde",
+    "effective_cve": "CVE-2016-9843",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/active/CVE-2016-9843 indicates a fix released for xenial so highly likely yakkety would have also required a fix if still supported",
+    "package": {
+      "name": "zlib1g",
+      "version": "1:1.2.8.dfsg-2ubuntu5.1"
+    },
+    "timestamp": "2024-06-07T08:52:01.652518+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-9843"
+  },
+  {
+    "ID": "f8d4ead6-d1fe-47ae-b017-a742be588ee1",
+    "effective_cve": "CVE-2017-11113",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "note": "https://git.launchpad.net/ubuntu-cve-tracker/tree/retired/CVE-2017-11113 indicates v6.0 lines of curses required patches and looking back yakkety was 6.0 so likely would have also been affected",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.0+20160625-1ubuntu1"
+    },
+    "timestamp": "2024-06-07T09:52:34.968286+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11113"
+  },
+  {
+    "ID": "f915d659-0a02-4ba5-9335-e2f3895ee813",
+    "effective_cve": "CVE-2017-6004",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-2"
+    },
+    "timestamp": "2022-09-15T19:40:41-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2017-6004"
+  },
+  {
+    "ID": "f924b1c3-1bd8-43f8-8d99-2c1b9693ff48",
+    "effective_cve": "CVE-2016-2779",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libfdisk1",
+      "version": "2.28.2-1ubuntu1.2"
+    },
+    "timestamp": "2022-09-15T19:40:38-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2016-2779"
+  },
+  {
+    "ID": "f92d9031-5e7d-435f-a032-e5c1234e6542",
+    "effective_cve": "CVE-2015-8985",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:8dc9652808dc091400d7d5983949043a9f9c7132b15c14814275d25f94bca18a"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.24-3ubuntu2.2"
+    },
+    "timestamp": "2022-09-15T19:40:36-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2015-8985"
+  }
+]

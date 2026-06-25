@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "37ae4ae9-e3ae-4ba7-aea4-23c515190732",
+    "effective_cve": "CVE-2020-22916",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:09f035f46361d193ded647342903b413d57d05cc06acff8285f9dda9f2d269d5"
+    },
+    "label": "??",
+    "package": {
+      "name": "liblzma5",
+      "version": "5.4.1-0.2"
+    },
+    "timestamp": "2024-06-10T15:19:16.738838+00:00",
+    "tool": "grype@v0.78.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-22916"
+  },
+  {
+    "ID": "6fec99f1-b417-4c11-ae57-8f304003d9a1",
+    "effective_cve": "CVE-2016-20013",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:09f035f46361d193ded647342903b413d57d05cc06acff8285f9dda9f2d269d5"
+    },
+    "label": "??",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.37-0ubuntu2"
+    },
+    "timestamp": "2023-07-03T08:23:25.278587",
+    "tool": "grype@v0.63.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "b3a3775f-66cb-4391-89c6-733d43f9479a",
+    "effective_cve": "CVE-2016-20013",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:09f035f46361d193ded647342903b413d57d05cc06acff8285f9dda9f2d269d5"
+    },
+    "label": "??",
+    "package": {
+      "name": "libc6",
+      "version": "2.37-0ubuntu2"
+    },
+    "timestamp": "2023-07-03T08:23:25.862604",
+    "tool": "grype@v0.63.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "ca2e2b3c-408a-4790-aed1-6d5af7065130",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:09f035f46361d193ded647342903b413d57d05cc06acff8285f9dda9f2d269d5"
+    },
+    "label": "??",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.19.0-2"
+    },
+    "timestamp": "2024-06-10T15:19:19.217677+00:00",
+    "tool": "grype@v0.78.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "ea736d50-dbe4-4d60-b36c-3044d944b5a5",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:09f035f46361d193ded647342903b413d57d05cc06acff8285f9dda9f2d269d5"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "9.1-1ubuntu2"
+    },
+    "timestamp": "2023-07-03T08:23:24.185975",
+    "tool": "grype@v0.63.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2781"
+  }
+]

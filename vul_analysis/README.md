@@ -24,10 +24,19 @@ vul_analysis/
 │   ├── tools/                # Agent tools (NVD, SBOM, code retrieval)
 │   └── utils/                # Helpers and constants
 ├── datasets/                 # Evaluation datasets (Vulhub, FP cases)
-├── evals/                    # Evaluation results and analysis
 ├── logs/                     # Execution logs and result JSONs
 └── .cache/                   # Cached repositories and vector DBs
 ```
+
+## Sample Data Availability
+
+- `vul_analysis/datasets/` includes evaluation inputs (`vulhub_eval_2020_2025.json`, `vulhub_fp.json`) and sample SBOM text files.
+- `datasets/reconciled_data/` (repo root) provides reconciled per-image vulnerability JSON records.
+- `GithubActions/` (repo root) contains sample scanner outputs (Clair, Grype, Snyk, Trivy) and Syft SBOM exports.
+
+## Double-Blind Note
+
+This repository is prepared for double-blind review and intentionally avoids identity-revealing information in this module README.
 
 ## Quick Start
 
@@ -60,6 +69,9 @@ python -m vul_analysis.src.runner --max-cves 5 --model gemini-2.0-flash
 
 # Run in evaluation mode (uses predefined train/eval splits)
 python -m vul_analysis.src.runner --eval --model gemini-2.0-flash
+
+# Reproduce the default evaluation setting used in this repository
+python -m vul_analysis.src.runner --eval --seed 42 --max-cves 5 --model gemini-2.0-flash
 ```
 
 ## Prompt Optimization

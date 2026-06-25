@@ -1,0 +1,1314 @@
+[
+  {
+    "ID": "0075fdcc-4165-4426-ac64-f1e9bcc349e3",
+    "effective_cve": "CVE-2022-47629",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libksba8",
+      "version": "1.3.0-23.1"
+    },
+    "timestamp": "2024-01-04T13:23:43.820535",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-47629"
+  },
+  {
+    "ID": "076b1def-9f99-4a49-b1bc-a94b469a06d7",
+    "effective_cve": "CVE-2022-42898",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5",
+      "version": "1.12.5-40.40.2"
+    },
+    "timestamp": "2024-01-04T13:23:09.188670",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-42898"
+  },
+  {
+    "ID": "0a9baaf0-2ee0-487a-8893-9f2e45d29cd9",
+    "effective_cve": "CVE-2021-45960",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:20.499138",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45960"
+  },
+  {
+    "ID": "180115c0-87dc-4893-8f51-144f96eea845",
+    "effective_cve": "CVE-2022-25236",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:29.183238",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25236"
+  },
+  {
+    "ID": "1861e69c-b88f-407d-8a2c-05233d94182a",
+    "effective_cve": "CVE-2022-40304",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:38.540478",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40304"
+  },
+  {
+    "ID": "18676518-99f7-49b3-94e0-0ae6c03cad57",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "util-linux",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:36.257377",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "1b4c8614-0ec3-4eac-852d-053b4d102a59",
+    "effective_cve": "CVE-2022-37434",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libz1",
+      "version": "1.2.11-3.3.1"
+    },
+    "timestamp": "2024-01-04T13:23:38.159513",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-37434"
+  },
+  {
+    "ID": "1ca1008a-61d2-4a31-b78c-c64e69e3c3e7",
+    "effective_cve": "CVE-2023-0466",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:41.829371",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0466"
+  },
+  {
+    "ID": "1d1d19e6-5c81-4531-b03f-7593eb159bad",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount1",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:42.755973",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "234da35c-92ba-45f5-8290-dd1490785b81",
+    "effective_cve": "CVE-2022-4415",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:40.969190",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4415"
+  },
+  {
+    "ID": "26d21d80-2642-41ed-9681-c5a6601df4a2",
+    "effective_cve": "CVE-2022-27781",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:10.591295",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27781"
+  },
+  {
+    "ID": "2aa95cb5-9b77-44a7-b99f-a67fe450d5f6",
+    "effective_cve": "CVE-2022-23218",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.22-114.15.1"
+    },
+    "timestamp": "2024-01-04T13:23:07.328432",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23218"
+  },
+  {
+    "ID": "2e34a0d5-7028-408f-b3a1-382d52e9fded",
+    "effective_cve": "CVE-2022-40674",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:30.229536",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40674"
+  },
+  {
+    "ID": "2f08d845-308f-4c64-96c4-f1b6a6fe0911",
+    "effective_cve": "CVE-2022-22823",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:21.833808",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22823"
+  },
+  {
+    "ID": "35e244d4-4111-454b-82b3-c0ce853b23b1",
+    "effective_cve": "CVE-2023-27536",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:18.795351",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27536"
+  },
+  {
+    "ID": "3725500d-7986-4655-a62b-0fe69421534d",
+    "effective_cve": "CVE-2022-22826",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:22.825903",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22826"
+  },
+  {
+    "ID": "3bbdf0c7-d0d2-4e2f-a943-f6ad1bb2e28f",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid1",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:39.551710",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "4386c555-b7c4-4d82-8551-922f448854c0",
+    "effective_cve": "CVE-2022-22824",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:22.111720",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22824"
+  },
+  {
+    "ID": "445e5dda-4843-4900-bf07-4a3838a2c47f",
+    "effective_cve": "CVE-2022-1271",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "liblzma5",
+      "version": "5.0.5-6.3.1"
+    },
+    "timestamp": "2024-01-04T13:23:42.986447",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1271"
+  },
+  {
+    "ID": "479760b5-d30c-46d4-a81a-b9d756a139b0",
+    "effective_cve": "CVE-2023-0466",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.010633",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0466"
+  },
+  {
+    "ID": "4b2172a4-8dcb-4dc1-9584-457d9cf50d0b",
+    "effective_cve": "CVE-2022-35252",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:15.325269",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-35252"
+  },
+  {
+    "ID": "4e63a912-8643-4165-91c2-b6667210fe4a",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid1",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:09.902369",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "4f3fc909-f88e-41d8-b7c9-9b0f88a326c9",
+    "effective_cve": "CVE-2022-32206",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:11.227307",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32206"
+  },
+  {
+    "ID": "4f508458-35d6-4af9-981a-88d3d84784f9",
+    "effective_cve": "CVE-2023-27534",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:18.024614",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27534"
+  },
+  {
+    "ID": "539be617-a3d4-46ec-82ed-5f90a9c2793f",
+    "effective_cve": "CVE-2023-27538",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:19.135309",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27538"
+  },
+  {
+    "ID": "539d8b9e-882b-4ebb-ab2a-ae1e0c66731c",
+    "effective_cve": "CVE-2022-3515",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libksba8",
+      "version": "1.3.0-23.1"
+    },
+    "timestamp": "2024-01-04T13:23:44.432103",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3515"
+  },
+  {
+    "ID": "59a7617c-7152-47e3-ac49-0e42f5debd23",
+    "effective_cve": "CVE-2022-23308",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:39.075329",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23308"
+  },
+  {
+    "ID": "5f8d40b9-8c92-41ed-9b03-8b9047f17475",
+    "effective_cve": "CVE-2023-28320",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:19.456005",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-28320"
+  },
+  {
+    "ID": "667a8164-de3a-413c-84a6-762d05198538",
+    "effective_cve": "CVE-2023-23916",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:17.026326",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-23916"
+  },
+  {
+    "ID": "6d34f51a-7b3c-48c7-93a6-045a423db96e",
+    "effective_cve": "CVE-2022-40303",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:38.704567",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-40303"
+  },
+  {
+    "ID": "71ac42df-3a90-4ce9-923d-fcb6926949c1",
+    "effective_cve": "CVE-2023-28322",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:20.136470",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-28322"
+  },
+  {
+    "ID": "72f44b37-eb6f-4f53-a0e1-fd77ea8777b8",
+    "effective_cve": "CVE-2023-28321",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:19.787235",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-28321"
+  },
+  {
+    "ID": "7407664b-31fb-47e9-b28f-e9f4bc135bfd",
+    "effective_cve": "CVE-2022-23990",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:28.553358",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23990"
+  },
+  {
+    "ID": "7638b56c-0682-4951-a643-f301522e07b0",
+    "effective_cve": "CVE-2022-29824",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:38.895491",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-29824"
+  },
+  {
+    "ID": "76734b8c-42c8-4eb2-a705-73e80446b00c",
+    "effective_cve": "CVE-2022-4415",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:40.044425",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4415"
+  },
+  {
+    "ID": "76aa11cd-ef22-448a-a78c-4dd6b1cbb87a",
+    "effective_cve": "CVE-2016-3709",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:39.336173",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-3709"
+  },
+  {
+    "ID": "799d770d-0fb5-4e60-b71c-44f58799469b",
+    "effective_cve": "CVE-2022-29155",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2_4-2",
+      "version": "2.4.41-22.2.3"
+    },
+    "timestamp": "2024-01-04T13:23:43.358152",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-29155"
+  },
+  {
+    "ID": "7a88c998-f8b5-4497-966a-58ab7d579b64",
+    "effective_cve": "CVE-2023-0215",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.376956",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0215"
+  },
+  {
+    "ID": "7c2f367c-d05c-4fe7-adb0-25e3ab8f4982",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.22-114.15.1"
+    },
+    "timestamp": "2024-01-04T13:23:02.619987",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3999"
+  },
+  {
+    "ID": "80b55ceb-8ab9-4553-bdac-7bd42763c22a",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.9-3.10.1"
+    },
+    "timestamp": "2024-01-04T13:23:40.749307",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "8215af8e-f6aa-4ede-b602-ffc0038f9a65",
+    "effective_cve": "CVE-2022-22825",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:22.427324",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22825"
+  },
+  {
+    "ID": "8c29b004-eb3e-47e4-9aee-5e3064ccd44e",
+    "effective_cve": "CVE-2021-46143",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:21.132445",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46143"
+  },
+  {
+    "ID": "90ba8b89-5b86-4ef8-b094-654e0be421d9",
+    "effective_cve": "CVE-2022-25314",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:29.686799",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25314"
+  },
+  {
+    "ID": "91d3501b-8222-4adc-9525-552e126ac698",
+    "effective_cve": "CVE-2022-1292",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.760500",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1292"
+  },
+  {
+    "ID": "955bb400-3001-4065-90cf-ab8faa8c39bf",
+    "effective_cve": "CVE-2022-2068",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:42.358418",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2068"
+  },
+  {
+    "ID": "96aa478f-8253-49fc-b9fe-529a3cd46b6b",
+    "effective_cve": "CVE-2022-32221",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:14.460240",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32221"
+  },
+  {
+    "ID": "9a964485-a418-42d4-8a3c-e11eae32132c",
+    "effective_cve": "CVE-2022-43552",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:16.269594",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-43552"
+  },
+  {
+    "ID": "a7c4b8bd-874c-48f2-a419-696a263fa771",
+    "effective_cve": "CVE-2022-24407",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsasl2-3",
+      "version": "2.1.26-14.2.1"
+    },
+    "timestamp": "2024-01-04T13:23:41.505245",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-24407"
+  },
+  {
+    "ID": "a8be8809-5f9f-4372-971b-43be9c0add9f",
+    "effective_cve": "CVE-2023-27533",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:17.476993",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27533"
+  },
+  {
+    "ID": "aad729df-1e59-4edc-9367-51951115069d",
+    "effective_cve": "CVE-2017-16932",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2-2",
+      "version": "2.9.4-46.46.1"
+    },
+    "timestamp": "2024-01-04T13:23:50.117591",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-16932"
+  },
+  {
+    "ID": "b3501b61-e0b6-478c-a3c8-e5e963da986b",
+    "effective_cve": "CVE-2022-0778",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:46.331650",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0778"
+  },
+  {
+    "ID": "b5a78117-580d-4d2e-8092-7ad413280c1a",
+    "effective_cve": "CVE-2022-2068",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.567292",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2068"
+  },
+  {
+    "ID": "b86321a3-4ed4-497a-87e5-2313f661f9a0",
+    "effective_cve": "CVE-2022-43680",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:30.410713",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-43680"
+  },
+  {
+    "ID": "bade9a22-9388-40c5-9896-fb98b398f3b1",
+    "effective_cve": "CVE-2023-0286",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.186737",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0286"
+  },
+  {
+    "ID": "c08720cc-08cd-4b9d-acf5-e16a53b647e7",
+    "effective_cve": "CVE-2022-1586",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre1",
+      "version": "8.45-8.7.1"
+    },
+    "timestamp": "2024-01-04T13:23:41.664833",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1586"
+  },
+  {
+    "ID": "c0893507-602e-4c80-b924-b5903f583672",
+    "effective_cve": "CVE-2022-22822",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:21.543756",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22822"
+  },
+  {
+    "ID": "c0e8bdaf-91e7-41d0-9570-799e15bf4da7",
+    "effective_cve": "CVE-2022-1292",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:42.537015",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1292"
+  },
+  {
+    "ID": "c332f578-2e13-43b4-8e9b-cf96a2e9a6a8",
+    "effective_cve": "CVE-2022-3821",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:41.142831",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3821"
+  },
+  {
+    "ID": "c7a3853a-e043-4717-8c54-06545f04ea87",
+    "effective_cve": "CVE-2022-34903",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gpg2",
+      "version": "2.0.24-9.8.1"
+    },
+    "timestamp": "2024-01-04T13:23:08.433566",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-34903"
+  },
+  {
+    "ID": "cc487e11-7a8e-4a0a-b4c2-45e2ab5e2b51",
+    "effective_cve": "CVE-2023-31484",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.18.2-12.23.1"
+    },
+    "timestamp": "2024-01-04T13:23:36.851461",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-31484"
+  },
+  {
+    "ID": "cd962127-a753-44a5-a5b3-34bd6256ca98",
+    "effective_cve": "CVE-2022-3821",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:40.305720",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3821"
+  },
+  {
+    "ID": "ce944a23-56b1-4dfb-9e41-79553b1b40a7",
+    "effective_cve": "CVE-2022-25235",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:28.905320",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25235"
+  },
+  {
+    "ID": "cee10f77-82b2-470d-b587-aaa2b646d3e9",
+    "effective_cve": "CVE-2015-8985",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.22-114.15.1"
+    },
+    "timestamp": "2024-01-04T13:23:00.749722",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-8985"
+  },
+  {
+    "ID": "cfd01b47-706a-4f43-82a4-dde35aba3783",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsmartcols1",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:41.326029",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "d75674f3-9124-458e-9906-3f433801b6a8",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libfdisk1",
+      "version": "2.29.2-7.14"
+    },
+    "timestamp": "2024-01-04T13:23:30.635299",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37600"
+  },
+  {
+    "ID": "d99748c8-dfdc-4bdc-9512-c02476145419",
+    "effective_cve": "CVE-2022-0778",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:37.963735",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-0778"
+  },
+  {
+    "ID": "db28bd10-6029-4449-8a1b-4efa4c6245b7",
+    "effective_cve": "CVE-2022-25313",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:29.455858",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25313"
+  },
+  {
+    "ID": "dba425ae-71cf-4924-9773-317315f54464",
+    "effective_cve": "CVE-2023-0286",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:42.014198",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0286"
+  },
+  {
+    "ID": "dbe3e6e9-f94f-425c-9211-8ccef122e9c0",
+    "effective_cve": "CVE-2022-23852",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:23.549147",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23852"
+  },
+  {
+    "ID": "e1f4d1ac-f62c-4403-816b-d21999fbdbc1",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libz1",
+      "version": "1.2.11-3.3.1"
+    },
+    "timestamp": "2024-01-04T13:23:38.349598",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-25032"
+  },
+  {
+    "ID": "e2d777fa-9afa-4565-a4f7-22c2e706ecd0",
+    "effective_cve": "CVE-2022-27782",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:10.923811",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27782"
+  },
+  {
+    "ID": "e5a7cc90-c1ef-4455-9cc4-642e0563473d",
+    "effective_cve": "CVE-2023-29383",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "shadow",
+      "version": "4.2.1-27.19.1"
+    },
+    "timestamp": "2024-01-04T13:23:36.630589",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29383"
+  },
+  {
+    "ID": "e5dc585f-b3b0-4d51-bc56-564c5e1bb03e",
+    "effective_cve": "CVE-2023-26604",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:48.547539",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-26604"
+  },
+  {
+    "ID": "e6b415b4-f9b0-4c0d-b7f7-a67bc28b615b",
+    "effective_cve": "CVE-2023-26604",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "228-150.98.1"
+    },
+    "timestamp": "2024-01-04T13:23:39.767761",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-26604"
+  },
+  {
+    "ID": "e900ff84-b5c0-4f21-ba0e-095081df99ac",
+    "effective_cve": "CVE-2022-1304",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcom_err2",
+      "version": "1.43.8-3.14.1"
+    },
+    "timestamp": "2024-01-04T13:23:10.248099",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1304"
+  },
+  {
+    "ID": "e9034aa4-3966-45ea-80cf-1777005028f9",
+    "effective_cve": "CVE-2023-0215",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenssl1_0_0",
+      "version": "1.0.2p-3.42.2"
+    },
+    "timestamp": "2024-01-04T13:23:42.176449",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0215"
+  },
+  {
+    "ID": "f4294d33-0c18-42c6-be54-90f4e1418bbd",
+    "effective_cve": "CVE-2022-25315",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:29.951537",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-25315"
+  },
+  {
+    "ID": "f443091d-5f86-4d53-aa89-88f25551c8ec",
+    "effective_cve": "CVE-2023-27535",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:18.471036",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27535"
+  },
+  {
+    "ID": "f78da1e7-d84c-4640-a59b-8f3a3f0c7ec1",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.9-3.10.1"
+    },
+    "timestamp": "2024-01-04T13:23:40.542578",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "fd2a1c5e-0e3b-4405-a8fb-308a4161e6c6",
+    "effective_cve": "CVE-2022-23219",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.22-114.15.1"
+    },
+    "timestamp": "2024-01-04T13:23:07.861703",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23219"
+  },
+  {
+    "ID": "fd8ca475-c033-4094-bdab-5e67ac76b50a",
+    "effective_cve": "CVE-2022-22827",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.1.0-21.9.1"
+    },
+    "timestamp": "2024-01-04T13:23:23.226686",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-22827"
+  },
+  {
+    "ID": "fe55446a-2ccf-4883-9f00-58af9f0f08cd",
+    "effective_cve": "CVE-2022-32208",
+    "image": {
+      "exact": "registry.suse.com/suse/sles12sp4@sha256:94b537f5b312e7397b5d0bbb3d892f961acdd9454950fc233d77f771e25335fb"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.60.0-4.30.1"
+    },
+    "timestamp": "2024-01-04T13:23:13.427854",
+    "tool": "grype@v0.73.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-32208"
+  }
+]

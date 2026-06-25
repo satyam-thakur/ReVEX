@@ -1,0 +1,1586 @@
+[
+  {
+    "ID": "01ee2ae1-8126-45ec-984f-6113a3f9c28a",
+    "effective_cve": "CVE-2008-3234",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:45+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2008-3234"
+  },
+  {
+    "ID": "0209ef80-cf05-4a73-b28c-2bf72b2b674b",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1n-0+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:47:00+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "02ad6d78-744a-4c71-bdc0-a2262707e7bd",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:18+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "050cd8c0-b012-445e-b392-4ecc8819e03a",
+    "effective_cve": "CVE-2017-17740",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.57+dfsg-3+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:45:33+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-17740"
+  },
+  {
+    "ID": "09125427-7e41-4fc1-abee-31c1a5c6d07d",
+    "effective_cve": "CVE-2021-36084",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:00+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36084"
+  },
+  {
+    "ID": "0c45128e-0308-4dcf-bc67-0f28b166d2df",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.16.0-2"
+    },
+    "timestamp": "2022-11-14T16:46:16+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "0edd5ce5-ca64-423e-8edc-2658287f6099",
+    "effective_cve": "CVE-2021-22922",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:42:32+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22922"
+  },
+  {
+    "ID": "1385d17d-204f-4fec-ac2d-602bb6780394",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2+20201114-2"
+    },
+    "timestamp": "2022-11-14T16:46:32+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "14641613-098f-4a7d-be7b-cc0af29df660",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:41+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "1672146a-2661-4816-8759-db16b7cd022c",
+    "effective_cve": "CVE-2011-3374",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "apt",
+      "version": "2.2.4"
+    },
+    "timestamp": "2022-11-14T16:37:18+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3374"
+  },
+  {
+    "ID": "177399a1-4085-44ed-b52e-db71aca1c3bb",
+    "effective_cve": "CVE-2017-11164",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-13"
+    },
+    "timestamp": "2022-11-14T16:45:47+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "189e0950-5a27-48d9-80b4-526a5603799c",
+    "effective_cve": "CVE-2019-8457",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg1-0.8"
+    },
+    "timestamp": "2022-11-14T16:44:45+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-8457"
+  },
+  {
+    "ID": "1cc66754-ac45-4e40-a18b-3c1954a04cf7",
+    "effective_cve": "CVE-2013-4392",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "247.3-7+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:18+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4392"
+  },
+  {
+    "ID": "1cd5fadf-3f66-4368-8db8-5073a81a04b0",
+    "effective_cve": "CVE-2021-36087",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:02+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36087"
+  },
+  {
+    "ID": "20a2a8e2-8355-4c5f-bc9a-ee7fc617b214",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:05+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "24f51c8c-b423-4fd5-b87c-2c11a89ba863",
+    "effective_cve": "CVE-2013-4392",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "247.3-7+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:12+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4392"
+  },
+  {
+    "ID": "2503b3f3-b3e9-4b23-863e-9364fc0013d1",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:43+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "278ab1d2-f5e0-49f2-a5d0-44ff28c3213b",
+    "effective_cve": "CVE-2021-4217",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "unzip",
+      "version": "6.0-26+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:51:56+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4217"
+  },
+  {
+    "ID": "293d8388-e96b-413f-a75c-b9b6d2fc55af",
+    "effective_cve": "CVE-2018-1000052",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "commons-jelly-tags-fmt",
+      "version": "1.0"
+    },
+    "timestamp": "2022-11-14T16:41:27+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000052"
+  },
+  {
+    "ID": "29cbddef-2b31-4ecf-b94b-7505869fb8c9",
+    "effective_cve": "CVE-2021-45346",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.34.1-3"
+    },
+    "timestamp": "2022-11-14T16:46:06+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45346"
+  },
+  {
+    "ID": "29eeb8d2-cbc1-44c3-a568-df4e83f5f859",
+    "effective_cve": "CVE-2019-6110",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:51+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6110"
+  },
+  {
+    "ID": "2cc47ec5-d116-4385-82a1-2c63aa5f6db4",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:22+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "308bb1d1-2d3c-4899-8536-db75807284c6",
+    "effective_cve": "CVE-2021-22923",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:42:33+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22923"
+  },
+  {
+    "ID": "30a396a6-0d2b-44d6-a403-6483434a872e",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:36+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "31ca84cc-6d98-49d3-ada0-fa2d9bef8b9d",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1n-0+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:47:01+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "333b4f3d-1838-4893-844d-2f0b823be5d8",
+    "effective_cve": "CVE-2021-36368",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:56+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36368"
+  },
+  {
+    "ID": "339cee51-5672-4887-9225-933b5edd042d",
+    "effective_cve": "CVE-2019-6129",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libpng16-16",
+      "version": "1.6.37-3"
+    },
+    "timestamp": "2022-11-14T16:45:58+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6129"
+  },
+  {
+    "ID": "384940b7-05c5-4a05-aee4-95e7d8c09728",
+    "effective_cve": "CVE-2011-3374",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libapt-pkg6.0",
+      "version": "2.2.4"
+    },
+    "timestamp": "2022-11-14T16:42:58+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3374"
+  },
+  {
+    "ID": "3ab05b28-1a9f-4e28-8326-f6d6281b0ee1",
+    "effective_cve": "CVE-2015-3276",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.57+dfsg-3+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:45:31+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3276"
+  },
+  {
+    "ID": "40b659a0-1b07-4359-9251-e7618027b18b",
+    "effective_cve": "CVE-2017-16231",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-13"
+    },
+    "timestamp": "2022-11-14T16:45:50+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-16231"
+  },
+  {
+    "ID": "42e6d378-e695-424c-83f8-c4cc7a12ddc2",
+    "effective_cve": "CVE-2021-36690",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.34.1-3"
+    },
+    "timestamp": "2022-11-14T16:46:04+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36690"
+  },
+  {
+    "ID": "45c9708e-429e-4529-80dc-617b65ee443c",
+    "effective_cve": "CVE-2016-1000027",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "??",
+    "package": {
+      "name": "spring-core",
+      "version": "5.3.22"
+    },
+    "timestamp": "2022-11-14T16:51:51+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-1000027"
+  },
+  {
+    "ID": "49279931-420d-4ea3-bed8-352bd3b57503",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:34+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "4c75868b-4e1e-4a46-a6d4-eb57add6c2c2",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:09+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "545f17a5-dff9-4aca-a7c4-29c37896daa5",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:11+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "5471be93-d8f3-4fcd-aa07-fe96746f6644",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libperl5.32",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:55+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "584d5b7a-0477-4aba-9385-3bd902103992",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtinfo6",
+      "version": "6.2+20201114-2"
+    },
+    "timestamp": "2022-11-14T16:46:17+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "59d7c6f9-105f-4504-b0e9-ded9f8bb785e",
+    "effective_cve": "CVE-2021-41617",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:58+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-41617"
+  },
+  {
+    "ID": "5dcee94a-26be-4649-872a-6d520c849cfc",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:13+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "60c327fe-c42c-4e47-b83a-d3f1bbc4b488",
+    "effective_cve": "CVE-2021-36085",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:01+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36085"
+  },
+  {
+    "ID": "61ed279e-1d57-43cb-9b44-df7147ab94d2",
+    "effective_cve": "CVE-2018-6829",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.7-6"
+    },
+    "timestamp": "2022-11-14T16:44:55+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-6829"
+  },
+  {
+    "ID": "64163424-c68f-4068-a491-bb19a2b2668b",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.2+20201114-2"
+    },
+    "timestamp": "2022-11-14T16:46:33+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "68db7272-1d11-40fb-a7c2-d68097e3dc70",
+    "effective_cve": "CVE-2018-15919",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:50+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-15919"
+  },
+  {
+    "ID": "693c19fa-4d9d-4661-9689-7af76ab8a62f",
+    "effective_cve": "CVE-2021-33560",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt20",
+      "version": "1.8.7-6"
+    },
+    "timestamp": "2022-11-14T16:45:03+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33560"
+  },
+  {
+    "ID": "69d71b7d-5ca4-4d69-b99e-79d1c4906b52",
+    "effective_cve": "CVE-2019-19882",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:47:06+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19882"
+  },
+  {
+    "ID": "6c6ae61d-bb2d-4336-a85e-ef851ec94dc7",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:18+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "6c7dbcc0-914c-4e3f-b056-051ada30196d",
+    "effective_cve": "CVE-2020-14145",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:52+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-14145"
+  },
+  {
+    "ID": "6cd52371-54bb-41aa-aead-f414c563e4df",
+    "effective_cve": "CVE-2007-2243",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:43+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-2243"
+  },
+  {
+    "ID": "6d6aa0bc-3b46-4a72-a0dc-923c5be08e31",
+    "effective_cve": "CVE-2021-22922",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libcurl3-gnutls",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:44:23+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22922"
+  },
+  {
+    "ID": "736412ff-92b0-4faf-a767-d79e8aa1795d",
+    "effective_cve": "CVE-2018-1000021",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git-man",
+      "version": "1:2.30.2-1"
+    },
+    "timestamp": "2022-11-14T16:42:49+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000021"
+  },
+  {
+    "ID": "75dc1c7e-4981-4c04-b83e-2c727c25fe55",
+    "effective_cve": "CVE-2017-14159",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.57+dfsg-3+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:45:32+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14159"
+  },
+  {
+    "ID": "77c91f3d-e6cc-4dba-8e8c-ca23c8922d3d",
+    "effective_cve": "CVE-2013-0340",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.2.10-2+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:51+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-0340"
+  },
+  {
+    "ID": "780aa228-4522-40c0-becc-0d470994138e",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:07+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "787b8e09-a641-4ce4-8d90-a77e85a07592",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:35+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "7ed86a8d-3e9e-493e-bf60-0f5889b5e787",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:20+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "8594632d-6aba-4207-a16a-998893a6d3ac",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:26+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "86ce0b47-f92e-4c1d-8d72-9c929f6d5194",
+    "effective_cve": "CVE-2017-7245",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-13"
+    },
+    "timestamp": "2022-11-14T16:45:52+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7245"
+  },
+  {
+    "ID": "8921cfb1-b3a3-4e73-9950-955b4c4ba40d",
+    "effective_cve": "CVE-2019-19882",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:29+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19882"
+  },
+  {
+    "ID": "89651c7e-591e-4436-be00-da70f1cd0d06",
+    "effective_cve": "CVE-2011-3374",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "apt-transport-https",
+      "version": "2.2.4"
+    },
+    "timestamp": "2022-11-14T16:41:25+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3374"
+  },
+  {
+    "ID": "896b9434-1c77-4c54-9518-73b7c9c54900",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.32-4+b1"
+    },
+    "timestamp": "2022-11-14T16:41:59+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "8b75b987-068c-422a-a607-ff208bf75908",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:07+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "8bc93d77-5058-4b49-aec9-d48d975cc60a",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:28+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "8e186a1e-7677-4327-ad96-f29afbb04231",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:10+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "8ee2b21b-7cb4-44d4-99fe-eb7664e8c345",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:40+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "90eff3e1-88ce-47e4-b40d-e22eb0855039",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libperl5.32",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:56+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "9126d960-9947-4a7c-9820-e074c9206c0b",
+    "effective_cve": "CVE-2007-5686",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:27+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-5686"
+  },
+  {
+    "ID": "96a9aac5-b0f1-4bc9-8518-99c5710cb8b6",
+    "effective_cve": "CVE-2005-2541",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "1.34+dfsg-1"
+    },
+    "timestamp": "2022-11-14T16:51:55+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2005-2541"
+  },
+  {
+    "ID": "9a179465-0f62-4c35-b979-89405da97f6e",
+    "effective_cve": "CVE-2011-3389",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.7.1-5+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:06+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-3389"
+  },
+  {
+    "ID": "9fb201b9-88f8-4bba-b261-78618b07ab0b",
+    "effective_cve": "CVE-2004-0971",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:25+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2004-0971"
+  },
+  {
+    "ID": "a3e1031e-c0c0-41d6-948d-1628386a70a9",
+    "effective_cve": "CVE-2020-9493",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "log4j-over-slf4j",
+      "version": "1.7.36"
+    },
+    "timestamp": "2022-11-14T16:46:24+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-9493"
+  },
+  {
+    "ID": "a8ce0fd7-7d5e-4878-bfb7-bf5ee5c9759b",
+    "effective_cve": "CVE-2017-18018",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.32-4+b1"
+    },
+    "timestamp": "2022-11-14T16:42:29+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-18018"
+  },
+  {
+    "ID": "ad138216-5e0f-4eb7-844f-5ba8c5052a8e",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:08+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "ad325a14-10ff-4074-8f35-a34bab9e8896",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1n-0+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:46:08+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "ae157add-9038-45be-ad6c-f991bcfa37ef",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:11+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "b05885e1-76e2-4221-9545-912f3513efbb",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.18.3-6+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:45:28+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "b1a12319-22b0-489c-ac06-a77a01a21397",
+    "effective_cve": "CVE-2020-13529",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "247.3-7+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:13+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13529"
+  },
+  {
+    "ID": "b2188a94-f3c6-40d4-8e3f-a77802e02213",
+    "effective_cve": "CVE-2016-20012",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:49+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-20012"
+  },
+  {
+    "ID": "b7595a50-1899-4f38-8594-19e5b3012fc9",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:47:05+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "b8aa51ab-568b-4d44-9f4c-b799fc34644d",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:44:08+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "ba319d64-503b-4345-8b9d-3f94a52154c7",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u5"
+    },
+    "timestamp": "2022-11-14T16:43:35+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "bcca1fbd-2e58-44c2-ba5c-e3f999da0222",
+    "effective_cve": "CVE-2021-4214",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpng16-16",
+      "version": "1.6.37-3"
+    },
+    "timestamp": "2022-11-14T16:45:59+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4214"
+  },
+  {
+    "ID": "c3d90f2c-a1dc-4d30-a8aa-e8999e3fe05c",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncursesw6",
+      "version": "6.2+20201114-2"
+    },
+    "timestamp": "2022-11-14T16:45:45+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "c9bb3465-4184-45b0-b1f2-daf27f65e844",
+    "effective_cve": "CVE-2021-22922",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:44:28+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22922"
+  },
+  {
+    "ID": "ca997732-6b2b-4f2c-a725-113108459938",
+    "effective_cve": "CVE-2021-22923",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl4",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:44:29+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22923"
+  },
+  {
+    "ID": "cdcace8f-a56a-4a78-8513-f360f878c13c",
+    "effective_cve": "CVE-2021-36086",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:02+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36086"
+  },
+  {
+    "ID": "cdde7545-205a-4aad-9f05-f40787afb5fd",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:46:27+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "d0a62048-a0b8-4371-af65-c7711f21e780",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:09+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "d8c30ef4-00fa-499f-92e9-3e1ac087adc9",
+    "effective_cve": "CVE-2020-16156",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-modules-5.32",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:15+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "d8e2ae1a-6d21-4977-94c9-08a3a263142c",
+    "effective_cve": "CVE-2007-2768",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:44+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-2768"
+  },
+  {
+    "ID": "daed092d-9905-429a-9b29-891cbc0d825a",
+    "effective_cve": "CVE-2011-4116",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-modules-5.32",
+      "version": "5.32.1-4+deb11u2"
+    },
+    "timestamp": "2022-11-14T16:47:13+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2011-4116"
+  },
+  {
+    "ID": "e0c563c1-2ca6-42c2-b8fd-817fbabb9264",
+    "effective_cve": "CVE-2007-5686",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.8.1-1"
+    },
+    "timestamp": "2022-11-14T16:47:02+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-5686"
+  },
+  {
+    "ID": "e36dc49a-54e5-471c-9bbe-28127197f5e1",
+    "effective_cve": "CVE-2020-13529",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "247.3-7+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:20+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13529"
+  },
+  {
+    "ID": "e548d708-c590-4e08-b303-ecfb9b4bf5f6",
+    "effective_cve": "CVE-2020-15778",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openssh-client",
+      "version": "1:8.4p1-5+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:46:53+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-15778"
+  },
+  {
+    "ID": "e892cacb-67b5-41f6-8550-71da2a4ebce4",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1n-0+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:46:09+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "eded5878-97a4-4ad2-9bda-f6d5ec5a0719",
+    "effective_cve": "CVE-2017-7246",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-13"
+    },
+    "timestamp": "2022-11-14T16:45:53+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7246"
+  },
+  {
+    "ID": "f84beaf6-e599-42f3-b6f7-e06de2ea8a9c",
+    "effective_cve": "CVE-2018-1000021",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "git",
+      "version": "1:2.30.2-1"
+    },
+    "timestamp": "2022-11-14T16:42:41+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000021"
+  },
+  {
+    "ID": "fbc71efb-9104-4290-9fee-7a53c092cbc5",
+    "effective_cve": "CVE-2019-20838",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-13"
+    },
+    "timestamp": "2022-11-14T16:45:54+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-20838"
+  },
+  {
+    "ID": "fd379d11-c62b-4225-a876-a2f8611756f4",
+    "effective_cve": "CVE-2020-15719",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libldap-2.4-2",
+      "version": "2.4.57+dfsg-3+deb11u1"
+    },
+    "timestamp": "2022-11-14T16:45:34+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-15719"
+  },
+  {
+    "ID": "fda60ebb-d643-4512-b905-9054f6adbece",
+    "effective_cve": "CVE-2021-22923",
+    "image": {
+      "exact": "docker.io/jenkins/jenkins@sha256:6fd5699ab182b5d23d0e3936de6047edc30955a3a92e01c392d5a2fd583efac0"
+    },
+    "label": "FP",
+    "package": {
+      "name": "libcurl3-gnutls",
+      "version": "7.74.0-1.3+deb11u3"
+    },
+    "timestamp": "2022-11-14T16:44:24+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22923"
+  }
+]

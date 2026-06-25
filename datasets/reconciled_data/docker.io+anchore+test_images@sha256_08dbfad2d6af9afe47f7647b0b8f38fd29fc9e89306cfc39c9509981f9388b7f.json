@@ -1,0 +1,3116 @@
+[
+  {
+    "ID": "00e2ecc9-00c0-4e10-a589-842d9787cd9c",
+    "effective_cve": "CVE-2024-0727",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:00.284977+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0727"
+  },
+  {
+    "ID": "01915d75-2093-4375-99dd-11f3b8f23e61",
+    "effective_cve": "CVE-2023-7008",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "252-14.el9_2.3"
+    },
+    "timestamp": "2026-03-16T16:07:23.580442+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-7008"
+  },
+  {
+    "ID": "03fd9bb7-0944-4e45-b148-f31fcc8199dc",
+    "effective_cve": "CVE-2023-4813",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:35.515002+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4813"
+  },
+  {
+    "ID": "04b72a2d-0389-4103-9789-dcb458a2576e",
+    "effective_cve": "CVE-2023-2975",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:06.729923+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2975"
+  },
+  {
+    "ID": "04f9fc00-0d4f-45bb-ac59-ed01cddc9cee",
+    "effective_cve": "CVE-2023-3446",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:06:57.247529+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-3446"
+  },
+  {
+    "ID": "05383e8a-c997-433e-8a3d-e501bddf6d97",
+    "effective_cve": "CVE-2024-28863",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "??",
+    "package": {
+      "name": "tar",
+      "version": "6.1.15"
+    },
+    "timestamp": "2026-03-16T16:04:24.433194+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-f5x3-32g6-xq36"
+  },
+  {
+    "ID": "06109bc3-204b-4127-91e5-38d21ab4c6a1",
+    "effective_cve": "CVE-2023-4806",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:15.373128+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4806"
+  },
+  {
+    "ID": "0644a8ae-7196-49dc-a4e2-c9f931bb9448",
+    "effective_cve": "CVE-2023-46809",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:27.872027+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46809"
+  },
+  {
+    "ID": "0d4ba882-19cb-4adc-ad26-98a825bca3be",
+    "effective_cve": "CVE-2023-27534",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:05:58.460141+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27534"
+  },
+  {
+    "ID": "0f45b91d-1180-405d-b424-34bd7e10a432",
+    "effective_cve": "CVE-2024-27983",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.324427+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27983"
+  },
+  {
+    "ID": "102bba88-2a11-4551-a0d9-1739a96c9a80",
+    "effective_cve": "CVE-2023-4527",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:21.612643+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4527"
+  },
+  {
+    "ID": "11126039-86f0-4cbf-a1f6-4ad8d4d6aab8",
+    "effective_cve": "CVE-2024-33602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:16.367905+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33602"
+  },
+  {
+    "ID": "12781a23-750f-4280-b022-716316dfd4d5",
+    "effective_cve": "CVE-2022-29458",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:15.837598+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-29458"
+  },
+  {
+    "ID": "1295c3d7-2095-46d2-93ba-72e0212003c6",
+    "effective_cve": "CVE-2021-3807",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:08.786562+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3807"
+  },
+  {
+    "ID": "1351de1b-9e93-497f-93e8-6bc938daeb58",
+    "effective_cve": "CVE-2024-4603",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:14.949310+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-4603"
+  },
+  {
+    "ID": "14b922be-b61e-40e2-aa95-73e977047d76",
+    "effective_cve": "CVE-2024-28182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnghttp2",
+      "version": "1.43.0-5.el9"
+    },
+    "timestamp": "2026-03-16T16:06:08.123578+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28182"
+  },
+  {
+    "ID": "177e4b43-8e31-49bb-a134-bf0b67036874",
+    "effective_cve": "CVE-2024-33599",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:16.940472+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33599"
+  },
+  {
+    "ID": "17d55b97-6bf4-4b08-a7f8-a13afcad6d98",
+    "effective_cve": "CVE-2022-49043",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:20.617797+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-49043"
+  },
+  {
+    "ID": "1a235a6c-b11e-4e63-bb6c-379b2afda1d6",
+    "effective_cve": "CVE-2023-29491",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:14.872026+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29491"
+  },
+  {
+    "ID": "1a9e589b-5c46-4d43-a290-2a5f761af489",
+    "effective_cve": "CVE-2022-29458",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:15.059813+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-29458"
+  },
+  {
+    "ID": "1e7b0494-62eb-43a6-91be-c1413738d499",
+    "effective_cve": "CVE-2024-28182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:26.524944+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28182"
+  },
+  {
+    "ID": "1ee01553-ac43-418a-9805-82d59f375ba1",
+    "effective_cve": "CVE-2024-28863",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:35.353100+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28863"
+  },
+  {
+    "ID": "209e803c-7d13-4303-bbab-75ca9428100e",
+    "effective_cve": "CVE-2023-4911",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:20.211196+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4911"
+  },
+  {
+    "ID": "20aec232-364e-46a4-8ccf-4293a6e9d8f4",
+    "effective_cve": "CVE-2023-4806",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:20.983096+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4806"
+  },
+  {
+    "ID": "21bf63ee-b425-4947-a828-50ca968213ad",
+    "effective_cve": "CVE-2024-0567",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:44.660623+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0567"
+  },
+  {
+    "ID": "22fffd79-7e98-4d6e-ad74-15636e8bc37f",
+    "effective_cve": "CVE-2023-44487",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnghttp2",
+      "version": "1.43.0-5.el9"
+    },
+    "timestamp": "2026-03-16T16:06:08.430537+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-44487"
+  },
+  {
+    "ID": "243228eb-3691-4b4c-a94d-a1918feb9994",
+    "effective_cve": "CVE-2023-27538",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:03.727659+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27538"
+  },
+  {
+    "ID": "24d409b1-ea6f-476b-a6d9-4de9b0fc4d17",
+    "effective_cve": "CVE-2024-0727",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:16.554268+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0727"
+  },
+  {
+    "ID": "27e0ad65-7b3f-4f0d-938e-a8b95f62dc94",
+    "effective_cve": "CVE-2023-46809",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:44.145996+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46809"
+  },
+  {
+    "ID": "28193d76-b310-4c50-b2b5-278e548296b7",
+    "effective_cve": "CVE-2024-28863",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:50.499834+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28863"
+  },
+  {
+    "ID": "2902e78f-7587-43f8-bd9e-b3e7424ee8a0",
+    "effective_cve": "CVE-2024-2961",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:19.809795+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2961"
+  },
+  {
+    "ID": "31c4c5d2-46d2-4b36-aead-0d8151fc6dda",
+    "effective_cve": "CVE-2023-4911",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:35.330100+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4911"
+  },
+  {
+    "ID": "3769ab90-9656-47f6-b031-7991ea50a9a8",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "11.3.1-4.3.el9"
+    },
+    "timestamp": "2026-03-16T16:06:19.997305+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "37cff0be-5458-4f72-bc47-c8a49f456ccf",
+    "effective_cve": "CVE-2024-25629",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.653919+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-25629"
+  },
+  {
+    "ID": "3829fe7c-d194-4b9e-997b-4174b136f769",
+    "effective_cve": "CVE-2023-27533",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:49.135379+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27533"
+  },
+  {
+    "ID": "385f4561-e7c2-4d06-9c99-105afa1f2eb6",
+    "effective_cve": "CVE-2024-4741",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:07.834421+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-4741"
+  },
+  {
+    "ID": "38e20474-6071-4430-8dfc-b53da3e8f227",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:59:00.666227+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "3908da8d-4e87-4113-987d-5e2e134f3d85",
+    "effective_cve": "CVE-2024-22019",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:36.216710+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22019"
+  },
+  {
+    "ID": "3d82010c-1e07-4cbb-b68d-655114981b49",
+    "effective_cve": "CVE-2024-12797",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:16.282319+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-12797"
+  },
+  {
+    "ID": "3dfa8671-a913-4998-b2aa-79c002a30f6a",
+    "effective_cve": "CVE-2024-2236",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcrypt",
+      "version": "1.10.0-10.el9_2"
+    },
+    "timestamp": "2026-03-16T16:06:08.651618+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2236"
+  },
+  {
+    "ID": "409d9a7d-023e-47b8-8301-0303b497f1ac",
+    "effective_cve": "CVE-2019-12900",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "bzip2-libs",
+      "version": "1.0.8-8.el9"
+    },
+    "timestamp": "2025-02-18T18:55:59.139796+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2019-12900"
+  },
+  {
+    "ID": "416ccfbc-713a-4a22-8705-dd99e3692274",
+    "effective_cve": "CVE-2024-27983",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:28.304900+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27983"
+  },
+  {
+    "ID": "4180b362-3290-48fe-ac49-6010eee272e7",
+    "effective_cve": "CVE-2024-21892",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:14.300954+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21892"
+  },
+  {
+    "ID": "426a844c-9c12-4015-a7a7-3917c40cd22e",
+    "effective_cve": "CVE-2024-28182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.093506+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28182"
+  },
+  {
+    "ID": "42fac7ee-9c5c-45e2-be41-6992549d97a9",
+    "effective_cve": "CVE-2023-38546",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:02.555922+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-38546"
+  },
+  {
+    "ID": "4349e96d-8924-4d32-8d81-0026cd1c6d89",
+    "effective_cve": "CVE-2023-46809",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:31.860146+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46809"
+  },
+  {
+    "ID": "44e7b5e0-13f8-4e5a-97d9-77676419353d",
+    "effective_cve": "CVE-2024-33602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:18.248828+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33602"
+  },
+  {
+    "ID": "46df0efa-c9d7-447f-8a2c-fd0de5d6349e",
+    "effective_cve": "CVE-2024-28835",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:43.101341+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28835"
+  },
+  {
+    "ID": "4772b230-b9c9-4b5b-b155-6dd5ec2d23b4",
+    "effective_cve": "CVE-2023-6237",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:00.463984+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6237"
+  },
+  {
+    "ID": "47b25518-601f-4377-afa4-a2238d92ffe8",
+    "effective_cve": "CVE-2023-32611",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:07.768141+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-32611"
+  },
+  {
+    "ID": "484bf509-1fee-4208-9cf3-652586b00fc7",
+    "effective_cve": "CVE-2023-29491",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:15.410942+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29491"
+  },
+  {
+    "ID": "4874cc4d-1b80-4e28-8b1f-6014cfceb74c",
+    "effective_cve": "CVE-2023-2603",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcap",
+      "version": "2.48-8.el9"
+    },
+    "timestamp": "2026-03-16T16:05:56.123717+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2603"
+  },
+  {
+    "ID": "4dd45197-5d62-4574-b5b9-abb940cadf99",
+    "effective_cve": "CVE-2024-12133",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.16.0-8.el9_1"
+    },
+    "timestamp": "2026-03-16T16:06:20.280117+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-12133"
+  },
+  {
+    "ID": "4e886f68-732e-4cd2-8936-c3c43500dab3",
+    "effective_cve": "CVE-2024-6119",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:06.916187+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-6119"
+  },
+  {
+    "ID": "4f605b39-61db-4ebe-9b65-9089e6c24833",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:58:54.919618+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "4fdb0964-1226-4c7b-abfd-0c88ab66b6aa",
+    "effective_cve": "CVE-2023-5981",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:40.289780+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-5981"
+  },
+  {
+    "ID": "527950bb-5e4c-422f-a7aa-a28499b80383",
+    "effective_cve": "CVE-2024-33599",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:19.208327+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33599"
+  },
+  {
+    "ID": "54e0b060-4f65-4adc-8d21-ea35da3e3722",
+    "effective_cve": "CVE-2024-34459",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:16.495164+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-34459"
+  },
+  {
+    "ID": "55f00223-8833-4fc0-8f57-766eb74158fa",
+    "effective_cve": "CVE-2024-4741",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:14.793649+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-4741"
+  },
+  {
+    "ID": "56342f31-ee56-4603-bed5-1b656c3acc4b",
+    "effective_cve": "CVE-2023-46218",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:53.995849+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46218"
+  },
+  {
+    "ID": "59d73e78-fe03-4006-998f-8922469e96ce",
+    "effective_cve": "CVE-2024-52533",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:22.307733+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-52533"
+  },
+  {
+    "ID": "5b941d52-486d-4932-843a-2fd61c452d76",
+    "effective_cve": "CVE-2023-2602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcap",
+      "version": "2.48-8.el9"
+    },
+    "timestamp": "2026-03-16T16:05:55.502833+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2602"
+  },
+  {
+    "ID": "5c990133-f225-485c-aa4c-91056951b03f",
+    "effective_cve": "CVE-2024-28863",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:31.511169+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28863"
+  },
+  {
+    "ID": "5eabe181-7565-40b6-a4c5-520967d18fef",
+    "effective_cve": "CVE-2023-6237",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:17.220219+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6237"
+  },
+  {
+    "ID": "60857897-654a-45bc-904c-362beb5bb838",
+    "effective_cve": "CVE-2024-22025",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:33.156046+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22025"
+  },
+  {
+    "ID": "60b5a8ce-2139-4620-920a-f4aab8a6b432",
+    "effective_cve": "CVE-2024-27982",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:46.918576+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27982"
+  },
+  {
+    "ID": "612bd307-6806-4dc8-8a7b-9709b806eb2e",
+    "effective_cve": "CVE-2023-5678",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:06.230225+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-5678"
+  },
+  {
+    "ID": "64871905-2964-43ea-bae7-2b7072148b44",
+    "effective_cve": "CVE-2024-22025",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.812689+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22025"
+  },
+  {
+    "ID": "64f355ed-2df0-404a-a4b7-19cdd81c1cde",
+    "effective_cve": "CVE-2024-22020",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:32.490783+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22020"
+  },
+  {
+    "ID": "6538b777-38e8-467b-9400-e307f39375bd",
+    "effective_cve": "CVE-2021-27290",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:13:20.320358+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-27290"
+  },
+  {
+    "ID": "65fb8653-d773-40b4-898f-8dedd70eccd4",
+    "effective_cve": "CVE-2024-33600",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:34.802121+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33600"
+  },
+  {
+    "ID": "678558e8-4bb2-4e9b-910c-c2ecd0d4ff9a",
+    "effective_cve": "CVE-2021-3807",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:11.070149+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3807"
+  },
+  {
+    "ID": "6a60903e-a70f-41fc-bc67-77c5a79b867c",
+    "effective_cve": "CVE-2023-4911",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:17.307313+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4911"
+  },
+  {
+    "ID": "6e2aa63c-bc3d-47a4-a710-4b9343c6f2a2",
+    "effective_cve": "CVE-2024-33601",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:18.621657+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33601"
+  },
+  {
+    "ID": "6e9b1c20-8a3d-4d45-aad1-269a1596cd7a",
+    "effective_cve": "CVE-2022-27943",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "11.3.1-4.3.el9"
+    },
+    "timestamp": "2026-03-16T16:06:08.900284+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-27943"
+  },
+  {
+    "ID": "70a02e98-f977-4a08-9a64-b90e65cfa4b8",
+    "effective_cve": "CVE-2024-21892",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:44.527333+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21892"
+  },
+  {
+    "ID": "71187392-77b0-4e19-8c9e-74ec16ddab84",
+    "effective_cve": "CVE-2023-27534",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:51.552742+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27534"
+  },
+  {
+    "ID": "71cfb0c3-6f56-4a8b-b717-10b2658a0903",
+    "effective_cve": "CVE-2024-26462",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:52.996147+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-26462"
+  },
+  {
+    "ID": "729f7d49-9bb6-4ddb-a91f-c69321c19115",
+    "effective_cve": "CVE-2024-13176",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:15.900398+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-13176"
+  },
+  {
+    "ID": "7548371c-6613-4da5-8840-cd6e4b183074",
+    "effective_cve": "CVE-2023-5678",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:01.416685+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-5678"
+  },
+  {
+    "ID": "75e9f315-66c5-42e0-a198-3c3818de34bf",
+    "effective_cve": "CVE-2024-25629",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:46.377654+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-25629"
+  },
+  {
+    "ID": "76f1e67a-4f58-495f-a926-adcea456e181",
+    "effective_cve": "CVE-2021-3997",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "systemd-libs",
+      "version": "252-14.el9_2.3"
+    },
+    "timestamp": "2025-02-18T18:59:08.496659+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3997"
+  },
+  {
+    "ID": "776192f0-2550-427c-8812-8c850d13ccea",
+    "effective_cve": "CVE-2024-25629",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:33.636308+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-25629"
+  },
+  {
+    "ID": "7af0f35d-441d-4419-b647-06705f00dd14",
+    "effective_cve": "CVE-2022-41409",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre2",
+      "version": "10.40-2.el9"
+    },
+    "timestamp": "2026-03-16T16:07:14.180312+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-41409"
+  },
+  {
+    "ID": "7bbfdfd7-a7d3-4156-9e13-da9f1506d7c5",
+    "effective_cve": "CVE-2023-30571",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libarchive",
+      "version": "3.5.3-4.el9"
+    },
+    "timestamp": "2026-03-16T16:05:54.876607+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-30571"
+  },
+  {
+    "ID": "7bde0273-b116-4537-8d59-ce592a708e0e",
+    "effective_cve": "CVE-2024-28863",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:26.226761+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28863"
+  },
+  {
+    "ID": "7d55acd9-d6d9-40ac-9d4b-95d6540f6c19",
+    "effective_cve": "CVE-2024-2511",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:06:59.738564+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2511"
+  },
+  {
+    "ID": "7dd930fc-b30c-400e-b7d8-9b3afb6a80e0",
+    "effective_cve": "CVE-2023-50495",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:15.236392+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-50495"
+  },
+  {
+    "ID": "7e0935bf-f198-438b-9c13-2e77cdd8af03",
+    "effective_cve": "CVE-2024-21892",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:27.642004+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21892"
+  },
+  {
+    "ID": "8275d4ea-4404-45f4-a942-27eb8225f243",
+    "effective_cve": "CVE-2023-27536",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:52.696583+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27536"
+  },
+  {
+    "ID": "858fef4f-113c-4b06-add5-aea27e8f8400",
+    "effective_cve": "CVE-2024-33601",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:34.549718+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33601"
+  },
+  {
+    "ID": "874de082-7a00-41b7-a671-0a093a235f8c",
+    "effective_cve": "CVE-2023-29499",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:06.534203+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-29499"
+  },
+  {
+    "ID": "87853295-82f4-4f5c-88af-8d806a8a3b96",
+    "effective_cve": "CVE-2024-11053",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:54.274940+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-11053"
+  },
+  {
+    "ID": "8905e86b-1fe0-4b16-bd0e-41111cde5c66",
+    "effective_cve": "CVE-2024-22020",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:27.258422+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22020"
+  },
+  {
+    "ID": "8a2d61ac-16c5-47f4-9c72-7ad99cdf4f72",
+    "effective_cve": "CVE-2024-22025",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:27.080678+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22025"
+  },
+  {
+    "ID": "8a664979-db5e-4c4c-b718-2cf7903ccfb3",
+    "effective_cve": "CVE-2023-39615",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:17.669293+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-39615"
+  },
+  {
+    "ID": "8bafe395-b55d-42cf-ba3f-4310efbf7d7c",
+    "effective_cve": "CVE-2024-37371",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:54.065795+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-37371"
+  },
+  {
+    "ID": "8e9241f3-4a94-49c0-a4b9-a2ae89e5a3f4",
+    "effective_cve": "CVE-2024-25062",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:16.733689+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-25062"
+  },
+  {
+    "ID": "90837c24-f90e-49c1-9225-2be6af804fe3",
+    "effective_cve": "CVE-2024-33600",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:18.922330+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33600"
+  },
+  {
+    "ID": "91288f4c-c151-4978-83e3-d1a021d30be8",
+    "effective_cve": "CVE-2021-27290",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:12.325775+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-27290"
+  },
+  {
+    "ID": "923ae855-c0b7-4f30-b937-d6c04362f347",
+    "effective_cve": "CVE-2021-27290",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:11.558803+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-27290"
+  },
+  {
+    "ID": "9309a43f-be54-404e-9dc5-6b4dcc99f9c9",
+    "effective_cve": "CVE-2024-22019",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:44.810164+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22019"
+  },
+  {
+    "ID": "930b7565-27e8-437d-8c26-97412d23791d",
+    "effective_cve": "CVE-2023-4156",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gawk",
+      "version": "5.1.0-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:04.927476+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4156"
+  },
+  {
+    "ID": "93be0b6d-6bdf-4435-b167-f7eba4e849cb",
+    "effective_cve": "CVE-2023-27533",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:05:57.617377+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27533"
+  },
+  {
+    "ID": "94762282-9306-4fc1-80cd-83902d1b4831",
+    "effective_cve": "CVE-2024-26461",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:52.612484+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-26461"
+  },
+  {
+    "ID": "94c2a2ff-7dae-4d37-9e76-706f88e410d6",
+    "effective_cve": "CVE-2021-3807",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:12.965686+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3807"
+  },
+  {
+    "ID": "96942d1e-6927-415e-a1d4-9fee861cef5c",
+    "effective_cve": "CVE-2023-4527",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:16.145898+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4527"
+  },
+  {
+    "ID": "97199622-1b6d-40e0-84da-f4dcc0442e1e",
+    "effective_cve": "CVE-2023-2975",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:06:56.860194+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2975"
+  },
+  {
+    "ID": "97827b3e-4ee1-4938-9368-f84edb3fdc7e",
+    "effective_cve": "CVE-2021-27290",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:10.671294+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-27290"
+  },
+  {
+    "ID": "98965e76-d2ee-4972-ad9c-1d8145877469",
+    "effective_cve": "CVE-2024-27982",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.508753+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27982"
+  },
+  {
+    "ID": "99b0550f-2bd1-4302-8b73-b58bd5677f0d",
+    "effective_cve": "CVE-2024-4603",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:08.270185+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-4603"
+  },
+  {
+    "ID": "9a2af97d-8353-4eaa-920f-8f650007d9bc",
+    "effective_cve": "CVE-2024-41996",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:15.130213+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-41996"
+  },
+  {
+    "ID": "9c1a1293-3030-4256-b618-82c6abb3f2ec",
+    "effective_cve": "CVE-2024-28182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:28.126459+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28182"
+  },
+  {
+    "ID": "9caff75c-5ce2-48ee-8f5c-6a87100ab99b",
+    "effective_cve": "CVE-2023-3817",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:06.426008+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-3817"
+  },
+  {
+    "ID": "9cd95e04-a742-401b-bb9e-ecf648759fe4",
+    "effective_cve": "CVE-2023-39975",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:51.937632+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-39975"
+  },
+  {
+    "ID": "9fbca5bb-c4eb-49ae-a09a-c0b2fc575605",
+    "effective_cve": "CVE-2023-38545",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:53.495700+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-38545"
+  },
+  {
+    "ID": "a1feba0e-587a-4576-9c0e-4dfad45ecc0c",
+    "effective_cve": "CVE-2024-3596",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:53.321907+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-3596"
+  },
+  {
+    "ID": "a32e7523-e342-4685-be6f-88d5848336b4",
+    "effective_cve": "CVE-2024-27982",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:26.736439+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27982"
+  },
+  {
+    "ID": "a36230a9-c8ef-4ae4-9a7e-b0fcb898b2eb",
+    "effective_cve": "CVE-2023-45322",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:17.206318+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-45322"
+  },
+  {
+    "ID": "a4186059-7fee-4036-8ba9-2b03384d1096",
+    "effective_cve": "CVE-2024-11053",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:02.131718+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-11053"
+  },
+  {
+    "ID": "a52707da-390b-4488-bbcf-e804a3de926e",
+    "effective_cve": "CVE-2021-43618",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gmp",
+      "version": "1:6.2.0-10.el9"
+    },
+    "timestamp": "2025-02-18T18:56:04.248090+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-43618"
+  },
+  {
+    "ID": "a75e4339-3603-4ad8-b0ea-5bf731041cbc",
+    "effective_cve": "CVE-2023-46218",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:02.300658+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46218"
+  },
+  {
+    "ID": "aa467c95-5506-4bea-9b21-e79dfdeeda01",
+    "effective_cve": "CVE-2024-33602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:33.929704+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33602"
+  },
+  {
+    "ID": "abd72a4d-ded0-4eed-a33b-b06186c66f4f",
+    "effective_cve": "CVE-2024-9681",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:55.940326+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-9681"
+  },
+  {
+    "ID": "ad16d32a-230e-4bee-84f8-0ddbab3e0149",
+    "effective_cve": "CVE-2023-3446",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:06.587497+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-3446"
+  },
+  {
+    "ID": "af02c704-cdc9-4f79-995b-7f458966423c",
+    "effective_cve": "CVE-2023-7104",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.34.1-6.el9_1"
+    },
+    "timestamp": "2026-03-16T16:07:24.106385+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-7104"
+  },
+  {
+    "ID": "af6e9495-e571-4d11-89e3-215a0e857caf",
+    "effective_cve": "CVE-2024-25629",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:26.911684+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-25629"
+  },
+  {
+    "ID": "af78baf2-cf30-4dae-acd9-ad7d21b41c80",
+    "effective_cve": "CVE-2023-50495",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.2-8.20210508.el9"
+    },
+    "timestamp": "2026-03-16T16:06:14.691015+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-50495"
+  },
+  {
+    "ID": "b091d0fe-6831-4fc1-81e8-300d15ffee43",
+    "effective_cve": "CVE-2024-2511",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:15.337259+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2511"
+  },
+  {
+    "ID": "b0b8b2bd-e871-4fbf-81ab-d4f04efbbf2f",
+    "effective_cve": "CVE-2024-34397",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:11.541524+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-34397"
+  },
+  {
+    "ID": "b133c7a7-3dc4-462a-9ec9-ebdb19b01f98",
+    "effective_cve": "CVE-2024-2398",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:01.917941+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2398"
+  },
+  {
+    "ID": "b3983d18-fb66-445c-a9ab-fc1ddb4fd251",
+    "effective_cve": "CVE-2024-9681",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:01.260472+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-9681"
+  },
+  {
+    "ID": "b3d0e022-44da-4aa4-b217-5d977ef08af1",
+    "effective_cve": "CVE-2023-6129",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:05.922187+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6129"
+  },
+  {
+    "ID": "b40c8167-6636-4458-9fc4-ea5339d8aad7",
+    "effective_cve": "CVE-2024-12797",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:03.097859+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-12797"
+  },
+  {
+    "ID": "b4452405-b559-4858-a9e0-871bbf592f9a",
+    "effective_cve": "CVE-2024-2961",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:35.162356+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2961"
+  },
+  {
+    "ID": "b45e824a-6a96-4b52-8ce6-9ba91a025473",
+    "effective_cve": "CVE-2024-27983",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:39.096297+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27983"
+  },
+  {
+    "ID": "b662da28-3d73-4c72-b288-6ba3212c9353",
+    "effective_cve": "CVE-2023-4813",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:17.506575+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4813"
+  },
+  {
+    "ID": "b8880ef1-afc8-48cb-9b8f-233c59639234",
+    "effective_cve": "CVE-2024-28182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:48.026236+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28182"
+  },
+  {
+    "ID": "b8bb433d-92bf-4f81-b8c5-1560f9f2eaf4",
+    "effective_cve": "CVE-2023-32665",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:08.360459+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-32665"
+  },
+  {
+    "ID": "b98433dd-f50a-420e-87fc-01a4c574da9a",
+    "effective_cve": "CVE-2024-0553",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:46.277633+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0553"
+  },
+  {
+    "ID": "ba52634f-a9a0-41d0-8815-70c0f0f71005",
+    "effective_cve": "CVE-2024-2398",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:55.034783+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2398"
+  },
+  {
+    "ID": "bbbdf05d-efb3-4af7-8c76-646d343d80e1",
+    "effective_cve": "CVE-2023-3817",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:06:57.810596+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-3817"
+  },
+  {
+    "ID": "bdb17a69-a341-4cf4-afac-e51baef36ed1",
+    "effective_cve": "CVE-2024-28834",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:43.473530+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-28834"
+  },
+  {
+    "ID": "bf26c2ee-64db-47f0-8bd0-bb5defa131df",
+    "effective_cve": "CVE-2024-33601",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:16.585611+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33601"
+  },
+  {
+    "ID": "bfa8f3da-1fef-4a3c-9c7f-4853008098a0",
+    "effective_cve": "CVE-2023-2953",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openldap-compat",
+      "version": "2.6.2-3.el9"
+    },
+    "timestamp": "2026-03-16T16:06:56.395057+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2953"
+  },
+  {
+    "ID": "c07220ad-93e5-4751-b62b-eaebb510d4b3",
+    "effective_cve": "CVE-2024-22019",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:14.137247+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22019"
+  },
+  {
+    "ID": "c42d3a25-0b6c-415a-a05c-177470acc30c",
+    "effective_cve": "CVE-2024-22020",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:13.980152+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22020"
+  },
+  {
+    "ID": "c471758b-8c73-456e-a8fb-db1eff9b5f43",
+    "effective_cve": "CVE-2022-41409",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre2-syntax",
+      "version": "10.40-2.el9"
+    },
+    "timestamp": "2026-03-16T16:07:19.801728+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-41409"
+  },
+  {
+    "ID": "c4bfe394-1dc4-4489-a4fb-7d6489cd1790",
+    "effective_cve": "CVE-2024-2961",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:17.123602+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-2961"
+  },
+  {
+    "ID": "c5e98186-d69f-45fd-b4bc-965726f65e69",
+    "effective_cve": "CVE-2023-4806",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:17.709465+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4806"
+  },
+  {
+    "ID": "c62a5e32-6f5d-4978-8040-8dc7cd9fd17f",
+    "effective_cve": "CVE-2020-11023",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "11.3.1-4.3.el9"
+    },
+    "timestamp": "2025-02-18T18:56:09.989276+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-11023"
+  },
+  {
+    "ID": "c7181721-c9d8-4f1d-8055-48922afc5c3f",
+    "effective_cve": "CVE-2024-37370",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:53.653729+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-37370"
+  },
+  {
+    "ID": "c720b959-0a76-456e-9904-dee7696cef2d",
+    "effective_cve": "CVE-2024-22020",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:45.189104+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22020"
+  },
+  {
+    "ID": "c742193a-852b-4396-8271-520a8570229c",
+    "effective_cve": "CVE-2023-36054",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:51.482265+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-36054"
+  },
+  {
+    "ID": "c8057c6c-1fd4-4204-a9b7-a97a0b4908d0",
+    "effective_cve": "CVE-2020-11023",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "11.3.1-4.3.el9"
+    },
+    "timestamp": "2025-02-18T18:56:15.741428+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2020-11023"
+  },
+  {
+    "ID": "c89396a8-9ef2-45d9-9945-452ca6a8387c",
+    "effective_cve": "CVE-2024-41996",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:08.744393+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-41996"
+  },
+  {
+    "ID": "c9aa11ad-5e1e-43f2-956d-5f613227694a",
+    "effective_cve": "CVE-2024-0232",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite-libs",
+      "version": "3.34.1-6.el9_1"
+    },
+    "timestamp": "2026-03-16T16:07:23.887159+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-0232"
+  },
+  {
+    "ID": "ca04decf-6f63-400d-abd0-a4e26c43c241",
+    "effective_cve": "CVE-2023-2953",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openldap",
+      "version": "2.6.2-3.el9"
+    },
+    "timestamp": "2026-03-16T16:06:55.944811+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-2953"
+  },
+  {
+    "ID": "cb459868-4b14-4439-8326-545d19da3daf",
+    "effective_cve": "CVE-2024-7264",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:55.495690+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-7264"
+  },
+  {
+    "ID": "cc1a2d8b-b186-4fae-98e3-a84747f53bc8",
+    "effective_cve": "CVE-2024-6119",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:14.442118+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-6119"
+  },
+  {
+    "ID": "ce1386c4-cf7c-48f6-b327-c4b1b2a253db",
+    "effective_cve": "CVE-2024-33599",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:34.994017+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33599"
+  },
+  {
+    "ID": "d15d9c28-9be2-4c1b-8b78-2ed450e379dc",
+    "effective_cve": "CVE-2024-26458",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.20.1-9.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:52.333392+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-26458"
+  },
+  {
+    "ID": "d3ce84d4-fccb-4dc9-9cf6-b6945ec6fcba",
+    "effective_cve": "CVE-2023-6129",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:00.656320+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6129"
+  },
+  {
+    "ID": "d5ea8126-afe3-4513-bf49-40eb20cb6cc8",
+    "effective_cve": "CVE-2023-4527",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:17.951576+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4527"
+  },
+  {
+    "ID": "d638973d-e77d-4508-a629-10b7da335437",
+    "effective_cve": "CVE-2023-38546",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:53.769642+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-38546"
+  },
+  {
+    "ID": "d660c6f6-2c20-443c-802d-8005bdbf2e2b",
+    "effective_cve": "CVE-2023-27538",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:04:53.149417+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27538"
+  },
+  {
+    "ID": "d8f9a0ee-0567-4fe2-83bf-d940bfe79237",
+    "effective_cve": "CVE-2024-22025",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:45.865306+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22025"
+  },
+  {
+    "ID": "d966c24d-2f06-4c7d-8c1f-c640ef5b8473",
+    "effective_cve": "CVE-2024-5535",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:14.619394+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-5535"
+  },
+  {
+    "ID": "d9861116-87f0-45c1-a58e-d8827e3c6cf4",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:58:58.727175+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "db5212e3-b216-4c3d-82ff-5037b19df489",
+    "effective_cve": "CVE-2021-3807",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "this package is a module but the vuln should be for the non-module package for this distro (nodejs 16)",
+    "package": {
+      "name": "nodejs-full-i18n",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2025-02-18T19:14:11.974017+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-3807"
+  },
+  {
+    "ID": "db710b8e-9ef2-42f7-9541-7b23154c6744",
+    "effective_cve": "CVE-2024-12243",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.7.6-20.el9_2"
+    },
+    "timestamp": "2026-03-16T16:05:43.796396+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-12243"
+  },
+  {
+    "ID": "db97b8d7-a2e4-4c4d-be49-0cb10e7d9db9",
+    "effective_cve": "CVE-2024-7264",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:01.697591+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-7264"
+  },
+  {
+    "ID": "dc0117d7-058e-420b-9ee4-05469fc5ae14",
+    "effective_cve": "CVE-2024-27982",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:28.547908+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27982"
+  },
+  {
+    "ID": "dd721c7e-404e-4fb6-8891-868585c31639",
+    "effective_cve": "CVE-2024-33600",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:16.770295+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-33600"
+  },
+  {
+    "ID": "df26cc0e-dd62-4b24-a227-388adcdc0666",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:59:02.118548+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "df8a1e48-8c44-423e-b3b7-71965cac8ead",
+    "effective_cve": "CVE-2023-27536",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:04.236794+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-27536"
+  },
+  {
+    "ID": "e0b26df8-1a46-47ee-a20e-d95e028e1295",
+    "effective_cve": "CVE-2023-42282",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "ip is a descendent of the npm rpm package from RedHat, and they have marked it explicitly as not affected: https://access.redhat.com/security/cve/cve-2023-42282",
+    "package": {
+      "name": "ip",
+      "version": "2.0.0"
+    },
+    "timestamp": "2026-03-16T16:01:07.131163+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-78xj-cgh5-2h22"
+  },
+  {
+    "ID": "e272919a-f0e2-4dce-84a8-c65008595a31",
+    "effective_cve": "CVE-2022-48554",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "file-libs",
+      "version": "5.39-12.1.el9_2"
+    },
+    "timestamp": "2026-03-16T16:04:56.714560+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-48554"
+  },
+  {
+    "ID": "e2d74e3f-6b4a-4ac3-9718-7a47551ef59a",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:59:02.891678+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "e48f0ec9-f0f8-4037-92a6-a95ccb6222b5",
+    "effective_cve": "CVE-2024-27983",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "npm",
+      "version": "1:9.8.1-1.18.18.2.2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:47.503893+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-27983"
+  },
+  {
+    "ID": "e585aac9-0af3-40fa-bd29-04f1e0bdc753",
+    "effective_cve": "CVE-2023-32636",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.68.4-6.el9"
+    },
+    "timestamp": "2026-03-16T16:05:10.843031+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-32636"
+  },
+  {
+    "ID": "e645b284-174c-4c7c-b32f-dc7aeeae1af3",
+    "effective_cve": "CVE-2023-38545",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl-minimal",
+      "version": "7.76.1-23.el9_2.2"
+    },
+    "timestamp": "2026-03-16T16:06:03.268261+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-38545"
+  },
+  {
+    "ID": "e7b31316-06e2-4ba0-9802-b1d80988217b",
+    "effective_cve": "CVE-2024-22019",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:32.274297+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-22019"
+  },
+  {
+    "ID": "eb2ee8ac-bf30-4049-a916-9b113ddd7001",
+    "effective_cve": "CVE-2024-13176",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:00.069348+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-13176"
+  },
+  {
+    "ID": "edc75692-9a10-4c29-82df-7a0fb6a7a47b",
+    "effective_cve": "CVE-2024-56171",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.13-3.el9_2.1"
+    },
+    "timestamp": "2026-03-16T16:06:16.241718+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-56171"
+  },
+  {
+    "ID": "f1483741-f2d5-4e01-9388-dddcadaf37c2",
+    "effective_cve": "CVE-2023-37920",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ca-certificates",
+      "version": "2022.2.54-90.2.el9_0"
+    },
+    "timestamp": "2026-03-16T16:04:45.642592+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-37920"
+  },
+  {
+    "ID": "f37d1661-95c7-4b76-84e3-177f701cb9f4",
+    "effective_cve": "CVE-2023-46809",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:14.498322+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-46809"
+  },
+  {
+    "ID": "f3870265-eb1d-4bdf-ab04-93748bca45b0",
+    "effective_cve": "CVE-2022-3219",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.3.3-2.el9_0"
+    },
+    "timestamp": "2026-03-16T16:05:39.701004+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-3219"
+  },
+  {
+    "ID": "f3ec8029-054e-4d10-b900-343f0afb8f6f",
+    "effective_cve": "CVE-2024-29415",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "FP",
+    "note": "ip is a descendent of the npm rpm package from RedHat, and they have marked it explicitly as not affected: https://access.redhat.com/security/cve/cve-2024-29415",
+    "package": {
+      "name": "ip",
+      "version": "2.0.0"
+    },
+    "timestamp": "2026-03-16T15:55:12.139193+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-2p57-rm9w-gvfp"
+  },
+  {
+    "ID": "f5d78325-45bf-4d39-bc21-81abf46ddb2e",
+    "effective_cve": "CVE-2023-4813",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.34-60.el9"
+    },
+    "timestamp": "2026-03-16T16:05:20.606193+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4813"
+  },
+  {
+    "ID": "f5f9ad6b-2d4c-47c5-a817-2c0bc5caacaf",
+    "effective_cve": "CVE-2024-21538",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "??",
+    "package": {
+      "name": "cross-spawn",
+      "version": "7.0.3"
+    },
+    "timestamp": "2026-03-16T16:00:20.303117+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-3xgq-45jj-v275"
+  },
+  {
+    "ID": "f7a05b5e-5ffc-4d77-b891-b8f1928f1328",
+    "effective_cve": "CVE-2024-21892",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nodejs-docs",
+      "version": "1:18.18.2-2.module+el9.2.0.z+20408+7cb5fda5"
+    },
+    "timestamp": "2026-03-16T16:06:32.072206+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-21892"
+  },
+  {
+    "ID": "f8122388-1f7c-46aa-bd13-11054c451cd1",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.16.1.3-22.el9"
+    },
+    "timestamp": "2025-02-18T18:59:02.528509+00:00",
+    "tool": "grype[candidate]@path:../../",
+    "user": "wagoodman",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "fdb46512-fbe5-4f75-8768-8384ac811ab1",
+    "effective_cve": "CVE-2024-5535",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:08dbfad2d6af9afe47f7647b0b8f38fd29fc9e89306cfc39c9509981f9388b7f"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1:3.0.7-25.el9_3"
+    },
+    "timestamp": "2026-03-16T16:07:07.181005+00:00",
+    "tool": "grype@v0.109.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2024-5535"
+  }
+]

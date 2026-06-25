@@ -1,0 +1,210 @@
+[
+  {
+    "ID": "2164efb2-6851-4c96-a474-39896803e454",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T07:17:34.186039",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-69f9-5gxw-wvc2"
+  },
+  {
+    "ID": "253e7d6a-5a7e-419e-82dd-40c65123c73c",
+    "effective_cve": "CVE-2024-30251",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "FP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:21:43.058568+00:00",
+    "tool": "grype[reference]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-5m98-qgg9-wh84"
+  },
+  {
+    "ID": "2d606044-7a22-4dd1-aeb9-99ff0ac55863",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:11:59.571732",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-mqqc-3gqh-h2x8"
+  },
+  {
+    "ID": "2e5192b6-9db3-4fbd-9ecc-01b736a3b8e7",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:11:27.878362",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-g84x-mcqj-x9qq"
+  },
+  {
+    "ID": "550815e7-1c69-4e5a-a18d-6fd2afbef040",
+    "effective_cve": "CVE-2024-23829",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:20:17.213530+00:00",
+    "tool": "grype[custom-db]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-8qpw-xqxj-h4r2"
+  },
+  {
+    "ID": "6a63e352-29c2-45b1-97ee-0049a4fed79f",
+    "effective_cve": "CVE-2024-27306",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:20:15.532798+00:00",
+    "tool": "grype[custom-db]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-7gpw-8wmc-pm8g"
+  },
+  {
+    "ID": "6da5656f-8222-44e8-8012-8f77f0bf6468",
+    "effective_cve": "CVE-2025-53643",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:20:39.768599+00:00",
+    "tool": "grype[custom-db]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-9548-qrrj-x5pj"
+  },
+  {
+    "ID": "7065ed4a-901c-487a-884e-d19986fca71d",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:11:43.700152",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-jj3x-wxrx-4x23"
+  },
+  {
+    "ID": "9b585867-9c4d-44f7-a0a8-d80229a3eb91",
+    "effective_cve": "CVE-2024-52304",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:20:16.726090+00:00",
+    "tool": "grype[custom-db]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-8495-4g3g-x7pr"
+  },
+  {
+    "ID": "be00be81-3482-4f8b-bafb-1e862c935a68",
+    "effective_cve": "CVE-2024-23334",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "FP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2025-12-02T17:21:42.217027+00:00",
+    "tool": "grype[reference]@v0.99.1-14-g8a04a093",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-5h86-8mv2-jq9f"
+  },
+  {
+    "ID": "bf484fa0-5d51-4f3e-96fa-e51ed2fa4028",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T07:17:00.891662",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-54jq-c3m8-4m76"
+  },
+  {
+    "ID": "c3e06abe-d03c-47f6-8ce8-87826d2adb4e",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:10:45.062598",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-6jhg-hg63-jvvf"
+  },
+  {
+    "ID": "c5a195c3-24ea-4958-8e2a-647da9067c49",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:11:10.483456",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-fh55-r93g-j68g"
+  },
+  {
+    "ID": "fec040f5-89fe-47e7-a5e5-9703e9fcb3c6",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:046b2c1b2df1e496eb3abf9e21224ffd879d92abc2bd57401456764d9aa8ddf1"
+    },
+    "label": "TP",
+    "package": {
+      "name": "aiohttp",
+      "version": "3.9.1+cgr.2"
+    },
+    "timestamp": "2026-01-06T09:10:59.843344",
+    "user": "williammurphy",
+    "vulnerability_id": "GHSA-6mq8-rvhq-8wgg"
+  }
+]

@@ -1,0 +1,3896 @@
+[
+  {
+    "ID": "006e9a69-3e6c-49dc-8818-039b2d933eda",
+    "effective_cve": "CVE-2020-13320",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:16+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13320"
+  },
+  {
+    "ID": "013d79eb-6ada-407a-bd85-3fd08eaef3ad",
+    "effective_cve": "CVE-2018-17537",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:37.191785",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17537"
+  },
+  {
+    "ID": "031430fd-d128-4980-a1e0-a4bc5ea97b89",
+    "effective_cve": "CVE-2021-22217",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:28+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22217"
+  },
+  {
+    "ID": "052a8f3c-e3b5-4d18-820d-33740ca1d3e8",
+    "effective_cve": "CVE-2020-13331",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:24+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13331"
+  },
+  {
+    "ID": "06787346-bad8-4da1-943d-139782f74b1d",
+    "effective_cve": "CVE-2019-6797",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6797"
+  },
+  {
+    "ID": "0786db25-a295-458f-92e7-d8f56d6929bd",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nokogiri",
+      "version": "1.13.8"
+    },
+    "timestamp": "2022-11-01T18:25:48+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-2qc6-mcvw-92cw"
+  },
+  {
+    "ID": "07d0a9e9-4cdc-4203-9538-d024c7bad70a",
+    "effective_cve": "CVE-2019-18463",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:04+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18463"
+  },
+  {
+    "ID": "08a09723-7902-41dd-9a02-b4a0155ee18f",
+    "effective_cve": "CVE-2020-10087",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:34+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10087"
+  },
+  {
+    "ID": "0ca37f0e-9c87-4298-9df8-ee5249e68d81",
+    "effective_cve": "CVE-2014-5278",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:46+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-5278"
+  },
+  {
+    "ID": "0e13b43b-a777-4a37-bd4f-70dfd095d3cb",
+    "effective_cve": "CVE-2019-13509",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:56+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-13509"
+  },
+  {
+    "ID": "0e144cc7-8a09-42e0-bacc-8d6f06383637",
+    "effective_cve": "CVE-2019-15584",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:49+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15584"
+  },
+  {
+    "ID": "0e20dc24-4486-46b2-9902-c035a639aac3",
+    "effective_cve": "CVE-2021-32761",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-11-01T18:26:08+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32761"
+  },
+  {
+    "ID": "0eac599a-1d8c-4389-8641-d53cd32c349f",
+    "effective_cve": "CVE-2019-10117",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:31+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10117"
+  },
+  {
+    "ID": "0f0dfba8-cec0-4439-b53b-e28cadf8a21a",
+    "effective_cve": "CVE-2020-13330",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:23+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13330"
+  },
+  {
+    "ID": "0f45f3b0-3298-42eb-90a1-2d11ca3f765b",
+    "effective_cve": "CVE-2019-11000",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:32+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-11000"
+  },
+  {
+    "ID": "10a9af09-c4ad-41e5-9ecc-b94607b1be16",
+    "effective_cve": "CVE-2013-4580",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:05+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4580"
+  },
+  {
+    "ID": "10cba8c9-c94c-4873-9fed-595deff3e3fc",
+    "effective_cve": "CVE-2021-29468",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-11-01T18:25:01+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29468"
+  },
+  {
+    "ID": "11b477af-04a7-416e-b482-8684585fd52a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "commonmarker",
+      "version": "0.23.5"
+    },
+    "timestamp": "2023-02-14T21:01:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-636f-xm5j-pj9m"
+  },
+  {
+    "ID": "11c8276e-1083-46f3-81cb-17e59cbf97e4",
+    "effective_cve": "CVE-2015-5711",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-5711"
+  },
+  {
+    "ID": "11e4a1ff-5a8d-40d7-9b7f-b8a40416c5ad",
+    "effective_cve": "CVE-2019-15577",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:48+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15577"
+  },
+  {
+    "ID": "12387a17-ada4-4abf-b02e-a32bc318ab69",
+    "effective_cve": "CVE-2019-9178",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:20+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9178"
+  },
+  {
+    "ID": "1292c129-d229-4a26-b2aa-2a952d7bdd18",
+    "effective_cve": "CVE-2020-10660",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10660"
+  },
+  {
+    "ID": "143360a6-5774-4db4-8b7d-12a9ccb0736b",
+    "effective_cve": "CVE-2018-12606",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12606"
+  },
+  {
+    "ID": "154632ff-3122-46d5-8a9f-87b2f73eb815",
+    "effective_cve": "CVE-2018-17449",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:32.354815",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17449"
+  },
+  {
+    "ID": "1852aa7c-7c5c-4434-9b01-eb27bef7a228",
+    "effective_cve": "CVE-2021-39899",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:34+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39899"
+  },
+  {
+    "ID": "1934236e-0021-481e-8084-161e97771f98",
+    "effective_cve": "CVE-2019-9225",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:27+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9225"
+  },
+  {
+    "ID": "1a4134ef-9e0d-4156-af4e-12a888d66cc9",
+    "effective_cve": "CVE-2020-7968",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:49+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7968"
+  },
+  {
+    "ID": "1a4f4c27-2118-4a3b-9e59-ec91f5461b9c",
+    "effective_cve": "CVE-2020-7791",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "i18n",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:06:03+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7791"
+  },
+  {
+    "ID": "1acf15a5-677b-4eee-b3ac-73c976ebe9e4",
+    "effective_cve": "CVE-2018-19495",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:17+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19495"
+  },
+  {
+    "ID": "1c0040c9-6e08-47a6-8415-d843eb6f6aea",
+    "effective_cve": "CVE-2021-39937",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:39+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39937"
+  },
+  {
+    "ID": "1cba387c-7af0-4dcd-899d-eef077363415",
+    "effective_cve": "CVE-2019-6791",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:09+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6791"
+  },
+  {
+    "ID": "1dea464e-1b99-4a87-85f1-6b5b96963a0a",
+    "effective_cve": "CVE-2018-10379",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-10379"
+  },
+  {
+    "ID": "1eab9a7d-7e13-4960-a9a8-004c551f451b",
+    "effective_cve": "CVE-2017-14198",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "matrix",
+      "version": "0.4.2"
+    },
+    "timestamp": "2022-09-14T14:06:42+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14198"
+  },
+  {
+    "ID": "1f30ccb0-0dd1-4f82-b2c6-60058709e04f",
+    "effective_cve": "CVE-2019-18448",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:02+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18448"
+  },
+  {
+    "ID": "1fad766a-2af9-4f78-81b2-e376931909a1",
+    "effective_cve": "CVE-2021-39873",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:33+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39873"
+  },
+  {
+    "ID": "209aae79-d065-4e3f-a3ce-36038c0db3fd",
+    "effective_cve": "CVE-2021-27400",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:14+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27400"
+  },
+  {
+    "ID": "2246a30c-de60-4150-902d-48bf61c2b4c8",
+    "effective_cve": "CVE-2020-13310",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13310"
+  },
+  {
+    "ID": "22fb251f-6ef4-4ba0-99de-edbc4b89f7a3",
+    "effective_cve": "CVE-2019-15737",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:01+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15737"
+  },
+  {
+    "ID": "23673649-f775-452d-b2cb-84d7d1e94605",
+    "effective_cve": "CVE-2021-33183",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-11-01T18:24:52+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-33183"
+  },
+  {
+    "ID": "237188d4-71cb-4a5b-a0af-a88a215354d9",
+    "effective_cve": "CVE-2021-22228",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:29+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22228"
+  },
+  {
+    "ID": "249f430d-e575-481d-87c7-edb7345412c9",
+    "effective_cve": "CVE-2015-1843",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:50+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-1843"
+  },
+  {
+    "ID": "24b52cef-2892-4438-bae5-2d0493609493",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "commonmarker",
+      "version": "0.23.5"
+    },
+    "timestamp": "2023-08-18T13:31:15.641474",
+    "tool": "grype@v0.65.2-3-g8513e90",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-7vh7-fw88-wj87"
+  },
+  {
+    "ID": "24be09a1-767d-4108-a120-386ad7cdd821",
+    "effective_cve": "CVE-2021-4044",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openssl",
+      "version": "3.0.0"
+    },
+    "timestamp": "2023-02-14T21:05:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4044"
+  },
+  {
+    "ID": "251086e6-ff18-4076-9796-b69c933b97af",
+    "effective_cve": "CVE-2015-7082",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:09+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-7082"
+  },
+  {
+    "ID": "2523b143-c2b9-444b-bae0-a804beb5089b",
+    "effective_cve": "CVE-2019-9217",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:22+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9217"
+  },
+  {
+    "ID": "253fdfc8-a40c-4bcd-b679-4257b33f5ede",
+    "effective_cve": "CVE-2019-16884",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:57+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-16884"
+  },
+  {
+    "ID": "263b8732-d691-4c14-8ca4-a165c30e3b72",
+    "effective_cve": "CVE-2019-15575",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:47+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15575"
+  },
+  {
+    "ID": "28b6542f-9b98-45b7-bf29-9bd833bf32ac",
+    "effective_cve": "CVE-2018-17450",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:32.833040",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17450"
+  },
+  {
+    "ID": "29dc8d0f-f636-47dc-90ca-a260e5003028",
+    "effective_cve": "CVE-2019-10111",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:28+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10111"
+  },
+  {
+    "ID": "2d69c86c-2583-41bd-ae82-1f19a9c84116",
+    "effective_cve": "CVE-2021-21285",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-11-01T18:24:48+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-21285"
+  },
+  {
+    "ID": "2da904ff-41b8-4f7e-953d-23ea089d8694",
+    "effective_cve": "CVE-2021-22216",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:27+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22216"
+  },
+  {
+    "ID": "2dcef36e-fc5a-45ab-8199-8dacee604cb4",
+    "effective_cve": "CVE-2018-8971",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-8971"
+  },
+  {
+    "ID": "2fdec49c-61fb-4efe-94c3-a92bf01b1b85",
+    "effective_cve": "CVE-2021-21300",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-11-01T18:24:59+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-21300"
+  },
+  {
+    "ID": "3014d2ae-9bd1-43a1-802d-2cd46e9d7b15",
+    "effective_cve": "CVE-2020-13280",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:44+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13280"
+  },
+  {
+    "ID": "30627433-261b-40b4-83bd-9a87c704defd",
+    "effective_cve": "CVE-2020-13274",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:42+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13274"
+  },
+  {
+    "ID": "30d5c1da-ba9d-4f08-bb1c-41516f67f3b0",
+    "effective_cve": "CVE-2019-3826",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "prometheus",
+      "version": "0.1.4"
+    },
+    "timestamp": "2022-09-14T14:06:53+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3826"
+  },
+  {
+    "ID": "3290d639-36f5-4a19-8eee-0ff198fb8b77",
+    "effective_cve": "CVE-2018-17455",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:35.008709",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17455"
+  },
+  {
+    "ID": "333aec59-e3bc-49ea-ab93-f781899d8b85",
+    "effective_cve": "CVE-2020-10661",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10661"
+  },
+  {
+    "ID": "33967428-848c-48dc-b447-25f8a0adf296",
+    "effective_cve": "CVE-2021-43998",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:20+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-43998"
+  },
+  {
+    "ID": "35a6b31a-e9c2-49a4-9b85-1d92242e0304",
+    "effective_cve": "CVE-2020-13302",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13302"
+  },
+  {
+    "ID": "3737ab3b-0368-45ca-8d4a-f36429fae239",
+    "effective_cve": "CVE-2019-10109",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:25+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10109"
+  },
+  {
+    "ID": "381051a0-f34a-4036-8ab4-8a34a9bd707a",
+    "effective_cve": "CVE-2020-13271",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:41+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13271"
+  },
+  {
+    "ID": "3917b43d-38db-4ffc-82aa-6b7a8e57e581",
+    "effective_cve": "CVE-2019-15591",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:50+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15591"
+  },
+  {
+    "ID": "3a3a7645-a6f5-46fb-a2ce-f5f18260c35c",
+    "effective_cve": "CVE-2019-10342",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:55+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10342"
+  },
+  {
+    "ID": "3c93cefb-aa61-4813-806e-89780c7b16f4",
+    "effective_cve": "CVE-2018-19580",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:17+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19580"
+  },
+  {
+    "ID": "3fb6928a-f563-4102-9b90-22d7013637b8",
+    "effective_cve": "CVE-2020-13306",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13306"
+  },
+  {
+    "ID": "403a9d91-dc34-4cca-8f5f-906f845c6c7b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "commonmarker",
+      "version": "0.23.5"
+    },
+    "timestamp": "2023-04-28T07:51:18.876765",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-48wp-p9qv-4j64"
+  },
+  {
+    "ID": "40d0718b-0f8d-4ff4-94cd-1cc5a4677ad4",
+    "effective_cve": "CVE-2019-10114",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10114"
+  },
+  {
+    "ID": "4178aaac-28e3-46b5-8e18-23a2207c3f82",
+    "effective_cve": "CVE-2017-14197",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "matrix",
+      "version": "0.4.2"
+    },
+    "timestamp": "2022-09-14T14:06:40+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14197"
+  },
+  {
+    "ID": "41db60f1-aead-46cf-8d27-b0e9f16ac628",
+    "effective_cve": "CVE-2018-14606",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14606"
+  },
+  {
+    "ID": "41ee9c51-f410-4927-afdf-785c8874cb8b",
+    "effective_cve": "CVE-2019-18447",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:02+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18447"
+  },
+  {
+    "ID": "42405511-6ee5-44db-a561-85213c0bad37",
+    "effective_cve": "CVE-2020-13329",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:23+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13329"
+  },
+  {
+    "ID": "43f10ba9-18ed-42a7-b905-c212a1699be7",
+    "effective_cve": "CVE-2019-15592",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:51+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15592"
+  },
+  {
+    "ID": "448fc989-22b6-4850-bb3a-462be73b1680",
+    "effective_cve": "CVE-2019-9224",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:26+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9224"
+  },
+  {
+    "ID": "4550309b-123b-46c9-8924-e1c3f03afb42",
+    "effective_cve": "CVE-2019-15589",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:49+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15589"
+  },
+  {
+    "ID": "45b5260d-f2b1-4e61-8899-32c0f75512b6",
+    "effective_cve": "CVE-2018-18640",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-18640"
+  },
+  {
+    "ID": "46e6eb6e-c3f6-41c2-b5ce-87382d45aa93",
+    "effective_cve": "CVE-2020-10081",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:33+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10081"
+  },
+  {
+    "ID": "4a3c9c2c-da21-4ead-9b83-62eac603289f",
+    "effective_cve": "CVE-2021-40330",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-11-01T18:25:03+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-40330"
+  },
+  {
+    "ID": "4ba0e010-2409-44de-9374-bb6d1ece7b9c",
+    "effective_cve": "CVE-2018-17536",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:36.035502",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17536"
+  },
+  {
+    "ID": "4dc542bf-6292-4e3e-8bbf-9bcdf8bba462",
+    "effective_cve": "CVE-2019-14944",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:44.221844",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14944"
+  },
+  {
+    "ID": "4e9d7118-0aa1-4ceb-83a0-88b53807b1a5",
+    "effective_cve": "CVE-2021-21284",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-11-01T18:24:47+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-21284"
+  },
+  {
+    "ID": "4f1d386c-446f-4701-982d-2e8f95c6eeec",
+    "effective_cve": "CVE-2019-18449",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:03+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18449"
+  },
+  {
+    "ID": "4f82c46a-f24c-44a2-9224-3dc20bfee463",
+    "effective_cve": "CVE-2020-13276",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:43+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13276"
+  },
+  {
+    "ID": "4fc7300a-749e-4be2-9689-4b2e1e49b724",
+    "effective_cve": "CVE-2014-9356",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:48+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-9356"
+  },
+  {
+    "ID": "50850e2a-4607-41e5-85ff-d1f7b948e87d",
+    "effective_cve": "CVE-2018-17453",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:33.938660",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17453"
+  },
+  {
+    "ID": "514bc1e3-12fd-4b48-aeda-ec000e3131a5",
+    "effective_cve": "CVE-2021-32672",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-11-01T18:26:08+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32672"
+  },
+  {
+    "ID": "52dd91a1-fc27-47b7-9710-1051142e2583",
+    "effective_cve": "CVE-2018-19786",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19786"
+  },
+  {
+    "ID": "54468e0c-c9ee-484f-9451-cbdc8c790321",
+    "effective_cve": "CVE-2019-9220",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:23+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9220"
+  },
+  {
+    "ID": "54c89334-7ac5-40c8-9db6-b19b70a8f458",
+    "effective_cve": "CVE-2019-14942",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:43.859102",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-14942"
+  },
+  {
+    "ID": "5573b246-8c02-4cea-8ca0-8a49ec96febb",
+    "effective_cve": "CVE-2021-21684",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-11-01T18:25:00+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-21684"
+  },
+  {
+    "ID": "5573c875-d614-486d-b47a-b50fd3740322",
+    "effective_cve": "CVE-2019-9170",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9170"
+  },
+  {
+    "ID": "56006790-72be-422b-9729-fb33e56b28ec",
+    "effective_cve": "CVE-2019-10110",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:27+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10110"
+  },
+  {
+    "ID": "572be30f-387b-4c95-a37a-e17075e15b5a",
+    "effective_cve": "CVE-2019-19260",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:06+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19260"
+  },
+  {
+    "ID": "5822e6f4-95cc-47d2-a7b9-2395ad125b84",
+    "effective_cve": "CVE-2018-14603",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14603"
+  },
+  {
+    "ID": "58a35feb-a463-487e-abb3-79dcff6e2ecc",
+    "effective_cve": "CVE-2013-4581",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:08:47+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4581"
+  },
+  {
+    "ID": "58f6075f-1a7b-4991-b42e-086b2912fa6a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "httparty",
+      "version": "0.20.0"
+    },
+    "timestamp": "2023-02-14T21:02:29+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-5pq7-52mg-hr42"
+  },
+  {
+    "ID": "594faf9c-8180-40da-a446-c2b9cdf030db",
+    "effective_cve": "CVE-2019-10321",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:27+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10321"
+  },
+  {
+    "ID": "5aebfef8-eec3-4e2d-bfd1-39f3f1736d78",
+    "effective_cve": "CVE-2015-7545",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-7545"
+  },
+  {
+    "ID": "5cac48a2-9f34-48a7-a577-d8ddb9447282",
+    "effective_cve": "CVE-2019-15576",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:48+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15576"
+  },
+  {
+    "ID": "5df2a43d-e216-4807-949a-4a828500cb48",
+    "effective_cve": "CVE-2021-32626",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-11-01T18:26:05+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32626"
+  },
+  {
+    "ID": "6007b1b3-b005-4ebe-af34-cac7d269cf61",
+    "effective_cve": "CVE-2018-17452",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:33.589505",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17452"
+  },
+  {
+    "ID": "608d8ce1-5ac1-443d-b595-1e2eb5f6698b",
+    "effective_cve": "CVE-2019-9221",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:24+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9221"
+  },
+  {
+    "ID": "61316166-093e-4e46-acac-27a60e0e9943",
+    "effective_cve": "CVE-2021-41834",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-11-01T18:24:37+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-41834"
+  },
+  {
+    "ID": "61453a8d-501c-4183-9c7b-4e56cf55e14b",
+    "effective_cve": "CVE-2019-10108",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10108"
+  },
+  {
+    "ID": "61a87730-c071-4e02-b61d-5cee06abb7da",
+    "effective_cve": "CVE-2014-7194",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:04+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-7194"
+  },
+  {
+    "ID": "62cb7d8f-c8ba-49ee-9894-7fb0bc783246",
+    "effective_cve": "CVE-2020-13340",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:25+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13340"
+  },
+  {
+    "ID": "6308ca4c-62a8-4deb-9224-283b28b06b25",
+    "effective_cve": "CVE-2018-14364",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14364"
+  },
+  {
+    "ID": "63bde78f-fcab-43a8-9ec3-be3171d3802c",
+    "effective_cve": "CVE-2019-9485",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:28+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9485"
+  },
+  {
+    "ID": "6527e6ed-702d-4dc9-9a7c-656b1433be5c",
+    "effective_cve": "CVE-2017-15298",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-15298"
+  },
+  {
+    "ID": "667b3ecb-ed2d-4bb9-869d-32b047b23a73",
+    "effective_cve": "CVE-2019-10116",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:30+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10116"
+  },
+  {
+    "ID": "678401e2-57af-4558-b2f1-bd072790c8c0",
+    "effective_cve": "CVE-2019-5736",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:58+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-5736"
+  },
+  {
+    "ID": "67967e06-2dae-4ec2-b27d-7a472d1b93cb",
+    "effective_cve": "CVE-2018-17451",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:33.243622",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17451"
+  },
+  {
+    "ID": "680f6524-6124-48d9-9e12-38514389877b",
+    "effective_cve": "CVE-2021-4160",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openssl",
+      "version": "3.0.0"
+    },
+    "timestamp": "2023-02-14T21:05:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4160"
+  },
+  {
+    "ID": "696d10a9-fb9b-4dee-b133-d44a0d1dfecd",
+    "effective_cve": "CVE-2017-17688",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-17688"
+  },
+  {
+    "ID": "6c67ca39-16bb-4b10-9610-9fe8b2437f5f",
+    "effective_cve": "CVE-2019-15580",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:48+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15580"
+  },
+  {
+    "ID": "6c74b3a1-b9d0-4b4c-9a67-d4deb37ec4b9",
+    "effective_cve": "CVE-2020-7931",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:32+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7931"
+  },
+  {
+    "ID": "6dba7530-7bf2-4a29-9207-ba0ffb665fde",
+    "effective_cve": "CVE-2019-9179",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:21+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9179"
+  },
+  {
+    "ID": "6e778f71-46a9-425c-a606-8e53dc6753d4",
+    "effective_cve": "CVE-2021-3470",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-11-01T18:26:09+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3470"
+  },
+  {
+    "ID": "6f1e2e89-8320-44b4-ad02-dd50fbc72015",
+    "effective_cve": "CVE-2018-11235",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:16+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-11235"
+  },
+  {
+    "ID": "6fe11e22-2b26-4fc9-97d0-890185ed24b6",
+    "effective_cve": "CVE-2020-11505",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:39+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-11505"
+  },
+  {
+    "ID": "6ffa0dca-7129-418b-93ad-1f41c592f765",
+    "effective_cve": "CVE-2021-22187",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:20+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22187"
+  },
+  {
+    "ID": "70d64e73-026c-4f07-a727-ded909f01411",
+    "effective_cve": "CVE-2021-22194",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:24+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22194"
+  },
+  {
+    "ID": "7163699c-cfcf-4a0e-8590-b1e77023c419",
+    "effective_cve": "CVE-2016-3697",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:52+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-3697"
+  },
+  {
+    "ID": "7207adc0-0a3b-435b-9a2e-33e414e29dc0",
+    "effective_cve": "CVE-2018-19486",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:16+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19486"
+  },
+  {
+    "ID": "728915c4-dcde-4f42-966d-ba4629c1a636",
+    "effective_cve": "CVE-2019-6794",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:09+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6794"
+  },
+  {
+    "ID": "73a97264-4e9f-4664-8377-950f7ccf60bc",
+    "effective_cve": "CVE-2019-6784",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:08+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6784"
+  },
+  {
+    "ID": "75d73bc8-c5e7-43e0-a1a6-8a8d89d4d61d",
+    "effective_cve": "CVE-2019-9175",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9175"
+  },
+  {
+    "ID": "76245d11-0ecf-4a34-94fd-81d29e4d96f2",
+    "effective_cve": "CVE-2020-27534",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:59+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27534"
+  },
+  {
+    "ID": "76a88737-4770-4146-9bc8-583c379ed078",
+    "effective_cve": "CVE-2017-1000117",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-1000117"
+  },
+  {
+    "ID": "7965bb67-774b-46f3-8d61-d14c9bd57a1d",
+    "effective_cve": "CVE-2014-9358",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:49+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-9358"
+  },
+  {
+    "ID": "79a59761-4f8e-44fb-be65-534d1a2df433",
+    "effective_cve": "CVE-2020-13319",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13319"
+  },
+  {
+    "ID": "79de7b71-8241-4bea-977d-1c6683d057ff",
+    "effective_cve": "CVE-2014-5282",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:46+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-5282"
+  },
+  {
+    "ID": "7acc27ee-940e-4aef-8bec-8ab2a7adc0d8",
+    "effective_cve": "CVE-2010-3887",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:17+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-3887"
+  },
+  {
+    "ID": "7ba67f32-bf57-4f1d-b144-42985fcaeee9",
+    "effective_cve": "CVE-2018-19856",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:18+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19856"
+  },
+  {
+    "ID": "7bf1c3a0-43ca-4989-b10d-550ebf229a8c",
+    "effective_cve": "CVE-2021-22176",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:19+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22176"
+  },
+  {
+    "ID": "7f785206-8a7c-4c5c-9e84-aa7ccfe95ba6",
+    "effective_cve": "CVE-2017-14867",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14867"
+  },
+  {
+    "ID": "82ee2ee4-d6fa-4d82-ab16-027f762f586a",
+    "effective_cve": "CVE-2021-27668",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:15+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-27668"
+  },
+  {
+    "ID": "84774160-4198-4808-8bce-5e85fe58a42b",
+    "effective_cve": "CVE-2019-15736",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:53+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15736"
+  },
+  {
+    "ID": "84eb42a5-4ae3-464a-a49b-4abb4156df9d",
+    "effective_cve": "CVE-2015-4156",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "parallel",
+      "version": "1.22.1"
+    },
+    "timestamp": "2022-09-14T14:06:46+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-4156"
+  },
+  {
+    "ID": "85a0de7f-733f-4670-b98c-fcc029558e0d",
+    "effective_cve": "CVE-2019-9223",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:26+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9223"
+  },
+  {
+    "ID": "8613edff-ad7c-412e-889f-95be111a5252",
+    "effective_cve": "CVE-2021-39882",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:34+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39882"
+  },
+  {
+    "ID": "866df58b-756b-4b1f-9137-fc7708915da1",
+    "effective_cve": "CVE-2020-13321",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:22+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13321"
+  },
+  {
+    "ID": "8856ba52-f64b-47c9-9955-50bf810d63f0",
+    "effective_cve": "CVE-2019-5486",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:06+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-5486"
+  },
+  {
+    "ID": "88af431e-06ab-48fd-bf1a-36db014577cc",
+    "effective_cve": "CVE-2018-18643",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-18643"
+  },
+  {
+    "ID": "88c7ab5f-4f82-48ff-89eb-f84b26cb93a2",
+    "effective_cve": "CVE-2020-2136",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-2136"
+  },
+  {
+    "ID": "8a4252ce-f2bc-4618-9f17-4aaba41754fe",
+    "effective_cve": "CVE-2020-11008",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-11008"
+  },
+  {
+    "ID": "8b0be608-5783-490f-8f78-9c529954f0e6",
+    "effective_cve": "CVE-2018-17454",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:34.488015",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-17454"
+  },
+  {
+    "ID": "8c9490e3-ab72-4c5c-acbd-44f3ee03878f",
+    "effective_cve": "CVE-2019-9218",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:22+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9218"
+  },
+  {
+    "ID": "8de39672-f733-496d-856d-8bd72df15f87",
+    "effective_cve": "CVE-2020-14147",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:59+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-14147"
+  },
+  {
+    "ID": "8ec1641f-b75a-4f99-8ab8-c0ff2524790d",
+    "effective_cve": "CVE-2017-17689",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:33+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-17689"
+  },
+  {
+    "ID": "8f1b1a8e-3bc4-42a9-bbb3-dc18c0b2dd9d",
+    "effective_cve": "CVE-2020-13223",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13223"
+  },
+  {
+    "ID": "8f2fdd3b-5778-463c-8678-33bebb64f9d5",
+    "effective_cve": "CVE-2019-10322",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:28+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10322"
+  },
+  {
+    "ID": "92d72eae-4cc2-4f54-a2fc-bcc0b32bde11",
+    "effective_cve": "CVE-2019-19937",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:30+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19937"
+  },
+  {
+    "ID": "92e043d3-5b66-44df-a0b1-468e7b3e2d3e",
+    "effective_cve": "CVE-2020-16250",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16250"
+  },
+  {
+    "ID": "932dea22-8af2-42c7-9ba7-590000124397",
+    "effective_cve": "CVE-2019-9171",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9171"
+  },
+  {
+    "ID": "94b2db0d-7413-4ca0-92db-0efe89af142b",
+    "effective_cve": "CVE-2019-5487",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:07+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-5487"
+  },
+  {
+    "ID": "95057756-226d-4033-8e4b-b00fb53ded31",
+    "effective_cve": "CVE-2019-6240",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:07+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6240"
+  },
+  {
+    "ID": "950d365d-f42d-4c00-8465-e7a58199cf45",
+    "effective_cve": "CVE-2019-10113",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10113"
+  },
+  {
+    "ID": "96297f71-4f10-4c93-8eec-becd85820e8b",
+    "effective_cve": "CVE-2014-8179",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:48+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-8179"
+  },
+  {
+    "ID": "96dd62d6-6a3b-415b-a9ff-b5868a7972b9",
+    "effective_cve": "CVE-2019-19257",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:05+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19257"
+  },
+  {
+    "ID": "98cee2e4-bea4-4333-8397-9f5b9886ed6c",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "commonmarker",
+      "version": "0.23.5"
+    },
+    "timestamp": "2022-11-01T18:24:43+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-4qw4-jpp4-8gvp"
+  },
+  {
+    "ID": "998b741e-81a3-4492-9a16-20265fa71970",
+    "effective_cve": "CVE-2021-41802",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:19+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-41802"
+  },
+  {
+    "ID": "99c375a7-06d7-4fcb-8f00-c484a52b57a4",
+    "effective_cve": "CVE-2008-0039",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2008-0039"
+  },
+  {
+    "ID": "9a637c38-aaba-4952-b79e-19f2efc0fbd7",
+    "effective_cve": "CVE-2021-32923",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:17+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32923"
+  },
+  {
+    "ID": "9aba4b71-dbca-4946-b7c1-37e6f5a8b46b",
+    "effective_cve": "CVE-2014-5169",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "date",
+      "version": "3.2.2"
+    },
+    "timestamp": "2022-09-14T14:00:38+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-5169"
+  },
+  {
+    "ID": "9b4cef92-e544-4e92-8271-5c5a4d95e80f",
+    "effective_cve": "CVE-2021-22189",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:22+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22189"
+  },
+  {
+    "ID": "9bf2d99c-0369-4df7-9eac-c756cc0dbb34",
+    "effective_cve": "CVE-2018-1000182",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000182"
+  },
+  {
+    "ID": "9c38f71e-4493-4645-bedf-72b122ffd7bc",
+    "effective_cve": "CVE-2019-9176",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:20+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9176"
+  },
+  {
+    "ID": "9c407137-addf-4135-87ed-0b9a53ac5aad",
+    "effective_cve": "CVE-2019-10324",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10324"
+  },
+  {
+    "ID": "a0f44225-0d23-4039-9bcf-88acb116f28e",
+    "effective_cve": "CVE-2021-22245",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:30+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22245"
+  },
+  {
+    "ID": "a12682d7-7b04-4fcc-afc6-5f8dac5e67ed",
+    "effective_cve": "CVE-2021-3162",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-11-01T18:24:48+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3162"
+  },
+  {
+    "ID": "a1d68f73-918e-4a84-90dd-dacb32971d8f",
+    "effective_cve": "CVE-2020-10077",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10077"
+  },
+  {
+    "ID": "a299353d-b136-47e8-b123-23ca439c6778",
+    "effective_cve": "CVE-2020-16251",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-16251"
+  },
+  {
+    "ID": "a5008b8d-12fb-44e2-b045-0f61d038dfca",
+    "effective_cve": "CVE-2019-15726",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:52+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15726"
+  },
+  {
+    "ID": "aa5a8adf-330a-4273-85fd-7cd8f1563e61",
+    "effective_cve": "CVE-2018-14602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14602"
+  },
+  {
+    "ID": "ab3fcb51-dd6a-4d07-b282-624fad0140dc",
+    "effective_cve": "CVE-2014-6407",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:47+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-6407"
+  },
+  {
+    "ID": "acdf9fc2-f220-494b-b34c-ef33e250aa72",
+    "effective_cve": "CVE-2005-2512",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2005-2512"
+  },
+  {
+    "ID": "b233aaa9-40df-49d8-ba78-e9f2af0ea565",
+    "effective_cve": "CVE-2017-8778",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-8778"
+  },
+  {
+    "ID": "b2bb8618-4d7b-4095-9585-a552499c4647",
+    "effective_cve": "CVE-2021-21309",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-11-01T18:26:05+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-21309"
+  },
+  {
+    "ID": "b2fd1a25-b630-45a5-82f9-79c0b3a86971",
+    "effective_cve": "CVE-2016-2324",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2324"
+  },
+  {
+    "ID": "b54e741f-cfc6-4b4a-bbd2-6dac1e557ef4",
+    "effective_cve": "CVE-2021-46101",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-11-01T18:25:03+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46101"
+  },
+  {
+    "ID": "b5a76499-400b-4d6e-8720-078525a860a1",
+    "effective_cve": "CVE-2018-1000021",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000021"
+  },
+  {
+    "ID": "b67dc19b-f61c-4ac4-bb96-0f5138bd0c72",
+    "effective_cve": "CVE-2015-3631",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:51+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3631"
+  },
+  {
+    "ID": "b7596bc0-64c8-4901-a81a-33de8519af1a",
+    "effective_cve": "CVE-2019-9174",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:19+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9174"
+  },
+  {
+    "ID": "b8651b93-7978-45c6-8205-20ea22c33b93",
+    "effective_cve": "CVE-2015-4155",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "parallel",
+      "version": "1.22.1"
+    },
+    "timestamp": "2022-09-14T14:06:45+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-4155"
+  },
+  {
+    "ID": "b91cd285-9c5c-4a12-8094-f1eb33b8f5ac",
+    "effective_cve": "CVE-2018-14605",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14605"
+  },
+  {
+    "ID": "ba8d1a41-9f9e-439f-b8ce-002f8cc7d19c",
+    "effective_cve": "CVE-2019-6796",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6796"
+  },
+  {
+    "ID": "bbd00c97-d98f-48ff-90ff-f89d1e9812a8",
+    "effective_cve": "CVE-2020-10954",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:35+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10954"
+  },
+  {
+    "ID": "bc8ed137-6783-4c5c-b6e1-46c97fec9d57",
+    "effective_cve": "CVE-2020-13293",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:06+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13293"
+  },
+  {
+    "ID": "bd37d23c-58e6-4940-b10e-153f3015aa9b",
+    "effective_cve": "CVE-2014-0048",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:45+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-0048"
+  },
+  {
+    "ID": "bd46c2a4-b7d9-40c5-973c-4f5438cc6628",
+    "effective_cve": "CVE-2020-13301",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13301"
+  },
+  {
+    "ID": "bd7c4d07-00ca-45ee-ae59-8b8580e8acd5",
+    "effective_cve": "CVE-2014-0047",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:44+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-0047"
+  },
+  {
+    "ID": "bf6805ae-9f86-4163-b8ae-da30c124786e",
+    "effective_cve": "CVE-2020-13956",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "httpclient",
+      "version": "2.8.3"
+    },
+    "timestamp": "2022-09-14T14:05:38+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13956"
+  },
+  {
+    "ID": "c1229eb2-5c25-44c1-b6c6-f61eaaffb471",
+    "effective_cve": "CVE-2020-5260",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:20+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-5260"
+  },
+  {
+    "ID": "c19b5e50-f4da-4d75-a271-733f4d929761",
+    "effective_cve": "CVE-2021-22246",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:33+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22246"
+  },
+  {
+    "ID": "c42fd4b8-25fa-4fa4-a661-6e5d6edd6563",
+    "effective_cve": "CVE-2018-12607",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12607"
+  },
+  {
+    "ID": "c538cd48-2d03-46bf-be97-5d7f8aa9381c",
+    "effective_cve": "CVE-2020-13309",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13309"
+  },
+  {
+    "ID": "c5a14472-9a2a-4e49-8ebc-f0a9c475e164",
+    "effective_cve": "CVE-2019-9172",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:18+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9172"
+  },
+  {
+    "ID": "c8605b81-6ef0-45dd-9727-3509b4daf492",
+    "effective_cve": "CVE-2016-10036",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:17+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10036"
+  },
+  {
+    "ID": "c8f837d5-5815-48fc-8f69-382ffa8c4f96",
+    "effective_cve": "CVE-2014-5277",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:45+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-5277"
+  },
+  {
+    "ID": "c9722e4a-721b-4505-88da-f16c1edcf26e",
+    "effective_cve": "CVE-2017-14992",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:53+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-14992"
+  },
+  {
+    "ID": "c9972e7c-3132-4a61-aacb-d00677a94cd0",
+    "effective_cve": "CVE-2021-39908",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:35+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39908"
+  },
+  {
+    "ID": "c9efc488-e93c-42e3-9001-7525665d0c28",
+    "effective_cve": "CVE-2020-2164",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:30+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-2164"
+  },
+  {
+    "ID": "cadc559d-4581-4465-acac-0aa26ec83c31",
+    "effective_cve": "CVE-2020-13350",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:26+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13350"
+  },
+  {
+    "ID": "cb1a2d77-35da-49da-8c46-646dbb8e285b",
+    "effective_cve": "CVE-2015-3630",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:51+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3630"
+  },
+  {
+    "ID": "cc2453c7-d455-403a-8660-c904e3c36a43",
+    "effective_cve": "CVE-2020-7973",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:51+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7973"
+  },
+  {
+    "ID": "cd461b49-f69c-4975-bdb6-6b941d212f40",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nokogiri",
+      "version": "1.13.8"
+    },
+    "timestamp": "2023-04-28T07:51:56.995669",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-pxvg-2qj5-37jq"
+  },
+  {
+    "ID": "ce10c051-c1ff-455f-9662-5c2630a61987",
+    "effective_cve": "CVE-2020-13298",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:11+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13298"
+  },
+  {
+    "ID": "ce91de8a-cb00-4d14-9cbc-f0503e286523",
+    "effective_cve": "CVE-2014-2545",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:03+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-2545"
+  },
+  {
+    "ID": "cf0ed566-c29e-472e-85b5-10606342530f",
+    "effective_cve": "CVE-2017-12426",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-12426"
+  },
+  {
+    "ID": "cf1f5295-4691-41c1-9fb3-a8a196541501",
+    "effective_cve": "CVE-2020-13339",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:24+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13339"
+  },
+  {
+    "ID": "cf81f660-3aa0-4813-958f-ba0f9adb91a4",
+    "effective_cve": "CVE-2021-22202",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:26+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22202"
+  },
+  {
+    "ID": "d07ed8fa-8dae-4fcc-a98c-b7774d736d4b",
+    "effective_cve": "CVE-2016-6501",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:26+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-6501"
+  },
+  {
+    "ID": "d2271b3b-161a-440d-a311-a24c3d1861d4",
+    "effective_cve": "CVE-2019-10640",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:31+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10640"
+  },
+  {
+    "ID": "d26d145b-b635-4557-8559-6eee3861ffe1",
+    "effective_cve": "CVE-2019-18450",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:04+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-18450"
+  },
+  {
+    "ID": "d30a6d60-63f2-41d4-a6dd-e764f898775e",
+    "effective_cve": "CVE-2021-3024",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:16+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3024"
+  },
+  {
+    "ID": "d3535f64-dac0-4465-bedb-2beaf379bc21",
+    "effective_cve": "CVE-2018-20229",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:18+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20229"
+  },
+  {
+    "ID": "d3df3d79-221f-4acb-ae50-d28b37af3d62",
+    "effective_cve": "CVE-2019-13003",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:38+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-13003"
+  },
+  {
+    "ID": "d56bedd9-a8e3-4c70-b57b-87f6a334cd83",
+    "effective_cve": "CVE-2020-7220",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7220"
+  },
+  {
+    "ID": "d600bbdd-6e99-4d2e-9780-9770e19fa6cd",
+    "effective_cve": "CVE-2018-14604",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-14604"
+  },
+  {
+    "ID": "d6ed0d8f-ba73-471c-a8e0-0eb77580b39c",
+    "effective_cve": "CVE-2021-3860",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-11-01T18:24:36+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3860"
+  },
+  {
+    "ID": "d91e6188-daf7-43dc-a2d4-8e021213d991",
+    "effective_cve": "CVE-2016-4879",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "mail",
+      "version": "2.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:21+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-4879"
+  },
+  {
+    "ID": "dbc4eb60-8a58-41e4-b48d-7c279f53f14b",
+    "effective_cve": "CVE-2014-8178",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:47+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2014-8178"
+  },
+  {
+    "ID": "dc3b42ea-c805-4a40-8616-fa3456f8c509",
+    "effective_cve": "CVE-2015-3627",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:50+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-3627"
+  },
+  {
+    "ID": "de290485-7f33-411e-9be6-ffea1a7eceb7",
+    "effective_cve": "CVE-2018-15472",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2023-04-28T07:51:31.649589",
+    "tool": "grype@v0.61.1",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-15472"
+  },
+  {
+    "ID": "df7af525-8998-46ab-b985-ad827681e6f2",
+    "effective_cve": "CVE-2020-13296",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:07+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13296"
+  },
+  {
+    "ID": "e31e27b5-719d-471c-a10d-55bedc596ddd",
+    "effective_cve": "CVE-2019-10323",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:28+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10323"
+  },
+  {
+    "ID": "e5007dd4-6293-48ce-adcb-fedc96d464f9",
+    "effective_cve": "CVE-2019-6795",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-6795"
+  },
+  {
+    "ID": "e5410254-e7e0-4732-a87b-f934a7ff5487",
+    "effective_cve": "CVE-2019-19604",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:18+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-19604"
+  },
+  {
+    "ID": "e6723aa0-bc0b-438e-ad34-a1d5db82854b",
+    "effective_cve": "CVE-2020-25594",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-09-14T14:07:14+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-25594"
+  },
+  {
+    "ID": "e6c918e2-04ca-479f-9e2c-8bbb58dec9fc",
+    "effective_cve": "CVE-2017-0921",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:09+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-0921"
+  },
+  {
+    "ID": "e780735a-4208-4609-a433-5c1961757ed5",
+    "effective_cve": "CVE-2019-9219",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:23+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9219"
+  },
+  {
+    "ID": "e8a890d8-d815-4ca3-9fda-e65af5e91bab",
+    "effective_cve": "CVE-2019-15594",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:51+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15594"
+  },
+  {
+    "ID": "e8d2c7e5-5c06-4679-a0c9-10e1ec5a2010",
+    "effective_cve": "CVE-2019-10341",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:54+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10341"
+  },
+  {
+    "ID": "e9525cf3-3470-470d-aa24-b64fd1501e81",
+    "effective_cve": "CVE-2019-15752",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:57+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-15752"
+  },
+  {
+    "ID": "ea9dc9b3-1268-4f72-9e9f-5dcbc932e590",
+    "effective_cve": "CVE-2020-14155",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:09:01+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-14155"
+  },
+  {
+    "ID": "eb5f3a66-e3fa-4bf2-97bb-05114453cb7e",
+    "effective_cve": "CVE-2018-12453",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "redis",
+      "version": "4.7.1"
+    },
+    "timestamp": "2022-09-14T14:06:57+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-12453"
+  },
+  {
+    "ID": "ed496a16-5755-4d92-8052-a4ccbb70b3b3",
+    "effective_cve": "CVE-2017-0919",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:08+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-0919"
+  },
+  {
+    "ID": "edf35960-ae74-43ab-a4b0-801de7cbbc46",
+    "effective_cve": "CVE-2020-13304",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:12+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13304"
+  },
+  {
+    "ID": "ee4afcf2-35c8-4e66-909f-c9f052ec11ca",
+    "effective_cve": "CVE-2020-2165",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:31+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-2165"
+  },
+  {
+    "ID": "ef624626-21b8-4554-8c14-fa9964932597",
+    "effective_cve": "CVE-2019-9222",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:03:25+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9222"
+  },
+  {
+    "ID": "f103f25f-b373-409e-b771-373b9c0bbd82",
+    "effective_cve": "CVE-2021-38554",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "vault",
+      "version": "0.17.0"
+    },
+    "timestamp": "2022-11-01T18:26:18+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-38554"
+  },
+  {
+    "ID": "f15fd648-0812-4e70-a107-fc2e41e7bd1e",
+    "effective_cve": "CVE-2020-13297",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:10+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13297"
+  },
+  {
+    "ID": "f1d7ed9f-6e75-4750-808b-0ea9fda8dc53",
+    "effective_cve": "CVE-2019-10340",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:53+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10340"
+  },
+  {
+    "ID": "f2bf5693-3f9d-40a1-be6f-5cf9e5acf4f3",
+    "effective_cve": "CVE-2021-22227",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:28+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-22227"
+  },
+  {
+    "ID": "f32cfa2c-481d-4c8b-bc48-6c16d1357340",
+    "effective_cve": "CVE-2020-13315",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13315"
+  },
+  {
+    "ID": "f46cf566-a4e3-49eb-908e-b7fff0011e6d",
+    "effective_cve": "CVE-2019-13139",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "docker",
+      "version": "0.4.0"
+    },
+    "timestamp": "2022-09-14T14:00:55+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-13139"
+  },
+  {
+    "ID": "f61fc5cc-612a-427c-863c-e98cb4cbd7a4",
+    "effective_cve": "CVE-2018-11233",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:15+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-11233"
+  },
+  {
+    "ID": "f7ba78c2-ddae-46ba-8148-d3b68799cf6c",
+    "effective_cve": "CVE-2018-18645",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:16+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-18645"
+  },
+  {
+    "ID": "f7fd6c60-19c4-4fa1-972f-75986dd21c9a",
+    "effective_cve": "CVE-2019-1003010",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:17+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1003010"
+  },
+  {
+    "ID": "f8cacb40-a786-4e76-af56-071af4dd5c1a",
+    "effective_cve": "CVE-2019-17444",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "artifactory",
+      "version": "3.0.15"
+    },
+    "timestamp": "2022-09-14T14:00:29+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-17444"
+  },
+  {
+    "ID": "fba76e40-443b-476e-b037-83f1ccabbc46",
+    "effective_cve": "CVE-2018-1000110",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "git",
+      "version": "1.12.0"
+    },
+    "timestamp": "2022-09-14T14:01:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000110"
+  },
+  {
+    "ID": "fcf96b6a-7c22-4524-b408-c4da024213e3",
+    "effective_cve": "CVE-2020-13305",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:04:13+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-13305"
+  },
+  {
+    "ID": "fdb782bb-c39d-49e3-a889-52112abd56d6",
+    "effective_cve": "CVE-2019-10112",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:28+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10112"
+  },
+  {
+    "ID": "feb7ce1a-bc88-4e0e-8352-3ba67c114535",
+    "effective_cve": "CVE-2021-39913",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-11-01T18:25:37+00:00",
+    "tool": "grype@v0.51.0-7-gfcce63b",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39913"
+  },
+  {
+    "ID": "ffacf912-e7a1-4364-bd3e-2d8cfeb82835",
+    "effective_cve": "CVE-2019-10115",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:1a5a5f870924e88a6f0f2b8089cf276ef0a79b5244a052cdfe4a47bb9e5a2c10"
+    },
+    "label": "FP",
+    "package": {
+      "name": "gitlab",
+      "version": "4.19.0"
+    },
+    "timestamp": "2022-09-14T14:02:30+01:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10115"
+  }
+]

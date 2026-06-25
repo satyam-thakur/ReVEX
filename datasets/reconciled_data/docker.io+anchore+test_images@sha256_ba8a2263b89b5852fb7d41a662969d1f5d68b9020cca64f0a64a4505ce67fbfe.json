@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "bc50f882-4bf4-4493-9dcd-8380a5a18d5b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:ba8a2263b89b5852fb7d41a662969d1f5d68b9020cca64f0a64a4505ce67fbfe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "commonmark",
+      "version": "1.8.1"
+    },
+    "timestamp": "2026-02-11T15:48:10.357772",
+    "user": "williammurphy",
+    "vulnerability_id": "RSEC-2023-8"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ID": "01ed2b0b-bb75-4968-b2de-32983583ad7a",
+    "effective_cve": "CVE-2021-23222",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:41:24+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-23222"
+  },
+  {
+    "ID": "34ca7cb9-e945-491a-b4b4-a70ecb6ba134",
+    "effective_cve": "CVE-2021-23214",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:41:39+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-23214"
+  },
+  {
+    "ID": "522a857c-b7e7-48b2-8bb3-4a2e6bf9ca70",
+    "effective_cve": "CVE-2021-32029",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:39:29+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32029"
+  },
+  {
+    "ID": "96d4ee2f-cd9b-43c5-9b71-c5f177953ffc",
+    "effective_cve": "CVE-2021-3677",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:41:58+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3677"
+  },
+  {
+    "ID": "a245f959-5c25-4b8c-90a0-f53bcee521d6",
+    "effective_cve": "CVE-2022-2625",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:41:00+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-2625"
+  },
+  {
+    "ID": "b2791a28-bd6d-4178-be83-1540538bdc2e",
+    "effective_cve": "CVE-2021-32028",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:40:21+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32028"
+  },
+  {
+    "ID": "ba656290-a365-417d-b4e1-56b3f9814e84",
+    "effective_cve": "CVE-2021-32027",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:37:59+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-32027"
+  },
+  {
+    "ID": "e5879241-2df3-49c9-8a6c-184cade7099d",
+    "effective_cve": "CVE-2022-1552",
+    "image": {
+      "exact": "docker.io/postgres:13.2@sha256:1a67ab960138c479d66834cd6bcb5b5582c53869e6052dbf4ff48d4a94c13da3"
+    },
+    "label": "TP",
+    "package": {
+      "name": "postgresql-13",
+      "version": "13.2-1.pgdg100+1"
+    },
+    "timestamp": "2022-12-15T15:41:12+00:00",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-1552"
+  }
+]

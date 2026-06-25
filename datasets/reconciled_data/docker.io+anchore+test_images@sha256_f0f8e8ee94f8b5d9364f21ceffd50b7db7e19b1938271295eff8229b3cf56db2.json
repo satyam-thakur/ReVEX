@@ -1,0 +1,1584 @@
+[
+  {
+    "ID": "03f48762-031a-4e8a-9649-79c13dcde257",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:25:35.648834",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "04108556-a8ea-4bc8-bd9c-31dc9bc67318",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:12:24.735459",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19213"
+  },
+  {
+    "ID": "05357b74-85e1-4d8d-bbea-73d67590a347",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-6ubuntu4.11"
+    },
+    "timestamp": "2026-04-03T13:36:46.321512",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "06c67ec2-d11c-4aac-a138-629935fb0fcf",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "perl-base",
+      "version": "5.30.0-9ubuntu0.2"
+    },
+    "timestamp": "2026-02-26T12:26:37.337763",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-16156"
+  },
+  {
+    "ID": "0a55d620-0116-46f9-a760-3a7d9b38d553",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:13:53.109460",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19216"
+  },
+  {
+    "ID": "0c03c890-949e-4881-bd22-75a3f7b870b7",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:35:47.111460",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-24978"
+  },
+  {
+    "ID": "0c9d8b90-88a1-45f9-b9d1-afdfca25ef0b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "libvncclient1",
+      "version": "0.9.12+dfsg-9ubuntu0.3"
+    },
+    "timestamp": "2026-02-26T12:15:35.549345",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-21247"
+  },
+  {
+    "ID": "10ba8313-610f-40ee-b20f-dedfd98a1fed",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libopenjp2-7",
+      "version": "2.3.1-1ubuntu4.20.04.4"
+    },
+    "timestamp": "2026-02-26T12:22:47.182776",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-6988"
+  },
+  {
+    "ID": "132e0c77-51a7-4eee-98bc-6963addc7003",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:33:48.736400",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21687"
+  },
+  {
+    "ID": "14d553b3-50b7-4527-9752-d542f1d9fc4b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "245.4-4ubuntu3.16"
+    },
+    "timestamp": "2026-04-08T11:24:10.843556",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-13776"
+  },
+  {
+    "ID": "157fe735-b40e-452c-9a3a-bdb3fc3891b2",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:25:14.484619",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-33574"
+  },
+  {
+    "ID": "15ae2b26-e607-466b-bd18-ed16ffd238eb",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:11:10.339383",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-10316"
+  },
+  {
+    "ID": "19319893-7f6e-42f2-a072-65268d9362cb",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:14:10.198283",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19755"
+  },
+  {
+    "ID": "1af398d2-b998-4d06-b75d-27c5049fcdf1",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:12:13.349269",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19209"
+  },
+  {
+    "ID": "1b5b970d-c012-49eb-992f-d22e9114ae0a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-6ubuntu4.11"
+    },
+    "timestamp": "2026-04-03T13:34:39.646142",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "1b943965-28a9-4f26-839c-f770565387b0",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libx11-data",
+      "version": "2:1.6.9-2ubuntu1.6"
+    },
+    "timestamp": "2026-04-08T11:24:47.682517",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-25697"
+  },
+  {
+    "ID": "1cce9e19-acc4-4b04-931d-d807c1852a23",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:23:38.828951",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "1f367b4a-3586-439f-bbaa-fc224ea5f057",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:01:18.359646",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20788"
+  },
+  {
+    "ID": "1fdd45c3-caea-4d74-a564-165852f93d7f",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:28:21.954444",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-18974"
+  },
+  {
+    "ID": "2163dc4d-a881-4d69-bca0-494e16a11152",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:34:14.349194",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-24241"
+  },
+  {
+    "ID": "26ff19a7-dab5-4f3d-87af-03c601ce9d4b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "libvncserver1",
+      "version": "0.9.12+dfsg-9ubuntu0.3"
+    },
+    "timestamp": "2026-02-26T12:38:36.548198",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-29260"
+  },
+  {
+    "ID": "289c834d-f472-4b8a-9473-8572e363254c",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:08:25.712751",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2017-18922"
+  },
+  {
+    "ID": "28a45428-84ae-4c6a-913b-18dcae96d7b2",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-6ubuntu4.11"
+    },
+    "timestamp": "2026-04-03T13:36:39.911802",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "2a687158-4f5c-4f25-a6fa-da042cc7d35f",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:01:39.033862",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20840"
+  },
+  {
+    "ID": "2b146b57-c252-4cc6-8698-e2aa9d288785",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-04-08T11:28:17.063120",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-45256"
+  },
+  {
+    "ID": "2caa8706-a6b2-49cf-a03e-a4cefd528130",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:44:01.220072",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "2f063d06-a3f1-465d-abcb-f53260052dda",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "245.4-4ubuntu3.16"
+    },
+    "timestamp": "2026-04-08T11:24:20.958371",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-13776"
+  },
+  {
+    "ID": "2f1b9dd9-5c36-4194-bc4c-e62f6f548d5a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:21:16.102195",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "34ccb426-078c-428d-889e-08b02bfb467e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:02:22.013934",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-33450"
+  },
+  {
+    "ID": "34fcda10-b8c1-4c13-ac1b-b4de5effbd76",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgmp10",
+      "version": "2:6.2.0+dfsg-4"
+    },
+    "timestamp": "2026-04-08T11:27:42.980374",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-43618"
+  },
+  {
+    "ID": "3cbb5ee2-3d3e-4735-ad46-df33791e1a8d",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.0-1"
+    },
+    "timestamp": "2026-02-26T12:42:58.190786",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-36087"
+  },
+  {
+    "ID": "3d2b8851-5b63-41bb-9fd1-088c634d2647",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:36:22.417015",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-25708"
+  },
+  {
+    "ID": "3e068c05-f9a4-4bec-937e-1a96658c0dfc",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.13-2ubuntu1.6"
+    },
+    "timestamp": "2026-02-26T12:44:24.904309",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-4209"
+  },
+  {
+    "ID": "4103f1ae-9446-4809-a9af-f714aad6f77f",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:32:42.274148",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21684"
+  },
+  {
+    "ID": "412d81a4-f3b5-4f9a-9085-830fe5cde428",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.16.0-2"
+    },
+    "timestamp": "2026-04-08T11:28:37.986438",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "42f7603d-00c4-43d3-8f93-fff2f9ec9602",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.8.1-1ubuntu5.20.04.1"
+    },
+    "timestamp": "2026-02-26T12:05:26.968896",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "45e725cd-a153-4b37-8737-cc63251cbed5",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-03T13:32:38.803939",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "4941ed9f-0237-4b1a-8b2d-8596f87de8b1",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12build1"
+    },
+    "timestamp": "2026-02-26T12:07:28.180805",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "4ae21421-b13e-462f-b429-112ca464e9a4",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:03:43.088688",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-45257"
+  },
+  {
+    "ID": "4b0603bc-a8ea-4c0d-8d89-e80f60ff6811",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:11:52.934195",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-16517"
+  },
+  {
+    "ID": "4bf2ae73-b104-4e75-9a51-f4bb50313464",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:24:04.991671",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-8343"
+  },
+  {
+    "ID": "51f49d3b-73c9-4dd1-aaf4-eb09fc214bea",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:03:18.826629",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-37529"
+  },
+  {
+    "ID": "5392dc11-231e-44af-a375-5956ed83d3fd",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:16:37.049194",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-8882"
+  },
+  {
+    "ID": "5ac56c2d-385f-43d2-8e7b-e62bcd51724d",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:08:45.879032",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-1000667"
+  },
+  {
+    "ID": "5dffd7fd-5997-49b4-b39a-02e21aacadfb",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-6ubuntu4.11"
+    },
+    "timestamp": "2026-04-03T13:36:35.344894",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "604ec9ab-a11f-4146-b188-eca6fdcf7577",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:31:54.154161",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21682"
+  },
+  {
+    "ID": "655e89d1-0004-44e2-96af-7a9cef4d9eae",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:00:32.327795",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-15679"
+  },
+  {
+    "ID": "65e97a82-aa6d-4367-9d41-e664ca3b9137",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:27:28.322807",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-18780"
+  },
+  {
+    "ID": "66a4cd14-7d92-4b11-8419-ea423c113db1",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:21:21.394731",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "67c775e9-12ab-4a7f-b60e-f718eefe1874",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12build1"
+    },
+    "timestamp": "2026-02-26T12:21:38.098847",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20838"
+  },
+  {
+    "ID": "67d8afdc-d7d2-4efd-bc54-aaac4ce4a5a4",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:24:03.144438",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "6ca1c41e-c656-40ef-8fc4-34b6ce71f55a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "libvncclient1",
+      "version": "0.9.12+dfsg-9ubuntu0.3"
+    },
+    "timestamp": "2026-02-26T12:36:55.761809",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-29260"
+  },
+  {
+    "ID": "6dbe45d3-8c21-43f6-b349-0c3144f8a632",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:00:50.570421",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-15681"
+  },
+  {
+    "ID": "72e9f0ea-b189-4131-8189-ebe8daa2bc5e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:44:07.098190",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "7bde02e9-d563-4b3c-881b-981475c87419",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:25:52.000277",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14403"
+  },
+  {
+    "ID": "7f25e246-5522-4a0e-9e90-5d507743e4d5",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:28:30.645973",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21528"
+  },
+  {
+    "ID": "8173de57-29f9-487a-aeb6-6871d1af00a1",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.8.1-1ubuntu5.20.04.1"
+    },
+    "timestamp": "2026-02-26T12:05:14.877990",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "825403ab-4f38-45da-bfc3-2ec8c113e609",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:26:00.938339",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14404"
+  },
+  {
+    "ID": "85360e66-e459-4f99-b6ff-fb10b3c3e25a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-02-26T12:38:21.890617",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "8886680e-eb1b-4069-beed-38126bfbb556",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.0-1"
+    },
+    "timestamp": "2026-02-26T12:42:11.350169",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-36085"
+  },
+  {
+    "ID": "8b0da6e1-4da0-4dd5-9938-f8ae861e8ad5",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:18:25.967163",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20334"
+  },
+  {
+    "ID": "8d43c0de-6023-440e-a571-4be1aa26e82e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:33:15.268405",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21686"
+  },
+  {
+    "ID": "8e30771a-44c6-4450-9b2e-40ecc861b1b7",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:23:18.033144",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-7147"
+  },
+  {
+    "ID": "8e4cc658-95cb-46cf-adb4-2bf0c0220aa1",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:38:55.407994",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-33452"
+  },
+  {
+    "ID": "9684dbfd-43e5-40ca-a353-598e8a273985",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-03T13:21:37.204562",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "98b5a933-60f3-4fde-ad51-f36a7ee2c9d8",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:38:46.525201",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-29260"
+  },
+  {
+    "ID": "9b798adf-1dfa-46ab-a085-754995276b23",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:17:40.079942",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-15680"
+  },
+  {
+    "ID": "9be09771-01c0-4752-8e75-a481a6267bad",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:34:53.955271",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-24242"
+  },
+  {
+    "ID": "9c2468e9-982a-4ea2-88e6-1fee7cd91e83",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:22:34.638456",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-6291"
+  },
+  {
+    "ID": "9d3f9354-19b8-4397-9778-58584ae6b959",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:12:01.346603",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-16999"
+  },
+  {
+    "ID": "9f4caeac-1be3-4417-b10a-4cf8f3ac0962",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:32:08.917425",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21683"
+  },
+  {
+    "ID": "a5ae6ea5-3828-489d-89aa-cbc4e11a217e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:03:28.986139",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-37530"
+  },
+  {
+    "ID": "a5f759ca-16da-4076-ad26-2883dcf1f552",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libx11-6",
+      "version": "2:1.6.9-2ubuntu1.6"
+    },
+    "timestamp": "2026-04-08T11:24:36.765422",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-25697"
+  },
+  {
+    "ID": "a87a3794-f161-44ae-b32a-27cd247adf51",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:09:15.234887",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-1000886"
+  },
+  {
+    "ID": "a9079ff9-698d-4692-9b59-ca230767d439",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "libjpeg-turbo8",
+      "version": "2.0.3-0ubuntu1.20.04.3"
+    },
+    "timestamp": "2026-02-26T12:10:01.538559",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-10126"
+  },
+  {
+    "ID": "aa5453de-30a7-4916-ba7d-b9044a14d549",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncurses6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:43:14.824001",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "ab2320af-8009-403e-8ebb-865686a9b029",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:22:09.165938",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20839"
+  },
+  {
+    "ID": "abc0efa1-12b3-4107-9850-4801cc33f051",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncursesw6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:43:30.565189",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "ad90ad94-f5c1-4d7b-9812-dd91ad351b5f",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:29:01.542999",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21678"
+  },
+  {
+    "ID": "adb20c1d-8393-4b90-89af-f72627963183",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "libvncserver1",
+      "version": "0.9.12+dfsg-9ubuntu0.3"
+    },
+    "timestamp": "2026-02-26T12:16:12.130068",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-21247"
+  },
+  {
+    "ID": "b25fe05d-4993-41c2-9e16-aee810df85f6",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtinfo6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:43:42.013161",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "b5da4c76-cfa7-4608-a03c-b9ab01caadb8",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:14:58.292125",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-20538"
+  },
+  {
+    "ID": "b6044d37-f779-4343-8cdc-84778cb4f194",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:22:18.421641",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-6290"
+  },
+  {
+    "ID": "b90bade2-7fda-409c-85cd-b2a942d4b32e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:16:46.955483",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-8883"
+  },
+  {
+    "ID": "bada79bf-72a3-40b8-a0d3-095a86186c19",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:36:33.093649",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-29074"
+  },
+  {
+    "ID": "bc0604d0-1055-48d1-9e9b-919783001bf2",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:17:09.574369",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-14248"
+  },
+  {
+    "ID": "c125ab75-f806-4846-aee6-264cafb448c4",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:21:31.763950",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "c82a1d91-4419-44d4-923c-5eff7bb39678",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:17:58.230262",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-15690"
+  },
+  {
+    "ID": "cde9f72a-cd31-4115-96aa-c0f9fd9bf9b2",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:19:05.068653",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-20352"
+  },
+  {
+    "ID": "ce5dc42a-6f8e-4f54-b86f-dd5d3c826e6d",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:01:59.122583",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21685"
+  },
+  {
+    "ID": "cf177645-106a-4265-b40c-d97232b64e36",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:12:57.575855",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19215"
+  },
+  {
+    "ID": "d1252ed9-a11f-4798-8e6f-6a6346dbfd83",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.30-3ubuntu2"
+    },
+    "timestamp": "2026-02-26T12:06:43.872640",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "d3c158eb-ace7-44ec-8146-488a97e8fa4e",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:12:41.628690",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-19214"
+  },
+  {
+    "ID": "d4b300e5-b78e-479d-92de-3c119f7ee426",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.0-1"
+    },
+    "timestamp": "2026-02-26T12:41:53.012319",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-36084"
+  },
+  {
+    "ID": "d4e87f98-e16e-4f9a-bc6c-8555fea811fc",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:24:38.692729",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14396"
+  },
+  {
+    "ID": "d73bd2e2-37f7-4136-84b1-47b113190c9a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:11:24.841897",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-16382"
+  },
+  {
+    "ID": "d74af969-766e-4be1-84f0-8afd2054cce8",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:25:28.938995",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14401"
+  },
+  {
+    "ID": "d8834f44-9f6f-47f0-aeb0-7e1ccb313ff4",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:09:29.513612",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-10016"
+  },
+  {
+    "ID": "dfc2dfd8-9a6e-43fc-9708-ddc17e79bebc",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:14:25.558941",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-20535"
+  },
+  {
+    "ID": "e3832cc0-53e1-46de-8eda-67fbae547b65",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:26:13.355838",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14405"
+  },
+  {
+    "ID": "e4e97ea3-155f-4026-9e58-01b1254d642a",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsepol1",
+      "version": "3.0-1"
+    },
+    "timestamp": "2026-02-26T12:42:26.618979",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2021-36086"
+  },
+  {
+    "ID": "eb721266-4463-4593-9c7b-61d7403c4e21",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-02-26T12:37:48.835546",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "ebbe9b5b-89c8-4de9-b60a-13153d3b57cd",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:31:09.596750",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21681"
+  },
+  {
+    "ID": "f15f7ada-a6ba-4cf9-be5c-3d545fb19034",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:24:49.014561",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14397"
+  },
+  {
+    "ID": "f25feade-8f74-435d-9bba-e08a810c2c6b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:30:05.551662",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-21680"
+  },
+  {
+    "ID": "f264182c-92e3-445d-a244-fbbffd63c110",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:25:00.757798",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14398"
+  },
+  {
+    "ID": "f2c9c154-f6c1-42ab-9076-69d2b17aaca3",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nasm",
+      "version": "2.14.02-1"
+    },
+    "timestamp": "2026-02-26T12:10:35.049263",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-10254"
+  },
+  {
+    "ID": "f4d84b9f-d6fd-42e2-85da-4420d7db811c",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12build1"
+    },
+    "timestamp": "2026-02-26T12:24:22.069607",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14155"
+  },
+  {
+    "ID": "f6b25c2d-4791-450e-9be7-fe3f1381e18b",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "??",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:16:19.011782",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2018-21247"
+  },
+  {
+    "ID": "f91876a0-ecf8-4109-b69e-539aac4b6c18",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:00:13.699092",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-15678"
+  },
+  {
+    "ID": "fa7adc0e-2966-48cc-b77f-b789ab310d18",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "FP",
+    "package": {
+      "name": "x11vnc",
+      "version": "0.9.16-3"
+    },
+    "timestamp": "2026-02-26T12:25:38.078128",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2020-14402"
+  },
+  {
+    "ID": "fac2b3c8-dd28-4fc0-be03-fd5ffd9acef2",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "fig2dev",
+      "version": "1:3.2.7a-7ubuntu0.1"
+    },
+    "timestamp": "2026-02-26T12:18:16.506313",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-19746"
+  },
+  {
+    "ID": "ff354088-5332-47e5-99af-c44c6a55b61f",
+    "image": {
+      "exact": "docker.io/anchore/test_images@sha256:f0f8e8ee94f8b5d9364f21ceffd50b7db7e19b1938271295eff8229b3cf56db2"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.7"
+    },
+    "timestamp": "2026-04-08T11:23:55.309388",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2019-1010024"
+  }
+]

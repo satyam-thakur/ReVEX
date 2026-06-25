@@ -1,0 +1,1074 @@
+[
+  {
+    "ID": "08f571dc-6325-4827-ac41-a0c37bebf89d",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.18.3-6+deb11u3"
+    },
+    "timestamp": "2023-06-30T12:36:51.128852",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "1581a518-d620-4119-a088-3fc5c79f757d",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.18.3-6+deb11u3"
+    },
+    "timestamp": "2023-06-30T12:36:49.997380",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "1663e0dd-71f3-424e-b977-50e56118cce7",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:19.573409",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "1f0e4132-4287-4bfc-b1b6-1f3a04ed02c3",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:24.338144",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "200496cf-4b77-48f3-a28e-cec5375a5055",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:14.000955",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "2652d750-0d1c-41db-803d-e15e30541ab7",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.18.3-6+deb11u3"
+    },
+    "timestamp": "2023-06-30T12:36:48.839373",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "27906055-5787-4ad8-a646-7443524f7fe7",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:02.211748",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "281cd9db-354c-47b7-9326-768487a083dd",
+    "effective_cve": "CVE-2021-29921",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:58.320549",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29921"
+  },
+  {
+    "ID": "2b39acf8-9d43-4774-8978-58b282830318",
+    "effective_cve": "CVE-2021-29921",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:24.632074",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29921"
+  },
+  {
+    "ID": "350fd9ad-0f07-4b79-9705-a6c1b6bd2cfb",
+    "effective_cve": "CVE-2021-3426",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:01.550168",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3426"
+  },
+  {
+    "ID": "36181bf7-e508-498e-8491-28ae6578f416",
+    "effective_cve": "CVE-2021-3426",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:58.646764",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3426"
+  },
+  {
+    "ID": "3835af86-ba37-44d4-b505-fdc911c0c46f",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1n-0+deb11u5"
+    },
+    "timestamp": "2023-06-30T12:37:09.502366",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "389c5ff9-734e-4769-9d69-a18544577481",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl",
+      "version": "1.1.1n-0+deb11u5"
+    },
+    "timestamp": "2023-06-30T12:37:09.793160",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "3b939f43-c17b-4a2a-8596-bd47d5c490bd",
+    "effective_cve": "CVE-2021-3426",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:18.477849",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3426"
+  },
+  {
+    "ID": "41c3e2ff-ff05-4442-a8ee-8c2a64a9cc74",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:20.739901",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "448b683c-eb88-417b-91cc-c0ac65bad175",
+    "effective_cve": "CVE-2021-3733",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:01.875484",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3733"
+  },
+  {
+    "ID": "44c59e0c-b68d-4614-8c47-68efaf4144af",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:00.924941",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "463d6e27-13c7-4287-a0c3-8ad82eaa1b2a",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:23.549995",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "4feb5d40-bcae-41b3-a0a1-94c5001d0e77",
+    "effective_cve": "CVE-2007-6755",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1n-0+deb11u5"
+    },
+    "timestamp": "2023-06-30T12:37:11.296355",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-6755"
+  },
+  {
+    "ID": "573911fa-3336-4641-90dc-2b132dbd35ec",
+    "effective_cve": "CVE-2018-5709",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.18.3-6+deb11u3"
+    },
+    "timestamp": "2023-06-30T12:36:48.460272",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-5709"
+  },
+  {
+    "ID": "5a96e81c-df20-4a3b-acaf-6cb7af4ec3cb",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:24.454339",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "68eabc72-8704-41e4-bf68-d6e599b47745",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:18.043219",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "714cdf49-fef4-40cb-862a-dcab7427ccb0",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:08.710752",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "7abf9861-849e-419c-844c-d75f8d4e3907",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:08.269901",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "8253ee1a-849a-4b30-9f0e-fcd624935b14",
+    "effective_cve": "CVE-2013-0340",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:13.724283",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-0340"
+  },
+  {
+    "ID": "8839f87a-58f5-44f6-946b-348c3d4b9052",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:03.092337",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "89118e71-0def-4e8a-b4bf-f1d2328a0e96",
+    "effective_cve": "CVE-2021-45346",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.34.1-3"
+    },
+    "timestamp": "2023-06-30T12:37:06.501950",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-45346"
+  },
+  {
+    "ID": "8e88a6ee-6452-42e4-9ced-e5c14a0530be",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:15.210896",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "9080ff03-072a-4fb3-a7d7-8bc3d2217b18",
+    "effective_cve": "CVE-2021-29921",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:18.960013",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29921"
+  },
+  {
+    "ID": "97c982ac-1231-4485-bc3f-762c4c123b68",
+    "effective_cve": "CVE-2020-27619",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:00.593256",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27619"
+  },
+  {
+    "ID": "9894fc35-f0c5-4c3a-a130-37f650221d52",
+    "effective_cve": "CVE-2021-36690",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.34.1-3"
+    },
+    "timestamp": "2023-06-30T12:37:05.485375",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36690"
+  },
+  {
+    "ID": "9a330b47-22e9-47f4-ba28-eedc4ddfe3ab",
+    "effective_cve": "CVE-2013-0340",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libexpat1",
+      "version": "2.2.10-2+deb11u5"
+    },
+    "timestamp": "2023-06-30T12:36:45.961720",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-0340"
+  },
+  {
+    "ID": "9a746b26-756b-4f23-964c-6345a76116b7",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:17.760691",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "9c14492e-2000-4957-8159-d0cef0d51a7d",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:01.390299",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "a323c5f3-d300-448b-ac05-dd016cda7b09",
+    "effective_cve": "CVE-2021-31239",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsqlite3-0",
+      "version": "3.34.1-3"
+    },
+    "timestamp": "2023-06-30T12:37:05.105980",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-31239"
+  },
+  {
+    "ID": "a3ccc620-f641-4d4c-9d91-d2fbd1b9bd3b",
+    "effective_cve": "CVE-2021-3733",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:18.273197",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3733"
+  },
+  {
+    "ID": "a8829f64-95d1-467a-95a8-faea0d15dddb",
+    "effective_cve": "CVE-2020-27619",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:24.079877",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27619"
+  },
+  {
+    "ID": "a9581ee9-2ffe-4b31-bf0d-44c9c0a3a3ee",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:57.502943",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "aedd4d43-c47c-4067-bdba-d2585c8725c1",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:25.649181",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "b438c347-16e5-43e5-838b-67671ba64e5d",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:00.223709",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "b7755ea0-c92f-4dad-83a2-4ce41f3dc420",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:26.641621",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "ba59aa95-59f5-4612-8968-56ffdeb7967a",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:00.869875",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "bd261992-8780-4803-959e-d8ea72747938",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:24.920522",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "bd494e01-0612-4b94-9903-5f441d0938cc",
+    "effective_cve": "CVE-2021-28861",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:58.084576",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-28861"
+  },
+  {
+    "ID": "bf1aa2b0-9dbe-4f39-bc9c-4ce417d17539",
+    "effective_cve": "CVE-2021-3733",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:27.322213",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3733"
+  },
+  {
+    "ID": "c09b11fe-8529-4f65-8914-6f0baf7aee91",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:59.252939",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "c0aaaf06-3c52-4f58-a654-bd6c63f10265",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:26.654083",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "c3be5698-b5b6-4d9f-81e1-4e5ef4bdd4ba",
+    "effective_cve": "CVE-2021-3733",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:59.000244",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3733"
+  },
+  {
+    "ID": "c640e9be-1a86-4ac1-817d-53e6802086b9",
+    "effective_cve": "CVE-2021-4189",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:59.518551",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4189"
+  },
+  {
+    "ID": "c709152e-947b-47f6-b533-417e6ec23a85",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:14.597895",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-25032"
+  },
+  {
+    "ID": "c8ee4570-30d1-4e6f-9726-0c91e8d5cb85",
+    "effective_cve": "CVE-2020-10735",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:23.849445",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10735"
+  },
+  {
+    "ID": "c919bd74-501f-43f1-8e3a-1a6926c0c030",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:59.886068",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-20107"
+  },
+  {
+    "ID": "cbb6e758-2a92-4f08-bbba-ae742f622dbf",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:25.317712",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "cbcd733f-28ca-4335-a6c9-42630139d5b7",
+    "effective_cve": "CVE-2016-3189",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:14.314574",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-3189"
+  },
+  {
+    "ID": "cc810f38-5386-461c-a409-de2edc09df60",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:22.539417",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "d32a0fe3-a821-4180-ae75-a6eefad601af",
+    "effective_cve": "CVE-2021-29921",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-stdlib",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:01.227890",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29921"
+  },
+  {
+    "ID": "d638f0ba-baf3-4570-b4d1-1f4111226bf8",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:24.023577",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "e421b8ad-a040-4319-b73a-cc4f351762bc",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:01.795609",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "e6cec7c9-ace5-4c8c-b22c-6ab648d3e691",
+    "effective_cve": "CVE-2021-3737",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:26.962337",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3737"
+  },
+  {
+    "ID": "e6f3d7f3-0f60-4342-a53a-f7a7ed990f66",
+    "effective_cve": "CVE-2020-27619",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:57.832519",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-27619"
+  },
+  {
+    "ID": "e8a70d2b-833d-4e90-8097-2956c6111f3a",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-13+deb11u6"
+    },
+    "timestamp": "2023-06-30T12:35:26.102017",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "edccef69-ebc1-43e9-8daa-13aacb0e0294",
+    "effective_cve": "CVE-2021-3426",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:37:24.969220",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3426"
+  },
+  {
+    "ID": "f37edc9b-1528-42d9-baf5-0454e390a748",
+    "effective_cve": "CVE-2010-0928",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1n-0+deb11u5"
+    },
+    "timestamp": "2023-06-30T12:37:10.186616",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-0928"
+  },
+  {
+    "ID": "f39b0dd3-6e2f-4d95-97a8-cf0aca0d1e40",
+    "effective_cve": "CVE-2019-12900",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:14.888972",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-12900"
+  },
+  {
+    "ID": "f4978c9f-6382-4aef-b446-e05c4a84515d",
+    "effective_cve": "CVE-2019-8457",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libdb5.3",
+      "version": "5.3.28+dfsg1-0.8"
+    },
+    "timestamp": "2023-06-30T12:36:22.507250",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-8457"
+  },
+  {
+    "ID": "f4a9643d-d076-4efe-8141-5fcf893f9bd9",
+    "effective_cve": "CVE-2007-4559",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "FP",
+    "package": {
+      "name": "python",
+      "version": "3.9.2"
+    },
+    "timestamp": "2023-06-30T12:37:13.394714",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2007-4559"
+  },
+  {
+    "ID": "f7e32b1b-751a-4f23-ab38-99820fa8cdbc",
+    "effective_cve": "CVE-2015-20107",
+    "image": {
+      "exact": "gcr.io/distroless/python3-debian11@sha256:69ae7f133d33faab720af28e78fb45707b623bcbc94ae02a07c633bf053f4b40"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpython3.9-minimal",
+      "version": "3.9.2-1"
+    },
+    "timestamp": "2023-06-30T12:36:55.946816",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2015-20107"
+  }
+]

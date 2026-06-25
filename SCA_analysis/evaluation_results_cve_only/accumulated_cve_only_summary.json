@@ -1,0 +1,62 @@
+[
+  {
+    "scanner": "trivy",
+    "images_evaluated": 41,
+    "total_predicted": 9235,
+    "total_tp_labels": 3539,
+    "total_fp_labels": 2316,
+    "total_tp_detected": 2715,
+    "total_fp_detected": 172,
+    "total_fn_missed": 824,
+    "total_unlabeled_predicted": 6453,
+    "total_hits": 2715,
+    "total_misses": 824,
+    "detection_hit_ratio": 0.7671658660638598,
+    "weighted_detection_hit_ratio": 0.7335269975731016
+  },
+  {
+    "scanner": "grype",
+    "images_evaluated": 41,
+    "total_predicted": 7737,
+    "total_tp_labels": 3539,
+    "total_fp_labels": 2316,
+    "total_tp_detected": 2992,
+    "total_fp_detected": 176,
+    "total_fn_missed": 547,
+    "total_unlabeled_predicted": 4687,
+    "total_hits": 2992,
+    "total_misses": 547,
+    "detection_hit_ratio": 0.8454365640011302,
+    "weighted_detection_hit_ratio": 0.8434665791132128
+  },
+  {
+    "scanner": "snyk",
+    "images_evaluated": 41,
+    "total_predicted": 8337,
+    "total_tp_labels": 3539,
+    "total_fp_labels": 2316,
+    "total_tp_detected": 2468,
+    "total_fp_detected": 120,
+    "total_fn_missed": 1071,
+    "total_unlabeled_predicted": 5838,
+    "total_hits": 2468,
+    "total_misses": 1071,
+    "detection_hit_ratio": 0.6973721390223226,
+    "weighted_detection_hit_ratio": 0.7221280458947269
+  },
+  {
+    "scanner": "clair",
+    "images_evaluated": 41,
+    "total_predicted": 721,
+    "total_tp_labels": 3539,
+    "total_fp_labels": 2316,
+    "total_tp_detected": 255,
+    "total_fp_detected": 84,
+    "total_fn_missed": 3284,
+    "total_unlabeled_predicted": 445,
+    "total_hits": 255,
+    "total_misses": 3284,
+    "detection_hit_ratio": 0.07205425261373269,
+    "weighted_detection_hit_ratio": 0.6504012014148387
+  }
+]

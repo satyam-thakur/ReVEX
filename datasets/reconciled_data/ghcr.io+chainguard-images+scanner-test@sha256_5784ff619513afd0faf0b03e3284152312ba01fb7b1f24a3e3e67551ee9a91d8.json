@@ -1,0 +1,67 @@
+[
+  {
+    "ID": "2fb4da84-1fb4-4068-b222-362284f68faf",
+    "effective_cve": "CVE-2023-45803",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:5784ff619513afd0faf0b03e3284152312ba01fb7b1f24a3e3e67551ee9a91d8"
+    },
+    "label": "FP",
+    "note": "will be nack'd by chainguard openvex feed: CGA-ch56-xcgp-w5rj",
+    "package": {
+      "name": "urllib3",
+      "version": "1.26.16+cgr.1"
+    },
+    "timestamp": "2025-09-05T14:29:15.772094+00:00",
+    "tool": "grype[custom-db]@v0.98.0-3-g90230ec7",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-g4mx-q9vg-27p4"
+  },
+  {
+    "ID": "548f3add-36b2-4d90-979f-532fad5f02ea",
+    "effective_cve": "CVE-2023-43804",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:5784ff619513afd0faf0b03e3284152312ba01fb7b1f24a3e3e67551ee9a91d8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "urllib3",
+      "version": "1.26.16+cgr.1"
+    },
+    "timestamp": "2025-09-05T14:29:23.996267+00:00",
+    "tool": "grype[custom-db]@v0.98.0-3-g90230ec7",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-v845-jxx5-vc9f"
+  },
+  {
+    "ID": "806338b3-2007-449b-8e46-1d0b58c9cad1",
+    "effective_cve": "CVE-2024-37891",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:5784ff619513afd0faf0b03e3284152312ba01fb7b1f24a3e3e67551ee9a91d8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "urllib3",
+      "version": "1.26.16+cgr.1"
+    },
+    "timestamp": "2025-09-05T14:29:22.720524+00:00",
+    "tool": "grype[custom-db]@v0.98.0-3-g90230ec7",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-34jh-p97f-mpxf"
+  },
+  {
+    "ID": "ac802514-80d6-4a6d-84a0-87d2b7bd72a0",
+    "effective_cve": "CVE-2025-50181",
+    "image": {
+      "exact": "ghcr.io/chainguard-images/scanner-test@sha256:5784ff619513afd0faf0b03e3284152312ba01fb7b1f24a3e3e67551ee9a91d8"
+    },
+    "label": "TP",
+    "package": {
+      "name": "urllib3",
+      "version": "1.26.16+cgr.1"
+    },
+    "timestamp": "2025-09-05T14:29:23.516973+00:00",
+    "tool": "grype[custom-db]@v0.98.0-3-g90230ec7",
+    "user": "zackary-crosley",
+    "vulnerability_id": "GHSA-pq67-6m6q-mj2v"
+  }
+]

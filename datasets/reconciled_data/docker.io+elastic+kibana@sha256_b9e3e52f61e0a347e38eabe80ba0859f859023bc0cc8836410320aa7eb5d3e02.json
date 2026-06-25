@@ -1,0 +1,657 @@
+[
+  {
+    "ID": "0cb6793e-e099-4d89-aed7-69de62748bbd",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libasn1-8-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:18.367279",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "163e32a0-ea83-4f60-9415-40b70d0baeb4",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncurses6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:06:51+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "2215aac3-3a0b-428e-97c4-7693279ec20e",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "moment-timezone",
+      "version": "0.5.34"
+    },
+    "timestamp": "2022-11-14T17:06:57+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-v78c-4p63-2j6c"
+  },
+  {
+    "ID": "2293cb44-5f27-4395-aa2a-afef529a9603",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:49+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "22a650c4-4d03-4747-aa25-15e0e1a92085",
+    "effective_cve": "CVE-2018-25046",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "archiver",
+      "version": "5.3.1"
+    },
+    "timestamp": "2023-03-14T15:59:09.693668",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-25046"
+  },
+  {
+    "ID": "238d62da-c114-4163-b767-17ff482d0f22",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "moment-timezone",
+      "version": "0.5.34"
+    },
+    "timestamp": "2022-11-14T17:06:57+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-56x4-j7p9-fcf9"
+  },
+  {
+    "ID": "39a1141b-041b-4625-a69e-d98cae05e2de",
+    "effective_cve": "CVE-2002-1647",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "slash",
+      "version": "3.0.0"
+    },
+    "timestamp": "2022-11-14T17:07:57+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2002-1647"
+  },
+  {
+    "ID": "3a8b8c8e-1bbc-4c17-9563-f7d1578fa59e",
+    "effective_cve": "CVE-2019-10249",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "note": "This vulnerability is for an Eclipse plugin, not the unreleated npm library",
+    "package": {
+      "name": "xtend",
+      "version": "2.1.2"
+    },
+    "timestamp": "2022-11-14T17:09:24+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10249"
+  },
+  {
+    "ID": "3ba0eb73-7bdf-415c-84b0-77bfd8101f99",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libwind0-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:34.943456",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "4286d4f8-8503-40b0-bcb8-a72536561a6a",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libroken18-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:34.202410",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "441d2089-4e11-4448-9336-8dad6b4e2357",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:44+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "47f83ab1-9a47-46b9-9d6a-f52692fa4dbd",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-26-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:29.616200",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "55bfbc90-dbc0-4faa-a4f2-b274a7145c3a",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.8.1-1ubuntu5.20.04.2"
+    },
+    "timestamp": "2022-11-14T17:06:54+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "5702fe64-ce8d-46b2-bbfd-698143d922b7",
+    "effective_cve": "CVE-2001-0381",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "openpgp",
+      "version": "5.3.0"
+    },
+    "timestamp": "2022-11-14T17:07:37+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2001-0381"
+  },
+  {
+    "ID": "61d4cd4f-6fcc-4e7d-a486-fdd6135cef8f",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libhcrypto4-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:20.877496",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "657a0127-a4f6-4119-bfda-d0cfa38b4f94",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libncursesw6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:06:51+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "6896df75-cb32-43c5-8380-b0385959680e",
+    "effective_cve": "CVE-2017-11164",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12ubuntu0.1"
+    },
+    "timestamp": "2022-11-14T17:06:52+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "72ac31d3-6545-4597-98ee-8f14b4b089e5",
+    "effective_cve": "CVE-2016-20013",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.31-0ubuntu9.9"
+    },
+    "timestamp": "2022-11-14T17:06:36+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "732be382-1862-4a9c-b581-9168843372fc",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:47+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "7b6c7dfa-67e7-4d77-a97d-4435c78fdfe5",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libhx509-5-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:22.314599",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "8bf39f45-8f9f-4c09-bf9b-672a7d09b5a7",
+    "effective_cve": "CVE-2019-10743",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "archiver",
+      "version": "5.3.1"
+    },
+    "timestamp": "2022-11-14T17:05:38+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-10743"
+  },
+  {
+    "ID": "915ada54-c5f1-40ba-bb69-a27c00f3d1c5",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi3-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:20.369986",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "994aee55-1fd1-415a-bd72-99c0a3bca7c1",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "d3-color",
+      "version": "2.0.0"
+    },
+    "timestamp": "2022-11-14T17:05:52+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-36jr-mh4h-2g58"
+  },
+  {
+    "ID": "9feb082d-511e-46dd-b95c-0560bcb70b45",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.30-3ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:05:49+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "af88a95a-6dbd-4aa8-bbc4-69c35e7622ed",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtinfo6",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:06:53+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "b1183191-2b71-4063-9df3-fe605882b5fc",
+    "effective_cve": "CVE-2020-10743",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "kibana",
+      "version": "8.5.0"
+    },
+    "timestamp": "2022-11-14T17:06:08+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-10743"
+  },
+  {
+    "ID": "b3fdc4ca-8374-44e6-a43e-41abf10ba043",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.8.1-1ubuntu5.20.04.2"
+    },
+    "timestamp": "2022-11-14T17:07:53+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "b6c71efa-92af-42e9-8fca-036e0fa26b07",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5support0",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:50+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "bdda969f-6567-40b9-8168-d2cca4c09adb",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:06:59+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "c066c364-2326-4f9d-8ba9-2141601fa6eb",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:48+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "c3d7ee2a-f89e-48ef-bcc7-91a2811f3a0a",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libkrb5-3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:47+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "c821cd1a-a4fa-4a24-80aa-84bfd065159d",
+    "effective_cve": "CVE-2021-36222",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libk5crypto3",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:46+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-36222"
+  },
+  {
+    "ID": "ca760606-5531-471f-82be-f708508c40b7",
+    "effective_cve": "CVE-2006-1611",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "archiver",
+      "version": "5.3.1"
+    },
+    "timestamp": "2022-11-14T17:04:47+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2006-1611"
+  },
+  {
+    "ID": "cbf29e30-08fc-4044-b267-2f6e6067afd4",
+    "effective_cve": "CVE-2020-7753",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "note": "According to https://github.com/advisories/GHSA-w5p7-h5w8-2hfq only affects < 0.0.3\n",
+    "package": {
+      "name": "trim",
+      "version": "1.0.1"
+    },
+    "timestamp": "2022-11-14T17:11:36+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2020-7753"
+  },
+  {
+    "ID": "d30c008a-0767-44f6-a8dc-ce8b1c26bc53",
+    "effective_cve": "CVE-2021-29281",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "archiver",
+      "version": "5.3.1"
+    },
+    "timestamp": "2022-11-14T17:04:58+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-29281"
+  },
+  {
+    "ID": "da2619e1-8517-4d99-971c-4364c5560339",
+    "effective_cve": "CVE-2021-37750",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgssapi-krb5-2",
+      "version": "1.17-6ubuntu4.1"
+    },
+    "timestamp": "2022-11-14T17:06:45+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-37750"
+  },
+  {
+    "ID": "db067fec-6cdb-4528-ba43-ada1b1943f94",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libheimbase1-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:21.289908",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  },
+  {
+    "ID": "e23da52a-18a8-43be-ad49-c953d5b3caa9",
+    "effective_cve": "CVE-2017-18589",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "FP",
+    "package": {
+      "name": "cookie",
+      "version": "0.5.0"
+    },
+    "timestamp": "2022-11-14T17:05:43+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-18589"
+  },
+  {
+    "ID": "f64dd5fa-75b4-4dcb-93ca-b44e321fe722",
+    "effective_cve": "CVE-2016-20013",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.31-0ubuntu9.9"
+    },
+    "timestamp": "2022-11-14T17:06:35+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-20013"
+  },
+  {
+    "ID": "fbda964b-41cc-4aff-bccd-4d39709b2242",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-bin",
+      "version": "6.2-0ubuntu2"
+    },
+    "timestamp": "2022-11-14T17:07:00+00:00",
+    "tool": "grype@v0.52.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-39537"
+  },
+  {
+    "ID": "fc3b2217-9e2c-449b-b34d-1abe463609aa",
+    "effective_cve": "CVE-2021-44758",
+    "image": {
+      "exact": "docker.io/elastic/kibana@sha256:b9e3e52f61e0a347e38eabe80ba0859f859023bc0cc8836410320aa7eb5d3e02"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libheimntlm0-heimdal",
+      "version": "7.7.0+dfsg-1ubuntu1.1"
+    },
+    "timestamp": "2023-03-14T15:59:21.778597",
+    "tool": "grype@v0.56.0-7-ge3cda98",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-44758"
+  }
+]

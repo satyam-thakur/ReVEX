@@ -1,0 +1,578 @@
+[
+  {
+    "ID": "063c5b94-ab24-419c-9096-a569244562ae",
+    "effective_cve": "CVE-2023-1410",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:20.002525",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-1410"
+  },
+  {
+    "ID": "107d4606-749a-44c5-846f-3420c8a8167e",
+    "effective_cve": "CVE-2023-0507",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:43.399069",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-hjv9-hm2f-rpcj"
+  },
+  {
+    "ID": "18e1d259-7132-4a74-8e3a-fcf6b51ecc51",
+    "effective_cve": "CVE-2023-0286",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:47.203518",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0286"
+  },
+  {
+    "ID": "19072fe1-25c2-46e6-a39d-c7cd31490a00",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-r0"
+    },
+    "timestamp": "2023-05-23T10:14:30.468255",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "1a62087f-d09e-4258-be10-7f126ccd81db",
+    "effective_cve": "CVE-2023-0464",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:47.521365",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0464"
+  },
+  {
+    "ID": "1f7e5938-c1af-4491-8de8-2c82cee2d57d",
+    "effective_cve": "CVE-2023-1387",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:16.738323",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-1387"
+  },
+  {
+    "ID": "26e578b6-b29b-4ed2-a750-0d9fd2074a2e",
+    "effective_cve": "CVE-2023-0507",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:12:40.604760",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0507"
+  },
+  {
+    "ID": "3e069d4b-bcbc-43a2-b9e2-6ca7180d85a7",
+    "effective_cve": "CVE-2023-0466",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:48.909415",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0466"
+  },
+  {
+    "ID": "471bd823-88fd-46ce-8e99-70b8c07fdf7c",
+    "effective_cve": "CVE-2023-0464",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:56.300148",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0464"
+  },
+  {
+    "ID": "5e9f39d2-8e78-43f9-9220-82c1ba4f0ce3",
+    "effective_cve": "CVE-2023-0466",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:57.505475",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0466"
+  },
+  {
+    "ID": "658ac2b8-2b3c-4572-9a63-ef2699686923",
+    "effective_cve": "CVE-2023-0465",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:48.156517",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0465"
+  },
+  {
+    "ID": "667f4422-e18c-4ef2-9cc6-f5442ec06c56",
+    "effective_cve": "CVE-2022-41723",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "golang.org/x/net",
+      "version": "v0.0.0-20220909164309-bea034e7d591"
+    },
+    "timestamp": "2023-05-23T10:14:40.676280",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-vvpx-j8f3-3w6h"
+  },
+  {
+    "ID": "685c6acc-e0c4-4787-8090-cc7769e5bd83",
+    "effective_cve": "CVE-2022-23552",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:12:02.680966",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23552"
+  },
+  {
+    "ID": "6b6e59cd-70ac-450f-95b0-e135aefa1d93",
+    "effective_cve": "CVE-2023-0594",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:45.514451",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-xw5p-hw8j-xg4q"
+  },
+  {
+    "ID": "823a688a-e495-4221-9447-aa2bde697b58",
+    "effective_cve": "CVE-2022-41721",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "golang.org/x/net",
+      "version": "v0.0.0-20220909164309-bea034e7d591"
+    },
+    "timestamp": "2023-05-23T10:14:33.806772",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-fxg5-wq6x-vr4w"
+  },
+  {
+    "ID": "833cd823-1590-4f5d-b9a3-82966d1e5a65",
+    "effective_cve": "CVE-2023-0215",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:46.814418",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0215"
+  },
+  {
+    "ID": "919f8979-1d92-4c51-950e-0d07d7326e4d",
+    "effective_cve": "CVE-2023-22462",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:26.069540",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-22462"
+  },
+  {
+    "ID": "93b5edba-8a76-45ab-a9cf-7d0ad857c581",
+    "effective_cve": "CVE-2022-4450",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:54.749040",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4450"
+  },
+  {
+    "ID": "9b3a70da-496d-4c6c-aaa3-dc545675cfd8",
+    "effective_cve": "CVE-2019-3826",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "FP",
+    "package": {
+      "name": "github.com/prometheus/prometheus",
+      "version": "v1.8.2-0.20211011171444-354d8d2ecfac"
+    },
+    "timestamp": "2023-05-23T10:14:11.747782",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3826"
+  },
+  {
+    "ID": "9d55ccd9-bc85-4978-8ea8-7a8646138ee6",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-r0"
+    },
+    "timestamp": "2023-05-23T10:14:29.325316",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "9f9914ae-6ef9-4d10-86ed-9ec5098f0ba8",
+    "effective_cve": "CVE-2023-22462",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:39.635073",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-7rqg-hjwc-6mjf"
+  },
+  {
+    "ID": "a285b26f-fb64-4685-af55-88c63567c24f",
+    "effective_cve": "CVE-2023-0286",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:55.760367",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0286"
+  },
+  {
+    "ID": "a3e09c82-69ca-426e-807d-effe3b7e5fe6",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-r0"
+    },
+    "timestamp": "2023-05-23T10:14:31.739536",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "b8789797-bbf6-430b-8c9d-2030d66feac8",
+    "effective_cve": "CVE-2022-4304",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:54.093510",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4304"
+  },
+  {
+    "ID": "c2198558-64b5-4147-ab88-2ea1e5c137e2",
+    "effective_cve": "CVE-2023-0215",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:55.217458",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0215"
+  },
+  {
+    "ID": "c615055c-622b-4499-9e01-e8d4db10230f",
+    "effective_cve": "CVE-2022-39324",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:12:10.747993",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-39324"
+  },
+  {
+    "ID": "c80c594c-658f-4166-a89d-416ea97c588a",
+    "effective_cve": "CVE-2023-0594",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:12:57.172639",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0594"
+  },
+  {
+    "ID": "ca6437b1-dc9b-4269-8af4-0b525cccb876",
+    "effective_cve": "CVE-2022-4304",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:45.658098",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4304"
+  },
+  {
+    "ID": "cb8681b7-f5be-47a2-81ed-5ad63101f853",
+    "effective_cve": "CVE-2023-0465",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssl1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:57.015886",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-0465"
+  },
+  {
+    "ID": "da0b2a1b-366d-4cbf-a788-d98ee51bd394",
+    "effective_cve": "CVE-2022-46146",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/prometheus/exporter-toolkit",
+      "version": "v0.7.1"
+    },
+    "timestamp": "2023-05-23T10:13:53.107280",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-7rg2-cxvp-9p7p"
+  },
+  {
+    "ID": "dc08b76b-16f9-4a0b-aba1-7e5657741930",
+    "effective_cve": "CVE-2022-4450",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypto1.1",
+      "version": "1.1.1q-r0"
+    },
+    "timestamp": "2023-05-23T10:14:46.288153",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-4450"
+  },
+  {
+    "ID": "e15933c8-3320-4748-9e04-57a9600a29d9",
+    "effective_cve": "CVE-2023-1410",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:13:44.508908",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-qrrg-gw7w-vp76"
+  },
+  {
+    "ID": "e1d9daec-11ec-4cbc-b097-7157fc54e417",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-r0"
+    },
+    "timestamp": "2023-05-23T10:14:30.894299",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "e5e20109-6d4a-464f-a789-d15e3a5cfd8d",
+    "effective_cve": "CVE-2022-23498",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/grafana/grafana",
+      "version": "v9.2.4"
+    },
+    "timestamp": "2023-05-23T10:11:45.108653",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-23498"
+  },
+  {
+    "ID": "f7425135-4873-4de6-8ced-87d41f263c70",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-r0"
+    },
+    "timestamp": "2023-05-23T10:14:29.961250",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "f75a239c-5134-4c97-b154-6d787dec7afb",
+    "effective_cve": "CVE-2022-46146",
+    "image": {
+      "exact": "docker.io/grafana/grafana@sha256:a11c6829cdfe7fd791e48ba5b511f3562384361fb4c568ec2d8a5041ac52babe"
+    },
+    "label": "TP",
+    "package": {
+      "name": "github.com/prometheus/exporter-toolkit",
+      "version": "v0.7.1"
+    },
+    "timestamp": "2023-05-23T10:13:52.028053",
+    "tool": "grype@v0.62.0-1-gc0c6e09",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-46146"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "ID": "021099a6-869d-423c-bb1d-eb1c376ed94d",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.19.0-6.fc40"
+    },
+    "timestamp": "2026-02-12T12:46:53.463616",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2024-12133"
+  },
+  {
+    "ID": "0efe8cb1-5c19-420e-a0c3-a5307f9f0b25",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dnf",
+      "version": "4.22.0-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:51:19.454717",
+    "user": "williammurphy",
+    "vulnerability_id": "FEDORA-2025-21c36b3aa5"
+  },
+  {
+    "ID": "19da59a1-9409-4ce3-99a8-c980d261bd47",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.12.9-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:48:30.580994",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2024-56171"
+  },
+  {
+    "ID": "31634cfd-9068-4c18-a535-a6653bf27dc8",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnutls",
+      "version": "3.8.6-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:47:26.780731",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2024-12243"
+  },
+  {
+    "ID": "45dfe070-108b-4399-9eba-5f8f258fa774",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:3.2.2-3.fc40"
+    },
+    "timestamp": "2026-02-12T12:48:07.047115",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2024-12797"
+  },
+  {
+    "ID": "67680be0-249d-4380-92d7-90f70a0c0a98",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "yum",
+      "version": "4.22.0-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:51:44.582061",
+    "user": "williammurphy",
+    "vulnerability_id": "FEDORA-2025-21c36b3aa5"
+  },
+  {
+    "ID": "7c261b06-682d-43b9-a676-f66f638dae16",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dnf-data",
+      "version": "4.22.0-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:51:35.302821",
+    "user": "williammurphy",
+    "vulnerability_id": "FEDORA-2025-21c36b3aa5"
+  },
+  {
+    "ID": "a1cce1ed-861a-4cf7-8060-de4e6bda92f6",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.6.3-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:49:43.980571",
+    "user": "williammurphy",
+    "vulnerability_id": "CVE-2024-8176"
+  },
+  {
+    "ID": "b9e67179-c500-4a70-9e8a-f98de3d1fec2",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "python3-dnf",
+      "version": "4.22.0-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:51:40.001951",
+    "user": "williammurphy",
+    "vulnerability_id": "FEDORA-2025-21c36b3aa5"
+  },
+  {
+    "ID": "d279843d-cd58-4b77-bf2a-cdb0377ee21c",
+    "image": {
+      "exact": "docker.io/fedora@sha256:2b0571b74dee5d891610276601c6680d622686113488076e7b35c18b455ce879"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.6.3-1.fc40"
+    },
+    "timestamp": "2026-02-12T12:50:52.388792",
+    "user": "williammurphy",
+    "vulnerability_id": "FEDORA-2024-2462a2fc4c"
+  }
+]

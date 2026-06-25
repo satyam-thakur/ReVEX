@@ -1,0 +1,290 @@
+[
+  {
+    "ID": "04358d4c-aa84-4ab6-9748-f5e5fa3a42c6",
+    "effective_cve": "CVE-2021-3903",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3903"
+  },
+  {
+    "ID": "1b98ca43-ddfa-49b8-86c2-ef8f41a72461",
+    "effective_cve": "CVE-2021-3875",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3875"
+  },
+  {
+    "ID": "1e7543c5-707b-4ff3-afb1-f9ab92d76664",
+    "effective_cve": "CVE-2021-3984",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:38+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3984"
+  },
+  {
+    "ID": "25f226e2-aba6-4b7e-b694-7cdc1fc5de08",
+    "effective_cve": "CVE-2021-46059",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:42+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-46059"
+  },
+  {
+    "ID": "38d31f02-09b2-41da-8b1c-2de8d5aaffb6",
+    "effective_cve": "CVE-2021-4173",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:40+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4173"
+  },
+  {
+    "ID": "48d1c452-12cb-402a-8a77-1d49487c5dac",
+    "effective_cve": "CVE-2021-4136",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:39+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4136"
+  },
+  {
+    "ID": "7be20663-99b8-4de8-ae77-ca08777648a6",
+    "effective_cve": "CVE-2021-4187",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:40+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4187"
+  },
+  {
+    "ID": "85a91235-6156-4a99-aeb7-3a6080c00aa5",
+    "effective_cve": "CVE-2021-4192",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:40+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4192"
+  },
+  {
+    "ID": "8ec8478e-cc13-401b-9531-f999e6f26a31",
+    "effective_cve": "CVE-2021-3968",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:37+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3968"
+  },
+  {
+    "ID": "ab07241c-099d-49a1-b655-9986f1ee4421",
+    "effective_cve": "CVE-2021-3927",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:37+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3927"
+  },
+  {
+    "ID": "ab7a219a-68c1-4d81-b5b8-893d80e2c157",
+    "effective_cve": "CVE-2021-3973",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:38+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3973"
+  },
+  {
+    "ID": "b55db631-b15b-4726-91c2-ce03c0290571",
+    "effective_cve": "CVE-2021-4193",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:41+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4193"
+  },
+  {
+    "ID": "c1e05918-bef6-4b40-a4a6-8f7d76d9bf42",
+    "effective_cve": "CVE-2021-3872",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:36+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3872"
+  },
+  {
+    "ID": "c41fee02-8c03-4330-acc0-4ba60099f7bb",
+    "effective_cve": "CVE-2021-4166",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:39+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4166"
+  },
+  {
+    "ID": "c95a3284-f2ea-4717-90cf-6b1286edd8ff",
+    "effective_cve": "CVE-2021-4069",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:39+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4069"
+  },
+  {
+    "ID": "d8b485e9-de06-4850-9bdf-c83b71ae8e7b",
+    "effective_cve": "CVE-2021-4019",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:39+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-4019"
+  },
+  {
+    "ID": "e9f742f5-f998-44a9-b4c5-06922955b7f0",
+    "effective_cve": "CVE-2021-3974",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:38+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3974"
+  },
+  {
+    "ID": "fd6bf05d-25bb-4134-bf5c-d8566279005c",
+    "effective_cve": "CVE-2021-3928",
+    "image": {
+      "exact": "anchore/test_images@sha256:7790691e5efae8bfe9cf4a4447312318d8daaf05ffd5f265ae913edf660f4653"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim",
+      "version": "8.2.3437-r0"
+    },
+    "timestamp": "2023-01-27T16:33:37+00:00",
+    "tool": "grype@v0.56.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2021-3928"
+  }
+]

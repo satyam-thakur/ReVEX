@@ -1,0 +1,582 @@
+[
+  {
+    "ID": "05ecf980-9c09-47bd-a5b6-f76b4e908c75",
+    "effective_cve": "CVE-2023-4527",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:00.305544",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4527"
+  },
+  {
+    "ID": "074656a3-50e6-4f1b-a5a8-2ef4614b7656",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:17.378790+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-p6rw-gvvh-q8v4"
+  },
+  {
+    "ID": "11f992d1-a56d-499b-92bf-513ebc238a30",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:02.466381",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-2g67-jw5m-244m"
+  },
+  {
+    "ID": "1b4b0b4a-3354-407f-b71c-4cc075e36bdf",
+    "effective_cve": "CVE-2022-28391",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.35.0-r2"
+    },
+    "timestamp": "2022-11-29T22:43:59+00:00",
+    "tool": "anchorectl@main+enterprise=4.2.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-28391"
+  },
+  {
+    "ID": "1be85785-a4ff-462a-a74c-261046bff71d",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.35.0-r2"
+    },
+    "timestamp": "2023-12-20T12:48:50.294094",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-gq73-rh3m-3php"
+  },
+  {
+    "ID": "1e411cce-3789-462e-89ac-e6c499a29c29",
+    "effective_cve": "CVE-2023-4911",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:00.826746",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-4911"
+  },
+  {
+    "ID": "220c514c-a05f-416c-8ad1-7325f110c923",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-04-26T16:44:07.114451+00:00",
+    "tool": "grype[custom-db]@v0.77.0",
+    "user": "wagoodman",
+    "vulnerability_id": "GHSA-22q4-f5r6-3xqw"
+  },
+  {
+    "ID": "28a08e00-b500-431d-b6d1-fdb29cbf1c65",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:09.049816+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-jjr8-97p7-vmmg"
+  },
+  {
+    "ID": "372936c6-d043-4515-bcd0-73954af2547e",
+    "effective_cve": "CVE-2019-1010025",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-03-01T13:46:14+00:00",
+    "tool": "grype@v0.57.1-7-gd1352ce",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010025"
+  },
+  {
+    "ID": "3ade4af2-4307-413a-a851-4cbbd2e5cdb3",
+    "effective_cve": "CVE-2023-6780",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:05.724734+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6780"
+  },
+  {
+    "ID": "3e2e74f0-b4d8-4ffa-b407-2f74152b2de5",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2023-12-20T12:52:14.520347",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-cfmr-vrgj-vqwv"
+  },
+  {
+    "ID": "40310314-99fe-455b-8dfb-c05e9ed2155b",
+    "effective_cve": "CVE-2023-6779",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:03.364846+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6779"
+  },
+  {
+    "ID": "4f051615-1f1e-4216-b520-bec63431c579",
+    "effective_cve": "CVE-2023-45853",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2024-02-09T21:02:55.577724+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-mq29-j5xf-cjwr"
+  },
+  {
+    "ID": "5c9097a9-b889-486a-8b03-d7352cf3af94",
+    "effective_cve": "CVE-2022-37434",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2022-11-29T22:44:01+00:00",
+    "tool": "anchorectl@main+enterprise=4.2.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-37434"
+  },
+  {
+    "ID": "5ea47752-fbad-4c5b-a274-c741e9e59fba",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:16.769886+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-p5vr-h433-qhqr"
+  },
+  {
+    "ID": "659e51f5-5b9e-4714-9df5-feb8aeeabd37",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "note": "https://github.com/wolfi-dev/advisories/blob/2bb728778ef527957087ad519271774ea33f20a8/glibc.advisories.yaml#L192",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-05-24T12:32:29.735537+00:00",
+    "tool": "grype[custom-db]@v0.77.4",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-f4cf-2w52-c853"
+  },
+  {
+    "ID": "6871b82f-449e-4dc6-841c-227fded982d0",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "note": "see https://github.com/wolfi-dev/advisories/blob/2bb728778ef527957087ad519271774ea33f20a8/glibc.advisories.yaml#L171",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-05-24T12:33:06.971797+00:00",
+    "tool": "grype[custom-db]@v0.77.4",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-jv3g-6pg3-v9j8"
+  },
+  {
+    "ID": "71b7ddef-d949-4388-949f-9dec3debbb04",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:52:20.661358",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-m7p3-g2hx-xfc3"
+  },
+  {
+    "ID": "744dfc69-34cc-4e0b-9d54-212a41b86e1e",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "note": "see https://github.com/wolfi-dev/advisories/blob/2bb728778ef527957087ad519271774ea33f20a8/zlib.advisories.yaml#L27",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2024-05-24T12:33:53.836033+00:00",
+    "tool": "grype[custom-db]@v0.77.4",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-mq29-j5xf-cjwr"
+  },
+  {
+    "ID": "74f605aa-af60-4402-a430-3f572c494f55",
+    "effective_cve": "CVE-2022-39046",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2022-11-29T22:44:00+00:00",
+    "tool": "anchorectl@main+enterprise=4.2.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-39046"
+  },
+  {
+    "ID": "75e58e73-49e4-4433-860b-ee4aeb2407f4",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "note": "see https://github.com/wolfi-dev/advisories/blob/2bb728778ef527957087ad519271774ea33f20a8/glibc.advisories.yaml#L213",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-05-24T12:29:52.933107+00:00",
+    "tool": "grype[custom-db]@v0.77.4",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-f4pv-q5f7-2h55"
+  },
+  {
+    "ID": "8331e4c9-3675-42f7-9eb6-f8373f975524",
+    "effective_cve": "CVE-2023-5156",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:01.333319",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-5156"
+  },
+  {
+    "ID": "95b2a77c-8108-4896-90d6-03236fcf2080",
+    "effective_cve": "CVE-2019-1010023",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-03-01T13:46:11+00:00",
+    "tool": "grype@v0.57.1-7-gd1352ce",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010023"
+  },
+  {
+    "ID": "9cbffe91-8377-4158-909c-fe03e355414f",
+    "effective_cve": "CVE-2022-30065",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.35.0-r2"
+    },
+    "timestamp": "2022-11-29T22:44:00+00:00",
+    "tool": "anchorectl@main+enterprise=4.2.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2022-30065"
+  },
+  {
+    "ID": "a27b4a38-f2e2-4652-b831-e1a1626503fa",
+    "effective_cve": "CVE-2023-25139",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:48:59.699151",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-25139"
+  },
+  {
+    "ID": "ae39c211-a781-44f4-9810-96c20079ad72",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "??",
+    "note": "wontfix per https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2010-4756",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-03-01T13:45:22+00:00",
+    "tool": "grype@v0.57.1-7-gd1352ce",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "b4bf8485-9a1e-45de-bb1a-5e79d79d986d",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-05-24T11:51:29.403800+00:00",
+    "tool": "grype[custom-db]@v0.77.4",
+    "user": "willmurphy",
+    "vulnerability_id": "GHSA-9gvm-vcgf-x5xw"
+  },
+  {
+    "ID": "b4d67409-e7f5-4911-91b5-6599778a7657",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2023-12-20T12:56:27.914563",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-25032"
+  },
+  {
+    "ID": "bd77648d-f4e1-4f24-8244-606c6cfd760e",
+    "effective_cve": "CVE-2019-1010022",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-03-01T13:45:36+00:00",
+    "tool": "grype@v0.57.1-7-gd1352ce",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010022"
+  },
+  {
+    "ID": "bd7e430f-e2e4-448f-8ac2-721602921a8a",
+    "effective_cve": "CVE-2019-1010024",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "??",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-03-01T13:46:12+00:00",
+    "tool": "grype@v0.57.1-7-gd1352ce",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-1010024"
+  },
+  {
+    "ID": "c2a3344e-0b2e-4093-b2c8-cdba313f480c",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:04.169679",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-m77w-6vjw-wh2f"
+  },
+  {
+    "ID": "cbe9dc27-f683-420d-a164-37e93e636b41",
+    "effective_cve": "CVE-2018-25032",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2023-12-20T12:56:30.164507",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-jc36-42cf-vqwj"
+  },
+  {
+    "ID": "cc5a8119-22c2-4fa5-8fdb-554e64825176",
+    "effective_cve": "CVE-2023-6246",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2024-02-09T21:02:01.197499+00:00",
+    "tool": "grype@v0.74.5",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-6246"
+  },
+  {
+    "ID": "d4557bcf-3d1a-4fc7-87f7-1667d8c1c047",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:03.055634",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-f6rj-qrpf-jc34"
+  },
+  {
+    "ID": "d4b6ad3f-0922-489a-a822-39e266283d13",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "busybox",
+      "version": "1.35.0-r2"
+    },
+    "timestamp": "2023-12-20T12:48:55.826925",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-h8c3-8522-vxc6"
+  },
+  {
+    "ID": "f4089b28-a0f9-4e99-9046-7e5d7730de7e",
+    "effective_cve": "CVE-2023-45853",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.12-r2"
+    },
+    "timestamp": "2023-12-20T12:52:18.226209",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2023-45853"
+  },
+  {
+    "ID": "fac1968b-e461-4778-b4fe-2bd8c023f4a5",
+    "image": {
+      "exact": "cgr.dev/chainguard/wolfi-base@sha256:be3834598c3c4b76ace6a866edcbbe1fa18086f9ee238b57769e4d230cd7d507"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.36-r0"
+    },
+    "timestamp": "2023-12-20T12:49:03.603165",
+    "tool": "grype@v0.73.4",
+    "user": "westonsteimel",
+    "vulnerability_id": "GHSA-hmf7-f8gf-8f4p"
+  }
+]

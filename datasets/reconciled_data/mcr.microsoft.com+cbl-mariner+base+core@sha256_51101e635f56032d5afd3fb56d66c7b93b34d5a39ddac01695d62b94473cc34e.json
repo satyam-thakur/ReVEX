@@ -1,0 +1,194 @@
+[
+  {
+    "ID": "08d97285-845d-4dd5-baf1-86e0da8613b7",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:41:39.592084",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "2bf663e4-c610-4536-9042-4765867feeb1",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:47:26.582337",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "35268ae0-6da6-4e1b-b5c7-719afcf4b269",
+    "effective_cve": "CVE-2010-4756",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.35-2.cm2"
+    },
+    "timestamp": "2023-05-18T19:35:22.405790",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2010-4756"
+  },
+  {
+    "ID": "798a2717-e0bd-461b-9011-fcc17c836b17",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:46:07.560173",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "8a6da78b-e4f3-4bd5-bb01-9554fbaf865e",
+    "effective_cve": "CVE-2021-44964",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lua-libs",
+      "version": "5.4.3-4.cm2"
+    },
+    "timestamp": "2023-05-18T19:38:57.472543",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-44964"
+  },
+  {
+    "ID": "9dcfc825-accd-46e4-b0e3-a40c510d6fab",
+    "effective_cve": "CVE-2021-45985",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "lua-libs",
+      "version": "5.4.3-4.cm2"
+    },
+    "timestamp": "2023-05-18T19:40:30.823092",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-45985"
+  },
+  {
+    "ID": "b2199b37-a0d5-40fc-a3e4-95daaff75b44",
+    "effective_cve": "CVE-2021-35937",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:47:11.468164",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35937"
+  },
+  {
+    "ID": "b912bee1-22c4-48d9-ba87-b79a5a332a6e",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm-libs",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:47:40.089217",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  },
+  {
+    "ID": "c42d4652-b23b-44ef-9224-cfeb8e3c9034",
+    "effective_cve": "CVE-2021-3521",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:41:12.880609",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-3521"
+  },
+  {
+    "ID": "c86ced61-41fa-4ae1-8767-75d02e416ab0",
+    "effective_cve": "CVE-2021-35938",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:42:16.520285",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35938"
+  },
+  {
+    "ID": "d9339a5d-de52-4a72-9f2b-b19c9d07f087",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.18.0-2.cm2"
+    },
+    "timestamp": "2023-05-18T19:38:29.437951",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-46848"
+  },
+  {
+    "ID": "f36c95fc-d648-4ca7-a93d-b8156be01cc7",
+    "effective_cve": "CVE-2021-35939",
+    "image": {
+      "exact": "mcr.microsoft.com/cbl-mariner/base/core@sha256:51101e635f56032d5afd3fb56d66c7b93b34d5a39ddac01695d62b94473cc34e"
+    },
+    "label": "TP",
+    "package": {
+      "name": "rpm",
+      "version": "4.17.0-9.cm2"
+    },
+    "timestamp": "2023-05-18T19:42:25.059718",
+    "tool": "grype[custom-db]@v0.61.1",
+    "user": "willmurphy",
+    "vulnerability_id": "CVE-2021-35939"
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "ID": "01213d75-ece2-4ee0-b69d-c9712b8bb318",
+    "effective_cve": "CVE-2021-33294",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "elfutils-libelf",
+      "version": "0.176-2.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:23.748396",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2197"
+  },
+  {
+    "ID": "04b0d620-eff4-4422-91d8-0ab2d544792b",
+    "effective_cve": "CVE-2022-2522",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:48.238448",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1975"
+  },
+  {
+    "ID": "07114d3b-7fe8-4a5e-8a80-d65befdc1389",
+    "effective_cve": "CVE-2023-23914",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:45.026847",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1986"
+  },
+  {
+    "ID": "09bb8072-679d-4b71-908d-ebb040cf434c",
+    "effective_cve": "CVE-2022-1292",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.0.2k-24.amzn2.0.2"
+    },
+    "timestamp": "2022-11-01T22:38:57+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1801"
+  },
+  {
+    "ID": "09c681b5-c475-45ab-9ffb-33cdc4e40fba",
+    "effective_cve": "CVE-2023-23914",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:22.556542",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1986"
+  },
+  {
+    "ID": "0f8e8366-a2fd-48c7-bfba-0f7e487352a8",
+    "effective_cve": "CVE-2022-1304",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcom_err",
+      "version": "1.42.9-19.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:36.720209",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1884"
+  },
+  {
+    "ID": "143aee06-160e-49ce-bbbd-7cd91af3e0b2",
+    "effective_cve": "CVE-2022-40303",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.1-6.amzn2.5.4"
+    },
+    "timestamp": "2023-08-23T10:35:02.957273",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1996"
+  },
+  {
+    "ID": "24b96345-9f54-498c-b26c-ee2c93d1a156",
+    "effective_cve": "CVE-2017-10140",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libdb",
+      "version": "5.3.21-24.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:43.906963",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1965"
+  },
+  {
+    "ID": "25658cfa-e215-407e-a390-0bfd2b144c07",
+    "effective_cve": "CVE-2018-7738",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:34.137010",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1878"
+  },
+  {
+    "ID": "26cb07dc-3405-47ff-8b45-e4f5e4fcbc6e",
+    "effective_cve": "CVE-2022-27781",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:40.028093",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1924"
+  },
+  {
+    "ID": "276cfd98-1b36-4f3d-bac8-fc1c41cafe0e",
+    "effective_cve": "CVE-2015-8390",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "pcre",
+      "version": "8.32-17.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:15.192317",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2082"
+  },
+  {
+    "ID": "296a13d2-7c8a-464d-87d2-799f81503a9e",
+    "effective_cve": "CVE-2022-0393",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1805"
+  },
+  {
+    "ID": "29c27888-2ffb-4dcd-82e6-7ca2fdc79d5f",
+    "effective_cve": "CVE-2018-7738",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:46.336897",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1878"
+  },
+  {
+    "ID": "2b9996b8-252d-47c3-b4c3-a80d8eb16f87",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-langpack-en",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:32+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1857"
+  },
+  {
+    "ID": "2ff960f0-6c03-453e-a6a9-32d06da49d12",
+    "effective_cve": "CVE-2022-0563",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:54.658761",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1901"
+  },
+  {
+    "ID": "2fff9cb3-382c-4eee-898f-2363a3730eec",
+    "effective_cve": "CVE-2022-22576",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2022-11-01T22:38:21+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1792"
+  },
+  {
+    "ID": "310bcf0e-875c-4410-a1b9-c085ea3c5438",
+    "effective_cve": "CVE-2022-2257",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:19+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1868"
+  },
+  {
+    "ID": "3277d68c-2007-4b9c-87fd-6f0dbfa42e42",
+    "effective_cve": "CVE-2009-5155",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypt",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:38.076247",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1869"
+  },
+  {
+    "ID": "3990afd3-7a3f-4872-9a78-3769c607c5e7",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:33+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1857"
+  },
+  {
+    "ID": "3dcb61ff-0c54-4097-924b-484fb070a0fb",
+    "effective_cve": "CVE-2023-0767",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nss",
+      "version": "3.67.0-4.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:09.799729",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1992"
+  },
+  {
+    "ID": "3f053391-b8a0-4c16-a384-20ef4c429eab",
+    "effective_cve": "CVE-2022-40674",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.1.0-12.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:25.178622",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1877"
+  },
+  {
+    "ID": "443e039a-bfe3-45c7-8d20-26e48d6da529",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:35:00.748476",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1893"
+  },
+  {
+    "ID": "44ce4d4e-bbdb-470f-9ab7-9a16ab233b90",
+    "effective_cve": "CVE-2021-45960",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.1.0-12.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:38:24+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1788"
+  },
+  {
+    "ID": "4bfbdff2-03a7-46c2-ba81-defdde72edb7",
+    "effective_cve": "CVE-2022-0563",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:34.482826",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1901"
+  },
+  {
+    "ID": "4d7ee426-4ce2-4ddd-816a-fee093164984",
+    "effective_cve": "CVE-2021-46143",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.1.0-12.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:38:26+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1809"
+  },
+  {
+    "ID": "5035bc1e-507c-402b-9765-05ce5372caf3",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1857"
+  },
+  {
+    "ID": "55699a3a-f42b-462e-ae07-212ba6b3bb30",
+    "effective_cve": "CVE-2020-27619",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "FP",
+    "note": "vulnerable code is in the source repo https://github.com/python/cpython/blob/v2.7.18/Lib/test/multibytecodec_support.py#L294 but tests are not installed in the image (more  of a problem with the CVE honestly)",
+    "package": {
+      "name": "python-libs",
+      "version": "2.7.18-1.amzn2.0.4"
+    },
+    "timestamp": "2022-09-15T15:03:54-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "ALAS-2022-1802"
+  },
+  {
+    "ID": "57622518-b2f8-4055-8e95-35f9d05adab5",
+    "effective_cve": "CVE-2021-38185",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "cpio",
+      "version": "2.11-28.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:18.418263",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1972"
+  },
+  {
+    "ID": "5b50237e-b60a-4713-a0b7-1966a82b5f9a",
+    "effective_cve": "CVE-2022-2522",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:54.243212",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1975"
+  },
+  {
+    "ID": "5e254630-50e5-4b9b-b4ee-3bc10dba3211",
+    "effective_cve": "CVE-2023-35945",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnghttp2",
+      "version": "1.41.0-1.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:49.600712",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2180"
+  },
+  {
+    "ID": "6338c1f1-a1c3-44de-88c2-9a3a6c0a732b",
+    "effective_cve": "CVE-2023-32803",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ca-certificates",
+      "version": "2021.2.50-72.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:16.248179",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2203"
+  },
+  {
+    "ID": "63ba76e1-2847-4dfc-a34c-e165ffb9eb56",
+    "effective_cve": "CVE-2021-42574",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libstdc++",
+      "version": "7.3.1-13.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:54+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1784"
+  },
+  {
+    "ID": "646b4f76-9b3b-451e-a62f-6aa5f5780b97",
+    "effective_cve": "CVE-2023-2602",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcap",
+      "version": "2.54-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:35.097367",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2136"
+  },
+  {
+    "ID": "6800aa65-8826-4513-aec9-e7a6578b4c79",
+    "effective_cve": "CVE-2022-4292",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:54.417784",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1927"
+  },
+  {
+    "ID": "6a5ccff0-4f7b-4cd8-8a6e-5949cce298de",
+    "effective_cve": "CVE-2022-1271",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "xz-libs",
+      "version": "5.2.2-1.amzn2.0.2"
+    },
+    "timestamp": "2022-11-01T22:39:22+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1782"
+  },
+  {
+    "ID": "6a650db0-aa57-42f3-9b70-5a5b7ab75fd5",
+    "effective_cve": "CVE-2022-1616",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:13+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1829"
+  },
+  {
+    "ID": "6ef69e50-d192-4100-b62b-8a95352327f7",
+    "effective_cve": "CVE-2022-0393",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:12+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1805"
+  },
+  {
+    "ID": "70321ebc-a253-4635-913b-4910b6c8d9ef",
+    "effective_cve": "CVE-2022-32221",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:39.744827",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1882"
+  },
+  {
+    "ID": "713f2fde-fbb1-4372-a10b-8c5b36cf3ac4",
+    "effective_cve": "CVE-2023-29491",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:34:59.804690",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2096"
+  },
+  {
+    "ID": "71abbe80-706a-4a3c-978f-c0ae04367524",
+    "effective_cve": "CVE-2018-16428",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.1-9.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:34:26.189982",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2049"
+  },
+  {
+    "ID": "71d76728-6146-41f5-8147-f199de702abd",
+    "effective_cve": "CVE-2023-2609",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:53.445591",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2085"
+  },
+  {
+    "ID": "7442ecd4-0d71-4266-adff-01675835b1e5",
+    "effective_cve": "CVE-2022-3705",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:54.924561",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1902"
+  },
+  {
+    "ID": "77d88d68-bb35-4340-8930-d4c9d8c869f8",
+    "effective_cve": "CVE-2022-4141",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:54.611797",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1912"
+  },
+  {
+    "ID": "7f40f6e5-5223-498a-80ec-2817efcfc2c4",
+    "effective_cve": "CVE-2022-32205",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:20.986571",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1875"
+  },
+  {
+    "ID": "821cc972-c9a8-42a8-94b6-666fdea58e1d",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libblkid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:34.771130",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1920"
+  },
+  {
+    "ID": "84fa032e-1326-4db3-9461-06be64b109a8",
+    "effective_cve": "CVE-2022-29824",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.1-6.amzn2.5.4"
+    },
+    "timestamp": "2022-11-01T22:38:56+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1848"
+  },
+  {
+    "ID": "87941b10-475d-4c75-8d39-2ec1dd5afee2",
+    "effective_cve": "CVE-2023-29491",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:35:01.030886",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2096"
+  },
+  {
+    "ID": "896f72c9-c0d9-4235-86b1-9401ab089a72",
+    "effective_cve": "CVE-2017-10140",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libdb-utils",
+      "version": "5.3.21-24.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:43.479713",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1965"
+  },
+  {
+    "ID": "89d7ec38-17f2-4a05-85c7-e51c7d6a6b6e",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:35:01.959715",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1893"
+  },
+  {
+    "ID": "8d9ce25a-833d-442f-9b5a-c0b2df7edfd3",
+    "effective_cve": "CVE-2022-27782",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2022-11-01T22:38:39+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1808"
+  },
+  {
+    "ID": "8ec97f95-5df0-4cca-b9e8-70e30f48922a",
+    "effective_cve": "CVE-2022-4292",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:48.438087",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1927"
+  },
+  {
+    "ID": "8fd060b1-fc4f-47f9-a07a-e6f4476b6283",
+    "effective_cve": "CVE-2023-0464",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.0.2k-24.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:13.615155",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2073"
+  },
+  {
+    "ID": "979216fe-2a8b-4188-8244-d22864093e69",
+    "effective_cve": "CVE-2023-27533",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:44.423752",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2070"
+  },
+  {
+    "ID": "99373b14-ba25-4dfd-8ff5-0f5d58385e59",
+    "effective_cve": "CVE-2019-3859",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libssh2",
+      "version": "1.4.3-12.amzn2.2.3"
+    },
+    "timestamp": "2023-08-23T10:34:49.260699",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2046"
+  },
+  {
+    "ID": "993acdb7-e531-49c9-afa5-35c03be4e6da",
+    "effective_cve": "CVE-2009-5155",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:28.103101",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1869"
+  },
+  {
+    "ID": "9984ece4-aa0f-4bc5-8932-549d17b39e71",
+    "effective_cve": "CVE-2022-34903",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "gnupg2",
+      "version": "2.0.22-5.amzn2.0.4"
+    },
+    "timestamp": "2022-11-01T22:38:34+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1834"
+  },
+  {
+    "ID": "9abb59be-6ce6-44f9-9aa4-2dc8bfd4104d",
+    "effective_cve": "CVE-2022-27781",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:22.195837",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1924"
+  },
+  {
+    "ID": "9b8b3c31-0a12-41bb-b2ec-ebfdbc855ec2",
+    "effective_cve": "CVE-2009-5155",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-common",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:29.550890",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1869"
+  },
+  {
+    "ID": "9bc3094f-3c0b-4307-9ccd-128edfd4a0ed",
+    "effective_cve": "CVE-2020-27619",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "FP",
+    "note": "the vuln is in the source at this version https://github.com/python/cpython/blob/v2.7.18/Lib/test/multibytecodec_support.py#L294 but tests are not installed in the image (more of a problem with the CVE honestly)",
+    "package": {
+      "name": "python",
+      "version": "2.7.18-1.amzn2.0.4"
+    },
+    "timestamp": "2022-09-15T15:03:51-04:00",
+    "user": "wagoodman",
+    "vulnerability_id": "ALAS-2022-1802"
+  },
+  {
+    "ID": "9d538bb5-abe3-4d14-b1dc-1e3340f1a9f4",
+    "effective_cve": "CVE-2022-22576",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2022-11-01T22:38:38+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1792"
+  },
+  {
+    "ID": "9ddc6f8e-3cc3-42ba-8055-caebdd27efbf",
+    "effective_cve": "CVE-2022-32221",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:21.781370",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1882"
+  },
+  {
+    "ID": "a6e0cdce-b718-4ac3-b13b-352d018d2c6a",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcrypt",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:37+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1857"
+  },
+  {
+    "ID": "ad44b5be-1ece-4e83-8dfc-24cb3ef07ec7",
+    "effective_cve": "CVE-2022-0563",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:51.028269",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1901"
+  },
+  {
+    "ID": "b15fc799-7488-40b5-aa05-3a7309e3f51f",
+    "effective_cve": "CVE-2021-39537",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-libs",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:35:00.197141",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1893"
+  },
+  {
+    "ID": "b1c22f90-4e66-4e15-8919-b78daac05546",
+    "effective_cve": "CVE-2023-0767",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nss-sysinit",
+      "version": "3.67.0-4.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:09.305313",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1992"
+  },
+  {
+    "ID": "b22124fb-1ebe-446c-855d-9fbf98c6a472",
+    "effective_cve": "CVE-2022-2257",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:17+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1868"
+  },
+  {
+    "ID": "b58eb38f-51ca-40dc-aba7-a196d72bd0f9",
+    "effective_cve": "CVE-2023-28484",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.1-6.amzn2.5.4"
+    },
+    "timestamp": "2023-08-23T10:35:02.443209",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2021"
+  },
+  {
+    "ID": "b60d0cee-e7c5-4295-b7a1-f8bf5e8e3b6a",
+    "effective_cve": "CVE-2021-3800",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.1-9.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:34:26.415678",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2058"
+  },
+  {
+    "ID": "b6d00258-8436-45f3-a742-ac1bf7ddf04c",
+    "effective_cve": "CVE-2021-46848",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1",
+      "version": "4.10-1.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:34:55.925176",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1908"
+  },
+  {
+    "ID": "b77788ed-f610-4526-aaad-df8f5f9e1698",
+    "effective_cve": "CVE-2022-23491",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ca-certificates",
+      "version": "2021.2.50-72.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:14.786767",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1957"
+  },
+  {
+    "ID": "b79a14a9-7f73-4a87-8c17-a1406aee097a",
+    "effective_cve": "CVE-2023-27533",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:23.078902",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2070"
+  },
+  {
+    "ID": "b7f003cb-3a1a-4236-aed8-68d158d11e2c",
+    "effective_cve": "CVE-2023-29491",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "ncurses-base",
+      "version": "6.0-8.20170212.amzn2.1.3"
+    },
+    "timestamp": "2023-08-23T10:35:00.472828",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2096"
+  },
+  {
+    "ID": "bdd09fc2-4755-4517-8f28-c516a9696e25",
+    "effective_cve": "CVE-2015-8390",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glib2",
+      "version": "2.56.1-9.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:34:26.629765",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2107"
+  },
+  {
+    "ID": "be110511-714e-49e3-9c15-1cf8064564c2",
+    "effective_cve": "CVE-2023-1170",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:53.771305",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2005"
+  },
+  {
+    "ID": "bf783f62-db07-425e-9c43-c25899fb28e0",
+    "effective_cve": "CVE-2022-35737",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "sqlite",
+      "version": "3.7.17-8.amzn2.1.1"
+    },
+    "timestamp": "2023-08-23T10:35:41.930732",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1911"
+  },
+  {
+    "ID": "c5a623df-efcb-439b-92fe-1a43e70adf8a",
+    "effective_cve": "CVE-2022-2068",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.0.2k-24.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:11.551594",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1831"
+  },
+  {
+    "ID": "c743031a-98ef-4bef-9cb3-a54c66eca56c",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libmount",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:49.849574",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1920"
+  },
+  {
+    "ID": "ca02efa6-f35e-417e-9337-a9311bc29f6b",
+    "effective_cve": "CVE-2023-1170",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:47.725266",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2005"
+  },
+  {
+    "ID": "cb52ad1a-be8e-4120-9307-6fcfdeb25021",
+    "effective_cve": "CVE-2023-0767",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "nss-tools",
+      "version": "3.67.0-4.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:08.788387",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1992"
+  },
+  {
+    "ID": "cc0274e2-6206-4267-984b-3224285cc855",
+    "effective_cve": "CVE-2021-3999",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:28+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1857"
+  },
+  {
+    "ID": "cd36073a-8478-4890-b503-e813295c7abf",
+    "effective_cve": "CVE-2009-5155",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-minimal-langpack",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:31.981666",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1869"
+  },
+  {
+    "ID": "d1243c9a-5db8-4518-a3e2-c8a20613bc72",
+    "effective_cve": "CVE-2022-43680",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "expat",
+      "version": "2.1.0-12.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:34:25.782232",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1885"
+  },
+  {
+    "ID": "d68f1dd3-02c9-49fa-a7bd-62eb6c2798ee",
+    "effective_cve": "CVE-2022-4304",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openssl-libs",
+      "version": "1:1.0.2k-24.amzn2.0.2"
+    },
+    "timestamp": "2023-08-23T10:35:13.218032",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1935"
+  },
+  {
+    "ID": "d89edacd-0b15-4acd-bb90-1cd121cc36fe",
+    "effective_cve": "CVE-2022-4141",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:48.698842",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1912"
+  },
+  {
+    "ID": "d8c7a743-8b06-4092-adbc-29010558dae9",
+    "effective_cve": "CVE-2022-42898",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "krb5-libs",
+      "version": "1.15.1-37.amzn2.2.4"
+    },
+    "timestamp": "2023-08-23T10:34:33.604420",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1915"
+  },
+  {
+    "ID": "d981eb7e-4a59-4aca-879b-e9bad82b8c4d",
+    "effective_cve": "CVE-2022-32205",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libcurl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2023-08-23T10:34:39.399486",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1875"
+  },
+  {
+    "ID": "d9f4ff0a-5794-48c8-8e5c-f79bd09e2221",
+    "effective_cve": "CVE-2023-2609",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:47.456214",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2085"
+  },
+  {
+    "ID": "db41afc8-8a81-4464-9c2f-461793f351d1",
+    "effective_cve": "CVE-2023-1127",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:53.989494",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1991"
+  },
+  {
+    "ID": "dd705fb6-8f7e-479c-9522-f7c5ac030763",
+    "effective_cve": "CVE-2021-37600",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:54.226599",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1920"
+  },
+  {
+    "ID": "dddc58f4-da45-4c93-81b3-fcec78e814ce",
+    "effective_cve": "CVE-2009-5155",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "glibc-langpack-en",
+      "version": "2.26-58.amzn2"
+    },
+    "timestamp": "2023-08-23T10:34:30.806036",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1869"
+  },
+  {
+    "ID": "e002ff01-5c27-4402-97db-ed54daa54ecb",
+    "effective_cve": "CVE-2019-13565",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openldap",
+      "version": "2.4.44-23.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:08.465621",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2033"
+  },
+  {
+    "ID": "e28e8b90-7b1e-42ce-b5e4-c15a16c45beb",
+    "effective_cve": "CVE-2022-1616",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-minimal",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2022-11-01T22:39:18+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1829"
+  },
+  {
+    "ID": "e3b39344-3b49-4e0e-83a5-b81552ab1286",
+    "effective_cve": "CVE-2021-42574",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgcc",
+      "version": "7.3.1-13.amzn2"
+    },
+    "timestamp": "2022-11-01T22:38:41+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1784"
+  },
+  {
+    "ID": "e526b0e0-b8ab-4081-b93b-7c36312484d4",
+    "effective_cve": "CVE-2022-23308",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libxml2",
+      "version": "2.9.1-6.amzn2.5.4"
+    },
+    "timestamp": "2022-11-01T22:38:55+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1826"
+  },
+  {
+    "ID": "e63f3bac-1a73-42bf-ba9c-3b640442eb5c",
+    "effective_cve": "CVE-2023-1127",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:47.983832",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-1991"
+  },
+  {
+    "ID": "ec288d04-4b7c-48d7-b24b-316236ec482a",
+    "effective_cve": "CVE-2023-2953",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "openldap",
+      "version": "2.4.44-23.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:08.113293",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2023-2095"
+  },
+  {
+    "ID": "fdaad50e-b27a-44dd-847b-20f7179871f8",
+    "effective_cve": "CVE-2022-3705",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "vim-data",
+      "version": "2:8.2.4428-1.amzn2.0.3"
+    },
+    "timestamp": "2023-08-23T10:35:49.666879",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1902"
+  },
+  {
+    "ID": "fe5d9b4e-919e-4d71-814e-6f19481f4146",
+    "effective_cve": "CVE-2022-27782",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "curl",
+      "version": "7.79.1-1.amzn2.0.1"
+    },
+    "timestamp": "2022-11-01T22:38:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1808"
+  },
+  {
+    "ID": "fe80931f-cca2-418b-8777-349bd272879e",
+    "effective_cve": "CVE-2018-7738",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libuuid",
+      "version": "2.30.2-2.amzn2.0.7"
+    },
+    "timestamp": "2023-08-23T10:34:54.997883",
+    "tool": "grype@v0.64.0-1-gebd4643",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1878"
+  },
+  {
+    "ID": "feb53a4a-27d4-4e0e-b032-c956e5ce9528",
+    "effective_cve": "CVE-2022-37434",
+    "image": {
+      "exact": "docker.io/amazonlinux@sha256:1301cc9f889f21dc45733df9e58034ac1c318202b4b0f0a08d88b3fdc03004de"
+    },
+    "label": "TP",
+    "package": {
+      "name": "zlib",
+      "version": "1.2.7-19.amzn2.0.1"
+    },
+    "timestamp": "2022-11-01T22:39:23+00:00",
+    "tool": "grype@v0.51.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "ALAS-2022-1849"
+  }
+]

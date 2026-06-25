@@ -1,0 +1,546 @@
+[
+  {
+    "ID": "03f96312-1406-46bc-8abe-bb7a63fc54d2",
+    "effective_cve": "CVE-2019-9169",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:16.922702",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9169"
+  },
+  {
+    "ID": "0417670b-1984-428e-8110-f3aa586f03a8",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:16.231309",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "06a31cad-af3d-4668-9af8-67ce1143b5d1",
+    "effective_cve": "CVE-2017-7246",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12~18.10"
+    },
+    "timestamp": "2023-06-30T10:40:22.178607",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7246"
+  },
+  {
+    "ID": "166e13a3-7a5c-405f-aa38-7177cbe186f8",
+    "effective_cve": "CVE-2017-11164",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12~18.10"
+    },
+    "timestamp": "2023-06-30T10:40:24.227206",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-11164"
+  },
+  {
+    "ID": "1aabc4bd-75cd-493c-a601-534eb02418e3",
+    "effective_cve": "CVE-2018-16869",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libnettle6",
+      "version": "3.4-1"
+    },
+    "timestamp": "2023-06-30T10:40:21.794996",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-16869"
+  },
+  {
+    "ID": "2d3fd0b5-8736-4152-a48b-104c7ae98fcb",
+    "effective_cve": "CVE-2018-7169",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:26.541254",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-7169"
+  },
+  {
+    "ID": "3107cc9a-b5a9-4e61-8702-1b7e8f607edd",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:26.002001",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "38c99077-ae2f-4dc5-89f9-b59305335a47",
+    "effective_cve": "CVE-2019-3843",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:22.489802",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3843"
+  },
+  {
+    "ID": "3b4fdb32-de20-493f-87d7-974e841c9d6d",
+    "effective_cve": "CVE-2018-7169",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "login",
+      "version": "1:4.5-1ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:26.170221",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-7169"
+  },
+  {
+    "ID": "3e7400e5-421b-44ae-9c3d-3b999c040be1",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:19.038416",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "4885abb7-8ac7-46c7-b809-4d5351fb1155",
+    "effective_cve": "CVE-2016-10739",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:16.426200",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10739"
+  },
+  {
+    "ID": "4e19c3e4-13b1-4a99-b116-e8d867ecb165",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:22.321234",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "4eab079b-c7c1-41a9-b8b8-aa55e67d682c",
+    "effective_cve": "CVE-2018-20839",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:25.630170",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20839"
+  },
+  {
+    "ID": "748ede71-35d2-488b-96f1-3b27517f8b27",
+    "effective_cve": "CVE-2019-9169",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:21.160273",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9169"
+  },
+  {
+    "ID": "78859da5-bb4d-4d56-a95e-e6560df2e515",
+    "effective_cve": "CVE-2019-7309",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:20.977321",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-7309"
+  },
+  {
+    "ID": "89adfbbf-fe3f-4a39-a10a-b812f8a4bd1f",
+    "effective_cve": "CVE-2019-7309",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:16.765815",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-7309"
+  },
+  {
+    "ID": "8a840e0c-e812-42f1-a41c-1775805b47ee",
+    "effective_cve": "CVE-2018-16868",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libgnutls30",
+      "version": "3.6.4-2ubuntu1.2"
+    },
+    "timestamp": "2023-06-30T10:40:21.479094",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-16868"
+  },
+  {
+    "ID": "8d0e875a-4393-4238-b0a1-b16d6b285ce0",
+    "effective_cve": "CVE-2018-19591",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:16.585769",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19591"
+  },
+  {
+    "ID": "8e12bb72-8d3f-46d1-a55a-1a29e19d1ad0",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:21.311771",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "922d418a-4b9e-4674-9446-74b4622959db",
+    "effective_cve": "CVE-2016-10228",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:17.303743",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10228"
+  },
+  {
+    "ID": "923804af-a1a6-45e2-912c-debb4774a5e2",
+    "effective_cve": "CVE-2013-4235",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "passwd",
+      "version": "1:4.5-1ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:26.360637",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2013-4235"
+  },
+  {
+    "ID": "926df3a3-28a0-4e7a-9567-a098edf06a44",
+    "effective_cve": "CVE-2016-10739",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:17.431795",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-10739"
+  },
+  {
+    "ID": "9e86d748-a2c6-480b-b0aa-887f6f04c5a4",
+    "effective_cve": "CVE-2019-9192",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc-bin",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:17.095720",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-9192"
+  },
+  {
+    "ID": "adfb2293-55ef-41f3-a5b8-638d5b7ab84a",
+    "effective_cve": "CVE-2018-20796",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:20.762498",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20796"
+  },
+  {
+    "ID": "bac78c47-3b1b-4d41-9946-5d2ee2900254",
+    "effective_cve": "CVE-2018-19591",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libc6",
+      "version": "2.28-0ubuntu1"
+    },
+    "timestamp": "2023-06-30T10:40:17.617172",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-19591"
+  },
+  {
+    "ID": "c6c64123-a6b1-4511-ba6e-aecf4bb1cbfc",
+    "effective_cve": "CVE-2018-20482",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "tar",
+      "version": "1.30+dfsg-2"
+    },
+    "timestamp": "2023-06-30T10:40:30.019867",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-20482"
+  },
+  {
+    "ID": "c7bc977e-9761-4d73-9359-8adeb5c59812",
+    "effective_cve": "CVE-2019-3844",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libsystemd0",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:22.701118",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3844"
+  },
+  {
+    "ID": "dbc13f3c-590d-4ef8-8a71-67bd8e9f3f1a",
+    "effective_cve": "CVE-2017-7245",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libpcre3",
+      "version": "2:8.39-12~18.10"
+    },
+    "timestamp": "2023-06-30T10:40:22.003943",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-7245"
+  },
+  {
+    "ID": "de8ffb93-b926-4c67-b7da-c73e1ad2965d",
+    "effective_cve": "CVE-2018-16869",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libhogweed4",
+      "version": "3.4-1"
+    },
+    "timestamp": "2023-06-30T10:40:21.632262",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-16869"
+  },
+  {
+    "ID": "df6cf098-2b2a-4046-83e8-2c438bd370a2",
+    "effective_cve": "CVE-2017-8283",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "dpkg",
+      "version": "1.19.0.5ubuntu5"
+    },
+    "timestamp": "2023-06-30T10:40:16.049221",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2017-8283"
+  },
+  {
+    "ID": "e097f4a8-50b1-4f7f-a0c8-24c5b6727806",
+    "effective_cve": "CVE-2016-2781",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "coreutils",
+      "version": "8.28-1ubuntu2"
+    },
+    "timestamp": "2023-06-30T10:40:15.852577",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2016-2781"
+  },
+  {
+    "ID": "e9b9fd98-ca9a-44a9-9d4f-22e671e35f28",
+    "effective_cve": "CVE-2019-3844",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:25.815202",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3844"
+  },
+  {
+    "ID": "f3d94306-4179-4b13-a739-e62517cafd24",
+    "effective_cve": "CVE-2019-3843",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libudev1",
+      "version": "239-7ubuntu10.14"
+    },
+    "timestamp": "2023-06-30T10:40:28.527138",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2019-3843"
+  },
+  {
+    "ID": "f4adfb4d-bb52-40df-9ac9-a1c876673118",
+    "effective_cve": "CVE-2018-1000654",
+    "image": {
+      "exact": "docker.io/ubuntu@sha256:c95b7b93ccd48c3bfd97f8cac6d5ca8053ced584c9e8e6431861ca30b0d73114"
+    },
+    "label": "TP",
+    "package": {
+      "name": "libtasn1-6",
+      "version": "4.13-3"
+    },
+    "timestamp": "2023-06-30T10:40:22.878254",
+    "tool": "grype@v0.63.0",
+    "user": "westonsteimel",
+    "vulnerability_id": "CVE-2018-1000654"
+  }
+]
