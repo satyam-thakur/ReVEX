@@ -1,6 +1,7 @@
 # ReVEX: Automated Container Vulnerability Verification via DSPy-Optimized ReAct Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20839301.svg)](https://doi.org/10.5281/zenodo.20839301)
 
 ## Overview
 
@@ -100,6 +101,21 @@ If you use ReVEX in your research, please cite:
   booktitle={2026 23rd Annual International Conference on Privacy, Security and Trust (PST)},
   year={2026},
   organization={IEEE}
+}
+```
+
+The source code is archived on Zenodo:
+
+```bibtex
+@software{thakur2026revex_code,
+  author={Thakur, Satyam},
+  title={satyam-thakur/ReVEX: v1.0.0\_test},
+  year={2026},
+  month={jun},
+  publisher={Zenodo},
+  version={v1.0.0\_test},
+  doi={10.5281/zenodo.20839301},
+  url={https://doi.org/10.5281/zenodo.20839301}
 }
 ```
 
