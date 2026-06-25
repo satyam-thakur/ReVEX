@@ -94,11 +94,12 @@ See [`gepa_optimization.md`](vul_analysis/src/gepa_optimization.md) for detailed
 If you use ReVEX in your research, please cite:
 
 ```bibtex
-@inproceedings{revex2026,
-  title={Automated Container Vulnerability Verification via DSPy-Optimized ReAct Agents},
-  author={Your Name and Collaborators},
-  booktitle={Proceedings of [Venue Name]},
-  year={2026}
+@inproceedings{thakur2026revex,
+  title={ReVEX: DSPy-Optimized ReAct Agents for Exploitability Verification of Container Vulnerabilities},
+  author={Thakur, Satyam and Asish, Sarker Monojit and Al Amiri, Wesam and Farmani, Mohammad and Sarker, Arijet},
+  booktitle={2026 23rd Annual International Conference on Privacy, Security and Trust (PST)},
+  year={2026},
+  organization={IEEE}
 }
 ```
 
