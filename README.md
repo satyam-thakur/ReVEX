@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20839301.svg)](https://doi.org/10.5281/zenodo.20839301)
+[![scan_workflow](https://github.com/satyam-thakur/ReVEX/actions/workflows/scan_wf.yaml/badge.svg)](https://github.com/satyam-thakur/ReVEX/actions/workflows/scan_wf.yaml)
 
 ## Overview
 
