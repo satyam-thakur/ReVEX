@@ -24,7 +24,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ github.ref_name }}
 
       - name: Load configuration (images and scanners)
         id: load-config
@@ -430,10 +430,19 @@ jobs:
           
           # Check if there are changes to commit
           if ! git diff --cached --quiet; then
+            BRANCH="${GITHUB_REF#refs/heads/}"
             git commit -m "Add security scan reports $DATE"
-            
+
+            # Rebase onto the latest remote tip to avoid non-fast-forward
+            # rejections if the branch advanced since checkout.
+            git pull --rebase origin "$BRANCH" || {
+              echo "Rebase failed; aborting and leaving reports as artifacts."
+              git rebase --abort 2>/dev/null || true
+              exit 0
+            }
+
             # Try to push with error handling
-            if git push origin HEAD:${GITHUB_REF#refs/heads/}; then
+            if git push origin "HEAD:$BRANCH"; then
               echo "Successfully pushed scan reports"
             else
               echo "Failed to push to branch. This may be due to branch protection rules."
