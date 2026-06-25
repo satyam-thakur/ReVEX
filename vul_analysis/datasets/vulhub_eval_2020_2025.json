@@ -1,0 +1,641 @@
+[
+    {
+        "CVE_ID": "CVE-2025-55182",
+        "image": "vulhub/nextjs:15.5.6",
+        "repository": "https://github.com/vercel/next.js",
+        "vuln_ref": "v15.5.6",
+        "vuln_repo": "https://github.com/vercel/next.js/tree/v15.5.6",
+        "vulnrable_ver": "15.5.6",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2025-3248",
+        "image": "vulhub/langflow:1.2.0",
+        "repository": "https://github.com/langflow-ai/langflow",
+        "vuln_ref": "1.2.0",
+        "vuln_repo": "https://github.com/langflow-ai/langflow/tree/1.2.0",
+        "vulnrable_ver": "1.2.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2025-32433",
+        "image": "vulhub/erlang:27.3.2-with-ssh",
+        "repository": "https://github.com/erlang/otp",
+        "vuln_ref": "OTP-27.3.2",
+        "vuln_repo": "https://github.com/erlang/otp/tree/OTP-27.3.2",
+        "vulnrable_ver": "27.3.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2025-30208",
+        "image": "vulhub/vite:6.2.2",
+        "repository": "https://github.com/vitejs/vite",
+        "vuln_ref": "v6.2.2",
+        "vuln_repo": "https://github.com/vitejs/vite/tree/v6.2.2",
+        "vulnrable_ver": "6.2.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2025-29927",
+        "image": "vulhub/nextjs:15.2.2",
+        "repository": "https://github.com/vercel/next.js",
+        "vuln_ref": "v15.2.2",
+        "vuln_repo": "https://github.com/vercel/next.js/tree/v15.2.2",
+        "vulnrable_ver": "15.2.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2025-1974",
+        "image": "vulhub/ingress-nginx:1.9.5",
+        "repository": "https://github.com/kubernetes/ingress-nginx",
+        "vuln_ref": "controller-v1.9.5",
+        "vuln_repo": "https://github.com/kubernetes/ingress-nginx/tree/controller-v1.9.5",
+        "vulnrable_ver": "1.9.5",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-4956",
+        "image": "vulhub/nexus:3.68.0",
+        "repository": "https://github.com/sonatype/nexus-public",
+        "vuln_ref": "release-3.68.0-04",
+        "vuln_repo": "https://github.com/sonatype/nexus-public/tree/release-3.68.0-04",
+        "vulnrable_ver": "3.68.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-47177",
+        "image": "vulhub/cups-browsed:2.0.1",
+        "repository": "https://github.com/OpenPrinting/cups-browsed",
+        "vuln_ref": "2.0.1",
+        "vuln_repo": "https://github.com/OpenPrinting/cups-browsed/tree/2.0.1",
+        "vulnrable_ver": "2.0.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-4367",
+        "image": "vulhub/pdfjs:4.1.392",
+        "repository": "https://github.com/mozilla/pdf.js",
+        "vuln_ref": "v4.1.392",
+        "vuln_repo": "https://github.com/mozilla/pdf.js/tree/v4.1.392",
+        "vulnrable_ver": "4.1.392",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-43441",
+        "image": "vulhub/hugegraph:1.3.0",
+        "repository": "https://github.com/apache/hugegraph",
+        "vuln_ref": "1.3.0",
+        "vuln_repo": "https://github.com/apache/hugegraph/tree/1.3.0",
+        "vulnrable_ver": "1.3.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-39907",
+        "image": "vulhub/1panel:1.10.10",
+        "repository": "https://github.com/1Panel-dev/1Panel",
+        "vuln_ref": "v1.10.10-lts",
+        "vuln_repo": "https://github.com/1Panel-dev/1Panel/tree/v1.10.10-lts",
+        "vulnrable_ver": "1.10.10",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-36401",
+        "image": "vulhub/geoserver:2.23.2",
+        "repository": "https://github.com/geoserver/geoserver",
+        "vuln_ref": "2.23.2",
+        "vuln_repo": "https://github.com/geoserver/geoserver/tree/2.23.2",
+        "vulnrable_ver": "2.23.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-2961",
+        "image": "vulhub/php:8.3.4-apache",
+        "repository": "https://github.com/php/php-src",
+        "vuln_ref": "php-8.3.4",
+        "vuln_repo": "https://github.com/php/php-src/tree/php-8.3.4",
+        "vulnrable_ver": "8.3.4",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-28752",
+        "image": "vulhub/apache-cxf:3.2.14",
+        "repository": "https://github.com/apache/cxf",
+        "vuln_ref": "cxf-3.2.14",
+        "vuln_repo": "https://github.com/apache/cxf/tree/cxf-3.2.14",
+        "vulnrable_ver": "3.2.14",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-27348",
+        "image": "vulhub/hugegraph:1.2.0",
+        "repository": "https://github.com/apache/hugegraph",
+        "vuln_ref": "1.2.0",
+        "vuln_repo": "https://github.com/apache/hugegraph/tree/1.2.0",
+        "vulnrable_ver": "1.2.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-23897",
+        "image": "vulhub/jenkins:2.441",
+        "repository": "https://github.com/jenkinsci/jenkins",
+        "vuln_ref": "jenkins-2.441",
+        "vuln_repo": "https://github.com/jenkinsci/jenkins/tree/jenkins-2.441",
+        "vulnrable_ver": "2.441",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-23334",
+        "image": "vulhub/aiohttp:3.9.1",
+        "repository": "https://github.com/aio-libs/aiohttp",
+        "vuln_ref": "v3.9.1",
+        "vuln_repo": "https://github.com/aio-libs/aiohttp/tree/v3.9.1",
+        "vulnrable_ver": "3.9.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2024-1561",
+        "image": "vulhub/gradio:4.12.0",
+        "repository": "https://github.com/gradio-app/gradio",
+        "vuln_ref": "gradio@4.12.0",
+        "vuln_repo": "https://github.com/gradio-app/gradio/tree/gradio%404.12.0",
+        "vulnrable_ver": "4.12.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-51449",
+        "image": "vulhub/gradio:4.10.0",
+        "repository": "https://github.com/gradio-app/gradio",
+        "vuln_ref": "gradio@4.10.0",
+        "vuln_repo": "https://github.com/gradio-app/gradio/tree/gradio%404.10.0",
+        "vulnrable_ver": "4.10.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-5002",
+        "image": "vulhub/pgadmin:7.6",
+        "repository": "https://github.com/pgadmin-org/pgadmin4",
+        "vuln_ref": "REL-7_6",
+        "vuln_repo": "https://github.com/pgadmin-org/pgadmin4/tree/REL-7_6",
+        "vulnrable_ver": "7.6",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-46604",
+        "image": "vulhub/activemq:5.17.3",
+        "repository": "https://github.com/apache/activemq",
+        "vuln_ref": "activemq-5.17.3",
+        "vuln_repo": "https://github.com/apache/activemq/tree/activemq-5.17.3",
+        "vulnrable_ver": "5.17.3",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-38646",
+        "image": "vulhub/metabase:0.46.6",
+        "repository": "https://github.com/metabase/metabase",
+        "vuln_ref": "v0.46.6",
+        "vuln_repo": "https://github.com/metabase/metabase/tree/v0.46.6",
+        "vulnrable_ver": "0.46.6",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-38633",
+        "image": "vulhub/librsvg:2.50.7-php",
+        "repository": "https://github.com/GNOME/librsvg",
+        "vuln_ref": "2.50.7",
+        "vuln_repo": "https://github.com/GNOME/librsvg/tree/2.50.7",
+        "vulnrable_ver": "2.50.7",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-37941",
+        "image": "vulhub/superset:2.0.1",
+        "repository": "https://github.com/apache/superset",
+        "vuln_ref": "2.0.1",
+        "vuln_repo": "https://github.com/apache/superset/tree/2.0.1",
+        "vulnrable_ver": "2.0.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-37582",
+        "image": "vulhub/rocketmq:5.1.0",
+        "repository": "https://github.com/apache/rocketmq",
+        "vuln_ref": "rocketmq-all-5.1.0",
+        "vuln_repo": "https://github.com/apache/rocketmq/tree/rocketmq-all-5.1.0",
+        "vulnrable_ver": "5.1.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-33246",
+        "image": "vulhub/rocketmq:5.1.0",
+        "repository": "https://github.com/apache/rocketmq",
+        "vuln_ref": "rocketmq-all-5.1.0",
+        "vuln_repo": "https://github.com/apache/rocketmq/tree/rocketmq-all-5.1.0",
+        "vulnrable_ver": "5.1.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-32315",
+        "image": "vulhub/openfire:4.7.4",
+        "repository": "https://github.com/igniterealtime/Openfire",
+        "vuln_ref": "v4.7.4",
+        "vuln_repo": "https://github.com/igniterealtime/Openfire/tree/v4.7.4",
+        "vulnrable_ver": "4.7.4",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-28432",
+        "image": "vulhub/minio:2023-02-27T18-10-45Z",
+        "repository": "https://github.com/minio/minio",
+        "vuln_ref": "RELEASE.2023-02-27T18-10-45Z",
+        "vuln_repo": "https://github.com/minio/minio/tree/RELEASE.2023-02-27T18-10-45Z",
+        "vulnrable_ver": "2023-02-27T18-10-45Z",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-27524",
+        "image": "vulhub/superset:2.0.1",
+        "repository": "https://github.com/apache/superset",
+        "vuln_ref": "2.0.1",
+        "vuln_repo": "https://github.com/apache/superset/tree/2.0.1",
+        "vulnrable_ver": "2.0.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-25826",
+        "image": "vulhub/opentsdb:2.4.1",
+        "repository": "https://github.com/OpenTSDB/opentsdb",
+        "vuln_ref": "v2.4.1",
+        "vuln_repo": "https://github.com/OpenTSDB/opentsdb/tree/v2.4.1",
+        "vulnrable_ver": "2.4.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2023-25194",
+        "image": "vulhub/apache-druid:25.0.0",
+        "repository": "https://github.com/apache/druid",
+        "vuln_ref": "25.0.0",
+        "vuln_repo": "https://github.com/apache/druid/tree/25.0.0",
+        "vulnrable_ver": "25.0.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-44268",
+        "image": "vulhub/imagemagick:7.1.0-49-php",
+        "repository": "https://github.com/ImageMagick/ImageMagick",
+        "vuln_ref": "7.1.0-49",
+        "vuln_repo": "https://github.com/ImageMagick/ImageMagick/tree/7.1.0-49",
+        "vulnrable_ver": "7.1.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-4223",
+        "image": "vulhub/pgadmin:6.16",
+        "repository": "https://github.com/pgadmin-org/pgadmin4",
+        "vuln_ref": "REL-6_16",
+        "vuln_repo": "https://github.com/pgadmin-org/pgadmin4/tree/REL-6_16",
+        "vulnrable_ver": "6.16",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-41678",
+        "image": "vulhub/activemq:5.17.3",
+        "repository": "https://github.com/apache/activemq",
+        "vuln_ref": "activemq-5.17.3",
+        "vuln_repo": "https://github.com/apache/activemq/tree/activemq-5.17.3",
+        "vulnrable_ver": "5.17.3",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-24816",
+        "image": "vulhub/geoserver:2.17.2",
+        "repository": "https://github.com/geoserver/geoserver",
+        "vuln_ref": "2.17.2",
+        "vuln_repo": "https://github.com/geoserver/geoserver/tree/2.17.2",
+        "vulnrable_ver": "2.17.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-24706",
+        "image": "vulhub/couchdb:3.2.1",
+        "repository": "https://github.com/apache/couchdb",
+        "vuln_ref": "3.2.1",
+        "vuln_repo": "https://github.com/apache/couchdb/tree/3.2.1",
+        "vulnrable_ver": "3.2.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-23221",
+        "image": "vulhub/spring-with-h2database:2.0.206",
+        "repository": "https://github.com/h2database/h2database",
+        "vuln_ref": "version-2.0.206",
+        "vuln_repo": "https://github.com/h2database/h2database/tree/version-2.0.206",
+        "vulnrable_ver": "2.0.206",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-22978",
+        "image": "vulhub/spring-security:5.6.3",
+        "repository": "https://github.com/spring-projects/spring-security",
+        "vuln_ref": "5.6.3",
+        "vuln_repo": "https://github.com/spring-projects/spring-security/tree/5.6.3",
+        "vulnrable_ver": "5.6.3",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-22965",
+        "image": "vulhub/spring-webmvc:5.3.17",
+        "repository": "https://github.com/spring-projects/spring-framework",
+        "vuln_ref": "v5.3.17",
+        "vuln_repo": "https://github.com/spring-projects/spring-framework/tree/v5.3.17",
+        "vulnrable_ver": "5.3.17",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-22963",
+        "image": "vulhub/spring-cloud-function:3.2.2",
+        "repository": "https://github.com/spring-cloud/spring-cloud-function",
+        "vuln_ref": "v3.2.2",
+        "vuln_repo": "https://github.com/spring-cloud/spring-cloud-function/tree/v3.2.2",
+        "vulnrable_ver": "3.2.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-22947",
+        "image": "vulhub/spring-cloud-gateway:3.1.0",
+        "repository": "https://github.com/spring-cloud/spring-cloud-gateway",
+        "vuln_ref": "v3.1.0",
+        "vuln_repo": "https://github.com/spring-cloud/spring-cloud-gateway/tree/v3.1.0",
+        "vulnrable_ver": "3.1.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-0778",
+        "image": "vulhub/openssl:1.1.1m-with-curl",
+        "repository": "https://github.com/openssl/openssl",
+        "vuln_ref": "OpenSSL_1_1_1m",
+        "vuln_repo": "https://github.com/openssl/openssl/tree/OpenSSL_1_1_1m",
+        "vulnrable_ver": "1.1.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2022-0543",
+        "image": "vulhub/redis:5.0.7",
+        "repository": "https://github.com/redis/redis",
+        "vuln_ref": "5.0.7",
+        "vuln_repo": "https://github.com/redis/redis/tree/5.0.7",
+        "vulnrable_ver": "5.0.7",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-43798",
+        "image": "vulhub/grafana:8.2.6",
+        "repository": "https://github.com/grafana/grafana",
+        "vuln_ref": "v8.2.6",
+        "vuln_repo": "https://github.com/grafana/grafana/tree/v8.2.6",
+        "vulnrable_ver": "8.2.6",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-43008",
+        "image": "vulhub/adminer:4.6.2",
+        "repository": "https://github.com/vrana/adminer",
+        "vuln_ref": "v4.6.2",
+        "vuln_repo": "https://github.com/vrana/adminer/tree/v4.6.2",
+        "vulnrable_ver": "4.6.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-42392",
+        "image": "vulhub/spring-with-h2database:2.0.204",
+        "repository": "https://github.com/h2database/h2database",
+        "vuln_ref": "version-2.0.204",
+        "vuln_repo": "https://github.com/h2database/h2database/tree/version-2.0.204",
+        "vulnrable_ver": "2.0.204",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-41277",
+        "image": "vulhub/metabase:0.40.4",
+        "repository": "https://github.com/metabase/metabase",
+        "vuln_ref": "v0.40.4",
+        "vuln_repo": "https://github.com/metabase/metabase/tree/v0.40.4",
+        "vulnrable_ver": "0.40.4",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-40822",
+        "image": "vulhub/geoserver:2.19.1",
+        "repository": "https://github.com/geoserver/geoserver",
+        "vuln_ref": "2.19.1",
+        "vuln_repo": "https://github.com/geoserver/geoserver/tree/2.19.1",
+        "vulnrable_ver": "2.19.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-40438",
+        "image": "vulhub/tomcat:8.5.19",
+        "repository": "https://github.com/apache/tomcat",
+        "vuln_ref": "8.5.19",
+        "vuln_repo": "https://github.com/apache/tomcat/tree/8.5.19",
+        "vulnrable_ver": "8.5.19",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-4034",
+        "image": "vulhub/polkit:0.105",
+        "repository": "https://github.com/polkit-org/polkit",
+        "vuln_ref": "0.105",
+        "vuln_repo": "https://github.com/polkit-org/polkit/tree/0.105",
+        "vulnrable_ver": "0.105",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-34429",
+        "image": "vulhub/jetty:9.4.40",
+        "repository": "https://github.com/jetty/jetty.project",
+        "vuln_ref": "jetty-9.4.40.v20210413",
+        "vuln_repo": "https://github.com/jetty/jetty.project/tree/jetty-9.4.40.v20210413",
+        "vulnrable_ver": "9.4.40",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-32682",
+        "image": "vulhub/elfinder:2.1.58",
+        "repository": "https://github.com/Studio-42/elFinder",
+        "vuln_ref": "2.1.58",
+        "vuln_repo": "https://github.com/Studio-42/elFinder/tree/2.1.58",
+        "vulnrable_ver": "2.1.58",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-29505",
+        "image": "vulhub/xstream:1.4.16",
+        "repository": "https://github.com/x-stream/xstream",
+        "vuln_ref": "XSTREAM_1_4_16",
+        "vuln_repo": "https://github.com/x-stream/xstream/tree/XSTREAM_1_4_16",
+        "vulnrable_ver": "1.4.16",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-29442",
+        "image": "vulhub/nacos:1.4.0",
+        "repository": "https://github.com/alibaba/nacos",
+        "vuln_ref": "1.4.0",
+        "vuln_repo": "https://github.com/alibaba/nacos/tree/1.4.0",
+        "vulnrable_ver": "1.4.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-28169",
+        "image": "vulhub/jetty:9.4.40",
+        "repository": "https://github.com/jetty/jetty.project",
+        "vuln_ref": "jetty-9.4.40.v20210413",
+        "vuln_repo": "https://github.com/jetty/jetty.project/tree/jetty-9.4.40.v20210413",
+        "vulnrable_ver": "9.4.40",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-28164",
+        "image": "vulhub/jetty:9.4.37",
+        "repository": "https://github.com/jetty/jetty.project",
+        "vuln_ref": "jetty-9.4.37.v20210219",
+        "vuln_repo": "https://github.com/jetty/jetty.project/tree/jetty-9.4.37.v20210219",
+        "vulnrable_ver": "9.4.37",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-25646",
+        "image": "vulhub/apache-druid:0.20.0",
+        "repository": "https://github.com/apache/druid",
+        "vuln_ref": "druid-0.20.0",
+        "vuln_repo": "https://github.com/apache/druid/tree/druid-0.20.0",
+        "vulnrable_ver": "0.20.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-21351",
+        "image": "vulhub/xstream:1.4.15",
+        "repository": "https://github.com/x-stream/xstream",
+        "vuln_ref": "XSTREAM_1_4_15",
+        "vuln_repo": "https://github.com/x-stream/xstream/tree/XSTREAM_1_4_15",
+        "vulnrable_ver": "1.4.15",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2021-21311",
+        "image": "vulhub/adminer:4.7.8",
+        "repository": "https://github.com/vrana/adminer",
+        "vuln_ref": "v4.7.8",
+        "vuln_repo": "https://github.com/vrana/adminer/tree/v4.7.8",
+        "vulnrable_ver": "4.7.8",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-7247",
+        "image": "vulhub/opensmtpd:6.6.1p1",
+        "repository": "https://github.com/OpenSMTPD/OpenSMTPD",
+        "vuln_ref": "6.6.1p1",
+        "vuln_repo": "https://github.com/OpenSMTPD/OpenSMTPD/tree/6.6.1p1",
+        "vulnrable_ver": "6.6.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-35476",
+        "image": "vulhub/opentsdb:2.4.0",
+        "repository": "https://github.com/OpenTSDB/opentsdb",
+        "vuln_ref": "v2.4.0",
+        "vuln_repo": "https://github.com/OpenTSDB/opentsdb/tree/v2.4.0",
+        "vulnrable_ver": "2.4.0",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-29599",
+        "image": "vulhub/imagemagick:7.0.10-36",
+        "repository": "https://github.com/ImageMagick/ImageMagick",
+        "vuln_ref": "7.0.10-36",
+        "vuln_repo": "https://github.com/ImageMagick/ImageMagick/tree/7.0.10-36",
+        "vulnrable_ver": "7.0.10",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-1957",
+        "image": "vulhub/shiro:1.5.1",
+        "repository": "https://github.com/apache/shiro",
+        "vuln_ref": "shiro-root-1.5.1",
+        "vuln_repo": "https://github.com/apache/shiro/tree/shiro-root-1.5.1",
+        "vulnrable_ver": "1.5.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-1938",
+        "image": "vulhub/tomcat:9.0.30",
+        "repository": "https://github.com/apache/tomcat",
+        "vuln_ref": "9.0.30",
+        "vuln_repo": "https://github.com/apache/tomcat/tree/9.0.30",
+        "vulnrable_ver": "9.0.30",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-17519",
+        "image": "vulhub/flink:1.11.2",
+        "repository": "https://github.com/apache/flink",
+        "vuln_ref": "release-1.11.2",
+        "vuln_repo": "https://github.com/apache/flink/tree/release-1.11.2",
+        "vulnrable_ver": "1.11.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-17518",
+        "image": "vulhub/flink:1.11.2",
+        "repository": "https://github.com/apache/flink",
+        "vuln_ref": "release-1.11.2",
+        "vuln_repo": "https://github.com/apache/flink/tree/release-1.11.2",
+        "vulnrable_ver": "1.11.2",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-16846",
+        "image": "vulhub/saltstack:3002",
+        "repository": "https://github.com/saltstack/salt",
+        "vuln_ref": "v3002",
+        "vuln_repo": "https://github.com/saltstack/salt/tree/v3002",
+        "vulnrable_ver": "3002",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-11652",
+        "image": "vulhub/saltstack:2019.2.3",
+        "repository": "https://github.com/saltstack/salt",
+        "vuln_ref": "v2019.2.3",
+        "vuln_repo": "https://github.com/saltstack/salt/tree/v2019.2.3",
+        "vulnrable_ver": "2019.2.3",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-11651",
+        "image": "vulhub/saltstack:2019.2.3",
+        "repository": "https://github.com/saltstack/salt",
+        "vuln_ref": "v2019.2.3",
+        "vuln_repo": "https://github.com/saltstack/salt/tree/v2019.2.3",
+        "vulnrable_ver": "2019.2.3",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-10204",
+        "image": "vulhub/nexus:3.21.1",
+        "repository": "https://github.com/sonatype/nexus-public",
+        "vuln_ref": "release-3.21.0-05",
+        "vuln_repo": "https://github.com/sonatype/nexus-public/tree/release-3.21.0-05",
+        "vulnrable_ver": "3.21.1",
+        "csaf_vex_status": "affected"
+    },
+    {
+        "CVE_ID": "CVE-2020-10199",
+        "image": "vulhub/nexus:3.21.1",
+        "repository": "https://github.com/sonatype/nexus-public",
+        "vuln_ref": "release-3.21.0-05",
+        "vuln_repo": "https://github.com/sonatype/nexus-public/tree/release-3.21.0-05",
+        "vulnrable_ver": "3.21.1",
+        "csaf_vex_status": "affected"
+    }
+]

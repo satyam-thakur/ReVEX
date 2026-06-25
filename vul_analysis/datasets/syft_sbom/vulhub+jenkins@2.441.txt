@@ -1,0 +1,409 @@
+NAME                                VERSION                                    TYPE                            
+access-modifier-annotation          1.33                                       java-archive                     
+adduser                             3.134                                      deb                              
+annotation-indexer                  1.17                                       java-archive    (+1 duplicate)   
+ant                                 1.10.14                                    java-archive                     
+ant-launcher                        1.10.14                                    java-archive                     
+antisamy-markup-formatter           162.v0e6ec0fcfcf6                          jenkins-plugin  (+1 duplicate)   
+antlr4-runtime                      4.13.1                                     java-archive                     
+apache-httpcomponents-client-4-api  4.5.14-208.v438351942757                   jenkins-plugin  (+1 duplicate)   
+apt                                 2.6.1                                      deb                              
+apt-transport-https                 2.6.1                                      deb                              
+args4j                              2.33                                       java-archive    (+2 duplicates)  
+asm                                 9.6                                        java-archive                     
+asm-analysis                        9.6                                        java-archive                     
+asm-commons                         9.6                                        java-archive                     
+asm-tree                            9.6                                        java-archive                     
+asm-util                            9.6                                        java-archive                     
+base-files                          12.4+deb12u4                               deb                              
+base-passwd                         3.6.1                                      deb                              
+bash                                5.2.15-2+b2                                deb                              
+bcpkix-jdk18on                      1.75                                       java-archive                     
+bcprov-jdk18on                      1.75                                       java-archive                     
+bcutil-jdk18on                      1.75                                       java-archive                     
+bootstrap5-api                      5.3.2-2                                    jenkins-plugin  (+1 duplicate)   
+bouncycastle-api                    2.29                                       jenkins-plugin  (+1 duplicate)   
+bridge-method-annotation            1.29                                       java-archive                     
+bsdutils                            1:2.38.1-5+b1                              deb                              
+ca-certificates                     20230311                                   deb                              
+caffeine                            3.1.8                                      java-archive                     
+caffeine-api                        3.1.8-133.v17b_1ff2e0599                   jenkins-plugin  (+1 duplicate)   
+checks-api                          2.0.2                                      jenkins-plugin  (+1 duplicate)   
+cli                                 2.441                                      java-archive                     
+command-launcher                    107.v773860566e2e                          jenkins-plugin  (+1 duplicate)   
+commons-beanutils                   1.9.4                                      java-archive    (+1 duplicate)   
+commons-codec                       1.16.0                                     java-archive    (+1 duplicate)   
+commons-collections                 3.2.2                                      java-archive    (+1 duplicate)   
+commons-compress                    1.25.0                                     java-archive                     
+commons-digester                    2.1                                        java-archive                     
+commons-discovery                   0.5                                        java-archive                     
+commons-fileupload                  1.5                                        java-archive                     
+commons-io                          2.15.1                                     java-archive    (+2 duplicates)  
+commons-jelly                       1.1-jenkins-20230713                       java-archive                     
+commons-jelly-tags-define           1.1-jenkins-20230713                       java-archive                     
+commons-jelly-tags-fmt              1.0                                        java-archive                     
+commons-jelly-tags-xml              1.1                                        java-archive                     
+commons-jexl                        1.1-jenkins-20111212                       java-archive                     
+commons-lang                        2.6                                        java-archive    (+1 duplicate)   
+commons-lang3                       3.13.0                                     java-archive                     
+commons-lang3                       3.14.0                                     java-archive                     
+commons-lang3-api                   3.13.0-62.v7d18e55f51e2                    jenkins-plugin  (+1 duplicate)   
+commons-logging                     1.2                                        java-archive                     
+commons-text                        1.11.0                                     java-archive                     
+commons-text-api                    1.11.0-94.v3e1f4a_926e49                   jenkins-plugin  (+1 duplicate)   
+commons-validator                   1.7                                        java-archive                     
+constant-pool-scanner               1.2                                        java-archive                     
+coreutils                           9.1-1                                      deb                              
+crypto-util                         1.9                                        java-archive                     
+curl                                7.88.1-10+deb12u5                          deb                              
+dash                                0.5.12-2                                   deb                              
+debconf                             1.5.82                                     deb                              
+debian-archive-keyring              2023.3+deb12u1                             deb                              
+debianutils                         5.7-0.5~deb12u1                            deb                              
+diffutils                           1:3.8-4                                    deb                              
+dirmngr                             2.2.40-1.1                                 deb                              
+display-url-api                     2.200.vb_9327d658781                       jenkins-plugin  (+1 duplicate)   
+dom4j                               2.1.4                                      java-archive                     
+dpkg                                1.21.22                                    deb                              
+e2fsprogs                           1.47.0-2                                   deb                              
+echarts-api                         5.4.3-1                                    jenkins-plugin  (+1 duplicate)   
+eddsa                               0.3.0                                      java-archive    (+2 duplicates)  
+embedded_su4j                       1.1                                        java-archive                     
+ezmorph                             1.0.6                                      java-archive                     
+failureaccess                       1.0.2                                      java-archive                     
+findutils                           4.9.0-4                                    deb                              
+fluent-hc                           4.5.14                                     java-archive                     
+font-awesome-api                    6.4.2-1                                    jenkins-plugin  (+1 duplicate)   
+fontconfig-config                   2.14.1-4                                   deb                              
+fonts-dejavu-core                   2.37-6                                     deb                              
+gcc-12-base                         12.2.0-14                                  deb                              
+git                                 1:2.39.2-1.1                               deb                              
+git-lfs                             3.4.1                                      deb                              
+git-man                             1:2.39.2-1.1                               deb                              
+github.com/dpotapov/go-spnego       v0.0.0-20210315154721-298b63a54430         go-module                        
+github.com/git-lfs/git-lfs/v3       v0.0.0-20231213185625-0898dcbc0a9d         go-module                        
+github.com/git-lfs/gitobj/v2        v2.1.1                                     go-module                        
+github.com/git-lfs/go-netrc         v0.0.0-20210914205454-f0c862dd687a         go-module                        
+github.com/git-lfs/pktline          v0.0.0-20210330133718-06e9096e2825         go-module                        
+github.com/git-lfs/wildmatch/v2     v2.0.1                                     go-module                        
+github.com/hashicorp/go-uuid        v1.0.2                                     go-module                        
+github.com/jcmturner/aescts/v2      v2.0.0                                     go-module                        
+github.com/jcmturner/dnsutils/v2    v2.0.0                                     go-module                        
+github.com/jcmturner/gofork         v1.0.0                                     go-module                        
+github.com/jcmturner/goidentity/v6  v6.0.1                                     go-module                        
+github.com/jcmturner/gokrb5/v8      v8.4.2                                     go-module                        
+github.com/jcmturner/rpc/v2         v2.0.3                                     go-module                        
+github.com/leonelquinteros/gotext   v1.5.0                                     go-module                        
+github.com/mattn/go-isatty          v0.0.4                                     go-module                        
+github.com/olekukonko/ts            v0.0.0-20171002115256-78ecb04241c0         go-module                        
+github.com/pkg/errors               v0.0.0-20170505043639-c605e284fe17         go-module                        
+github.com/rubyist/tracerx          v0.0.0-20170927163412-787959303086         go-module                        
+github.com/spf13/cobra              v1.6.0                                     go-module                        
+github.com/spf13/pflag              v1.0.5                                     go-module                        
+github.com/ssgelm/cookiejarparser   v1.0.1                                     go-module                        
+gnupg                               2.2.40-1.1                                 deb                              
+gnupg-l10n                          2.2.40-1.1                                 deb                              
+gnupg-utils                         2.2.40-1.1                                 deb                              
+golang.org/x/crypto                 v0.0.0-20220411220226-7b82a4e95df4         go-module                        
+golang.org/x/net                    v0.7.0                                     go-module                        
+golang.org/x/sync                   v0.1.0                                     go-module                        
+golang.org/x/sys                    v0.5.0                                     go-module                        
+golang.org/x/text                   v0.7.0                                     go-module                        
+gpg                                 2.2.40-1.1                                 deb                              
+gpg-agent                           2.2.40-1.1                                 deb                              
+gpg-wks-client                      2.2.40-1.1                                 deb                              
+gpg-wks-server                      2.2.40-1.1                                 deb                              
+gpgconf                             2.2.40-1.1                                 deb                              
+gpgsm                               2.2.40-1.1                                 deb                              
+gpgv                                2.2.40-1.1                                 deb                              
+grep                                3.8-5                                      deb                              
+groovy-all                          2.4.21                                     java-archive                     
+groovy-sandbox                      1.33                                       java-archive                     
+gson                                2.8.9                                      java-archive                     
+guava                               33.0.0-jre                                 java-archive                     
+guice                               6.0.0                                      java-archive                     
+gzip                                1.12-1                                     deb                              
+hawtjni-runtime                     1.8                                        java-archive                     
+hostname                            3.23+nmu1                                  deb                              
+http2-common                        10.0.18                                    java-archive                     
+http2-hpack                         10.0.18                                    java-archive                     
+http2-server                        10.0.18                                    java-archive                     
+httpasyncclient                     4.1.5                                      java-archive                     
+httpasyncclient-cache               4.1.5                                      java-archive                     
+httpclient                          4.5.14                                     java-archive    (+1 duplicate)   
+httpclient-cache                    4.5.14                                     java-archive                     
+httpcore                            4.4.16                                     java-archive    (+1 duplicate)   
+httpcore-nio                        4.4.16                                     java-archive                     
+httpmime                            4.5.14                                     java-archive                     
+init-system-helpers                 1.65.2                                     deb                              
+instance-identity                   185.v303dc7c645f9                          java-archive    (+1 duplicate)   
+ionicons-api                        56.v1b_1c8c49374e                          jenkins-plugin  (+1 duplicate)   
+isorelax                            20090621                                   java-archive                     
+istack-commons-runtime              3.0.12                                     java-archive                     
+j-interop                           2.0.8-kohsuke-1                            java-archive                     
+j-interopdeps                       2.0.8-kohsuke-1                            java-archive                     
+jackson-annotations                 2.15.3                                     java-archive                     
+jackson-annotations                 2.16.0                                     java-archive                     
+jackson-core                        2.15.3                                     java-archive                     
+jackson-core                        2.16.0                                     java-archive                     
+jackson-databind                    2.15.3                                     java-archive                     
+jackson-databind                    2.16.0                                     java-archive                     
+jackson-dataformat-cbor             2.15.3                                     java-archive                     
+jackson-dataformat-xml              2.15.3                                     java-archive                     
+jackson-dataformat-yaml             2.15.3                                     java-archive                     
+jackson-dataformat-yaml             2.16.0                                     java-archive                     
+jackson-datatype-jdk8               2.15.3                                     java-archive                     
+jackson-datatype-json-org           2.15.3                                     java-archive                     
+jackson-datatype-jsr310             2.15.3                                     java-archive                     
+jackson-module-jaxb-annotations     2.15.3                                     java-archive                     
+jackson-module-parameter-names      2.15.3                                     java-archive                     
+jackson2-api                        2.15.3-372.v309620682326                   jenkins-plugin  (+1 duplicate)   
+jakarta-activation-api              2.0.1-3                                    jenkins-plugin  (+1 duplicate)   
+jakarta-mail-api                    2.0.1-3                                    jenkins-plugin  (+1 duplicate)   
+jakarta.activation                  2.0.1                                      java-archive                     
+jakarta.annotation-api              2.1.1                                      java-archive                     
+jakarta.inject-api                  2.0.1                                      java-archive                     
+jakarta.mail                        2.0.1                                      java-archive                     
+jakarta.servlet.jsp.jstl-api        1.2.7                                      java-archive                     
+jakarta.websocket-api               2.1.1                                      java-archive    (+1 duplicate)   
+jakarta.websocket-client-api        2.1.1                                      java-archive    (+1 duplicate)   
+jansi                               1.11                                       java-archive                     
+jansi-native                        1.5                                        java-archive                     
+javax-activation-api                1.2.0-6                                    jenkins-plugin  (+1 duplicate)   
+javax-mail-api                      1.6.2-9                                    jenkins-plugin  (+1 duplicate)   
+javax.activation                    1.2.0                                      java-archive                     
+javax.annotation-api                1.3.2                                      java-archive                     
+javax.mail                          1.6.2                                      java-archive                     
+jaxb                                2.3.9-1                                    jenkins-plugin  (+1 duplicate)   
+jaxb-api                            2.3.1                                      java-archive                     
+jaxb-impl                           2.3.9                                      java-archive                     
+jaxb-runtime                        2.3.9                                      java-archive                     
+jaxen                               2.0.0                                      java-archive                     
+jbcrypt                             1.0.0                                      java-archive                     
+jbcrypt                             1.0.2                                      java-archive                     
+jboss-marshalling                   2.1.2.Final                                java-archive                     
+jboss-marshalling-river             2.1.2.Final                                java-archive                     
+jcifs                               1.3.18-kohsuke-1                           java-archive                     
+jcip-annotations                    1.0                                        java-archive                     
+jcl-over-slf4j                      2.0.11                                     java-archive    (+1 duplicate)   
+jcommon                             1.0.23                                     java-archive                     
+jdk-tool                            73.vddf737284550                           jenkins-plugin  (+1 duplicate)   
+jenkins-core                        2.441                                      java-archive                     
+jenkins-plugin-manager              UNKNOWN                                    java-archive                     
+jenkins-stapler-support             1.1                                        java-archive                     
+jenkins-war                         2.441                                      java-archive                     
+jetty-alpn-java-server              10.0.18                                    java-archive                     
+jetty-alpn-server                   10.0.18                                    java-archive                     
+jetty-http                          10.0.18                                    java-archive                     
+jetty-io                            10.0.18                                    java-archive                     
+jetty-jmx                           10.0.18                                    java-archive                     
+jetty-security                      10.0.18                                    java-archive                     
+jetty-server                        10.0.18                                    java-archive                     
+jetty-servlet                       10.0.18                                    java-archive                     
+jetty-unixdomain-server             10.0.18                                    java-archive                     
+jetty-util                          10.0.18                                    java-archive                     
+jetty-webapp                        10.0.18                                    java-archive                     
+jetty-xml                           10.0.18                                    java-archive                     
+jfreechart                          1.0.19                                     java-archive                     
+jline                               2.14.6                                     java-archive                     
+jna                                 5.14.0                                     java-archive                     
+jquery3-api                         3.7.1-1                                    jenkins-plugin  (+1 duplicate)   
+jrt-fs                              17.0.9                                     java-archive                     
+json                                20231013                                   java-archive    (+1 duplicate)   
+json-lib                            2.4-jenkins-3                              java-archive                     
+jsr305                              3.0.2                                      java-archive                     
+junit                               1240.vf9529b_881428                        jenkins-plugin  (+1 duplicate)   
+jzlib                               1.1.3-kohsuke-1                            java-archive                     
+libacl1                             2.3.1-3                                    deb                              
+libapt-pkg6.0                       2.6.1                                      deb                              
+libassuan0                          2.5.5-5                                    deb                              
+libattr1                            1:2.5.1-4                                  deb                              
+libaudit-common                     1:3.0.9-1                                  deb                              
+libaudit1                           1:3.0.9-1                                  deb                              
+libblkid1                           2.38.1-5+b1                                deb                              
+libbrotli1                          1.0.9-2+b6                                 deb                              
+libbsd0                             0.11.7-2                                   deb                              
+libbz2-1.0                          1.0.8-5+b1                                 deb                              
+libc-bin                            2.36-9+deb12u3                             deb                              
+libc6                               2.36-9+deb12u3                             deb                              
+libcap-ng0                          0.8.3-1+b3                                 deb                              
+libcap2                             1:2.66-4                                   deb                              
+libcbor0.8                          0.8.0-2+b1                                 deb                              
+libcom-err2                         1.47.0-2                                   deb                              
+libcrypt1                           1:4.4.33-2                                 deb                              
+libcurl3-gnutls                     7.88.1-10+deb12u5                          deb                              
+libcurl4                            7.88.1-10+deb12u5                          deb                              
+libdb5.3                            5.3.28+dfsg2-1                             deb                              
+libdebconfclient0                   0.270                                      deb                              
+libedit2                            3.1-20221030-2                             deb                              
+liberror-perl                       0.17029-2                                  deb                              
+libexpat1                           2.5.0-1                                    deb                              
+libext2fs2                          1.47.0-2                                   deb                              
+libffi8                             3.4.4-1                                    deb                              
+libfido2-1                          1.12.0-2+b1                                deb                              
+libfontconfig1                      2.14.1-4                                   deb                              
+libfreetype6                        2.12.1+dfsg-5                              deb                              
+libgcc-s1                           12.2.0-14                                  deb                              
+libgcrypt20                         1.10.1-3                                   deb                              
+libgdbm-compat4                     1.23-3                                     deb                              
+libgdbm6                            1.23-3                                     deb                              
+libgmp10                            2:6.2.1+dfsg1-1.1                          deb                              
+libgnutls30                         3.7.9-2+deb12u1                            deb                              
+libgpg-error0                       1.46-1                                     deb                              
+libgssapi-krb5-2                    1.20.1-2+deb12u1                           deb                              
+libhogweed6                         3.8.1-2                                    deb                              
+libidn2-0                           2.3.3-1+b1                                 deb                              
+libk5crypto3                        1.20.1-2+deb12u1                           deb                              
+libkeyutils1                        1.6.3-2                                    deb                              
+libkrb5-3                           1.20.1-2+deb12u1                           deb                              
+libkrb5support0                     1.20.1-2+deb12u1                           deb                              
+libksba8                            1.6.3-2                                    deb                              
+libldap-2.5-0                       2.5.13+dfsg-5                              deb                              
+liblz4-1                            1.9.4-1                                    deb                              
+liblzma5                            5.4.1-0.2                                  deb                              
+libmd0                              1.0.4-2                                    deb                              
+libmount1                           2.38.1-5+b1                                deb                              
+libncursesw6                        6.4-4                                      deb                              
+libnettle8                          3.8.1-2                                    deb                              
+libnghttp2-14                       1.52.0-1+deb12u1                           deb                              
+libnpth0                            1.6-3                                      deb                              
+libp11-kit0                         0.24.1-2                                   deb                              
+libpam-modules                      1.5.2-6+deb12u1                            deb                              
+libpam-modules-bin                  1.5.2-6+deb12u1                            deb                              
+libpam-runtime                      1.5.2-6+deb12u1                            deb                              
+libpam0g                            1.5.2-6+deb12u1                            deb                              
+libpcre2-8-0                        10.42-1                                    deb                              
+libperl5.36                         5.36.0-7+deb12u1                           deb                              
+libpng16-16                         1.6.39-2                                   deb                              
+libproc2-0                          2:4.0.2-3                                  deb                              
+libpsl5                             0.21.2-1                                   deb                              
+libreadline8                        8.2-1.3                                    deb                              
+librtmp1                            2.4+20151223.gitfa8646d.1-2+b2             deb                              
+libsasl2-2                          2.1.28+dfsg-10                             deb                              
+libsasl2-modules-db                 2.1.28+dfsg-10                             deb                              
+libseccomp2                         2.5.4-1+b3                                 deb                              
+libselinux1                         3.4-1+b6                                   deb                              
+libsemanage-common                  3.4-1                                      deb                              
+libsemanage2                        3.4-1+b5                                   deb                              
+libsepol2                           3.4-2.1                                    deb                              
+libsmartcols1                       2.38.1-5+b1                                deb                              
+libsqlite3-0                        3.40.1-2                                   deb                              
+libss2                              1.47.0-2                                   deb                              
+libssh2-1                           1.10.0-3+b1                                deb                              
+libssl3                             3.0.11-1~deb12u2                           deb                              
+libstdc++6                          12.2.0-14                                  deb                              
+libsystemd0                         252.19-1~deb12u1                           deb                              
+libtasn1-6                          4.19.0-2                                   deb                              
+libtinfo6                           6.4-4                                      deb                              
+libudev1                            252.19-1~deb12u1                           deb                              
+libunistring2                       1.0-2                                      deb                              
+libuuid1                            2.38.1-5+b1                                deb                              
+libxxhash0                          0.8.1-1                                    deb                              
+libzstd1                            1.5.4+dfsg2-5                              deb                              
+listenablefuture                    9999.0-empty-to-avoid-conflict-with-guava  java-archive                     
+localizer                           1.31                                       java-archive    (+1 duplicate)   
+log4j-over-slf4j                    2.0.11                                     java-archive                     
+login                               1:4.13+dfsg1-1+b1                          deb                              
+logsave                             1.47.0-2                                   deb                              
+mailer                              463.vedf8358e006b_                         jenkins-plugin  (+1 duplicate)   
+matrix-auth                         3.2.1                                      jenkins-plugin  (+1 duplicate)   
+matrix-project                      818.v7eb_e657db_924                        jenkins-plugin  (+1 duplicate)   
+mawk                                1.3.4.20200120-3.1                         deb                              
+memory-monitor                      1.12                                       java-archive                     
+mina-sshd-api-common                2.11.0-86.v836f585d47fa_                   jenkins-plugin  (+1 duplicate)   
+mina-sshd-api-core                  2.11.0-86.v836f585d47fa_                   jenkins-plugin  (+1 duplicate)   
+mount                               2.38.1-5+b1                                deb                              
+mxparser                            1.2.2                                      java-archive                     
+ncurses-base                        6.4-4                                      deb                              
+ncurses-bin                         6.4-4                                      deb                              
+openjdk                             17.0.9                                     binary                           
+openssh-client                      1:9.2p1-2+deb12u2                          deb                              
+openssl                             3.0.11-1~deb12u2                           deb                              
+owasp-java-html-sanitizer           20220608.1                                 java-archive                     
+passwd                              1:4.13+dfsg1-1+b1                          deb                              
+perl                                5.36.0-7+deb12u1                           deb                              
+perl-base                           5.36.0-7+deb12u1                           deb                              
+perl-modules-5.36                   5.36.0-7+deb12u1                           deb                              
+pinentry-curses                     1.2.1-1                                    deb                              
+plugin-management-cli               2.12.14                                    jenkins-plugin                   
+plugin-management-library           2.12.14                                    jenkins-plugin                   
+plugin-util-api                     3.6.0                                      jenkins-plugin  (+1 duplicate)   
+procps                              2:4.0.2-3                                  deb                              
+readline-common                     8.2-1.3                                    deb                              
+relaxngDatatype                     20020414                                   java-archive                     
+remoting                            3206.vb_15dcf73f6a_9                       java-archive                     
+robust-http-client                  1.2                                        java-archive                     
+scm-api                             683.vb_16722fb_b_80b_                      jenkins-plugin  (+1 duplicate)   
+script-security                     1294.v99333c047434                         jenkins-plugin  (+1 duplicate)   
+sed                                 4.9-1                                      deb                              
+sezpoz                              1.13                                       java-archive                     
+slf4j-api                           2.0.11                                     java-archive    (+1 duplicate)   
+slf4j-api                           2.0.9                                      java-archive                     
+slf4j-jdk14                         2.0.11                                     java-archive    (+1 duplicate)   
+slf4j-jdk14                         2.0.9                                      java-archive                     
+snakeyaml                           2.2                                        java-archive    (+1 duplicate)   
+snakeyaml-api                       2.2-111.vc6598e30cc65                      jenkins-plugin  (+1 duplicate)   
+spotbugs-annotations                4.8.3                                      java-archive                     
+spring-aop                          5.3.31                                     java-archive                     
+spring-beans                        5.3.31                                     java-archive                     
+spring-context                      5.3.31                                     java-archive                     
+spring-core                         5.3.31                                     java-archive                     
+spring-expression                   5.3.31                                     java-archive                     
+spring-security-core                5.8.9                                      java-archive                     
+spring-security-crypto              5.8.9                                      java-archive                     
+spring-security-web                 5.8.9                                      java-archive                     
+spring-web                          5.3.31                                     java-archive                     
+sshd                                3.312.v1c601b_c83b_0e                      java-archive    (+1 duplicate)   
+sshd-common                         2.11.0                                     java-archive    (+1 duplicate)   
+sshd-core                           2.11.0                                     java-archive    (+1 duplicate)   
+stapler                             1822.v120278426e1c                         java-archive                     
+stapler-adjunct-codemirror          1.3                                        java-archive                     
+stapler-groovy                      1822.v120278426e1c                         java-archive                     
+stapler-jelly                       1822.v120278426e1c                         java-archive                     
+stax2-api                           4.2.1                                      java-archive                     
+stdlib                              go1.21.1                                   go-module                        
+structs                             325.vcb_307d2a_2782                        jenkins-plugin  (+1 duplicate)   
+support-log-formatter               1.2                                        java-archive                     
+symbol-annotation                   1.24                                       java-archive                     
+sysvinit-utils                      3.06-4                                     deb                              
+tar                                 1.34+dfsg-1.2                              deb                              
+task-reactor                        1.8                                        java-archive                     
+tiger-types                         2.2                                        java-archive                     
+tini                                0.19.0-1                                   deb                              
+tink                                1.7.0                                      java-archive                     
+trilead-api                         2.84.v72119de229b_7                        jenkins-plugin  (+1 duplicate)   
+trilead-putty-extension             1.2                                        java-archive                     
+trilead-ssh2                        build-217-jenkins-247.v708a_8b_14f4b_a     java-archive                     
+trilead-ssh2-build                  217-jenkins-247.v708a_8b_14f4b_a           java-archive                     
+txw2                                2.3.9                                      java-archive                     
+txw2                                20110809                                   java-archive                     
+tyrus-client                        2.1.4                                      java-archive    (+1 duplicate)   
+tyrus-container-jdk-client          2.1.4                                      java-archive    (+1 duplicate)   
+tyrus-core                          2.1.4                                      java-archive    (+1 duplicate)   
+tyrus-spi                           2.1.4                                      java-archive    (+1 duplicate)   
+tyrus-standalone-client-jdk         2.1.4                                      java-archive    (+1 duplicate)   
+tzdata                              2023c-5+deb12u1                            deb                              
+unzip                               6.0-28                                     deb                              
+usr-is-merged                       35                                         deb                              
+util-linux                          2.38.1-5+b1                                deb                              
+util-linux-extra                    2.38.1-5+b1                                deb                              
+version-number                      1.11                                       java-archive    (+1 duplicate)   
+websocket-core-common               10.0.18                                    java-archive                     
+websocket-core-server               10.0.18                                    java-archive                     
+websocket-jetty-api                 10.0.18                                    java-archive                     
+websocket-jetty-common              10.0.18                                    java-archive                     
+websocket-jetty-server              10.0.18                                    java-archive                     
+websocket-jetty10                   2.441                                      java-archive                     
+websocket-servlet                   10.0.18                                    java-archive                     
+websocket-spi                       2.441                                      java-archive                     
+windows-package-checker             1.2                                        java-archive                     
+winp                                1.30                                       java-archive                     
+winstone                            6.16                                       java-archive                     
+woodstox-core                       6.5.1                                      java-archive                     
+workflow-api                        1283.v99c10937efcb_                        jenkins-plugin  (+1 duplicate)   
+workflow-step-api                   639.v6eca_cd8c04a_a_                       jenkins-plugin  (+1 duplicate)   
+workflow-support                    865.v43e78cc44e0d                          jenkins-plugin  (+1 duplicate)   
+xpp3                                1.1.4c                                     java-archive                     
+xsdlib                              2013.6.1                                   java-archive                     
+xstream                             1.4.20                                     java-archive                     
+zlib1g                              1:1.2.13.dfsg-1                            deb                              

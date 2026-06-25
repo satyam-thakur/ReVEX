@@ -1,0 +1,3 @@
+[submodule "datasets/vulnerability-match-labels"]
+	path = datasets/vulnerability-match-labels
+	url = https://github.com/anchore/vulnerability-match-labels.git

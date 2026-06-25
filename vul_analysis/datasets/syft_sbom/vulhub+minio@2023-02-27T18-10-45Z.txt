@@ -1,0 +1,309 @@
+NAME                                                VERSION                                TYPE                      
+adduser                                             3.118                                  deb        [38;2;119;119;119m[0m                
+aead.dev/mem                                        v0.2.0                                 go-module  [38;2;119;119;119m[0m                
+aead.dev/minisign                                   v0.2.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+apt                                                 1.8.2.3                                deb        [38;2;119;119;119m[0m                
+base-files                                          10.3+deb10u12                          deb        [38;2;119;119;119m[0m                
+base-passwd                                         3.5.46                                 deb        [38;2;119;119;119m[0m                
+bash                                                5.0-4                                  deb        [38;2;119;119;119m[0m                
+bsdutils                                            1:2.33.1-0.1                           deb        [38;2;119;119;119m[0m                
+ca-certificates                                     20200601~deb10u2                       deb        [38;2;119;119;119m[0m                
+cloud.google.com/go                                 v0.110.0                               go-module  [38;2;119;119;119m[0m                
+cloud.google.com/go/compute/metadata                v0.2.3                                 go-module  [38;2;119;119;119m[0m                
+cloud.google.com/go/iam                             v0.12.0                                go-module  [38;2;119;119;119m[0m                
+cloud.google.com/go/storage                         v1.29.0                                go-module  [38;2;119;119;119m[0m                
+coreutils                                           8.30-3                                 deb        [38;2;119;119;119m[0m                
+dash                                                0.5.10.2-5                             deb        [38;2;119;119;119m[0m                
+debconf                                             1.5.71+deb10u1                         deb        [38;2;119;119;119m[0m                
+debian-archive-keyring                              2019.1+deb10u1                         deb        [38;2;119;119;119m[0m                
+debianutils                                         4.8.6.1                                deb        [38;2;119;119;119m[0m                
+diffutils                                           1:3.7-3                                deb        [38;2;119;119;119m[0m                
+dpkg                                                1.19.7                                 deb        [38;2;119;119;119m[0m                
+e2fsprogs                                           1.44.5-1+deb10u3                       deb        [38;2;119;119;119m[0m                
+fdisk                                               2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+findutils                                           4.6.0+git+20190209-2                   deb        [38;2;119;119;119m[0m                
+gcc-8-base                                          8.3.0-6                                deb        [38;2;119;119;119m[0m                
+github.com/Azure/azure-pipeline-go                  v0.2.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/Azure/azure-storage-blob-go              v0.15.0                                go-module  [38;2;119;119;119m[0m                
+github.com/Azure/go-ntlmssp                         v0.0.0-20221128193559-754e69321358     go-module  [38;2;119;119;119m[0m                
+github.com/Shopify/sarama                           v1.38.1                                go-module  [38;2;119;119;119m[0m                
+github.com/alecthomas/participle                    v0.7.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/apache/thrift                            v0.18.0                                go-module  [38;2;119;119;119m[0m                
+github.com/asaskevich/govalidator                   v0.0.0-20210307081110-f21760c49a8d     go-module  [38;2;119;119;119m[0m                
+github.com/aymanbagabas/go-osc52                    v1.2.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/bcicen/jstream                           v1.0.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/beevik/ntp                               v0.3.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/beorn7/perks                             v1.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/buger/jsonparser                         v1.1.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/cespare/xxhash/v2                        v2.2.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/charmbracelet/bubbles                    v0.15.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/charmbracelet/bubbletea                  v0.23.2                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/charmbracelet/lipgloss                   v0.6.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/cheggaaa/pb                              v1.0.29                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/containerd/console                       v1.0.3                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/coredns/coredns                          v1.10.1                                go-module  [38;2;119;119;119m[0m                
+github.com/coreos/go-oidc                           v2.2.1+incompatible                    go-module  [38;2;119;119;119m[0m                
+github.com/coreos/go-semver                         v0.3.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/coreos/go-systemd/v22                    v22.5.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/cosnicolaou/pbzip2                       v1.0.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/davecgh/go-spew                          v1.1.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/dchest/siphash                           v1.2.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/djherbis/atime                           v1.1.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/docker/go-units                          v0.5.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/dustin/go-humanize                       v1.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/eapache/go-resiliency                    v1.3.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/eapache/go-xerial-snappy                 v0.0.0-20230111030713-bf00bc1b83b6     go-module  [38;2;119;119;119m[0m                
+github.com/eapache/queue                            v1.1.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/eclipse/paho.mqtt.golang                 v1.4.2                                 go-module  [38;2;119;119;119m[0m                
+github.com/elastic/go-elasticsearch/v7              v7.17.7                                go-module  [38;2;119;119;119m[0m                
+github.com/fatih/color                              v1.14.1                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/fatih/structs                            v1.1.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/felixge/fgprof                           v0.9.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/fraugster/parquet-go                     v0.12.0                                go-module  [38;2;119;119;119m[0m                
+github.com/gdamore/encoding                         v1.0.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/gdamore/tcell/v2                         v2.6.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/go-asn1-ber/asn1-ber                     v1.5.4                                 go-module  [38;2;119;119;119m[0m                
+github.com/go-ldap/ldap/v3                          v3.4.4                                 go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/analysis                      v0.21.4                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/errors                        v0.20.3                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/jsonpointer                   v0.19.6                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/jsonreference                 v0.20.2                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/loads                         v0.21.2                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/runtime                       v0.25.0                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/spec                          v0.20.8                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/strfmt                        v0.21.3                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/swag                          v0.22.3                                go-module  [38;2;119;119;119m[0m                
+github.com/go-openapi/validate                      v0.22.1                                go-module  [38;2;119;119;119m[0m                
+github.com/go-sql-driver/mysql                      v1.7.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/gogo/protobuf                            v1.3.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/golang-jwt/jwt/v4                        v4.5.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/golang/groupcache                        v0.0.0-20210331224755-41bb18bfe9da     go-module  [38;2;119;119;119m[0m                
+github.com/golang/protobuf                          v1.5.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/golang/snappy                            v0.0.4                                 go-module  [38;2;119;119;119m[0m                
+github.com/gomodule/redigo                          v1.8.9                                 go-module  [38;2;119;119;119m[0m                
+github.com/google/go-cmp                            v0.5.9                                 go-module  [38;2;119;119;119m[0m                
+github.com/google/pprof                             v0.0.0-20230207041349-798e818bf904     go-module  [38;2;119;119;119m[0m                
+github.com/google/shlex                             v0.0.0-20191202100458-e7afc7fbc510     go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/google/uuid                              v1.3.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/googleapis/enterprise-certificate-proxy  v0.2.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/googleapis/gax-go/v2                     v2.7.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/gorilla/websocket                        v1.5.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/hashicorp/errwrap                        v1.1.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/hashicorp/go-multierror                  v1.1.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/hashicorp/go-uuid                        v1.0.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/hashicorp/golang-lru                     v0.5.4                                 go-module  [38;2;119;119;119m[0m                
+github.com/inconshreveable/mousetrap                v1.1.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/jcmturner/aescts/v2                      v2.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/jcmturner/dnsutils/v2                    v2.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/jcmturner/gofork                         v1.7.6                                 go-module  [38;2;119;119;119m[0m                
+github.com/jcmturner/gokrb5/v8                      v8.4.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/jcmturner/rpc/v2                         v2.0.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/jedib0t/go-pretty/v6                     v6.4.4                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/jessevdk/go-flags                        v1.5.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/josharian/intern                         v1.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/json-iterator/go                         v1.1.12                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/juju/ratelimit                           v1.0.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/klauspost/compress                       v1.15.15                               go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/klauspost/cpuid/v2                       v2.2.4                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/klauspost/filepathx                      v1.1.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/klauspost/pgzip                          v1.2.5                                 go-module  [38;2;119;119;119m[0m                
+github.com/klauspost/readahead                      v1.4.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/klauspost/reedsolomon                    v1.11.7                                go-module  [38;2;119;119;119m[0m                
+github.com/lestrrat-go/backoff/v2                   v2.0.8                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lestrrat-go/blackmagic                   v1.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lestrrat-go/httpcc                       v1.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lestrrat-go/iter                         v1.0.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lestrrat-go/jwx                          v1.2.25                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lestrrat-go/option                       v1.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/lib/pq                                   v1.10.7                                go-module  [38;2;119;119;119m[0m                
+github.com/lithammer/shortuuid/v4                   v4.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/lucasb-eyer/go-colorful                  v1.2.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mailru/easyjson                          v0.7.7                                 go-module  [38;2;119;119;119m[0m                
+github.com/mattn/go-colorable                       v0.1.13                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mattn/go-ieproxy                         v0.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mattn/go-isatty                          v0.0.17                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mattn/go-localereader                    v0.0.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mattn/go-runewidth                       v0.0.14                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/matttproud/golang_protobuf_extensions    v1.0.4                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/miekg/dns                                v1.1.50                                go-module  [38;2;119;119;119m[0m                
+github.com/minio/cli                                v1.24.2                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/colorjson                          v1.0.4                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/console                            v0.23.1                                go-module  [38;2;119;119;119m[0m                
+github.com/minio/csvparser                          v1.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/dperf                              v0.4.2                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/filepath                           v1.0.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/highwayhash                        v1.0.2                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/kes-go                             v0.1.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/madmin-go/v2                       v2.0.14                                go-module  [38;2;119;119;119m[0m                
+github.com/minio/madmin-go/v2                       v2.0.15-0.20230227182557-14091d909631  go-module  [38;2;119;119;119m[0m                
+github.com/minio/mc                                 v0.0.0-20230221173238-1843bab50013     go-module  [38;2;119;119;119m[0m                
+github.com/minio/mc                                 v0.0.0-20230228001259-5fbe8c26bab5     go-module  [38;2;119;119;119m[0m                
+github.com/minio/md5-simd                           v1.1.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/minio                              v0.0.0-20230227181045-0ff931dc765d     go-module  [38;2;119;119;119m[0m                
+github.com/minio/minio-go/v7                        v7.0.49                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/mux                                v1.9.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/pkg                                v1.6.3                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/selfupdate                         v0.6.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/sha256-simd                        v1.0.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/minio/simdjson-go                        v0.4.4                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/sio                                v0.3.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/websocket                          v1.6.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/xxml                               v0.0.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/minio/zipindex                           v0.3.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/mitchellh/go-homedir                     v1.1.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/mitchellh/mapstructure                   v1.5.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/modern-go/concurrent                     v0.0.0-20180306012644-bacd9c7ef1dd     go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/modern-go/reflect2                       v1.0.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/montanaflynn/stats                       v0.7.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/muesli/ansi                              v0.0.0-20221106050444-61f0cd9a192a     go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/muesli/cancelreader                      v0.2.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/muesli/reflow                            v0.3.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/muesli/termenv                           v0.14.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/nats-io/nats.go                          v1.23.0                                go-module  [38;2;119;119;119m[0m                
+github.com/nats-io/nkeys                            v0.3.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/nats-io/nuid                             v1.0.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/nats-io/stan.go                          v0.10.4                                go-module  [38;2;119;119;119m[0m                
+github.com/navidys/tvxwidgets                       v0.3.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/ncw/directio                             v1.0.5                                 go-module  [38;2;119;119;119m[0m                
+github.com/nsqio/go-nsq                             v1.1.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/oklog/ulid                               v1.3.1                                 go-module  [38;2;119;119;119m[0m                
+github.com/olekukonko/tablewriter                   v0.0.5                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/philhofer/fwd                            v1.1.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/pierrec/lz4                              v2.6.1+incompatible                    go-module  [38;2;119;119;119m[0m                
+github.com/pierrec/lz4/v4                           v4.1.17                                go-module  [38;2;119;119;119m[0m                
+github.com/pkg/errors                               v0.9.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/pkg/xattr                                v0.4.9                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/posener/complete                         v1.2.3                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/pquerna/cachecontrol                     v0.1.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/prometheus/client_golang                 v1.14.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/prometheus/client_model                  v0.3.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/prometheus/common                        v0.40.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/prometheus/procfs                        v0.9.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/prometheus/prom2json                     v1.3.2                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/rabbitmq/amqp091-go                      v1.7.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/rcrowley/go-metrics                      v0.0.0-20201227073835-cf1acfcdf475     go-module  [38;2;119;119;119m[0m                
+github.com/rivo/tview                               v0.0.0-20230208211350-7dfff1ce7854     go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/rivo/uniseg                              v0.4.4                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/rjeczalik/notify                         v0.9.3                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/rs/cors                                  v1.8.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/rs/dnscache                              v0.0.0-20211102005908-e0241e321417     go-module  [38;2;119;119;119m[0m                
+github.com/rs/xid                                   v1.4.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/secure-io/sio-go                         v0.3.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/shirou/gopsutil/v3                       v3.23.1                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tidwall/gjson                            v1.14.4                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tidwall/match                            v1.1.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tidwall/pretty                           v1.2.1                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tinylib/msgp                             v1.1.8                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tklauser/go-sysconf                      v0.3.11                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/tklauser/numcpus                         v0.6.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+github.com/unrolled/secure                          v1.13.0                                go-module  [38;2;119;119;119m[0m                
+github.com/valyala/bytebufferpool                   v1.0.0                                 go-module  [38;2;119;119;119m[0m                
+github.com/xdg/scram                                v1.0.5                                 go-module  [38;2;119;119;119m[0m                
+github.com/xdg/stringprep                           v1.0.3                                 go-module  [38;2;119;119;119m[0m                
+github.com/zeebo/xxh3                               v1.0.2                                 go-module  [38;2;119;119;119m[0m                
+go.etcd.io/etcd/api/v3                              v3.5.7                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+go.etcd.io/etcd/client/pkg/v3                       v3.5.7                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+go.etcd.io/etcd/client/v3                           v3.5.7                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+go.mongodb.org/mongo-driver                         v1.11.2                                go-module  [38;2;119;119;119m[0m                
+go.opencensus.io                                    v0.24.0                                go-module  [38;2;119;119;119m[0m                
+go.uber.org/atomic                                  v1.10.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+go.uber.org/multierr                                v1.9.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+go.uber.org/zap                                     v1.24.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/crypto                                 v0.6.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/net                                    v0.7.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/oauth2                                 v0.5.0                                 go-module  [38;2;119;119;119m[0m                
+golang.org/x/sync                                   v0.1.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/sys                                    v0.5.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/term                                   v0.5.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/text                                   v0.7.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+golang.org/x/time                                   v0.3.0                                 go-module  [38;2;119;119;119m[0m                
+golang.org/x/xerrors                                v0.0.0-20220907171357-04be3eba64a2     go-module  [38;2;119;119;119m[0m                
+google.golang.org/api                               v0.110.0                               go-module  [38;2;119;119;119m[0m                
+google.golang.org/genproto                          v0.0.0-20230221151758-ace64dc21148     go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+google.golang.org/grpc                              v1.53.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+google.golang.org/protobuf                          v1.28.1                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+gopkg.in/h2non/filetype.v1                          v1.0.5                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+gopkg.in/ini.v1                                     v1.67.0                                go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+gopkg.in/square/go-jose.v2                          v2.6.0                                 go-module  [38;2;119;119;119m[0m                
+gopkg.in/yaml.v2                                    v2.4.0                                 go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+gopkg.in/yaml.v3                                    v3.0.1                                 go-module  [38;2;119;119;119m[0m                
+gpgv                                                2.2.12-1+deb10u1                       deb        [38;2;119;119;119m[0m                
+grep                                                3.3-1                                  deb        [38;2;119;119;119m[0m                
+gzip                                                1.9-3                                  deb        [38;2;119;119;119m[0m                
+hostname                                            3.21                                   deb        [38;2;119;119;119m[0m                
+init-system-helpers                                 1.56+nmu1                              deb        [38;2;119;119;119m[0m                
+iproute2                                            4.20.0-2+deb10u1                       deb        [38;2;119;119;119m[0m                
+iputils-ping                                        3:20180629-2+deb10u2                   deb        [38;2;119;119;119m[0m                
+libacl1                                             2.2.53-4                               deb        [38;2;119;119;119m[0m                
+libapt-pkg5.0                                       1.8.2.3                                deb        [38;2;119;119;119m[0m                
+libattr1                                            1:2.4.48-4                             deb        [38;2;119;119;119m[0m                
+libaudit-common                                     1:2.8.4-3                              deb        [38;2;119;119;119m[0m                
+libaudit1                                           1:2.8.4-3                              deb        [38;2;119;119;119m[0m                
+libblkid1                                           2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+libbz2-1.0                                          1.0.6-9.2~deb10u1                      deb        [38;2;119;119;119m[0m                
+libc-bin                                            2.28-10+deb10u1                        deb        [38;2;119;119;119m[0m                
+libc6                                               2.28-10+deb10u1                        deb        [38;2;119;119;119m[0m                
+libcap-ng0                                          0.7.9-2                                deb        [38;2;119;119;119m[0m                
+libcap2                                             1:2.25-2                               deb        [38;2;119;119;119m[0m                
+libcap2-bin                                         1:2.25-2                               deb        [38;2;119;119;119m[0m                
+libcom-err2                                         1.44.5-1+deb10u3                       deb        [38;2;119;119;119m[0m                
+libdb5.3                                            5.3.28+dfsg1-0.5                       deb        [38;2;119;119;119m[0m                
+libdebconfclient0                                   0.249                                  deb        [38;2;119;119;119m[0m                
+libelf1                                             0.176-1.1                              deb        [38;2;119;119;119m[0m                
+libext2fs2                                          1.44.5-1+deb10u3                       deb        [38;2;119;119;119m[0m                
+libfdisk1                                           2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+libffi6                                             3.2.1-9                                deb        [38;2;119;119;119m[0m                
+libgcc1                                             1:8.3.0-6                              deb        [38;2;119;119;119m[0m                
+libgcrypt20                                         1.8.4-5+deb10u1                        deb        [38;2;119;119;119m[0m                
+libgmp10                                            2:6.1.2+dfsg-4+deb10u1                 deb        [38;2;119;119;119m[0m                
+libgnutls30                                         3.6.7-4+deb10u7                        deb        [38;2;119;119;119m[0m                
+libgpg-error0                                       1.35-1                                 deb        [38;2;119;119;119m[0m                
+libhogweed4                                         3.4.1-1+deb10u1                        deb        [38;2;119;119;119m[0m                
+libidn2-0                                           2.0.5-1+deb10u1                        deb        [38;2;119;119;119m[0m                
+liblz4-1                                            1.8.3-1+deb10u1                        deb        [38;2;119;119;119m[0m                
+liblzma5                                            5.2.4-1                                deb        [38;2;119;119;119m[0m                
+libmnl0                                             1.0.4-2                                deb        [38;2;119;119;119m[0m                
+libmount1                                           2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+libncursesw6                                        6.1+20181013-2+deb10u2                 deb        [38;2;119;119;119m[0m                
+libnettle6                                          3.4.1-1+deb10u1                        deb        [38;2;119;119;119m[0m                
+libp11-kit0                                         0.23.15-2+deb10u1                      deb        [38;2;119;119;119m[0m                
+libpam-modules                                      1.3.1-5                                deb        [38;2;119;119;119m[0m                
+libpam-modules-bin                                  1.3.1-5                                deb        [38;2;119;119;119m[0m                
+libpam-runtime                                      1.3.1-5                                deb        [38;2;119;119;119m[0m                
+libpam0g                                            1.3.1-5                                deb        [38;2;119;119;119m[0m                
+libpcre2-8-0                                        10.32-5+deb10u1                        deb        [38;2;119;119;119m[0m                
+libpcre3                                            2:8.39-12                              deb        [38;2;119;119;119m[0m                
+libpsl5                                             0.20.2-2                               deb        [38;2;119;119;119m[0m                
+libseccomp2                                         2.3.3-4                                deb        [38;2;119;119;119m[0m                
+libselinux1                                         2.8-1+b1                               deb        [38;2;119;119;119m[0m                
+libsemanage-common                                  2.8-2                                  deb        [38;2;119;119;119m[0m                
+libsemanage1                                        2.8-2                                  deb        [38;2;119;119;119m[0m                
+libsepol1                                           2.8-1                                  deb        [38;2;119;119;119m[0m                
+libsmartcols1                                       2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+libss2                                              1.44.5-1+deb10u3                       deb        [38;2;119;119;119m[0m                
+libssl1.1                                           1.1.1n-0+deb10u4                       deb        [38;2;119;119;119m[0m                
+libstdc++6                                          8.3.0-6                                deb        [38;2;119;119;119m[0m                
+libsystemd0                                         241-7~deb10u8                          deb        [38;2;119;119;119m[0m                
+libtasn1-6                                          4.13-3                                 deb        [38;2;119;119;119m[0m                
+libtinfo6                                           6.1+20181013-2+deb10u2                 deb        [38;2;119;119;119m[0m                
+libudev1                                            241-7~deb10u8                          deb        [38;2;119;119;119m[0m                
+libunistring2                                       0.9.10-1                               deb        [38;2;119;119;119m[0m                
+libuuid1                                            2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+libxtables12                                        1.8.2-4                                deb        [38;2;119;119;119m[0m                
+libzstd1                                            1.3.8+dfsg-3+deb10u2                   deb        [38;2;119;119;119m[0m                
+login                                               1:4.5-1.1                              deb        [38;2;119;119;119m[0m                
+mawk                                                1.3.3-17+b3                            deb        [38;2;119;119;119m[0m                
+mount                                               2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+ncurses-base                                        6.1+20181013-2+deb10u2                 deb        [38;2;119;119;119m[0m                
+ncurses-bin                                         6.1+20181013-2+deb10u2                 deb        [38;2;119;119;119m[0m                
+openssl                                             1.1.1n-0+deb10u4                       deb        [38;2;119;119;119m[0m                
+passwd                                              1:4.5-1.1                              deb        [38;2;119;119;119m[0m                
+perl-base                                           5.28.1-6+deb10u1                       deb        [38;2;119;119;119m[0m                
+sed                                                 4.7-1                                  deb        [38;2;119;119;119m[0m                
+stdlib                                              go1.19.6                               go-module  [38;2;119;119;119m(+1 duplicate)[0m  
+sysvinit-utils                                      2.93-8                                 deb        [38;2;119;119;119m[0m                
+tar                                                 1.30+dfsg-6                            deb        [38;2;119;119;119m[0m                
+tzdata                                              2021a-0+deb10u4                        deb        [38;2;119;119;119m[0m                
+util-linux                                          2.33.1-0.1                             deb        [38;2;119;119;119m[0m                
+wget                                                1.20.1-1.1                             deb        [38;2;119;119;119m[0m                
+zlib1g                                              1:1.2.11.dfsg-1                        deb        [38;2;119;119;119m[0m                

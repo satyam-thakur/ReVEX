@@ -1,0 +1,431 @@
+NAME                       VERSION                                    TYPE                          
+FastInfoset                1.2.15                                     java-archive  (+1 duplicate)   
+GeographicLib-Java         1.49                                       java-archive  (+1 duplicate)   
+JavaAPIforKml              2.2.0                                      java-archive  (+1 duplicate)   
+activation                 1.1                                        java-archive  (+1 duplicate)   
+adduser                    3.118                                      deb                            
+aircompressor              0.20                                       java-archive  (+1 duplicate)   
+ant                        1.10.11                                    java-archive  (+1 duplicate)   
+ant-launcher               1.10.11                                    java-archive  (+1 duplicate)   
+antlr4-runtime             4.7.1                                      java-archive  (+1 duplicate)   
+apiguardian-api            1.1.1                                      java-archive  (+1 duplicate)   
+apt                        2.2.4                                      deb                            
+base-files                 11.1+deb11u3                               deb                            
+base-passwd                3.5.51                                     deb                            
+bash                       5.1-2+b3                                   deb                            
+batik-anim                 1.16                                       java-archive  (+1 duplicate)   
+batik-awt-util             1.16                                       java-archive  (+1 duplicate)   
+batik-bridge               1.16                                       java-archive  (+1 duplicate)   
+batik-constants            1.16                                       java-archive  (+1 duplicate)   
+batik-css                  1.16                                       java-archive  (+1 duplicate)   
+batik-dom                  1.16                                       java-archive  (+1 duplicate)   
+batik-ext                  1.16                                       java-archive  (+1 duplicate)   
+batik-gvt                  1.16                                       java-archive  (+1 duplicate)   
+batik-i18n                 1.16                                       java-archive  (+1 duplicate)   
+batik-parser               1.16                                       java-archive  (+1 duplicate)   
+batik-script               1.16                                       java-archive  (+1 duplicate)   
+batik-shared-resources     1.16                                       java-archive  (+1 duplicate)   
+batik-svg-dom              1.16                                       java-archive  (+1 duplicate)   
+batik-svggen               1.16                                       java-archive  (+1 duplicate)   
+batik-transcoder           1.16                                       java-archive  (+1 duplicate)   
+batik-util                 1.16                                       java-archive  (+1 duplicate)   
+batik-xml                  1.16                                       java-archive  (+1 duplicate)   
+bcel                       6.7.0                                      java-archive  (+1 duplicate)   
+bcprov-jdk15on             1.69                                       java-archive  (+1 duplicate)   
+bigint                     0.7.1                                      java-archive  (+1 duplicate)   
+bsdutils                   1:2.36.1-8+deb11u1                         deb                            
+ca-certificates            20210119                                   deb                            
+checker-qual               3.33.0                                     java-archive  (+1 duplicate)   
+commons-beanutils          1.9.4                                      java-archive  (+1 duplicate)   
+commons-codec              1.15                                       java-archive  (+1 duplicate)   
+commons-collections        3.2.2                                      java-archive  (+1 duplicate)   
+commons-collections4       4.4                                        java-archive  (+1 duplicate)   
+commons-compiler           3.0.8                                      java-archive  (+1 duplicate)   
+commons-dbcp               1.4                                        java-archive  (+1 duplicate)   
+commons-el                 1.0                                        java-archive  (+1 duplicate)   
+commons-fileupload         1.5                                        java-archive  (+1 duplicate)   
+commons-io                 2.8.0                                      java-archive  (+1 duplicate)   
+commons-jxpath             1.3                                        java-archive  (+1 duplicate)   
+commons-lang               2.5                                        java-archive  (+1 duplicate)   
+commons-lang3              3.12.0                                     java-archive  (+1 duplicate)   
+commons-logging            1.2                                        java-archive  (+3 duplicates)  
+commons-pool               1.5.4                                      java-archive  (+1 duplicate)   
+commons-text               1.10.0                                     java-archive  (+1 duplicate)   
+coreutils                  8.32-4+b1                                  deb                            
+curl                       7.74.0-1.3+deb11u12                        deb                            
+dash                       0.5.11+git20200708+dd9ef66-5               deb                            
+debconf                    1.5.77                                     deb                            
+debian-archive-keyring     2021.1.1                                   deb                            
+debianutils                4.11.2                                     deb                            
+diffutils                  1:3.7-5                                    deb                            
+disruptor                  1.2.15                                     java-archive  (+1 duplicate)   
+dpkg                       1.20.9                                     deb                            
+e2fsprogs                  1.46.2-2                                   deb                            
+ehcache                    3.4.0                                      java-archive  (+1 duplicate)   
+ehcache-107                3.4.0                                      java-archive  (+1 duplicate)   
+ehcache-api                3.4.0                                      java-archive  (+1 duplicate)   
+ehcache-core               3.4.0                                      java-archive  (+1 duplicate)   
+ehcache-impl               3.4.0                                      java-archive  (+1 duplicate)   
+ehcache-xml                3.4.0                                      java-archive  (+1 duplicate)   
+ejml-core                  0.41                                       java-archive  (+1 duplicate)   
+ejml-ddense                0.41                                       java-archive  (+1 duplicate)   
+encoder                    1.1                                        java-archive  (+1 duplicate)   
+error_prone_annotations    2.18.0                                     java-archive  (+1 duplicate)   
+ezmorph                    1.0.6                                      java-archive  (+1 duplicate)   
+failureaccess              1.0.1                                      java-archive  (+1 duplicate)   
+findutils                  4.8.0-1                                    deb                            
+freemarker                 2.3.31                                     java-archive  (+1 duplicate)   
+gcc-10-base                10.2.1-6                                   deb                            
+gcc-9-base                 9.3.0-22                                   deb                            
+gpgv                       2.2.27-2+deb11u1                           deb                            
+grep                       3.6-1                                      deb                            
+gs-gwc                     2.23.2                                     java-archive  (+1 duplicate)   
+gs-gwc-rest                2.23.2                                     java-archive  (+1 duplicate)   
+gs-kml                     2.23.2                                     java-archive  (+1 duplicate)   
+gs-main                    2.23.2                                     java-archive  (+1 duplicate)   
+gs-ows                     2.23.2                                     java-archive  (+1 duplicate)   
+gs-platform                2.23.2                                     java-archive  (+1 duplicate)   
+gs-rest                    2.23.2                                     java-archive  (+1 duplicate)   
+gs-restconfig              2.23.2                                     java-archive  (+1 duplicate)   
+gs-restconfig-wcs          2.23.2                                     java-archive  (+1 duplicate)   
+gs-restconfig-wfs          2.23.2                                     java-archive  (+1 duplicate)   
+gs-restconfig-wms          2.23.2                                     java-archive  (+1 duplicate)   
+gs-restconfig-wmts         2.23.2                                     java-archive  (+1 duplicate)   
+gs-sec-jdbc                2.23.2                                     java-archive  (+1 duplicate)   
+gs-sec-ldap                2.23.2                                     java-archive  (+1 duplicate)   
+gs-wcs                     2.23.2                                     java-archive  (+1 duplicate)   
+gs-wcs1_0                  2.23.2                                     java-archive  (+1 duplicate)   
+gs-wcs1_1                  2.23.2                                     java-archive  (+1 duplicate)   
+gs-wcs2_0                  2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-core                2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-demo                2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-gwc                 2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-rest                2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-sec-core            2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-sec-jdbc            2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-sec-ldap            2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-wcs                 2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-wfs                 2.23.2                                     java-archive  (+1 duplicate)   
+gs-web-wms                 2.23.2                                     java-archive  (+1 duplicate)   
+gs-wfs                     2.23.2                                     java-archive  (+1 duplicate)   
+gs-wms                     2.23.2                                     java-archive  (+1 duplicate)   
+gt-app-schema-resolver     29.2                                       java-archive  (+1 duplicate)   
+gt-arcgrid                 29.2                                       java-archive  (+1 duplicate)   
+gt-complex                 29.2                                       java-archive  (+1 duplicate)   
+gt-coverage                29.2                                       java-archive  (+1 duplicate)   
+gt-cql                     29.2                                       java-archive  (+1 duplicate)   
+gt-epsg-hsql               29.2                                       java-archive  (+1 duplicate)   
+gt-geojson-core            29.2                                       java-archive  (+1 duplicate)   
+gt-geopkg                  29.2                                       java-archive  (+1 duplicate)   
+gt-geotiff                 29.2                                       java-archive  (+1 duplicate)   
+gt-gml-geometry-streaming  29.2                                       java-archive  (+1 duplicate)   
+gt-grid                    29.2                                       java-archive  (+1 duplicate)   
+gt-http                    29.2                                       java-archive  (+1 duplicate)   
+gt-http-commons            29.2                                       java-archive  (+1 duplicate)   
+gt-image                   29.2                                       java-archive  (+1 duplicate)   
+gt-imagemosaic             29.2                                       java-archive  (+1 duplicate)   
+gt-jdbc                    29.2                                       java-archive  (+1 duplicate)   
+gt-jdbc-postgis            29.2                                       java-archive  (+1 duplicate)   
+gt-main                    29.2                                       java-archive  (+1 duplicate)   
+gt-metadata                29.2                                       java-archive  (+1 duplicate)   
+gt-opengis                 29.2                                       java-archive  (+1 duplicate)   
+gt-process                 29.2                                       java-archive  (+1 duplicate)   
+gt-process-feature         29.2                                       java-archive  (+1 duplicate)   
+gt-process-raster          29.2                                       java-archive  (+1 duplicate)   
+gt-property                29.2                                       java-archive  (+1 duplicate)   
+gt-referencing             29.2                                       java-archive  (+1 duplicate)   
+gt-render                  29.2                                       java-archive  (+1 duplicate)   
+gt-shapefile               29.2                                       java-archive  (+1 duplicate)   
+gt-svg                     29.2                                       java-archive  (+1 duplicate)   
+gt-tile-client             29.2                                       java-archive  (+1 duplicate)   
+gt-transform               29.2                                       java-archive  (+1 duplicate)   
+gt-wfs-ng                  29.2                                       java-archive  (+1 duplicate)   
+gt-wms                     29.2                                       java-archive  (+1 duplicate)   
+gt-wmts                    29.2                                       java-archive  (+1 duplicate)   
+gt-xml                     29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-core                29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-fes                 29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-filter              29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-gml2                29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-gml3                29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-ows                 29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-sld                 29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-wcs                 29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-wfs                 29.2                                       java-archive  (+1 duplicate)   
+gt-xsd-wmts                29.2                                       java-archive  (+1 duplicate)   
+guava                      32.0.0-jre                                 java-archive  (+1 duplicate)   
+gwc-core                   1.23.1                                     java-archive  (+1 duplicate)   
+gwc-diskquota-core         1.23.1                                     java-archive  (+1 duplicate)   
+gwc-diskquota-jdbc         1.23.1                                     java-archive  (+1 duplicate)   
+gwc-georss                 1.23.1                                     java-archive  (+1 duplicate)   
+gwc-gmaps                  1.23.1                                     java-archive  (+1 duplicate)   
+gwc-kml                    1.23.1                                     java-archive  (+1 duplicate)   
+gwc-rest                   1.23.1                                     java-archive  (+1 duplicate)   
+gwc-tms                    1.23.1                                     java-archive  (+1 duplicate)   
+gwc-ve                     1.23.1                                     java-archive  (+1 duplicate)   
+gwc-wms                    1.23.1                                     java-archive  (+1 duplicate)   
+gwc-wmts                   1.23.1                                     java-archive  (+1 duplicate)   
+gzip                       1.10-4                                     deb                            
+hostname                   3.23                                       deb                            
+hsqldb                     2.7.1                                      java-archive  (+1 duplicate)   
+httpclient                 4.5.14                                     java-archive  (+1 duplicate)   
+httpclient-cache           4.5.14                                     java-archive  (+1 duplicate)   
+httpcore                   4.4.16                                     java-archive  (+1 duplicate)   
+imageio-ext-arcgrid        1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-cog-commons    1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-cog-reader     1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-cog-streams    1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-geocore        1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-png            1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-streams        1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-tiff           1.4.7                                      java-archive  (+1 duplicate)   
+imageio-ext-utilities      1.4.7                                      java-archive  (+1 duplicate)   
+indriya                    2.1.3                                      java-archive  (+1 duplicate)   
+init-system-helpers        1.60                                       deb                            
+isorelax                   20090621                                   java-archive  (+1 duplicate)   
+istack-commons-runtime     3.0.7                                      java-archive  (+1 duplicate)   
+j2objc-annotations         2.8                                        java-archive  (+1 duplicate)   
+jackson-annotations        2.15.2                                     java-archive  (+1 duplicate)   
+jackson-core               2.15.2                                     java-archive  (+1 duplicate)   
+jackson-databind           2.15.2                                     java-archive  (+1 duplicate)   
+jackson-dataformat-xml     2.15.2                                     java-archive  (+1 duplicate)   
+jai_codec                  1.1.3                                      java-archive  (+1 duplicate)   
+jai_core                   1.1.3                                      java-archive  (+1 duplicate)   
+jai_imageio                1.1                                        java-archive  (+1 duplicate)   
+jakarta.annotation-api     1.3.4                                      java-archive  (+1 duplicate)   
+janino                     3.0.8                                      java-archive  (+1 duplicate)   
+jasypt                     1.9.2                                      java-archive  (+1 duplicate)   
+jasypt-springsecurity3     1.9.2                                      java-archive  (+1 duplicate)   
+javax.activation-api       1.2.0                                      java-archive  (+1 duplicate)   
+javax.servlet-api          3.1.0                                      java-archive  (+1 duplicate)   
+jaxb-api                   2.4.0-b180830.0359                         java-archive  (+1 duplicate)   
+jaxb-runtime               2.4.0-b180830.0438                         java-archive  (+1 duplicate)   
+jdk                        17.0.2                                     binary                         
+jettison                   1.5.4                                      java-archive  (+1 duplicate)   
+jetty-continuation         9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-deploy               9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-http                 9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-io                   9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-schemas              3.1.M0                                     java-archive  (+1 duplicate)   
+jetty-security             9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-server               9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-servlet              9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-servlets             9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-start                9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-util                 9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-util-ajax            9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-webapp               9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jetty-xml                  9.4.51.v20230217                           java-archive  (+1 duplicate)   
+jgridshift-core            1.3                                        java-archive  (+1 duplicate)   
+jna                        5.12.1                                     java-archive  (+1 duplicate)   
+jna-platform               5.12.1                                     java-archive  (+1 duplicate)   
+joda-time                  2.8.1                                      java-archive  (+1 duplicate)   
+jrt-fs                     17.0.2                                     java-archive                   
+json                       20180813                                   java-archive  (+1 duplicate)   
+json-lib                   2.4.1-geoserver                            java-archive  (+1 duplicate)   
+jsr305                     2.0.3                                      java-archive  (+1 duplicate)   
+jt-affine                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-algebra                 1.1.24                                     java-archive  (+1 duplicate)   
+jt-attributeop             1.6.0                                      java-archive  (+1 duplicate)   
+jt-bandcombine             1.1.24                                     java-archive  (+1 duplicate)   
+jt-bandmerge               1.1.24                                     java-archive  (+1 duplicate)   
+jt-bandselect              1.1.24                                     java-archive  (+1 duplicate)   
+jt-binarize                1.1.24                                     java-archive  (+1 duplicate)   
+jt-border                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-buffer                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-classbreaks             1.1.24                                     java-archive  (+1 duplicate)   
+jt-classifier              1.1.24                                     java-archive  (+1 duplicate)   
+jt-colorconvert            1.1.24                                     java-archive  (+1 duplicate)   
+jt-colorindexer            1.1.24                                     java-archive  (+1 duplicate)   
+jt-concurrent-tile-cache   1.1.24                                     java-archive  (+1 duplicate)   
+jt-contour                 1.6.0                                      java-archive  (+1 duplicate)   
+jt-crop                    1.1.24                                     java-archive  (+1 duplicate)   
+jt-errordiffusion          1.1.24                                     java-archive  (+1 duplicate)   
+jt-format                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-imagefunction           1.1.24                                     java-archive  (+1 duplicate)   
+jt-iterators               1.1.24                                     java-archive  (+1 duplicate)   
+jt-jiffle-language         1.1.24                                     java-archive  (+1 duplicate)   
+jt-jiffle-op               1.1.24                                     java-archive  (+1 duplicate)   
+jt-lookup                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-mosaic                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-nullop                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-orderdither             1.1.24                                     java-archive  (+1 duplicate)   
+jt-piecewise               1.1.24                                     java-archive  (+1 duplicate)   
+jt-rangelookup             1.6.0                                      java-archive  (+1 duplicate)   
+jt-rescale                 1.1.24                                     java-archive  (+1 duplicate)   
+jt-rlookup                 1.1.24                                     java-archive  (+1 duplicate)   
+jt-scale                   1.1.24                                     java-archive  (+1 duplicate)   
+jt-scale2                  1.1.24                                     java-archive  (+1 duplicate)   
+jt-shadedrelief            1.1.24                                     java-archive  (+1 duplicate)   
+jt-stats                   1.1.24                                     java-archive  (+1 duplicate)   
+jt-translate               1.1.24                                     java-archive  (+1 duplicate)   
+jt-utilities               1.1.24                                     java-archive  (+1 duplicate)   
+jt-utils                   1.6.0                                      java-archive  (+1 duplicate)   
+jt-vectorbin               1.1.24                                     java-archive  (+1 duplicate)   
+jt-vectorbinarize          1.6.0                                      java-archive  (+1 duplicate)   
+jt-vectorize               1.6.0                                      java-archive  (+1 duplicate)   
+jt-warp                    1.1.24                                     java-archive  (+1 duplicate)   
+jt-zonal                   1.1.24                                     java-archive  (+1 duplicate)   
+jt-zonalstats              1.6.0                                      java-archive  (+1 duplicate)   
+jts-core                   1.19.0                                     java-archive  (+1 duplicate)   
+libacl1                    2.2.53-10                                  deb                            
+libapt-pkg6.0              2.2.4                                      deb                            
+libattr1                   1:2.4.48-6                                 deb                            
+libaudit-common            1:3.0-2                                    deb                            
+libaudit1                  1:3.0-2                                    deb                            
+libblkid1                  2.36.1-8+deb11u1                           deb                            
+libbrotli1                 1.0.9-2+b2                                 deb                            
+libbz2-1.0                 1.0.8-4                                    deb                            
+libc-bin                   2.31-13+deb11u3                            deb                            
+libc6                      2.31-13+deb11u3                            deb                            
+libcap-ng0                 0.7.9-2.2+b1                               deb                            
+libcom-err2                1.46.2-2                                   deb                            
+libcrypt1                  1:4.4.18-4                                 deb                            
+libcurl4                   7.74.0-1.3+deb11u12                        deb                            
+libdb5.3                   5.3.28+dfsg1-0.8                           deb                            
+libdebconfclient0          0.260                                      deb                            
+libext2fs2                 1.46.2-2                                   deb                            
+libffi7                    3.3-6                                      deb                            
+libgcc-s1                  10.2.1-6                                   deb                            
+libgcrypt20                1.8.7-6                                    deb                            
+libgmp10                   2:6.2.1+dfsg-1+deb11u1                     deb                            
+libgnutls30                3.7.1-5                                    deb                            
+libgpg-error0              1.38-2                                     deb                            
+libgssapi-krb5-2           1.18.3-6+deb11u1                           deb                            
+libhogweed6                3.7.3-1                                    deb                            
+libidn2-0                  2.3.0-5                                    deb                            
+libk5crypto3               1.18.3-6+deb11u1                           deb                            
+libkeyutils1               1.6.1-2                                    deb                            
+libkrb5-3                  1.18.3-6+deb11u1                           deb                            
+libkrb5support0            1.18.3-6+deb11u1                           deb                            
+libldap-2.4-2              2.4.57+dfsg-3+deb11u1                      deb                            
+liblz4-1                   1.9.3-2                                    deb                            
+liblzma5                   5.2.5-2                                    deb                            
+libmount1                  2.36.1-8+deb11u1                           deb                            
+libnettle8                 3.7.3-1                                    deb                            
+libnghttp2-14              1.43.0-1+deb11u1                           deb                            
+libnsl2                    1.3.0-2                                    deb                            
+libp11-kit0                0.23.22-1                                  deb                            
+libpam-modules             1.4.0-9+deb11u1                            deb                            
+libpam-modules-bin         1.4.0-9+deb11u1                            deb                            
+libpam-runtime             1.4.0-9+deb11u1                            deb                            
+libpam0g                   1.4.0-9+deb11u1                            deb                            
+libpcre2-8-0               10.36-2                                    deb                            
+libpcre3                   2:8.39-13                                  deb                            
+libpsl5                    0.21.0-1.2                                 deb                            
+librtmp1                   2.4+20151223.gitfa8646d.1-2+b2             deb                            
+libsasl2-2                 2.1.27+dfsg-2.1+deb11u1                    deb                            
+libsasl2-modules-db        2.1.27+dfsg-2.1+deb11u1                    deb                            
+libseccomp2                2.5.1-1+deb11u1                            deb                            
+libselinux1                3.1-3                                      deb                            
+libsemanage-common         3.1-1                                      deb                            
+libsemanage1               3.1-1+b2                                   deb                            
+libsepol1                  3.1-1                                      deb                            
+libsmartcols1              2.36.1-8+deb11u1                           deb                            
+libss2                     1.46.2-2                                   deb                            
+libssh2-1                  1.9.0-2+deb11u1                            deb                            
+libssl1.1                  1.1.1n-0+deb11u1                           deb                            
+libstdc++6                 10.2.1-6                                   deb                            
+libsystemd0                247.3-7                                    deb                            
+libtasn1-6                 4.16.0-2                                   deb                            
+libtinfo6                  6.2+20201114-2                             deb                            
+libtirpc-common            1.3.1-1                                    deb                            
+libtirpc3                  1.3.1-1                                    deb                            
+libudev1                   247.3-7                                    deb                            
+libunistring2              0.9.10-4                                   deb                            
+libuuid1                   2.36.1-8+deb11u1                           deb                            
+libxxhash0                 0.8.0-2                                    deb                            
+libzstd1                   1.4.8+dfsg-2.1                             deb                            
+listenablefuture           9999.0-empty-to-avoid-conflict-with-guava  java-archive  (+1 duplicate)   
+log4j-1.2-api              2.17.2                                     java-archive  (+1 duplicate)   
+log4j-api                  2.17.2                                     java-archive  (+1 duplicate)   
+log4j-core                 2.17.2                                     java-archive  (+1 duplicate)   
+log4j-jcl                  2.17.2                                     java-archive  (+1 duplicate)   
+log4j-jul                  2.17.2                                     java-archive  (+1 duplicate)   
+log4j-slf4j-impl           2.17.2                                     java-archive  (+1 duplicate)   
+login                      1:4.8.1-1                                  deb                            
+logsave                    1.46.2-2                                   deb                            
+lsb-base                   11.1.0                                     deb                            
+mail                       1.4                                        java-archive  (+1 duplicate)   
+marlin                     0.9.3-Unsafe                               java-archive  (+1 duplicate)   
+mawk                       1.3.4.20200120-2                           deb                            
+mount                      2.36.1-8+deb11u1                           deb                            
+mxparser                   1.2.2                                      java-archive  (+1 duplicate)   
+ncurses-base               6.2+20201114-2                             deb                            
+ncurses-bin                6.2+20201114-2                             deb                            
+net.opengis.fes            29.2                                       java-archive  (+1 duplicate)   
+net.opengis.ows            29.2                                       java-archive  (+1 duplicate)   
+net.opengis.wcs            29.2                                       java-archive  (+1 duplicate)   
+net.opengis.wfs            29.2                                       java-archive  (+1 duplicate)   
+net.opengis.wmts           29.2                                       java-archive  (+1 duplicate)   
+offheap-store              2.3.2                                      java-archive  (+1 duplicate)   
+openpdf                    1.3.26                                     java-archive  (+1 duplicate)   
+openssl                    1.1.1n-0+deb11u1                           deb                            
+org.eclipse.emf.common     2.15.0-SNAPSHOT                            java-archive  (+1 duplicate)   
+org.eclipse.emf.ecore      2.15.0-SNAPSHOT                            java-archive  (+1 duplicate)   
+org.eclipse.emf.ecore.xmi  2.15.0-SNAPSHOT                            java-archive  (+1 duplicate)   
+org.eclipse.xsd            2.12.0                                     java-archive  (+1 duplicate)   
+org.w3.xlink               29.2                                       java-archive  (+1 duplicate)   
+oshi-core                  6.2.2                                      java-archive  (+1 duplicate)   
+p11-kit                    0.23.22-1                                  deb                            
+p11-kit-modules            0.23.22-1                                  deb                            
+passwd                     1:4.8.1-1                                  deb                            
+perl-base                  5.32.1-4+deb11u2                           deb                            
+picocontainer              1.2                                        java-archive  (+1 duplicate)   
+pngj                       2.0.1                                      java-archive  (+1 duplicate)   
+postgresql                 42.6.0                                     java-archive  (+1 duplicate)   
+re2j                       1.6                                        java-archive  (+1 duplicate)   
+sed                        4.7-1                                      deb                            
+serializer                 2.7.3                                      java-archive  (+1 duplicate)   
+si-quantity                2.1                                        java-archive  (+1 duplicate)   
+si-units                   2.1                                        java-archive  (+1 duplicate)   
+sizeof                     0.3.0                                      java-archive  (+1 duplicate)   
+sizeof-agent               UNKNOWN                                    java-archive  (+1 duplicate)   
+slf4j-api                  1.7.25                                     java-archive  (+1 duplicate)   
+spring-aop                 5.3.27                                     java-archive  (+1 duplicate)   
+spring-beans               5.3.27                                     java-archive  (+1 duplicate)   
+spring-context             5.3.27                                     java-archive  (+1 duplicate)   
+spring-context-support     5.3.27                                     java-archive  (+1 duplicate)   
+spring-core                5.3.27                                     java-archive  (+1 duplicate)   
+spring-expression          5.3.27                                     java-archive  (+1 duplicate)   
+spring-jdbc                5.3.27                                     java-archive  (+1 duplicate)   
+spring-ldap-core           2.4.1                                      java-archive  (+1 duplicate)   
+spring-security-config     5.7.8                                      java-archive  (+1 duplicate)   
+spring-security-core       5.7.8                                      java-archive  (+1 duplicate)   
+spring-security-crypto     5.7.8                                      java-archive  (+1 duplicate)   
+spring-security-ldap       5.7.8                                      java-archive  (+1 duplicate)   
+spring-security-web        5.7.8                                      java-archive  (+1 duplicate)   
+spring-tx                  5.3.27                                     java-archive  (+1 duplicate)   
+spring-web                 5.3.27                                     java-archive  (+1 duplicate)   
+spring-webmvc              5.3.27                                     java-archive  (+1 duplicate)   
+sqlite-jdbc                3.41.2.2                                   java-archive  (+1 duplicate)   
+start                      9.4.51.v20230217                           java-archive  (+1 duplicate)   
+statistics                 1.4.3                                      java-archive  (+1 duplicate)   
+stax-ex                    1.8                                        java-archive  (+1 duplicate)   
+stax2-api                  4.2.1                                      java-archive  (+1 duplicate)   
+systems-common             2.1                                        java-archive  (+1 duplicate)   
+sysvinit-utils             2.96-7+deb11u1                             deb                            
+tar                        1.34+dfsg-1                                deb                            
+txw2                       2.4.0-b180830.0438                         java-archive  (+1 duplicate)   
+tzdata                     2021a-1+deb11u3                            deb                            
+unit-api                   2.1.2                                      java-archive  (+1 duplicate)   
+unzip                      6.0-26+deb11u1                             deb                            
+uom-lib-common             2.1                                        java-archive  (+1 duplicate)   
+util-linux                 2.36.1-8+deb11u1                           deb                            
+wicket-core                7.18.0                                     java-archive  (+1 duplicate)   
+wicket-dnd                 0.7.3                                      java-archive  (+1 duplicate)   
+wicket-extensions          7.18.0                                     java-archive  (+1 duplicate)   
+wicket-request             7.18.0                                     java-archive  (+1 duplicate)   
+wicket-util                7.18.0                                     java-archive  (+1 duplicate)   
+wicket-webjars             0.5.3                                      java-archive  (+1 duplicate)   
+wicketstuff-select2        7.18.0                                     java-archive  (+1 duplicate)   
+woodstox-core              6.4.0                                      java-archive  (+1 duplicate)   
+xalan                      2.7.3                                      java-archive  (+1 duplicate)   
+xml-apis-ext               1.3.04                                     java-archive  (+1 duplicate)   
+xml-commons-resolver       1.2                                        java-archive  (+1 duplicate)   
+xmlParserAPIs              2.6.2                                      java-archive  (+1 duplicate)   
+xmlgraphics-commons        2.7                                        java-archive  (+1 duplicate)   
+xmlpull                    1.1.3.1                                    java-archive  (+1 duplicate)   
+xsdlib                     2013.6.1                                   java-archive  (+1 duplicate)   
+xstream                    1.4.20                                     java-archive  (+1 duplicate)   
+zlib1g                     1:1.2.11.dfsg-2+deb11u1                    deb                            

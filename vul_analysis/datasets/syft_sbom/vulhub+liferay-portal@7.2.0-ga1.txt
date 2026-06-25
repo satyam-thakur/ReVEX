@@ -1,0 +1,1240 @@
+NAME                                                 VERSION                                    TYPE                           
+CodePointIM                                          1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+FileChooserDemo                                      1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+FullThreadDump                                       1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+HdrHistogram                                         2.1.9                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+HikariCP                                             2.6.3                                      java-archive  [38;2;119;119;119m[0m                  
+JTop                                                 1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+MemoryMonitor                                        1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+Metalworks                                           1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+Notepad                                              1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+SampleTree                                           1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+TableExample                                         1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+TransparentRuler                                     1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+US_export_policy                                     UNKNOWN                                    java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+VerboseGC                                            1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+aalto-xml                                            0.9.10                                     java-archive  [38;2;119;119;119m[0m                  
+abdera-bundle                                        1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-client                                        1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-core                                          1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-gdata                              1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-geo                                1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-html                               1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-json                               1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-main                               1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-media                              1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-oauth                              1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-opensearch                         1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-serializer                         1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-sharing                            1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-extensions-wsse                               1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-filesystem                                    1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-i18n                                          1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-jcr                                           1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-jdbc                                          1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-parser                                        1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-security                                      1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-server                                        1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+abdera-spring                                        1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+accessors-smart                                      1.1                                        java-archive  [38;2;119;119;119m[0m                  
+accessors-smart                                      1.2                                        java-archive  [38;2;119;119;119m[0m                  
+activation                                           1.1                                        java-archive  [38;2;119;119;119m[0m                  
+activation                                           1.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+adapter                                              3.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+administration                                       4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+advice                                               1.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+alpine-baselayout                                    3.1.0-r3                                   apk           [38;2;119;119;119m[0m                  
+alpine-keys                                          2.1-r1                                     apk           [38;2;119;119;119m[0m                  
+analysis-icu-client                                  6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+analysis-kuromoji                                    6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+analysis-smartcn                                     6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+analysis-stempel                                     6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+analytics                                            2.0.0                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+analytics                                            3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+analytics                                            3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+animal-sniffer-annotations                           1.14                                       java-archive  [38;2;119;119;119m[0m                  
+annotations                                          2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+annotations                                          4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+annotations-api                                      1.3.FR                                     java-archive  [38;2;119;119;119m[0m                  
+ant                                                  1.8.4                                      java-archive  [38;2;119;119;119m[0m                  
+antisamy                                             1.5.7                                      java-archive  [38;2;119;119;119m[0m                  
+antisamy                                             4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+antlr2                                               UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+antlr3                                               UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+antlr3-runtime                                       UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+antlr4-runtime                                       4.3                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+antlr4-runtime                                       4.5.3                                      java-archive  [38;2;119;119;119m[0m                  
+antlr4-runtime                                       4.7.1                                      java-archive  [38;2;119;119;119m[0m                  
+aopalliance                                          1.0                                        java-archive  [38;2;119;119;119m[0m                  
+apache-log4j-extras                                  1.2.17                                     java-archive  [38;2;119;119;119m[0m                  
+apache-mime4j-core                                   0.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+apache-mime4j-dom                                    0.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.0.1                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+api                                                  1.0.2                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+api                                                  1.0.3                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+api                                                  1.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  1.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.0.0                                      java-archive  [38;2;119;119;119m(+19 duplicates)[0m  
+api                                                  2.0.1                                      java-archive  [38;2;119;119;119m(+19 duplicates)[0m  
+api                                                  2.0.1.Final                                java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.0.2                                      java-archive  [38;2;119;119;119m(+14 duplicates)[0m  
+api                                                  2.0.3                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+api                                                  2.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.0.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  2.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.1.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  2.1.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.1.5                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  2.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.0.0                                      java-archive  [38;2;119;119;119m(+20 duplicates)[0m  
+api                                                  3.0.1                                      java-archive  [38;2;119;119;119m(+9 duplicates)[0m   
+api                                                  3.0.2                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+api                                                  3.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  3.0.4                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+api                                                  3.0.6                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  3.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.1.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.1.4                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.3.1                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  3.7.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.0.0                                      java-archive  [38;2;119;119;119m(+7 duplicates)[0m   
+api                                                  4.0.1                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+api                                                  4.0.2                                      java-archive  [38;2;119;119;119m(+6 duplicates)[0m   
+api                                                  4.0.3                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+api                                                  4.0.4                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+api                                                  4.0.5                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+api                                                  4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.1.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  4.2.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  5.0.0                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+api                                                  5.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  5.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  5.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  5.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  5.1.6                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  5.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  6.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+api                                                  6.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+api                                                  7.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+apk-tools                                            2.10.3-r1                                  apk           [38;2;119;119;119m[0m                  
+application                                          4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+apr                                                  1.6.5-r0                                   apk           [38;2;119;119;119m[0m                  
+archaius-core                                        0.4.1                                      java-archive  [38;2;119;119;119m[0m                  
+args4j                                               2.0.23                                     java-archive  [38;2;119;119;119m[0m                  
+args4j                                               2.33                                       java-archive  [38;2;119;119;119m[0m                  
+asm                                                  4.1                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+asm                                                  5.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+asm                                                  5.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+asm                                                  7.0.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+asm-analysis                                         4.1                                        java-archive  [38;2;119;119;119m[0m                  
+asm-analysis                                         7.0.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+asm-commons                                          7.0.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+asm-debug-all                                        5.1                                        java-archive  [38;2;119;119;119m[0m                  
+asm-tree                                             4.1                                        java-archive  [38;2;119;119;119m[0m                  
+asm-tree                                             7.0.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+asm-util                                             4.1                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+asm-util                                             7.0.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+aspectj-rt                                           1.8.13                                     java-archive  [38;2;119;119;119m[0m                  
+aspectj-weaver                                       1.8.13                                     java-archive  [38;2;119;119;119m[0m                  
+assets                                               4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+attributes                                           4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+audio                                                1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+aws-java-sdk-core                                    1.11.277                                   java-archive  [38;2;119;119;119m[0m                  
+aws-java-sdk-kms                                     1.11.277                                   java-archive  [38;2;119;119;119m[0m                  
+aws-java-sdk-s3                                      1.11.277                                   java-archive  [38;2;119;119;119m[0m                  
+axiom-api                                            1.2.14                                     java-archive  [38;2;119;119;119m[0m                  
+axiom-common-impl                                    1.2.14                                     java-archive  [38;2;119;119;119m[0m                  
+axiom-impl                                           1.2.14                                     java-archive  [38;2;119;119;119m[0m                  
+axis                                                 1.4 1855 April 22 2006                     java-archive  [38;2;119;119;119m[0m                  
+axis-ant                                             1.4 1855 April 22 2006                     java-archive  [38;2;119;119;119m[0m                  
+axis-wsdl4j                                          1.5.1                                      java-archive  [38;2;119;119;119m[0m                  
+backport-util-concurrent                             3.1                                        java-archive  [38;2;119;119;119m[0m                  
+bash                                                 4.4.19-r1                                  apk           [38;2;119;119;119m[0m                  
+batik-constants                                      1.10                                       java-archive  [38;2;119;119;119m[0m                  
+batik-css                                            1.10                                       java-archive  [38;2;119;119;119m[0m                  
+batik-i18n                                           1.10                                       java-archive  [38;2;119;119;119m[0m                  
+batik-util                                           1.10                                       java-archive  [38;2;119;119;119m[0m                  
+bbcode                                               4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+bcmail                                               1.45.0                                     java-archive  [38;2;119;119;119m[0m                  
+bcpg-jdk15on                                         1.59                                       java-archive  [38;2;119;119;119m[0m                  
+bcpkix-jdk15on                                       1.59                                       java-archive  [38;2;119;119;119m[0m                  
+bcprov                                               1.45.0                                     java-archive  [38;2;119;119;119m[0m                  
+bcprov-jdk15on                                       1.59                                       java-archive  [38;2;119;119;119m[0m                  
+boilerpipe                                           1.1.0.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+bootstrap                                            1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+bootstrap                                            9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+bridge                                               3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+bridge                                               3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+brightness                                           3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+bsf                                                  UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+builder                                              2.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+busybox                                              1.29.3-r10                                 apk           [38;2;119;119;119m[0m                  
+c3p0                                                 0.9.5.3                                    java-archive  [38;2;119;119;119m[0m                  
+ca-certificates                                      20190108-r0                                apk           [38;2;119;119;119m[0m                  
+ca-certificates-cacert                               20190108-r0                                apk           [38;2;119;119;119m[0m                  
+cas-client-core                                      3.1.12                                     java-archive  [38;2;119;119;119m[0m                  
+catalina                                             9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+catalina-ant                                         9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+catalina-ha                                          9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+catalina-storeconfig                                 9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+catalina-tribes                                      9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+ccpp                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+ccpp-ri                                              UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+cglib                                                3.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+cglib-nodep                                          UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+chardet                                              UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+charsets                                             UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+chart                                                2.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+checker-qual                                         2.5.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+chemistry-opencmis-client-api                        0.14.0                                     java-archive  [38;2;119;119;119m[0m                  
+chemistry-opencmis-client-bindings                   0.14.0                                     java-archive  [38;2;119;119;119m[0m                  
+chemistry-opencmis-client-impl                       0.14.0                                     java-archive  [38;2;119;119;119m[0m                  
+chemistry-opencmis-commons-api                       0.14.0                                     java-archive  [38;2;119;119;119m[0m                  
+chemistry-opencmis-commons-impl                      0.14.0                                     java-archive  [38;2;119;119;119m[0m                  
+classloader                                          6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+classmate                                            1.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+clay                                                 2.1.6                                      java-archive  [38;2;119;119;119m[0m                  
+cldrdata                                             UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+cleaner                                              3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+cli                                                  6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+client                                               14.0.5                                     java-archive  [38;2;119;119;119m[0m                  
+client                                               3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+close                                                4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+closure-compiler                                     UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+closure-compiler                                     v20180204                                  java-archive  [38;2;119;119;119m[0m                  
+closure-compiler-externs                             v20180204                                  java-archive  [38;2;119;119;119m[0m                  
+closure-compiler-v20180204                           UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+cluster                                              5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+code                                                 1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+collections                                          4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+com.liferay.portal.impl                              4.2.6                                      java-archive  [38;2;119;119;119m[0m                  
+com.liferay.portal.kernel                            4.13.1                                     java-archive  [38;2;119;119;119m[0m                  
+com.liferay.support.tomcat                           3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+com.liferay.util.bridges                             6.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+com.liferay.util.java                                4.0.7                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+com.liferay.util.slf4j                               4.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+com.liferay.util.taglib                              4.1.1                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+com.sun.xml.ws                                       2.1.7.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+comment                                              4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+comments                                             3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+common                                               4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+common                                               4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+common                                               5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+common                                               5.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+common                                               6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+common-image                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+common-io                                            3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+common-lang                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+commons-beanutils                                    1.9.2                                      java-archive  [38;2;119;119;119m[0m                  
+commons-chain                                        1.2                                        java-archive  [38;2;119;119;119m[0m                  
+commons-cli                                          1.3.1                                      java-archive  [38;2;119;119;119m[0m                  
+commons-codec                                        1.10                                       java-archive  [38;2;119;119;119m[0m                  
+commons-codec                                        1.6                                        java-archive  [38;2;119;119;119m[0m                  
+commons-codec                                        1.7                                        java-archive  [38;2;119;119;119m[0m                  
+commons-codec                                        1.9                                        java-archive  [38;2;119;119;119m[0m                  
+commons-collections                                  3.2.2                                      java-archive  [38;2;119;119;119m[0m                  
+commons-collections4                                 4.2                                        java-archive  [38;2;119;119;119m[0m                  
+commons-compress                                     1.18                                       java-archive  [38;2;119;119;119m[0m                  
+commons-configuration                                1.10                                       java-archive  [38;2;119;119;119m[0m                  
+commons-configuration                                1.8                                        java-archive  [38;2;119;119;119m[0m                  
+commons-daemon                                       1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+commons-dbcp                                         1.2.2                                      java-archive  [38;2;119;119;119m[0m                  
+commons-digester                                     1.8.1                                      java-archive  [38;2;119;119;119m[0m                  
+commons-discovery                                    0.4                                        java-archive  [38;2;119;119;119m[0m                  
+commons-exec                                         1.3                                        java-archive  [38;2;119;119;119m[0m                  
+commons-fileupload                                   1.3.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+commons-httpclient                                   3.1                                        java-archive  [38;2;119;119;119m[0m                  
+commons-io                                           1.3.1                                      java-archive  [38;2;119;119;119m[0m                  
+commons-io                                           2.2                                        java-archive  [38;2;119;119;119m[0m                  
+commons-io                                           2.5                                        java-archive  [38;2;119;119;119m[0m                  
+commons-io                                           2.6                                        java-archive  [38;2;119;119;119m[0m                  
+commons-lang                                         2.6                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+commons-lang3                                        3.4                                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+commons-lang3                                        3.8                                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+commons-logging                                      1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+commons-logging                                      1.2                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+commons-math                                         2.0                                        java-archive  [38;2;119;119;119m[0m                  
+commons-math3                                        3.6.1                                      java-archive  [38;2;119;119;119m[0m                  
+commons-pool                                         1.5.7                                      java-archive  [38;2;119;119;119m[0m                  
+commons-pool2                                        2.6.0                                      java-archive  [38;2;119;119;119m[0m                  
+commons-validator                                    1.5.1                                      java-archive  [38;2;119;119;119m[0m                  
+compatibility                                        3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+compiler                                             4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+component                                            1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+component-dsl                                        1.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+concurrent                                           3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+concurrent                                           UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+concurrentlinkedhashmap-lru                          1.4.2                                      java-archive  [38;2;119;119;119m[0m                  
+configuration                                        2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+configuration                                        3.0.1                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+configuration                                        3.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+configuration                                        3.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+configuration                                        4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+configuration                                        4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+connector                                            1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+container                                            5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+content                                              2.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+content                                              3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+contrast                                             3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          4.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+contributor                                          4.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+conversion                                           2.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+conversions                                          4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+core                                                 6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+creole                                               4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+crop                                                 3.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+curl                                                 7.64.0-r3                                  apk           [38;2;119;119;119m[0m                  
+cxf-api                                              2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-core                                             3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-bindings-soap                                 2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-bindings-soap                                 3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-bindings-xml                                  2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-bindings-xml                                  3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-core                                          2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-databinding-jaxb                              2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-databinding-jaxb                              3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-frontend-jaxrs                                3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-frontend-jaxws                                2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-frontend-jaxws                                3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-frontend-simple                               2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-frontend-simple                               3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-rs-client                                     3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-rs-extension-providers                        3.2.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+cxf-rt-rs-json-basic                                 3.2.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+cxf-rt-rs-security-jose                              3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-rs-security-jose-jaxrs                        3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-rs-security-oauth2                            3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-rs-sse                                        3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-security                                      3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-transports-http                               2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-transports-http                               3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-ws-addr                                       2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-ws-policy                                     2.7.11                                     java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-ws-policy                                     3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-rt-wsdl                                          3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-tools-common                                     3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+cxf-tools-validator                                  3.2.5                                      java-archive  [38;2;119;119;119m[0m                  
+daisydiff                                            UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+db                                                   4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+debug                                                2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+debug                                                4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+defaults                                             4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+definition                                           4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+definition                                           4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+delta                                                3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+deployer                                             3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+device                                               4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+display                                              2.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+displaytag                                           1.2                                        java-archive  [38;2;119;119;119m[0m                  
+dnsns                                                UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+document                                             1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+dom4j                                                1.6.1                                      java-archive  [38;2;119;119;119m[0m                  
+doulos                                               5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+dt                                                   UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+easyconf                                             0.9.5                                      java-archive  [38;2;119;119;119m[0m                  
+ecj                                                  4.9                                        java-archive  [38;2;119;119;119m[0m                  
+eclipse-core-runtime                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+ecs                                                  UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+edit                                                 4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+editable                                             2.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+effects                                              3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+ehcache                                              2.10.6                                     java-archive  [38;2;119;119;119m[0m                  
+el-api                                               3.0.FR                                     java-archive  [38;2;119;119;119m[0m                  
+elasticsearch                                        6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+elasticsearch-cli                                    6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+elasticsearch-core                                   6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+elasticsearch-scripting-painless-spi                 6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+elasticsearch-x-content                              6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+encodings                                            1.0.4-r1                                   apk           [38;2;119;119;119m[0m                  
+encryptor                                            3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+equinox                                              4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+error_prone_annotations                              2.0.18                                     java-archive  [38;2;119;119;119m[0m                  
+error_prone_annotations                              2.2.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+error_prone_annotations                              2.3.1                                      java-archive  [38;2;119;119;119m[0m                  
+examples                                             1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+executor                                             3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+executor                                             4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+executor                                             5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+expat                                                2.2.8-r0                                   apk           [38;2;119;119;119m[0m                  
+exportimport                                         2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+expression                                           4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             2.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+extender                                             3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             3.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             4.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+extender                                             4.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+extender                                             4.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             4.0.7                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+extender                                             5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+extender                                             5.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+extension                                            2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+facebook                                             2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+factory                                              4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+failureaccess                                        1.0.1                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+fileupload                                           1.3.3                                      java-archive  [38;2;119;119;119m[0m                  
+filter                                               4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+filter                                               4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+flying-saucer-core                                   9.1.7                                      java-archive  [38;2;119;119;119m[0m                  
+fontbox                                              2.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+fontconfig                                           2.13.1-r0                                  apk           [38;2;119;119;119m[0m                  
+fragment                                             2.0.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+fragment                                             3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+freemarker                                           1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+freemarker                                           5.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+freetype                                             2.9.1-r2                                   apk           [38;2;119;119;119m[0m                  
+freshcookies-security                                0.60 October 21 2008                       java-archive  [38;2;119;119;119m[0m                  
+function                                             3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+geronimo-annotation_1.3_spec                         1.1                                        java-archive  [38;2;119;119;119m[0m                  
+geronimo-atinject_1.0_spec                           1.1                                        java-archive  [38;2;119;119;119m[0m                  
+geronimo-interceptor_1.2_spec                        1.1                                        java-archive  [38;2;119;119;119m[0m                  
+geronimo-jaxrs_2.1_spec                              1.1                                        java-archive  [38;2;119;119;119m[0m                  
+geronimo-jcdi_2.0_spec                               1.1                                        java-archive  [38;2;119;119;119m[0m                  
+geronimo-stax-api_1.0_spec                           1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+gif89                                                UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+google-api-client                                    1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-api-client-jackson2                           1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-api-client-java6                              1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-api-client-servlet                            1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-api-services-drive                            v3-rev20190311-1.28.0                      java-archive  [38;2;119;119;119m[0m                  
+google-api-services-drive-v3-rev20190311             1.28.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-api-services-oauth2                           v2-rev137-1.23.0                           java-archive  [38;2;119;119;119m[0m                  
+google-api-services-oauth2-v2-rev137                 1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-collections                                   1.0                                        java-archive  [38;2;119;119;119m[0m                  
+google-http-client                                   1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-http-client-jackson2                          1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+google-oauth-client                                  1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+graphql-java                                         8.0                                        java-archive  [38;2;119;119;119m[0m                  
+graphql-java-servlet                                 6.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+groovy                                               2.4.5                                      java-archive  [38;2;119;119;119m[0m                  
+groovy                                               4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+gson                                                 1.4                                        java-archive  [38;2;119;119;119m[0m                  
+gson                                                 2.7                                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+guava                                                22.0                                       java-archive  [38;2;119;119;119m[0m                  
+guava                                                25.1-jre                                   java-archive  [38;2;119;119;119m[0m                  
+guava                                                27.0.1-jre                                 java-archive  [38;2;119;119;119m[0m                  
+guava                                                27.1-jre                                   java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+guest                                                4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+guice                                                4.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+guice-multibindings                                  4.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+handler                                              2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+handler                                              5.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+heapTracker                                          1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+help                                                 4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+hessian                                              UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+hibernate-commons-annotations                        3.2.0.Final                                java-archive  [38;2;119;119;119m[0m                  
+hibernate-core                                       3.6.10.Final                               java-archive  [38;2;119;119;119m[0m                  
+hibernate-validator                                  6.0.15.Final                               java-archive  [38;2;119;119;119m[0m                  
+hook                                                 1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+hppc                                                 0.7.1                                      java-archive  [38;2;119;119;119m[0m                  
+hsql                                                 2.3.3                                      java-archive  [38;2;119;119;119m[0m                  
+html                                                 4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+htmlparser                                           UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+http                                                 3.5.0-20150611.165350-3.LIFERAY-PATCHED-2  java-archive  [38;2;119;119;119m[0m                  
+httpasyncclient                                      4.1.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+httpclient                                           4.4                                        java-archive  [38;2;119;119;119m[0m                  
+httpclient                                           4.5.2                                      java-archive  [38;2;119;119;119m[0m                  
+httpclient                                           4.5.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+httpclient                                           4.5.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+httpcore                                             4.4.6                                      java-archive  [38;2;119;119;119m[0m                  
+httpcore                                             4.4.9                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+httpcore-nio                                         4.4.6                                      java-archive  [38;2;119;119;119m[0m                  
+httpmime                                             4.5.5                                      java-archive  [38;2;119;119;119m[0m                  
+hystrix-core                                         1.5.11                                     java-archive  [38;2;119;119;119m[0m                  
+ical                                                 20110304                                   java-archive  [38;2;119;119;119m[0m                  
+ical4j                                               1.0                                        java-archive  [38;2;119;119;119m[0m                  
+ical4j                                               1.0-rc3                                    java-archive  [38;2;119;119;119m[0m                  
+icu4j                                                54.1.1                                     java-archive  [38;2;119;119;119m[0m                  
+icu4j                                                57.1                                       java-archive  [38;2;119;119;119m[0m                  
+icu4j                                                62.1                                       java-archive  [38;2;119;119;119m[0m                  
+id                                                   4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+ie                                                   3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+im4java                                              1.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+image                                                1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+image                                                1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+image                                                2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-bmp                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-core                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-hdr                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-icns                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-iff                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-jpeg                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-metadata                                     3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-pcx                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-pict                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-pnm                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-psd                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-sgi                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-tga                                          3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-thumbsdb                                     3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+imageio-tiff                                         3.3.2                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0                                        java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0.15                                     java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0.2                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+impl                                                 1.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 1.0.8                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 2.0.0                                      java-archive  [38;2;119;119;119m(+6 duplicates)[0m   
+impl                                                 2.0.1                                      java-archive  [38;2;119;119;119m(+11 duplicates)[0m  
+impl                                                 2.0.15                                     java-archive  [38;2;119;119;119m[0m                  
+impl                                                 2.0.2                                      java-archive  [38;2;119;119;119m(+6 duplicates)[0m   
+impl                                                 2.0.3                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+impl                                                 2.0.4                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+impl                                                 2.0.5                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+impl                                                 2.0.6                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 2.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 2.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 3.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+impl                                                 3.0.15                                     java-archive  [38;2;119;119;119m[0m                  
+impl                                                 3.0.2                                      java-archive  [38;2;119;119;119m(+6 duplicates)[0m   
+impl                                                 3.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 3.0.4                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+impl                                                 3.0.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 3.0.6                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+impl                                                 3.0.9                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 4.0.7                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+impl                                                 4.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+impl                                                 4.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+importer                                             4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+instance                                             2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+io                                                   2.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+io                                                   3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+io                                                   4.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+ion-java                                             1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+isoparser                                            1.1.22                                     java-archive  [38;2;119;119;119m[0m                  
+j2objc-annotations                                   1.1                                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+jabsorb                                              1.3.2.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jaccess                                              UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jackson-annotations                                  2.9.9                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+jackson-core                                         2.9.9                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+jackson-databind                                     2.9.9                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+jackson-dataformat-cbor                              2.8.1                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-dataformat-cbor                              2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-dataformat-smile                             2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-dataformat-xml                               2.9.8                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jackson-dataformat-yaml                              2.9.8                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jackson-datatype-jdk8                                2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-jaxrs-base                                   2.9.7                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-jaxrs-base                                   2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-jaxrs-json-provider                          2.9.7                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-jaxrs-json-provider                          2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-jaxrs-xml-provider                           2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-module-jaxb-annotations                      2.9.7                                      java-archive  [38;2;119;119;119m[0m                  
+jackson-module-jaxb-annotations                      2.9.8                                      java-archive  [38;2;119;119;119m[0m                  
+jai_codec                                            1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+jai_core                                             1.1.3                                      java-archive  [38;2;119;119;119m[0m                  
+jakarta-regexp                                       UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jasper                                               9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+jasper-el                                            9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+jaspic-api                                           1.1.FR                                     java-archive  [38;2;119;119;119m[0m                  
+java-cacerts                                         1.0-r0                                     apk           [38;2;119;119;119m[0m                  
+java-common                                          0.1-r0                                     apk           [38;2;119;119;119m[0m                  
+java-dataloader                                      2.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+java-diff                                            1.1                                        java-archive  [38;2;119;119;119m[0m                  
+java-libpst                                          0.8.1                                      java-archive  [38;2;119;119;119m[0m                  
+javassist                                            3.18.2-GA                                  java-archive  [38;2;119;119;119m[0m                  
+javassist                                            3.23.1-GA                                  java-archive  [38;2;119;119;119m[0m                  
+javax.annotation-api                                 1.3                                        java-archive  [38;2;119;119;119m[0m                  
+javax.el                                             3.0.1-b10                                  java-archive  [38;2;119;119;119m[0m                  
+javax.json-api                                       1.0                                        java-archive  [38;2;119;119;119m[0m                  
+javax.jws                                            1.1.0.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+javax.jws-api                                        1.1                                        java-archive  [38;2;119;119;119m[0m                  
+javax.mail                                           1.6.2                                      java-archive  [38;2;119;119;119m[0m                  
+javax.servlet.jsp                                    2.3.3-b02                                  java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+javax.servlet.jsp-api                                2.3.3                                      java-archive  [38;2;119;119;119m[0m                  
+javax.servlet.jsp.jstl                               1.2.3                                      java-archive  [38;2;119;119;119m[0m                  
+javax.servlet.jsp.jstl-api                           1.2.2                                      java-archive  [38;2;119;119;119m[0m                  
+javax.transaction-api                                1.3                                        java-archive  [38;2;119;119;119m[0m                  
+javax.ws.rs-api                                      2.1                                        java-archive  [38;2;119;119;119m[0m                  
+javax.xml.bind                                       2.3.0.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+javax.xml.soap                                       1.4.0.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+javax.xml.soap-api                                   1.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+javax.xml.ws                                         2.3.0.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+jaxb-api                                             2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+jaxb-impl                                            2.1.17                                     java-archive  [38;2;119;119;119m[0m                  
+jaxen                                                1.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+jaxen                                                1.1.6                                      java-archive  [38;2;119;119;119m[0m                  
+jaxrpc                                               1.1                                        java-archive  [38;2;119;119;119m[0m                  
+jaxws-api                                            2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+jaxws-rt                                             2.1.7                                      java-archive  [38;2;119;119;119m[0m                  
+jazzy                                                0.5.2-rtext-1.4.1-2                        java-archive  [38;2;119;119;119m[0m                  
+jboss-classfilewriter                                1.2.3.Final                                java-archive  [38;2;119;119;119m[0m                  
+jboss-logging                                        3.3.2.Final                                java-archive  [38;2;119;119;119m[0m                  
+jboss-rmi-api_1.0_spec                               1.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+jce                                                  1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+jce                                                  1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+jcifs                                                1.3.14-kohsuke-1                           java-archive  [38;2;119;119;119m[0m                  
+jcip-annotations                                     1.0-1                                      java-archive  [38;2;119;119;119m[0m                  
+jcl-over-slf4j                                       1.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+jcommon                                              1.0.16                                     java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+jconsole                                             UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jconsole-plugin                                      1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+jdom                                                 1.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+jempbox                                              1.8.16                                     java-archive  [38;2;119;119;119m[0m                  
+jena                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jericho-html                                         3.1                                        java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+jersey-common                                        2.26                                       java-archive  [38;2;119;119;119m[0m                  
+jettison                                             1.3.3                                      java-archive  [38;2;119;119;119m[0m                  
+jfr                                                  1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+jfreechart                                           1.0.13                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jfreechart                                           UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jgrapht-core                                         0.9.1                                      java-archive  [38;2;119;119;119m[0m                  
+jgroups                                              3.6.16.Final                               java-archive  [38;2;119;119;119m[0m                  
+jhighlight                                           UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jhlabs-filters                                       UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jline                                                2.12                                       java-archive  [38;2;119;119;119m[0m                  
+jmatio                                               1.2                                        java-archive  [38;2;119;119;119m[0m                  
+jms                                                  UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jmx                                                  6.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+jna                                                  4.1.0 (b4)                                 java-archive  [38;2;119;119;119m[0m                  
+joda-time                                            2.8.1                                      java-archive  [38;2;119;119;119m[0m                  
+joda-time                                            2.9.5                                      java-archive  [38;2;119;119;119m[0m                  
+jodconverter                                         2.2.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jodd-bean                                            3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-core                                            3.6.8                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-core                                            3.8.6                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-http                                            3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-http                                            3.8.6                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-json                                            3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-proxetta                                        3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-servlet                                         3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jodd-upload                                          3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+jopt-simple                                          5.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+jrcs-diff                                            UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+json                                                 2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+json                                                 20180813                                   java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+json-path                                            2.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+json-smart                                           2.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+json-smart                                           2.3                                        java-archive  [38;2;119;119;119m[0m                  
+jsontoken                                            1.1                                        java-archive  [38;2;119;119;119m[0m                  
+jsonws                                               2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+jsoup                                                1.10.2                                     java-archive  [38;2;119;119;119m(+11 duplicates)[0m  
+jsoup                                                1.10.2.LIFERAY-PATCHED-3                   java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+jsp-api                                              2.3.FR                                     java-archive  [38;2;119;119;119m[0m                  
+jsr107cache                                          1.0                                        java-archive  [38;2;119;119;119m[0m                  
+jsr166e                                              1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+jsr305                                               3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+jsr305                                               3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+jsse                                                 1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+jsse                                                 1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+jstl                                                 1.2.3.LIFERAY-PATCHED-2                    java-archive  [38;2;119;119;119m[0m                  
+jstl-api                                             1.2                                        java-archive  [38;2;119;119;119m[0m                  
+jstl-impl                                            1.2                                        java-archive  [38;2;119;119;119m[0m                  
+jta                                                  1.1                                        java-archive  [38;2;119;119;119m[0m                  
+jts-core                                             1.15.0                                     java-archive  [38;2;119;119;119m[0m                  
+juh                                                  2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+juh                                                  UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+juniversalchardet                                    1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+jurt                                                 2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+jurt                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+jutf7                                                1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+jws-api                                              1.1                                        java-archive  [38;2;119;119;119m[0m                  
+keyutils-libs                                        1.6-r0                                     apk           [38;2;119;119;119m[0m                  
+krb5-conf                                            1.0-r1                                     apk           [38;2;119;119;119m[0m                  
+krb5-libs                                            1.15.5-r0                                  apk           [38;2;119;119;119m[0m                  
+kxml2                                                UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+lang                                                 1.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+lang                                                 1.0.14                                     java-archive  [38;2;119;119;119m[0m                  
+lang                                                 1.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+lang                                                 1.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 4.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+lang                                                 4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+lang                                                 4.0.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+lang                                                 4.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+lang-mustache-client                                 6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lang-painless                                        6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lang-tag                                             1.4.4                                      java-archive  [38;2;119;119;119m[0m                  
+language                                             1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+language                                             1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+layout                                               2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+lcms2                                                2.9-r1                                     apk           [38;2;119;119;119m[0m                  
+libbz2                                               1.0.6-r7                                   apk           [38;2;119;119;119m[0m                  
+libc-utils                                           0.7.1-r0                                   apk           [38;2;119;119;119m[0m                  
+libcom_err                                           1.44.5-r1                                  apk           [38;2;119;119;119m[0m                  
+libcrypto1.1                                         1.1.1b-r1                                  apk           [38;2;119;119;119m[0m                  
+libcurl                                              7.64.0-r3                                  apk           [38;2;119;119;119m[0m                  
+libffi                                               3.2.1-r6                                   apk           [38;2;119;119;119m[0m                  
+libfontenc                                           1.1.3-r3                                   apk           [38;2;119;119;119m[0m                  
+libgcc                                               8.3.0-r0                                   apk           [38;2;119;119;119m[0m                  
+libjpeg-turbo                                        1.5.3-r5                                   apk           [38;2;119;119;119m[0m                  
+libpng                                               1.6.37-r0                                  apk           [38;2;119;119;119m[0m                  
+library                                              1.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+library                                              3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+library                                              3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+libssh2                                              1.9.0-r1                                   apk           [38;2;119;119;119m[0m                  
+libssl1.1                                            1.1.1b-r1                                  apk           [38;2;119;119;119m[0m                  
+libstdc++                                            8.3.0-r0                                   apk           [38;2;119;119;119m[0m                  
+libtasn1                                             4.14-r0                                    apk           [38;2;119;119;119m[0m                  
+libtensorflow                                        1.10.0                                     java-archive  [38;2;119;119;119m[0m                  
+libtensorflow_jni                                    1.10.0                                     java-archive  [38;2;119;119;119m[0m                  
+libtls-standalone                                    2.7.4-r6                                   apk           [38;2;119;119;119m[0m                  
+libuuid                                              2.33-r0                                    apk           [38;2;119;119;119m[0m                  
+libverto                                             0.3.0-r1                                   apk           [38;2;119;119;119m[0m                  
+liferay-icu4j                                        UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+linkedin                                             2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+listenablefuture                                     9999.0-empty-to-avoid-conflict-with-guava  java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+lksctp-tools                                         1.0.17-r0                                  apk           [38;2;119;119;119m[0m                  
+local_policy                                         UNKNOWN                                    java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+localedata                                           UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+locales                                              3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+log4j                                                1.2.17                                     java-archive  [38;2;119;119;119m[0m                  
+log4j                                                3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+log4j-api                                            2.11.2                                     java-archive  [38;2;119;119;119m[0m                  
+log4j-core                                           2.11.2                                     java-archive  [38;2;119;119;119m[0m                  
+login                                                4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-common                              5.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-common                              7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-icu                                 7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-kuromoji                            7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-smartcn                             7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-analyzers-stempel                             7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-core                                          5.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-core                                          7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-grouping                                      7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-highlighter                                   7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-join                                          7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-memory                                        7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-misc                                          7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-queries                                       5.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-queries                                       7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-queryparser                                   5.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-queryparser                                   7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-sandbox                                       5.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-sandbox                                       7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-spatial                                       7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+lucene-suggest                                       7.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+mail                                                 1.4                                        java-archive  [38;2;119;119;119m[0m                  
+mail                                                 3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+management                                           3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+management-agent                                     UNKNOWN                                    java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+maps                                                 3.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+mariadb-java-client                                  1.1.9                                      java-archive  [38;2;119;119;119m[0m                  
+maximize                                             4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+mchange-commons-java                                 0.2.15                                     java-archive  [38;2;119;119;119m[0m                  
+memory                                               3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+messaging                                            6.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+metadata-extractor                                   2.10.0                                     java-archive  [38;2;119;119;119m[0m                  
+metadata-extractor                                   2.11.0                                     java-archive  [38;2;119;119;119m[0m                  
+metatype                                             1.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+mimepull                                             1.3                                        java-archive  [38;2;119;119;119m[0m                  
+minifier                                             2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+minimize                                             4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+minst                                                1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+mkfontdir                                            1.0.7-r1                                   apk           [38;2;119;119;119m[0m                  
+mkfontscale                                          1.1.3-r1                                   apk           [38;2;119;119;119m[0m                  
+monitoring                                           7.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+monte-cc                                             0.7.7 2013-01-06                           java-archive  [38;2;119;119;119m[0m                  
+mtrace                                               1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+multiple                                             3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+multiple                                             3.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+multiple                                             3.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+musl                                                 1.1.20-r4                                  apk           [38;2;119;119;119m[0m                  
+musl-utils                                           1.1.20-r4                                  apk           [38;2;119;119;119m[0m                  
+mvc                                                  4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+mysql                                                8.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+nashorn                                              1.8.0_212-b04                              java-archive  [38;2;119;119;119m[0m                  
+nashorn                                              1.8.0_222-b10                              java-archive  [38;2;119;119;119m[0m                  
+navigator                                            3.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+ncurses-libs                                         6.1_p20190105-r0                           apk           [38;2;119;119;119m[0m                  
+ncurses-terminfo                                     6.1_p20190105-r0                           apk           [38;2;119;119;119m[0m                  
+ncurses-terminfo-base                                6.1_p20190105-r0                           apk           [38;2;119;119;119m[0m                  
+neethi                                               3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+nekohtml                                             1.9.16                                     java-archive  [38;2;119;119;119m[0m                  
+nekohtml                                             1.9.22                                     java-archive  [38;2;119;119;119m[0m                  
+netcdf                                               4.3.23                                     java-archive  [38;2;119;119;119m[0m                  
+netty-all                                            4.1.11.Final                               java-archive  [38;2;119;119;119m[0m                  
+netty-all                                            4.1.32.Final                               java-archive  [38;2;119;119;119m[0m                  
+nghttp2-libs                                         1.35.1-r1                                  apk           [38;2;119;119;119m[0m                  
+nimbus-jose-jwt                                      6.7                                        java-archive  [38;2;119;119;119m[0m                  
+nio                                                  3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+node                                                 2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+node                                                 4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+notifications                                        1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+notifications                                        4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+npm-semver                                           1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+nspr                                                 4.20-r0                                    apk           [38;2;119;119;119m[0m                  
+nss                                                  3.41-r0                                    apk           [38;2;119;119;119m[0m                  
+nullable                                             2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+oauth-client-java6                                   1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+oauth-client-servlet                                 1.23.0                                     java-archive  [38;2;119;119;119m[0m                  
+oauth2-oidc-sdk                                      6.5                                        java-archive  [38;2;119;119;119m[0m                  
+odata-commons-api                                    4.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+odata-commons-core                                   4.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+odata-server-api                                     4.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+odata-server-core                                    4.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+odata-server-core-ext                                4.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+odmg                                                 3.0                                        java-archive  [38;2;119;119;119m[0m                  
+openjdk8-jre-base                                    8.222.10-r0                                apk           [38;2;119;119;119m[0m                  
+openjdk8-jre-lib                                     8.222.10-r0                                apk           [38;2;119;119;119m[0m                  
+opennlp                                              1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+opennlp                                              1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+opennlp-tools                                        1.9.1                                      java-archive  [38;2;119;119;119m[0m                  
+opensaml                                             1.1                                        java-archive  [38;2;119;119;119m[0m                  
+openstreetmap                                        4.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+org.abego.treelayout.core                            1.0.1                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+org.apache.aries.cdi.extender                        1.0.1-SNAPSHOT                             java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.cdi.extension.el.jsp                1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.cdi.extension.http                  1.0.1-SNAPSHOT                             java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.cdi.extra                           1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.component-dsl.component-dsl         1.2.1                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.jax.rs.jackson                      1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.jax.rs.whiteboard                   1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.aries.spifly.dynamic.framework.extension  1.2.LIFERAY-PATCHED-1                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.axis                                      1.4.LIFERAY-PATCHED-3                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+org.apache.commons.configuration                     1.10.LIFERAY-PATCHED-1                     java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.configadmin                         1.9.8.LIFERAY-PATCHED-3                    java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.dependencymanager                   3.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.dependencymanager.shell             3.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.eventadmin                          1.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.fileinstall                         3.6.4                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.gogo.command                        1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.gogo.runtime                        1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.gogo.shell                          1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.apache.felix.scr                                 2.1.14                                     java-archive  [38;2;119;119;119m[0m                  
+org.eclipse.equinox.console                          1.3.100                                    java-archive  [38;2;119;119;119m[0m                  
+org.eclipse.equinox.http.servlet                     1.2.2.v20190228-1648-LIFERAY-CACHED        java-archive  [38;2;119;119;119m[0m                  
+org.eclipse.equinox.metatype                         1.4.200-20150831.175616-1-LIFERAY-CACHED   java-archive  [38;2;119;119;119m[0m                  
+org.eclipse.osgi                                     3.13.0.LIFERAY-PATCHED-5                   java-archive  [38;2;119;119;119m[0m                  
+org.hibernate.core                                   3.6.10.LIFERAY-PATCHED-4                   java-archive  [38;2;119;119;119m[0m                  
+org.osgi.service.cdi                                 1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.osgi.service.jaxrs                               1.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.osgi.util.function                               1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+org.osgi.util.promise                                1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+oro                                                  2.0.8 2003-12-28 11:00:13                  java-archive  [38;2;119;119;119m[0m                  
+osgi-bundle                                          3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+owasp-java-html-sanitizer                            r239                                       java-archive  [38;2;119;119;119m[0m                  
+p11-kit                                              0.23.14-r0                                 apk           [38;2;119;119;119m[0m                  
+p11-kit-trust                                        0.23.14-r0                                 apk           [38;2;119;119;119m[0m                  
+page                                                 1.0.12                                     java-archive  [38;2;119;119;119m[0m                  
+page                                                 2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+panel                                                4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+panel                                                4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+parboiled-core                                       1.1.6                                      java-archive  [38;2;119;119;119m[0m                  
+parboiled-java                                       1.1.6                                      java-archive  [38;2;119;119;119m[0m                  
+parent-join-client                                   6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+pcsc-lite-libs                                       1.8.24-r1                                  apk           [38;2;119;119;119m[0m                  
+pdfbox                                               2.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+pegdown                                              1.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+percolator-client                                    6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+permissions                                          3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+permissions                                          4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+persistence                                          2.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+ph-commons                                           6.2.4                                      java-archive  [38;2;119;119;119m[0m                  
+ph-css                                               4.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+plugin                                               2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+plugins                                              3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+poi                                                  4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+poi-ooxml                                            4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+poi-ooxml-schemas                                    4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+poi-scratchpad                                       4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+portal-client                                        UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+portal-impl                                          4.2.6                                      java-archive  [38;2;119;119;119m[0m                  
+portal-kernel                                        4.13.1                                     java-archive  [38;2;119;119;119m[0m                  
+portlet                                              2.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+portlet-api                                          3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+postgresql                                           42.0.0                                     java-archive  [38;2;119;119;119m[0m                  
+print                                                4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+print                                                4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+process                                              3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+protobuf-java                                        3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+protobuf-java                                        3.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+prototype                                            3.0.2                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+prototype                                            4.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+provider                                             4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+quartz                                               2.1.7                                      java-archive  [38;2;119;119;119m[0m                  
+query                                                4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+ratings                                              4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+rdffilter                                            UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+reactive-streams                                     1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+readline                                             7.0.003-r1                                 apk           [38;2;119;119;119m[0m                  
+reflect                                              3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+reflections                                          0.9.11                                     java-archive  [38;2;119;119;119m[0m                  
+refresh                                              4.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+reindex-client                                       6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+renderer                                             4.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+resize                                               3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+resources                                            1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+resources                                            1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+resources                                            1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+rest                                                 1.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+rest                                                 2.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+rhino                                                1.7R4                                      java-archive  [38;2;119;119;119m[0m                  
+ridl                                                 2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+ridl                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+rmi-api                                              1.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+rome                                                 1.0                                        java-archive  [38;2;119;119;119m[0m                  
+rome                                                 1.5.1                                      java-archive  [38;2;119;119;119m[0m                  
+rometools                                            1.5.1                                      java-archive  [38;2;119;119;119m[0m                  
+rotate                                               3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+router                                               4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+rs-api                                               2.1                                        java-archive  [38;2;119;119;119m[0m                  
+rt                                                   1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+rt                                                   1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+rxjava                                               1.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+s3                                                   4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+sa-jdi                                               UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+saaj-api                                             1.3                                        java-archive  [38;2;119;119;119m[0m                  
+saaj-impl                                            1.3                                        java-archive  [38;2;119;119;119m[0m                  
+sanitizer                                            4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+saturation                                           3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+scanelf                                              1.2.3-r0                                   apk           [38;2;119;119;119m[0m                  
+scheduler                                            6.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+scribe                                               1.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+scribe                                               1.3.6                                      java-archive  [38;2;119;119;119m[0m                  
+search                                               1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+search                                               5.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+search                                               6.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+section                                              1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+section                                              2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+security                                             4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+serializer                                           2.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.12                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              2.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              2.0.2                                      java-archive  [38;2;119;119;119m(+7 duplicates)[0m   
+service                                              2.0.3                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+service                                              2.0.5                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              2.0.6                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              2.1.5                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              2.1.7                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              2.1.9                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              3.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              3.0.11                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              3.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              3.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              3.0.4                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+service                                              3.0.7                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              3.0.8                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              4.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              4.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              4.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              4.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              4.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              4.0.9                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+service                                              5.0.18                                     java-archive  [38;2;119;119;119m[0m                  
+service                                              5.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              5.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              5.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              5.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+service                                              6.0.14                                     java-archive  [38;2;119;119;119m[0m                  
+services                                             1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+servlet                                              3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+servlet                                              3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+servlet-api                                          4.0.FR                                     java-archive  [38;2;119;119;119m[0m                  
+settings                                             4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+shims                                                3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+shortcut                                             2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+signpost-commonshttp4                                1.2.1.2                                    java-archive  [38;2;119;119;119m[0m                  
+signpost-core                                        1.2.1.2                                    java-archive  [38;2;119;119;119m[0m                  
+simplecaptcha                                        UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+sizeof-agent                                         1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+slf4j-api                                            1.7.10                                     java-archive  [38;2;119;119;119m[0m                  
+slf4j-api                                            1.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+sm                                                   6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+snakeyaml                                            1.17                                       java-archive  [38;2;119;119;119m[0m                  
+snakeyaml                                            1.23                                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+sniffer                                              5.5.3                                      java-archive  [38;2;119;119;119m[0m                  
+soap                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+soap-api                                             1.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+soy                                                  2018-01-03                                 java-archive  [38;2;119;119;119m[0m                  
+soy                                                  3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+spatial4j                                            0.7                                        java-archive  [38;2;119;119;119m[0m                  
+spi                                                  1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+spi                                                  1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+spi                                                  1.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+spi                                                  2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+spi                                                  2.0.1                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+spi                                                  3.2.0                                      java-archive  [38;2;119;119;119m[0m                  
+spi                                                  5.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+spring-aop                                           4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-aspects                                       4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-beans                                         4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-context                                       4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-context-support                               4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-core                                          4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-expression                                    4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-jdbc                                          4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-jms                                           4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-orm                                           4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-oxm                                           4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-tx                                            4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-web                                           4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-webmvc                                        4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+spring-webmvc-portlet                                4.3.22.RELEASE                             java-archive  [38;2;119;119;119m[0m                  
+sqlite-libs                                          3.28.0-r1                                  apk           [38;2;119;119;119m[0m                  
+ssl_client                                           1.29.3-r10                                 apk           [38;2;119;119;119m[0m                  
+stax                                                 1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+stax-ex                                              1.2                                        java-archive  [38;2;119;119;119m[0m                  
+stax2-api                                            3.1.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+streambuffer                                         UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+string                                               3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+stringtemplate                                       UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+styled                                               4.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+sunec                                                1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+sunec                                                1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+sunjce_provider                                      1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+sunjce_provider                                      1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+sunpkcs11                                            1.8.0_212                                  java-archive  [38;2;119;119;119m[0m                  
+sunpkcs11                                            1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+super-csv                                            2.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+support                                              3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+support                                              4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+support-tomcat                                       3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+swagger-annotations                                  2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+swagger-core                                         2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+swagger-integration                                  2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+swagger-jaxrs2                                       2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+swagger-models                                       2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+system                                               4.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+t-digest                                             3.2                                        java-archive  [38;2;119;119;119m[0m                  
+taglib                                               1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               2.0.1                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+taglib                                               2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               2.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+taglib                                               2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               2.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               2.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               3.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               3.0.1                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+taglib                                               3.0.10                                     java-archive  [38;2;119;119;119m[0m                  
+taglib                                               3.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               4.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+taglib                                               4.0.15                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+taglib                                               4.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+taglib                                               4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               4.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               4.1.0                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               4.1.1                                      java-archive  [38;2;119;119;119m[0m                  
+taglib                                               5.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+tagsoup                                              UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+template                                             2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+tensorflow                                           1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+tensorflow                                           1.10.0                                     java-archive  [38;2;119;119;119m[0m                  
+text                                                 4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+thumbnails                                           3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+tika-core                                            1.20                                       java-archive  [38;2;119;119;119m[0m                  
+tika-parsers                                         1.20                                       java-archive  [38;2;119;119;119m[0m                  
+time                                                 2.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+tomcat-api                                           9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-coyote                                        9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-dbcp                                          9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-cs                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-de                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-es                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-fr                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-ja                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-ko                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-pt-BR                                    9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-ru                                       9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-i18n-zh-CN                                    9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-jdbc                                          9.0.17                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+tomcat-jni                                           9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-juli                                          9.0.17                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+tomcat-native                                        1.2.19-r0                                  apk           [38;2;119;119;119m[0m                  
+tomcat-util                                          9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-util-scan                                     9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tomcat-websocket                                     9.0.17                                     java-archive  [38;2;119;119;119m[0m                  
+tools                                                UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+tracker                                              3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+tracker                                              4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+tracking                                             1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+tracking                                             1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+tracking                                             1.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+transaction                                          1.3                                        java-archive  [38;2;119;119;119m[0m                  
+transformer                                          3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+translator                                           3.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+transport                                            6.5.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+transport-netty4-client                              6.5.0                                      java-archive  [38;2;119;119;119m[0m                  
+tree                                                 1.8.0-r0                                   apk           [38;2;119;119;119m[0m                  
+truezip                                              6.7                                        java-archive  [38;2;119;119;119m[0m                  
+truth                                                0.36                                       java-archive  [38;2;119;119;119m[0m                  
+ttf-dejavu                                           2.37-r1                                    apk           [38;2;119;119;119m[0m                  
+twitter                                              2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+type                                                 4.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+types                                                1.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+uad                                                  1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+uad                                                  1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+uad                                                  4.0.0                                      java-archive  [38;2;119;119;119m(+11 duplicates)[0m  
+uad                                                  4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+uad                                                  4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+uad                                                  4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+unboundid-ldapsdk                                    4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+unoil                                                2.3.0                                      java-archive  [38;2;119;119;119m[0m                  
+unoil                                                UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+unstyled                                             4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+upgrade                                              1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+upload                                               2.0.0                                      java-archive  [38;2;119;119;119m[0m                  
+upload                                               2.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+url                                                  2.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+urlrewritefilter                                     4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+use                                                  4.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+user                                                 4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+util                                                 2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+util                                                 5.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+util-bridges                                         6.0.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+util-java                                            4.0.7                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+util-slf4j                                           4.0.2                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+util-taglib                                          4.1.1                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+validation-api                                       2.0.1.Final                                java-archive  [38;2;119;119;119m[0m                  
+validator                                            4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+velocity                                             1.6.4.LIFERAY-PATCHED-1                    java-archive  [38;2;119;119;119m[0m                  
+velocity                                             4.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+velocity-tools                                       1.4                                        java-archive  [38;2;119;119;119m[0m                  
+verifier                                             4.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+video                                                1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+vision                                               1.0.6                                      java-archive  [38;2;119;119;119m[0m                  
+vorbis-java-core                                     0.8                                        java-archive  [38;2;119;119;119m[0m                  
+vorbis-java-tika                                     0.8                                        java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.11                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.13                                     java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+web                                                  1.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.17                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  1.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.20                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  1.0.8                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  1.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.1                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+web                                                  2.0.10                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  2.0.12                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.19                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  2.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.6                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  2.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.8                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  2.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.0                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+web                                                  3.0.1                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+web                                                  3.0.10                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  3.0.11                                     java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+web                                                  3.0.12                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  3.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.2                                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m   
+web                                                  3.0.20                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.21                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.23                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  3.0.3                                      java-archive  [38;2;119;119;119m(+8 duplicates)[0m   
+web                                                  3.0.4                                      java-archive  [38;2;119;119;119m(+7 duplicates)[0m   
+web                                                  3.0.5                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+web                                                  3.0.6                                      java-archive  [38;2;119;119;119m(+10 duplicates)[0m  
+web                                                  3.0.7                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+web                                                  3.0.8                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+web                                                  3.0.9                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+web                                                  4.0.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  4.0.11                                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  4.0.13                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  4.0.16                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  4.0.18                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  4.0.2                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+web                                                  4.0.20                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  4.0.3                                      java-archive  [38;2;119;119;119m(+5 duplicates)[0m   
+web                                                  4.0.4                                      java-archive  [38;2;119;119;119m(+7 duplicates)[0m   
+web                                                  4.0.5                                      java-archive  [38;2;119;119;119m(+4 duplicates)[0m   
+web                                                  4.0.6                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+web                                                  4.0.7                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  4.0.8                                      java-archive  [38;2;119;119;119m(+2 duplicates)[0m   
+web                                                  4.0.9                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  5.0.15                                     java-archive  [38;2;119;119;119m[0m                  
+web                                                  5.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  5.0.4                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  5.0.5                                      java-archive  [38;2;119;119;119m[0m                  
+web                                                  5.0.6                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+web                                                  5.0.9                                      java-archive  [38;2;119;119;119m[0m                  
+websocket-api                                        1.1.FR                                     java-archive  [38;2;119;119;119m[0m                  
+weld-api                                             3.0.SP4                                    java-archive  [38;2;119;119;119m[0m                  
+weld-core-impl                                       3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-ejb                                             3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-jsf                                             3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-jta                                             3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-osgi-bundle                                     3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-probe-core                                      3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+weld-spi                                             3.0.SP4                                    java-archive  [38;2;119;119;119m[0m                  
+weld-web                                             3.0.5.Final                                java-archive  [38;2;119;119;119m[0m                  
+whiteboard                                           3.0.1                                      java-archive  [38;2;119;119;119m[0m                  
+whiteboard                                           3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+wiring                                               4.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+wiring                                               4.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+woodstox-core                                        5.0.3                                      java-archive  [38;2;119;119;119m[0m                  
+wrapper                                              3.0.0                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+wsdl4j                                               1.6.3                                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+wstx                                                 3.2.8                                      java-archive  [38;2;119;119;119m[0m                  
+wstx                                                 4.4.1                                      java-archive  [38;2;119;119;119m[0m                  
+wstx-asl                                             3.2.6                                      java-archive  [38;2;119;119;119m[0m                  
+xalan                                                2.7.2                                      java-archive  [38;2;119;119;119m[0m                  
+xbean                                                3.0.2-r1844291                             java-archive  [38;2;119;119;119m[0m                  
+xbean-spring                                         2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-common                                  2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-v1                                      2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-v2                                      2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-v2a                                     2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-v2b                                     2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xbean-spring-v2c                                     2.8                                        java-archive  [38;2;119;119;119m[0m                  
+xercesImpl                                           2.11.0                                     java-archive  [38;2;119;119;119m[0m                  
+xml                                                  3.0.2                                      java-archive  [38;2;119;119;119m[0m                  
+xml-apis                                             1.4.01                                     java-archive  [38;2;119;119;119m[0m                  
+xml-apis-ext                                         1.3.04                                     java-archive  [38;2;119;119;119m[0m                  
+xmlgraphics-commons                                  2.2                                        java-archive  [38;2;119;119;119m[0m                  
+xmlschema-core                                       2.2.3                                      java-archive  [38;2;119;119;119m[0m                  
+xmlsec                                               1.5.8                                      java-archive  [38;2;119;119;119m[0m                  
+xmpcore                                              UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+xpp3                                                 UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+xsl                                                  4.0.4                                      java-archive  [38;2;119;119;119m[0m                  
+xstream                                              1.4.10                                     java-archive  [38;2;119;119;119m[0m                  
+xuggle-xuggler-noarch                                5.4.0                                      java-archive  [38;2;119;119;119m[0m                  
+xz                                                   1.5                                        java-archive  [38;2;119;119;119m[0m                  
+yui-compressor                                       UNKNOWN                                    java-archive  [38;2;119;119;119m[0m                  
+yuicompressor                                        2.4.7                                      java-archive  [38;2;119;119;119m[0m                  
+zipfs                                                1.8.0_212                                  java-archive  [38;2;119;119;119m(+1 duplicate)[0m    
+zipfs                                                1.8.0_222                                  java-archive  [38;2;119;119;119m[0m                  
+zlib                                                 1.2.11-r1                                  apk           [38;2;119;119;119m[0m                  
+zulu                                                 1.8.0_212                                  binary        [38;2;119;119;119m[0m                  

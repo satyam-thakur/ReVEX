@@ -1,0 +1,543 @@
+NAME                                        VERSION                      TYPE                          
+FastInfoset                                 1.2.15                       java-archive  [38;2;119;119;119m[0m                 
+RoaringBitmap                               0.9.0                        java-archive  [38;2;119;119;119m[0m                 
+US_export_policy                            UNKNOWN                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+accessors-smart                             1.2                          java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+activation                                  1.1                          java-archive  [38;2;119;119;119m[0m                 
+activation                                  1.1.1                        java-archive  [38;2;119;119;119m[0m                 
+adduser                                     3.118                        deb           [38;2;119;119;119m[0m                 
+aether-api                                  0.9.0.M2                     java-archive  [38;2;119;119;119m[0m                 
+aether-connector-file                       0.9.0.M2                     java-archive  [38;2;119;119;119m[0m                 
+aether-connector-okhttp                     0.0.9                        java-archive  [38;2;119;119;119m[0m                 
+aether-impl                                 0.9.0.M2                     java-archive  [38;2;119;119;119m[0m                 
+aether-spi                                  0.9.0.M2                     java-archive  [38;2;119;119;119m[0m                 
+aether-util                                 0.9.0.M2                     java-archive  [38;2;119;119;119m[0m                 
+aggdesigner-algorithm                       6.0                          java-archive  [38;2;119;119;119m[0m                 
+aircompressor                               0.10                         java-archive  [38;2;119;119;119m[0m                 
+airline                                     0.7                          java-archive  [38;2;119;119;119m[0m                 
+antlr                                       2.7.7                        java-archive  [38;2;119;119;119m[0m                 
+antlr-runtime                               3.4                          java-archive  [38;2;119;119;119m[0m                 
+antlr4-runtime                              4.5.1                        java-archive  [38;2;119;119;119m[0m                 
+aopalliance                                 1.0                          java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+api                                         1.0.0-M20                    java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+api-util                                    1.0.0-M20                    java-archive  [38;2;119;119;119m[0m                 
+api-util                                    1.0.3                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+apt                                         1.8.2.3                      deb           [38;2;119;119;119m[0m                 
+asm                                         7.1                          java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+asm-analysis                                7.1                          java-archive  [38;2;119;119;119m[0m                 
+asm-commons                                 7.1                          java-archive  [38;2;119;119;119m[0m                 
+asm-tree                                    7.1                          java-archive  [38;2;119;119;119m[0m                 
+async-http-client                           2.5.3                        java-archive  [38;2;119;119;119m[0m                 
+async-http-client-netty-utils               2.5.3                        java-archive  [38;2;119;119;119m[0m                 
+audience-annotations                        0.11.0                       java-archive  [38;2;119;119;119m[0m                 
+audience-annotations                        0.5.0                        java-archive  [38;2;119;119;119m[0m                 
+avatica-core                                1.17.0                       java-archive  [38;2;119;119;119m[0m                 
+avatica-metrics                             1.17.0                       java-archive  [38;2;119;119;119m[0m                 
+avatica-server                              1.17.0                       java-archive  [38;2;119;119;119m[0m                 
+avro                                        1.7.4                        java-archive  [38;2;119;119;119m[0m                 
+avro                                        1.9.2                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+avro-ipc                                    1.9.2                        java-archive  [38;2;119;119;119m[0m                 
+avro-ipc-jetty                              1.9.2                        java-archive  [38;2;119;119;119m[0m                 
+avro-mapred                                 1.9.2                        java-archive  [38;2;119;119;119m[0m                 
+aws-java-sdk-core                           1.11.199                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+aws-java-sdk-ec2                            1.11.199                     java-archive  [38;2;119;119;119m[0m                 
+aws-java-sdk-kinesis                        1.11.199                     java-archive  [38;2;119;119;119m[0m                 
+aws-java-sdk-kms                            1.11.199                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+aws-java-sdk-s3                             1.11.199                     java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+aws-java-sdk-sts                            1.11.199                     java-archive  [38;2;119;119;119m[0m                 
+azure-keyvault-core                         1.0.0                        java-archive  [38;2;119;119;119m[0m                 
+azure-storage                               8.6.0                        java-archive  [38;2;119;119;119m[0m                 
+base-files                                  10.3+deb10u9                 deb           [38;2;119;119;119m[0m                 
+base-passwd                                 3.5.46                       deb           [38;2;119;119;119m[0m                 
+bash                                        5.0-4                        deb           [38;2;119;119;119m[0m                 
+bsdutils                                    1:2.33.1-0.1                 deb           [38;2;119;119;119m[0m                 
+bzip2                                       1.0.6-9.2~deb10u1            deb           [38;2;119;119;119m[0m                 
+ca-certificates                             20200601~deb10u2             deb           [38;2;119;119;119m[0m                 
+caffeine                                    2.8.0                        java-archive  [38;2;119;119;119m[0m                 
+calcite-core                                1.21.0                       java-archive  [38;2;119;119;119m[0m                 
+calcite-linq4j                              1.21.0                       java-archive  [38;2;119;119;119m[0m                 
+cglib                                       3.2.0                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+charsets                                    UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+checker-qual                                2.5.7                        java-archive  [38;2;119;119;119m[0m                 
+classmate                                   1.1.0                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+cldrdata                                    UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+codec                                       2.0.0-M15                    java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+commons-beanutils                           1.9.4                        java-archive  [38;2;119;119;119m[0m                 
+commons-cli                                 1.2                          java-archive  [38;2;119;119;119m[0m                 
+commons-codec                               1.13                         java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+commons-codec                               1.4                          java-archive  [38;2;119;119;119m[0m                 
+commons-collections                         3.2.2                        java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+commons-collections4                        4.2                          java-archive  [38;2;119;119;119m[0m                 
+commons-compiler                            3.0.11                       java-archive  [38;2;119;119;119m[0m                 
+commons-compress                            1.19                         java-archive  [38;2;119;119;119m[0m                 
+commons-configuration                       1.6                          java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+commons-dbcp2                               2.0.1                        java-archive  [38;2;119;119;119m[0m                 
+commons-digester                            1.8                          java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+commons-io                                  2.4                          java-archive  [38;2;119;119;119m[0m                 
+commons-io                                  2.6                          java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+commons-lang                                2.6                          java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+commons-lang3                               3.8.1                        java-archive  [38;2;119;119;119m[0m                 
+commons-logging                             1.1.1                        java-archive  [38;2;119;119;119m(+7 duplicates)[0m  
+commons-logging                             1.1.3                        java-archive  [38;2;119;119;119m[0m                 
+commons-math3                               3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+commons-math3                               3.6.1                        java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+commons-net                                 3.1                          java-archive  [38;2;119;119;119m[0m                 
+commons-net                                 3.6                          java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+commons-pool2                               2.2                          java-archive  [38;2;119;119;119m[0m                 
+commons-text                                1.3                          java-archive  [38;2;119;119;119m[0m                 
+compress-lzf                                1.0.4                        java-archive  [38;2;119;119;119m[0m                 
+config-magic                                0.9                          java-archive  [38;2;119;119;119m[0m                 
+coreutils                                   8.30-3                       deb           [38;2;119;119;119m[0m                 
+curator-client                              2.7.1                        java-archive  [38;2;119;119;119m[0m                 
+curator-client                              4.3.0                        java-archive  [38;2;119;119;119m[0m                 
+curator-framework                           2.7.1                        java-archive  [38;2;119;119;119m[0m                 
+curator-framework                           4.3.0                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+curator-recipes                             2.7.1                        java-archive  [38;2;119;119;119m[0m                 
+curator-recipes                             4.3.0                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+curator-x-discovery                         4.3.0                        java-archive  [38;2;119;119;119m[0m                 
+curl                                        7.64.0-4+deb10u2             deb           [38;2;119;119;119m[0m                 
+dash                                        0.5.10.2-5                   deb           [38;2;119;119;119m[0m                 
+datasketches-java                           1.3.0-incubating             java-archive  [38;2;119;119;119m[0m                 
+datasketches-memory                         1.2.0-incubating             java-archive  [38;2;119;119;119m[0m                 
+debconf                                     1.5.71                       deb           [38;2;119;119;119m[0m                 
+debian-archive-keyring                      2019.1+deb10u1               deb           [38;2;119;119;119m[0m                 
+debianutils                                 4.8.6.1                      deb           [38;2;119;119;119m[0m                 
+derby                                       10.14.2.0                    java-archive  [38;2;119;119;119m[0m                 
+derbyclient                                 10.14.2.0                    java-archive  [38;2;119;119;119m[0m                 
+derbynet                                    10.14.2.0                    java-archive  [38;2;119;119;119m[0m                 
+diffutils                                   1:3.7-3                      deb           [38;2;119;119;119m[0m                 
+dirmngr                                     2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+disruptor                                   3.3.6                        java-archive  [38;2;119;119;119m[0m                 
+dnsns                                       UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+dpkg                                        1.19.7                       deb           [38;2;119;119;119m[0m                 
+druid-avro-extensions                       0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-aws-common                            0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-azure-extensions                      0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-basic-security                        0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-bloom-filter                          0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-console                               0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-core                                  0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-datasketches                          0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-ec2-extensions                        0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-gcp-common                            0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-google-extensions                     0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-hdfs-storage                          0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-histogram                             0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-hll                                   0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-indexing-hadoop                       0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-indexing-service                      0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-kafka-extraction-namespace            0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-kafka-indexing-service                0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-kerberos                              0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-kinesis-indexing-service              0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-lookups-cached-global                 0.20.0                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+druid-lookups-cached-single                 0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-orc-extensions                        0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-pac4j                                 0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-parquet-extensions                    0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-processing                            0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-protobuf-extensions                   0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-ranger-security                       0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-s3-extensions                         0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-server                                0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-services                              0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-sql                                   0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+druid-stats                                 0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+e2fsprogs                                   1.44.5-1+deb10u3             deb           [38;2;119;119;119m[0m                 
+eclipselink                                 2.5.2                        java-archive  [38;2;119;119;119m[0m                 
+error_prone_annotations                     2.3.2                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+esri-geometry-api                           2.2.0                        java-archive  [38;2;119;119;119m[0m                 
+extendedset                                 0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+failureaccess                               1.0.1                        java-archive  [38;2;119;119;119m[0m                 
+fastutil                                    8.2.3                        java-archive  [38;2;119;119;119m[0m                 
+fdisk                                       2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+findutils                                   4.6.0+git+20190209-2         deb           [38;2;119;119;119m[0m                 
+fontconfig                                  2.13.1-2                     deb           [38;2;119;119;119m[0m                 
+fontconfig-config                           2.13.1-2                     deb           [38;2;119;119;119m[0m                 
+fonts-dejavu-core                           2.37-1                       deb           [38;2;119;119;119m[0m                 
+gcc-8-base                                  8.3.0-6                      deb           [38;2;119;119;119m[0m                 
+gethostname4j                               0.0.2                        java-archive  [38;2;119;119;119m[0m                 
+gnupg                                       2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gnupg-l10n                                  2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gnupg-utils                                 2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+google-api-client                           1.26.0                       java-archive  [38;2;119;119;119m[0m                 
+google-api-services-storage                 v1-rev20190523-1.26.0        java-archive  [38;2;119;119;119m[0m                 
+google-api-services-storage-v1-rev20190523  1.26.0                       java-archive  [38;2;119;119;119m[0m                 
+google-http-client                          1.26.0                       java-archive  [38;2;119;119;119m[0m                 
+google-http-client-jackson2                 1.26.0                       java-archive  [38;2;119;119;119m[0m                 
+google-oauth-client                         1.26.0                       java-archive  [38;2;119;119;119m[0m                 
+gpg                                         2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpg-agent                                   2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpg-wks-client                              2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpg-wks-server                              2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpgconf                                     2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpgsm                                       2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+gpgv                                        2.2.12-1+deb10u1             deb           [38;2;119;119;119m[0m                 
+grep                                        3.3-1                        deb           [38;2;119;119;119m[0m                 
+gson                                        2.2.4                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+gson                                        2.3.1                        java-archive  [38;2;119;119;119m[0m                 
+gson                                        2.8.6                        java-archive  [38;2;119;119;119m[0m                 
+guava                                       11.0.2                       java-archive  [38;2;119;119;119m[0m                 
+guava                                       16.0.1                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+guice                                       4.1.0                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+guice-assistedinject                        4.1.0                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+guice-multibindings                         4.1.0                        java-archive  [38;2;119;119;119m[0m                 
+guice-servlet                               4.1.0                        java-archive  [38;2;119;119;119m[0m                 
+gzip                                        1.9-3                        deb           [38;2;119;119;119m[0m                 
+hadoop-annotations                          2.8.5                        java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+hadoop-auth                                 2.8.5                        java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+hadoop-aws                                  2.8.5                        java-archive  [38;2;119;119;119m[0m                 
+hadoop-client                               2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-common                               2.8.5                        java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+hadoop-hdfs-client                          2.8.5                        java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+hadoop-mapreduce-client-app                 2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-mapreduce-client-common              2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-mapreduce-client-core                2.8.5                        java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+hadoop-mapreduce-client-jobclient           2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-mapreduce-client-shuffle             2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-yarn-api                             2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-yarn-client                          2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hadoop-yarn-common                          2.8.5                        java-archive  [38;2;119;119;119m[0m                 
+hadoop-yarn-server-common                   2.8.5                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+hibernate-validator                         5.2.5.Final                  java-archive  [38;2;119;119;119m[0m                 
+hive-storage-api                            2.7.1                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+hostname                                    3.21                         deb           [38;2;119;119;119m[0m                 
+htrace-core4                                4.0.1-incubating             java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+httpclient                                  4.5.10                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+httpclient                                  4.5.2                        java-archive  [38;2;119;119;119m[0m                 
+httpcore                                    4.4.11                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+httpcore                                    4.4.4                        java-archive  [38;2;119;119;119m[0m                 
+httpmime                                    4.5.3                        java-archive  [38;2;119;119;119m[0m                 
+i18n                                        2.0.0-M15                    java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+icu4j                                       55.1                         java-archive  [38;2;119;119;119m[0m                 
+init-system-helpers                         1.56+nmu1                    deb           [38;2;119;119;119m[0m                 
+ion-java                                    1.0.2                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+iproute2                                    4.20.0-2+deb10u1             deb           [38;2;119;119;119m[0m                 
+iputils-ping                                3:20180629-2+deb10u2         deb           [38;2;119;119;119m[0m                 
+istack-commons-runtime                      3.0.7                        java-archive  [38;2;119;119;119m[0m                 
+j2objc-annotations                          1.1                          java-archive  [38;2;119;119;119m[0m                 
+jaccess                                     UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+jackson-annotations                         2.10.2                       java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+jackson-annotations                         2.4.0                        java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+jackson-annotations                         2.9.10                       java-archive  [38;2;119;119;119m[0m                 
+jackson-core                                2.10.2                       java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+jackson-core                                2.4.0                        java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+jackson-core                                2.9.10                       java-archive  [38;2;119;119;119m[0m                 
+jackson-core-asl                            1.9.13                       java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+jackson-databind                            2.10.2                       java-archive  [38;2;119;119;119m(+5 duplicates)[0m  
+jackson-databind                            2.4.0                        java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+jackson-databind                            2.9.10                       java-archive  [38;2;119;119;119m[0m                 
+jackson-dataformat-cbor                     2.10.2                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+jackson-dataformat-smile                    2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-datatype-guava                      2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-datatype-joda                       2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-jaxrs                               1.9.13                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+jackson-jaxrs-base                          2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-jaxrs-json-provider                 2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-jaxrs-smile-provider                2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-jq                                  0.0.10                       java-archive  [38;2;119;119;119m[0m                 
+jackson-mapper-asl                          1.9.13                       java-archive  [38;2;119;119;119m(+4 duplicates)[0m  
+jackson-module-guice                        2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-module-jaxb-annotations             2.10.2                       java-archive  [38;2;119;119;119m[0m                 
+jackson-xc                                  1.9.13                       java-archive  [38;2;119;119;119m[0m                 
+jakarta.activation-api                      1.2.1                        java-archive  [38;2;119;119;119m[0m                 
+jakarta.xml.bind-api                        2.3.2                        java-archive  [38;2;119;119;119m[0m                 
+janino                                      3.0.11                       java-archive  [38;2;119;119;119m[0m                 
+javax.activation                            1.2.0                        java-archive  [38;2;119;119;119m[0m                 
+javax.activation-api                        1.2.0                        java-archive  [38;2;119;119;119m[0m                 
+javax.annotation-api                        1.3.2                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+javax.el                                    3.0.0                        java-archive  [38;2;119;119;119m[0m                 
+javax.el-api                                3.0.0                        java-archive  [38;2;119;119;119m[0m                 
+javax.mail                                  1.6.1                        java-archive  [38;2;119;119;119m[0m                 
+javax.servlet-api                           3.1.0                        java-archive  [38;2;119;119;119m[0m                 
+jaxb-api                                    2.2.2                        java-archive  [38;2;119;119;119m[0m                 
+jaxb-api                                    2.3.1                        java-archive  [38;2;119;119;119m[0m                 
+jaxb-runtime                                2.3.1                        java-archive  [38;2;119;119;119m[0m                 
+jboss-logging                               3.2.1.Final                  java-archive  [38;2;119;119;119m[0m                 
+jce                                         1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+jcip-annotations                            1.0-1                        java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+jcl-over-slf4j                              1.7.12                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+jcodings                                    1.0.43                       java-archive  [38;2;119;119;119m[0m                 
+jctools-core                                3.0.0                        java-archive  [38;2;119;119;119m[0m                 
+jdbi                                        2.63.1                       java-archive  [38;2;119;119;119m[0m                 
+jersey-bundle                               1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jersey-client                               1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jersey-client                               1.9                          java-archive  [38;2;119;119;119m[0m                 
+jersey-core                                 1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jersey-core                                 1.9                          java-archive  [38;2;119;119;119m[0m                 
+jersey-guice                                1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jersey-server                               1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jersey-servlet                              1.19.3                       java-archive  [38;2;119;119;119m[0m                 
+jetty-client                                9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-continuation                          9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-http                                  9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-io                                    9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-proxy                                 9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-rewrite                               9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-security                              9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-server                                9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-servlet                               9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-servlets                              9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jetty-sslengine                             6.1.26                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+jetty-util                                  6.1.26                       java-archive  [38;2;119;119;119m[0m                 
+jetty-util                                  9.4.30.v20200611             java-archive  [38;2;119;119;119m[0m                 
+jfr                                         1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+jline                                       0.9.94                       java-archive  [38;2;119;119;119m[0m                 
+jmespath-java                               1.11.199                     java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+jna                                         4.5.1                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+jna-platform                                5.2.0                        java-archive  [38;2;119;119;119m[0m                 
+joda-time                                   2.10.5                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+joni                                        2.1.27                       java-archive  [38;2;119;119;119m[0m                 
+jopt-simple                                 5.0.4                        java-archive  [38;2;119;119;119m[0m                 
+json-path                                   2.3.0                        java-archive  [38;2;119;119;119m[0m                 
+json-smart                                  1.3.1                        java-archive  [38;2;119;119;119m[0m                 
+json-smart                                  2.3                          java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+jsp-api                                     2.1                          java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+jsr305                                      2.0.1                        java-archive  [38;2;119;119;119m[0m                 
+jsr305                                      3.0.0                        java-archive  [38;2;119;119;119m[0m                 
+jsr311-api                                  1.1.1                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+jsse                                        1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+jvm-attach-api                              1.5                          java-archive  [38;2;119;119;119m[0m                 
+kafka-clients                               2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+kafka-clients                               2.6.0                        java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+kafka-schema-registry-client                3.0.1                        java-archive  [38;2;119;119;119m[0m                 
+kafka_2.11                                  2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+lang-tag                                    1.5                          java-archive  [38;2;119;119;119m[0m                 
+leveldbjni-all                              1.8                          java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+libacl1                                     2.2.53-4                     deb           [38;2;119;119;119m[0m                 
+libapt-pkg5.0                               1.8.2.3                      deb           [38;2;119;119;119m[0m                 
+libassuan0                                  2.5.2-1                      deb           [38;2;119;119;119m[0m                 
+libattr1                                    1:2.4.48-4                   deb           [38;2;119;119;119m[0m                 
+libaudit-common                             1:2.8.4-3                    deb           [38;2;119;119;119m[0m                 
+libaudit1                                   1:2.8.4-3                    deb           [38;2;119;119;119m[0m                 
+libblkid1                                   2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+libbz2-1.0                                  1.0.6-9.2~deb10u1            deb           [38;2;119;119;119m[0m                 
+libc-bin                                    2.28-10                      deb           [38;2;119;119;119m[0m                 
+libc6                                       2.28-10                      deb           [38;2;119;119;119m[0m                 
+libcap-ng0                                  0.7.9-2                      deb           [38;2;119;119;119m[0m                 
+libcap2                                     1:2.25-2                     deb           [38;2;119;119;119m[0m                 
+libcap2-bin                                 1:2.25-2                     deb           [38;2;119;119;119m[0m                 
+libcom-err2                                 1.44.5-1+deb10u3             deb           [38;2;119;119;119m[0m                 
+libcurl4                                    7.64.0-4+deb10u2             deb           [38;2;119;119;119m[0m                 
+libdb5.3                                    5.3.28+dfsg1-0.5             deb           [38;2;119;119;119m[0m                 
+libdebconfclient0                           0.249                        deb           [38;2;119;119;119m[0m                 
+libelf1                                     0.176-1.1                    deb           [38;2;119;119;119m[0m                 
+libexpat1                                   2.2.6-2+deb10u1              deb           [38;2;119;119;119m[0m                 
+libext2fs2                                  1.44.5-1+deb10u3             deb           [38;2;119;119;119m[0m                 
+libfdisk1                                   2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+libffi6                                     3.2.1-9                      deb           [38;2;119;119;119m[0m                 
+libfindbin-libs-perl                        2.190.02-1                   deb           [38;2;119;119;119m[0m                 
+libfontconfig1                              2.13.1-2                     deb           [38;2;119;119;119m[0m                 
+libfreetype6                                2.9.1-3+deb10u2              deb           [38;2;119;119;119m[0m                 
+libgcc1                                     1:8.3.0-6                    deb           [38;2;119;119;119m[0m                 
+libgcrypt20                                 1.8.4-5                      deb           [38;2;119;119;119m[0m                 
+libgdbm-compat4                             1.18.1-4                     deb           [38;2;119;119;119m[0m                 
+libgdbm6                                    1.18.1-4                     deb           [38;2;119;119;119m[0m                 
+libgmp10                                    2:6.1.2+dfsg-4               deb           [38;2;119;119;119m[0m                 
+libgnutls30                                 3.6.7-4+deb10u6              deb           [38;2;119;119;119m[0m                 
+libgpg-error0                               1.35-1                       deb           [38;2;119;119;119m[0m                 
+libgssapi-krb5-2                            1.17-3+deb10u1               deb           [38;2;119;119;119m[0m                 
+libhogweed4                                 3.4.1-1                      deb           [38;2;119;119;119m[0m                 
+libidn2-0                                   2.0.5-1+deb10u1              deb           [38;2;119;119;119m[0m                 
+libk5crypto3                                1.17-3+deb10u1               deb           [38;2;119;119;119m[0m                 
+libkeyutils1                                1.6-6                        deb           [38;2;119;119;119m[0m                 
+libkrb5-3                                   1.17-3+deb10u1               deb           [38;2;119;119;119m[0m                 
+libkrb5support0                             1.17-3+deb10u1               deb           [38;2;119;119;119m[0m                 
+libksba8                                    1.3.5-2                      deb           [38;2;119;119;119m[0m                 
+libldap-2.4-2                               2.4.47+dfsg-3+deb10u6        deb           [38;2;119;119;119m[0m                 
+libldap-common                              2.4.47+dfsg-3+deb10u6        deb           [38;2;119;119;119m[0m                 
+liblz4-1                                    1.8.3-1                      deb           [38;2;119;119;119m[0m                 
+liblzma5                                    5.2.4-1                      deb           [38;2;119;119;119m[0m                 
+libmnl0                                     1.0.4-2                      deb           [38;2;119;119;119m[0m                 
+libmount1                                   2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+libmpdec2                                   2.4.2-2                      deb           [38;2;119;119;119m[0m                 
+libncursesw6                                6.1+20181013-2+deb10u2       deb           [38;2;119;119;119m[0m                 
+libnettle6                                  3.4.1-1                      deb           [38;2;119;119;119m[0m                 
+libnghttp2-14                               1.36.0-2+deb10u1             deb           [38;2;119;119;119m[0m                 
+libnpth0                                    1.6-1                        deb           [38;2;119;119;119m[0m                 
+libp11-kit0                                 0.23.15-2+deb10u1            deb           [38;2;119;119;119m[0m                 
+libpam-modules                              1.3.1-5                      deb           [38;2;119;119;119m[0m                 
+libpam-modules-bin                          1.3.1-5                      deb           [38;2;119;119;119m[0m                 
+libpam-runtime                              1.3.1-5                      deb           [38;2;119;119;119m[0m                 
+libpam0g                                    1.3.1-5                      deb           [38;2;119;119;119m[0m                 
+libpcre2-8-0                                10.32-5                      deb           [38;2;119;119;119m[0m                 
+libpcre3                                    2:8.39-12                    deb           [38;2;119;119;119m[0m                 
+libperl5.28                                 5.28.1-6+deb10u1             deb           [38;2;119;119;119m[0m                 
+libpng16-16                                 1.6.36-6                     deb           [38;2;119;119;119m[0m                 
+libpsl5                                     0.20.2-2                     deb           [38;2;119;119;119m[0m                 
+libpython3-stdlib                           3.7.3-1                      deb           [38;2;119;119;119m[0m                 
+libpython3.7-minimal                        3.7.3-2+deb10u4              deb           [38;2;119;119;119m[0m                 
+libpython3.7-stdlib                         3.7.3-2+deb10u4              deb           [38;2;119;119;119m[0m                 
+libreadline7                                7.0-5                        deb           [38;2;119;119;119m[0m                 
+librtmp1                                    2.4+20151223.gitfa8646d.1-2  deb           [38;2;119;119;119m[0m                 
+libsasl2-2                                  2.1.27+dfsg-1+deb10u1        deb           [38;2;119;119;119m[0m                 
+libsasl2-modules-db                         2.1.27+dfsg-1+deb10u1        deb           [38;2;119;119;119m[0m                 
+libseccomp2                                 2.3.3-4                      deb           [38;2;119;119;119m[0m                 
+libselinux1                                 2.8-1+b1                     deb           [38;2;119;119;119m[0m                 
+libsemanage-common                          2.8-2                        deb           [38;2;119;119;119m[0m                 
+libsemanage1                                2.8-2                        deb           [38;2;119;119;119m[0m                 
+libsepol1                                   2.8-1                        deb           [38;2;119;119;119m[0m                 
+libsmartcols1                               2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+libsqlite3-0                                3.27.2-3+deb10u1             deb           [38;2;119;119;119m[0m                 
+libss2                                      1.44.5-1+deb10u3             deb           [38;2;119;119;119m[0m                 
+libssh2-1                                   1.8.0-2.1                    deb           [38;2;119;119;119m[0m                 
+libssl1.1                                   1.1.1d-0+deb10u6             deb           [38;2;119;119;119m[0m                 
+libstdc++6                                  8.3.0-6                      deb           [38;2;119;119;119m[0m                 
+libsystemd0                                 241-7~deb10u7                deb           [38;2;119;119;119m[0m                 
+libtasn1-6                                  4.13-3                       deb           [38;2;119;119;119m[0m                 
+libtinfo6                                   6.1+20181013-2+deb10u2       deb           [38;2;119;119;119m[0m                 
+libudev1                                    241-7~deb10u7                deb           [38;2;119;119;119m[0m                 
+libunistring2                               0.9.10-1                     deb           [38;2;119;119;119m[0m                 
+libuuid1                                    2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+libxtables12                                1.8.2-4                      deb           [38;2;119;119;119m[0m                 
+libzstd1                                    1.3.8+dfsg-3+deb10u2         deb           [38;2;119;119;119m[0m                 
+listenablefuture                            1.0                          java-archive  [38;2;119;119;119m[0m                 
+local_policy                                UNKNOWN                      java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+localedata                                  UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+log4j                                       1.2.17                       java-archive  [38;2;119;119;119m(+1 duplicate)[0m   
+log4j-1.2-api                               2.8.2                        java-archive  [38;2;119;119;119m[0m                 
+log4j-api                                   2.8.2                        java-archive  [38;2;119;119;119m[0m                 
+log4j-core                                  2.8.2                        java-archive  [38;2;119;119;119m[0m                 
+log4j-jul                                   2.8.2                        java-archive  [38;2;119;119;119m[0m                 
+log4j-slf4j-impl                            2.8.2                        java-archive  [38;2;119;119;119m[0m                 
+login                                       1:4.5-1.1                    deb           [38;2;119;119;119m[0m                 
+lsb-base                                    10.2019051400                deb           [38;2;119;119;119m[0m                 
+lz4-java                                    1.7.1                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+management-agent                            UNKNOWN                      java-archive  [38;2;119;119;119m[0m                 
+mapdb                                       1.0.8                        java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+maven-aether-provider                       3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+maven-artifact                              3.6.0                        java-archive  [38;2;119;119;119m[0m                 
+maven-model                                 3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+maven-model-builder                         3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+maven-repository-metadata                   3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+maven-settings                              3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+maven-settings-builder                      3.1.1                        java-archive  [38;2;119;119;119m[0m                 
+mawk                                        1.3.3-17+b3                  deb           [38;2;119;119;119m[0m                 
+metrics-core                                2.2.0                        java-archive  [38;2;119;119;119m[0m                 
+metrics-core                                4.0.0                        java-archive  [38;2;119;119;119m[0m                 
+mime-support                                3.62                         deb           [38;2;119;119;119m[0m                 
+mount                                       2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+mysql-metadata-storage                      0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+nashorn                                     1.8.0_292-b10                java-archive  [38;2;119;119;119m[0m                 
+ncurses-base                                6.1+20181013-2+deb10u2       deb           [38;2;119;119;119m[0m                 
+ncurses-bin                                 6.1+20181013-2+deb10u2       deb           [38;2;119;119;119m[0m                 
+netbase                                     5.6                          deb           [38;2;119;119;119m[0m                 
+netty                                       3.10.6.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-buffer                                4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-codec                                 4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-codec-dns                             4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-codec-http                            4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-codec-socks                           4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-common                                4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-handler                               4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-handler-proxy                         4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-reactive-streams                      2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+netty-resolver                              4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-resolver-dns                          4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-transport                             4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-transport-native-epoll                4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+netty-transport-native-unix-common          4.1.48.Final                 java-archive  [38;2;119;119;119m[0m                 
+nimbus-jose-jwt                             4.41.1                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+nimbus-jose-jwt                             7.9                          java-archive  [38;2;119;119;119m[0m                 
+noggit                                      0.8                          java-archive  [38;2;119;119;119m[0m                 
+oauth2-oidc-sdk                             6.5                          java-archive  [38;2;119;119;119m[0m                 
+okhttp                                      1.0.2                        java-archive  [38;2;119;119;119m[0m                 
+opencsv                                     4.6                          java-archive  [38;2;119;119;119m[0m                 
+openjdk                                     1.8.0_292                    binary        [38;2;119;119;119m[0m                 
+openssl                                     1.1.1d-0+deb10u6             deb           [38;2;119;119;119m[0m                 
+orc-core                                    1.5.10                       java-archive  [38;2;119;119;119m[0m                 
+orc-mapreduce                               1.5.10                       java-archive  [38;2;119;119;119m[0m                 
+orc-shims                                   1.5.10                       java-archive  [38;2;119;119;119m[0m                 
+p11-kit                                     0.23.15-2+deb10u1            deb           [38;2;119;119;119m[0m                 
+p11-kit-modules                             0.23.15-2+deb10u1            deb           [38;2;119;119;119m[0m                 
+pac4j-core                                  3.8.3                        java-archive  [38;2;119;119;119m[0m                 
+pac4j-oidc                                  3.8.3                        java-archive  [38;2;119;119;119m[0m                 
+paranamer                                   2.3                          java-archive  [38;2;119;119;119m[0m                 
+parquet-avro                                1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-column                              1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-common                              1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-encoding                            1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-format-structures                   1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-hadoop                              1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+parquet-jackson                             1.11.0                       java-archive  [38;2;119;119;119m[0m                 
+passwd                                      1:4.5-1.1                    deb           [38;2;119;119;119m[0m                 
+perl                                        5.28.1-6+deb10u1             deb           [38;2;119;119;119m[0m                 
+perl-base                                   5.28.1-6+deb10u1             deb           [38;2;119;119;119m[0m                 
+perl-modules-5.28                           5.28.1-6+deb10u1             deb           [38;2;119;119;119m[0m                 
+persistence                                 2.1.0                        java-archive  [38;2;119;119;119m[0m                 
+pinentry-curses                             1.1.0-2                      deb           [38;2;119;119;119m[0m                 
+plexus-interpolation                        1.19                         java-archive  [38;2;119;119;119m[0m                 
+plexus-utils                                3.0.24                       java-archive  [38;2;119;119;119m[0m                 
+postgresql                                  42.2.14                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+postgresql-metadata-storage                 0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+protobuf-dynamic                            0.9.3                        java-archive  [38;2;119;119;119m[0m                 
+protobuf-java                               2.5.0                        java-archive  [38;2;119;119;119m[0m                 
+protobuf-java                               3.11.0                       java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+protobuf-java-util                          3.11.0                       java-archive  [38;2;119;119;119m[0m                 
+python3                                     3.7.3-1                      deb           [38;2;119;119;119m[0m                 
+python3-minimal                             3.7.3-1                      deb           [38;2;119;119;119m[0m                 
+python3.7                                   3.7.3-2+deb10u4              deb           [38;2;119;119;119m[0m                 
+python3.7-minimal                           3.7.3-2+deb10u4              deb           [38;2;119;119;119m[0m                 
+ranger-plugins-audit                        2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+ranger-plugins-common                       2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+ranger-plugins-cred                         2.0.0                        java-archive  [38;2;119;119;119m[0m                 
+reactive-streams                            1.0.2                        java-archive  [38;2;119;119;119m[0m                 
+readline-common                             7.0-5                        deb           [38;2;119;119;119m[0m                 
+resilience4j-bulkhead                       1.3.1                        java-archive  [38;2;119;119;119m[0m                 
+resilience4j-core                           1.3.1                        java-archive  [38;2;119;119;119m[0m                 
+resources                                   1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+rhino                                       1.7.11                       java-archive  [38;2;119;119;119m[0m                 
+rt                                          1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+scala-library                               2.11.12                      java-archive  [38;2;119;119;119m[0m                 
+scala-logging_2.11                          3.9.0                        java-archive  [38;2;119;119;119m[0m                 
+scala-reflect                               2.11.12                      java-archive  [38;2;119;119;119m[0m                 
+schema-repo-api                             0.1.3                        java-archive  [38;2;119;119;119m[0m                 
+schema-repo-avro                            0.1.3                        java-archive  [38;2;119;119;119m[0m                 
+schema-repo-client                          0.1.3                        java-archive  [38;2;119;119;119m[0m                 
+schema-repo-common                          0.1.3                        java-archive  [38;2;119;119;119m[0m                 
+sdo                                         2.1.1                        java-archive  [38;2;119;119;119m[0m                 
+sed                                         4.7-1                        deb           [38;2;119;119;119m[0m                 
+sensible-utils                              0.0.12                       deb           [38;2;119;119;119m[0m                 
+servlet-api                                 2.5                          java-archive  [38;2;119;119;119m[0m                 
+shims                                       0.9.0                        java-archive  [38;2;119;119;119m[0m                 
+sigar                                       1.6.5.132                    java-archive  [38;2;119;119;119m[0m                 
+simple-client-sslcontext                    0.20.0                       java-archive  [38;2;119;119;119m[0m                 
+slf4j-api                                   1.7.10                       java-archive  [38;2;119;119;119m[0m                 
+slf4j-api                                   1.7.25                       java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+slf4j-log4j12                               1.7.10                       java-archive  [38;2;119;119;119m[0m                 
+snappy-java                                 1.0.4.1                      java-archive  [38;2;119;119;119m[0m                 
+snappy-java                                 1.1.7.1                      java-archive  [38;2;119;119;119m[0m                 
+snappy-java                                 1.1.7.3                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m  
+solr-solrj                                  7.7.1                        java-archive  [38;2;119;119;119m[0m                 
+spymemcached                                2.12.3                       java-archive  [38;2;119;119;119m[0m                 
+stax-api                                    1.0-2                        java-archive  [38;2;119;119;119m[0m                 
+stax-ex                                     1.8                          java-archive  [38;2;119;119;119m[0m                 
+stax2-api                                   3.1.4                        java-archive  [38;2;119;119;119m[0m                 
+stringtemplate                              3.2                          java-archive  [38;2;119;119;119m[0m                 
+sunec                                       1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+sunjce_provider                             1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+sunpkcs11                                   1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+sysvinit-utils                              2.93-8                       deb           [38;2;119;119;119m[0m                 
+tar                                         1.30+dfsg-6                  deb           [38;2;119;119;119m[0m                 
+tesla-aether                                0.0.5                        java-archive  [38;2;119;119;119m[0m                 
+threeten-extra                              1.5.0                        java-archive  [38;2;119;119;119m[0m                 
+txw2                                        2.3.1                        java-archive  [38;2;119;119;119m[0m                 
+tzdata                                      2021a-0+deb10u1              deb           [38;2;119;119;119m[0m                 
+ucf                                         3.0038+nmu1                  deb           [38;2;119;119;119m[0m                 
+unzip                                       6.0-23+deb10u2               deb           [38;2;119;119;119m[0m                 
+util-linux                                  2.33.1-0.1                   deb           [38;2;119;119;119m[0m                 
+validation-api                              1.1.0.Final                  java-archive  [38;2;119;119;119m[0m                 
+vavr                                        0.10.2                       java-archive  [38;2;119;119;119m[0m                 
+vavr-match                                  0.10.2                       java-archive  [38;2;119;119;119m[0m                 
+velocity-engine-core                        2.2                          java-archive  [38;2;119;119;119m[0m                 
+wagon-provider-api                          2.4                          java-archive  [38;2;119;119;119m[0m                 
+wget                                        1.20.1-1.1                   deb           [38;2;119;119;119m[0m                 
+woodstox-core-asl                           4.4.1                        java-archive  [38;2;119;119;119m[0m                 
+xmlenc                                      0.52                         java-archive  [38;2;119;119;119m(+2 duplicates)[0m  
+xz                                          1.8                          java-archive  [38;2;119;119;119m[0m                 
+xz-utils                                    5.2.4-1                      deb           [38;2;119;119;119m[0m                 
+zipfs                                       1.8.0_292                    java-archive  [38;2;119;119;119m[0m                 
+zkclient                                    0.10                         java-archive  [38;2;119;119;119m[0m                 
+zlib1g                                      1:1.2.11.dfsg-1              deb           [38;2;119;119;119m[0m                 
+zookeeper                                   3.4.14                       java-archive  [38;2;119;119;119m[0m                 
+zstd-jni                                    1.3.3-1                      java-archive  [38;2;119;119;119m(+3 duplicates)[0m  

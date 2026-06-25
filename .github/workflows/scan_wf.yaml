@@ -1,0 +1,445 @@
+name: scan_workflow
+
+on:
+  # push:
+  #   branches:
+  #     - main
+  # pull_request:
+  #   branches:
+  #     - main
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Allow pushing commits
+
+jobs:
+  build:
+    name: Build container and Scan with Trivy, Grype, clair & Syft
+    runs-on: ubuntu-latest
+
+    env:
+      TRIVY_TIMEOUT: 10m
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Load configuration (images and scanners)
+        id: load-config
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          IMAGES=$(jq -r '.images[]' config/config.json | xargs)
+          SCANNERS=$(jq -r '.scanners[]' config/config.json | xargs)
+          echo "IMAGES=$IMAGES" >> $GITHUB_ENV
+          echo "SCANNERS=$SCANNERS" >> $GITHUB_ENV
+          echo "Configured images: $IMAGES"
+          echo "Configured scanners: $SCANNERS"
+
+      - name: Create output directories
+        run: |
+          mkdir -p "GithubActions/TrivyScan"
+          mkdir -p "GithubActions/GrypeScan"
+          mkdir -p "GithubActions/Syft_sbom"
+          mkdir -p "GithubActions/SnykScan"
+          mkdir -p "GithubActions/ClairScan"
+
+      - name: Set Date
+        id: set-date
+        run: echo "DATE=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+      
+      - name: Install Trivy
+        if: ${{ contains(env.SCANNERS, 'trivy') }}
+        run: |
+          sudo apt-get install -y wget apt-transport-https gnupg lsb-release
+          wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | sudo apt-key add -
+          echo deb https://aquasecurity.github.io/trivy-repo/deb $(lsb_release -sc) main | sudo tee -a /etc/apt/sources.list.d/trivy.list
+          sudo apt-get update -qq
+          sudo apt-get install -y trivy
+
+      - name: Cache vulnerability DBs
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/trivy
+            ~/.cache/grype
+            ~/.cache/syft
+          key: ${{ runner.os }}-secdb-${{ hashFiles('config/config.json') }}
+
+      - name: Install Grype
+        if: ${{ contains(env.SCANNERS, 'grype') }}
+        run: |
+          curl -sSfL --max-time 60 https://raw.githubusercontent.com/anchore/grype/main/install.sh | sh -s -- -b /usr/local/bin
+          grype version
+
+      - name: Install Syft
+        if: ${{ contains(env.SCANNERS, 'syft') }}
+        run: |
+          curl -sSfL --max-time 60 https://get.anchore.io/syft | sudo sh -s -- -b /usr/local/bin v1.14.0
+          syft version
+
+      - name: Install Snyk
+        if: ${{ contains(env.SCANNERS, 'snyk') }}
+        run: |
+          curl -sSfL --max-time 60 https://static.snyk.io/cli/latest/snyk-linux -o /usr/local/bin/snyk
+          sudo chmod +x /usr/local/bin/snyk
+          snyk --version
+
+      - name: Install Docker Compose
+        if: ${{ contains(env.SCANNERS, 'clair') }}
+        run: |
+          # Install Docker Compose v2 plugin (modern approach)
+          DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+          mkdir -p $DOCKER_CONFIG/cli-plugins
+          
+          # Download with retry logic and timeout
+          for i in {1..3}; do
+            if curl -fsSL --max-time 60 --retry 3 --retry-delay 5 \
+              https://github.com/docker/compose/releases/download/v2.23.0/docker-compose-linux-x86_64 \
+              -o $DOCKER_CONFIG/cli-plugins/docker-compose; then
+              echo "Docker Compose downloaded successfully"
+              break
+            else
+              echo "Download attempt $i failed, retrying..."
+              sleep 5
+            fi
+          done
+          
+          chmod +x $DOCKER_CONFIG/cli-plugins/docker-compose
+          docker compose version
+
+      - name: Validate required scripts
+        run: |
+          if [ ! -f ".github/scripts/get_report_name.sh" ]; then
+            echo "Error: Required script .github/scripts/get_report_name.sh not found"
+            exit 1
+          fi
+          chmod +x .github/scripts/get_report_name.sh
+          echo "Required scripts validated successfully"
+
+      - name: Install Clair
+        if: ${{ contains(env.SCANNERS, 'clair') }}
+        run: |
+          # Install clairctl for Clair scanning
+          curl -fsSL --max-time 60 --retry 3 https://github.com/quay/clair/releases/download/v4.7.4/clairctl-linux-amd64 -o /usr/local/bin/clairctl
+          sudo chmod +x /usr/local/bin/clairctl
+          
+          # Start Clair with Docker Compose
+          mkdir -p clair-config
+          cat > clair-config/docker-compose.yml <<EOF
+          version: '3.8'
+          services:
+            postgres:
+              image: postgres:13
+              environment:
+                POSTGRES_DB: clair
+                POSTGRES_USER: clair
+                POSTGRES_PASSWORD: clair
+              ports:
+                - "5432:5432"
+              healthcheck:
+                test: ["CMD-SHELL", "pg_isready -U clair"]
+                interval: 10s
+                timeout: 5s
+                retries: 5
+              networks:
+                - clair-network
+            clair:
+              image: quay.io/projectquay/clair:4.7.4
+              ports:
+                - "6060:6060"
+                - "6061:6061"
+              environment:
+                CLAIR_CONF: /clair/config.yaml
+                CLAIR_MODE: combo
+              volumes:
+                - ./config.yaml:/clair/config.yaml
+              command: -conf /clair/config.yaml
+              depends_on:
+                postgres:
+                  condition: service_healthy
+              networks:
+                - clair-network
+          networks:
+            clair-network:
+              driver: bridge
+          EOF
+          
+          cat > clair-config/config.yaml <<EOF
+          http_listen_addr: :6060
+          introspection_addr: :6061
+          log_level: info
+          indexer:
+            connstring: host=postgres port=5432 dbname=clair user=clair password=clair sslmode=disable
+            scanlock_retry: 10
+            layer_scan_concurrency: 5
+            migrations: true
+          matcher:
+            connstring: host=postgres port=5432 dbname=clair user=clair password=clair sslmode=disable
+            max_conn_pool: 100
+            migrations: true
+          notifier:
+            connstring: host=postgres port=5432 dbname=clair user=clair password=clair sslmode=disable
+            migrations: true
+          EOF
+          
+          cd clair-config
+          docker compose up -d
+          
+          # Wait for Clair to be fully ready (postgres healthcheck + clair startup)
+          echo "Waiting for Postgres to be healthy..."
+          timeout 60 bash -c 'until docker compose ps postgres | grep -q "healthy"; do sleep 2; done' || echo "Postgres healthcheck timeout"
+          
+          echo "Waiting for Clair API to be ready..."
+          timeout 90 bash -c 'until curl -sf http://localhost:6060/openapi/v1 > /dev/null 2>&1; do echo "Waiting for Clair..."; sleep 5; done' || echo "Clair API timeout"
+          
+          echo "Clair setup complete"
+          docker compose ps
+
+      - name: Install Clair (Legacy v2)
+        if: ${{ contains(env.SCANNERS, 'clair-legacy') }}
+        run: |
+          set -e
+          # Download clair-scanner binary
+          curl -fsSL --max-time 60 --retry 3 \
+            https://github.com/arminc/clair-scanner/releases/download/v12/clair-scanner_linux_amd64 \
+            -o /usr/local/bin/clair-scanner
+          sudo chmod +x /usr/local/bin/clair-scanner
+
+          # Start legacy Clair DB and API containers (using alternate ports to avoid conflicts)
+          docker rm -f clairv2-db clairv2 2>/dev/null || true
+          docker run -d --name clairv2-db -p 5433:5432 arminc/clair-db:latest
+          sleep 10
+          docker run -d --name clairv2 --link clairv2-db:postgres -p 6062:6060 arminc/clair-local-scan:v2.0.1
+          # Give Clair a moment to initialize
+          sleep 15
+          docker ps
+
+      - name: Scan All Images with Trivy
+        if: ${{ contains(env.SCANNERS, 'trivy') }}
+        id: trivy-scan
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            
+            # Generate Trivy report with standardized name
+            OUTDIR="GithubActions/TrivyScan"
+            mkdir -p "$OUTDIR"
+            JSON_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME}"
+            # Speed knobs:
+            # - --scanners vuln disables secret scanning
+            # - --timeout avoids failures on slow-to-analyze layers (e.g., large JARs)
+            trivy image \
+              --no-progress \
+              --scanners vuln \
+              --timeout "${TRIVY_TIMEOUT}" \
+              --format json \
+              -o "$JSON_OUTPUT_FILE" \
+              "$IMAGE"
+          done
+
+      - name: Scan All Images with Grype
+        if: ${{ contains(env.SCANNERS, 'grype') }}
+        id: grype-scan
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            
+            # Generate Grype report with standardized name
+            OUTDIR="GithubActions/GrypeScan"
+            mkdir -p "$OUTDIR"
+            JSON_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME}"
+            grype --output json --file "$JSON_OUTPUT_FILE" "$IMAGE"
+          done
+
+      - name: Scan All Images with Syft
+        if: ${{ contains(env.SCANNERS, 'syft') }}
+        id: syft-scan
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            
+            # Generate Syft SBOM reports with standardized name
+            OUTDIR="GithubActions/Syft_sbom"
+            mkdir -p "$OUTDIR"
+            
+            JSON_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME}"
+            TXT_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME%.json}.txt"
+            CYCLONEDX_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME%.json}_cyclonedx.json"
+            SPDX_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME%.json}_spdx.json"
+            syft "$IMAGE" \
+              -o table="${TXT_OUTPUT_FILE}" \
+              -o json="${JSON_OUTPUT_FILE}" \
+              -o cyclonedx-json="${CYCLONEDX_OUTPUT_FILE}" \
+              -o spdx-json="${SPDX_OUTPUT_FILE}"
+            echo "Generated SBOM for $IMAGE: JSON + TXT"
+          done
+
+      - name: Scan All Images with Snyk
+        if: ${{ contains(env.SCANNERS, 'snyk') }}
+        id: snyk-scan
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          # Authenticate with Snyk (use free tier or set SNYK_TOKEN secret)
+          if [ -n "$SNYK_TOKEN" ]; then
+            snyk auth "$SNYK_TOKEN"
+          fi
+          
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            
+            # Generate Snyk report with standardized name
+            OUTDIR="GithubActions/SnykScan"
+            mkdir -p "$OUTDIR"
+            JSON_OUTPUT_FILE="${OUTDIR}/${REPORT_NAME}"
+            
+            # Pull image first
+            docker pull "$IMAGE" || echo "Failed to pull $IMAGE, continuing..."
+            
+            # Run Snyk container test
+            snyk container test "$IMAGE" --json > "$JSON_OUTPUT_FILE" || true
+          done
+
+      - name: Scan All Images with Clair
+        if: ${{ contains(env.SCANNERS, 'clair') }}
+        id: clair-scan
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            OUTDIR="GithubActions/ClairScan"
+            mkdir -p "$OUTDIR"
+            JSON_FILE="${OUTDIR}/${REPORT_NAME}"
+            TXT_FILE="${JSON_FILE}.txt"
+            
+            echo "Scanning: $IMAGE"
+            
+            docker pull "$IMAGE" || { echo "Error: Failed to pull $IMAGE" > "$TXT_FILE"; continue; }
+            
+            if clairctl report --host http://localhost:6060 --out json "$IMAGE" > "$JSON_FILE" 2>&1; then
+              echo "Done (JSON)"
+            elif clairctl report --host http://localhost:6060 "$IMAGE" > "$TXT_FILE" 2>&1; then
+              rm -f "$JSON_FILE"
+              echo "Done (TXT)"
+            fi
+          done
+
+      - name: Scan All Images with Clair (Legacy)
+        if: ${{ contains(env.SCANNERS, 'clair-legacy') }}
+        id: clair-legacy-scan
+        run: |
+          source .github/scripts/get_report_name.sh
+
+          # Compute runner IP for clair-scanner
+          IP=$(hostname -I | awk '{print $1}')
+          echo "Using host IP: $IP"
+
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            OUTDIR="GithubActions/ClairScan"
+            mkdir -p "$OUTDIR"
+            JSON_FILE="${OUTDIR}/${REPORT_NAME}"
+
+            echo "Scanning (legacy): $IMAGE"
+            docker pull "$IMAGE" || echo "Failed to pull $IMAGE, continuing"
+
+            # Run clair-scanner against Clair v2 on port 6062, write simple JSON
+            clair-scanner --ip="$IP" --clair=http://localhost:6062 -r "$JSON_FILE" "$IMAGE" || true
+          done
+
+      - name: Cleanup Clair Services
+        if: ${{ always() && contains(env.SCANNERS, 'clair') }}
+        run: |
+          echo "Stopping Clair services..."
+          cd clair-config 2>/dev/null || true
+          docker compose down -v 2>/dev/null || true
+          echo "Clair cleanup complete"
+
+      - name: Cleanup Clair Legacy Services
+        if: ${{ always() && contains(env.SCANNERS, 'clair-legacy') }}
+        run: |
+          echo "Stopping Clair legacy services..."
+          docker rm -f clairv2 clairv2-db 2>/dev/null || true
+          echo "Clair legacy cleanup complete"
+
+      - name: Verify Scan Reports
+        run: |
+          echo "=== Scan Reports Summary ==="
+          echo ""
+          echo "Trivy Scan Reports:"
+          ls -lh "GithubActions/TrivyScan/" 2>/dev/null || echo "No Trivy reports found"
+          echo ""
+          echo "Grype Scan Reports:"
+          ls -lh "GithubActions/GrypeScan/" 2>/dev/null || echo "No Grype reports found"
+          echo ""
+          echo "Syft SBOM Reports:"
+          ls -lh "GithubActions/Syft_sbom/" 2>/dev/null || echo "No Syft reports found"
+          echo ""
+          echo "Snyk Scan Reports:"
+          ls -lh "GithubActions/SnykScan/" 2>/dev/null || echo "No Snyk reports found"
+          echo ""
+          echo "Clair Scan Reports:"
+          ls -lh "GithubActions/ClairScan/" 2>/dev/null || echo "No Clair reports found"
+          echo ""
+          echo "==========================="
+
+      - name: Upload Scan Reports as Artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: security-scan-reports-${{ env.DATE }}
+          path: |
+            GithubActions/TrivyScan/
+            GithubActions/GrypeScan/
+            GithubActions/Syft_sbom/
+            GithubActions/SnykScan/
+            GithubActions/ClairScan/
+          retention-days: 30
+
+      - name: Commit Security Scan Reports
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          source .github/scripts/get_report_name.sh
+          
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add all scanner reports
+          for IMAGE in $IMAGES; do
+            REPORT_NAME=$(get_report_name "$IMAGE")
+            
+            # Add all scanner reports with the same standardized name
+            if [ -f "GithubActions/TrivyScan/${REPORT_NAME}" ]; then git add "GithubActions/TrivyScan/${REPORT_NAME}"; fi
+            if [ -f "GithubActions/GrypeScan/${REPORT_NAME}" ]; then git add "GithubActions/GrypeScan/${REPORT_NAME}"; fi
+            if [ -d "GithubActions/Syft_sbom/" ]; then git add "GithubActions/Syft_sbom/."; fi
+            if [ -f "GithubActions/SnykScan/${REPORT_NAME}" ]; then git add "GithubActions/SnykScan/${REPORT_NAME}"; fi
+            if [ -f "GithubActions/ClairScan/${REPORT_NAME}" ]; then git add "GithubActions/ClairScan/${REPORT_NAME}"; fi
+          done
+          
+          # Check if there are changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "Add security scan reports $DATE"
+            
+            # Try to push with error handling
+            if git push origin HEAD:${GITHUB_REF#refs/heads/}; then
+              echo "Successfully pushed scan reports"
+            else
+              echo "Failed to push to branch. This may be due to branch protection rules."
+              echo "Scan reports are available as workflow artifacts."
+              exit 0
+            fi
+          else
+            echo "No changes to commit."
+          fi

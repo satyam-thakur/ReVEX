@@ -1,0 +1,7 @@
+{
+    "images": [
+        "vulhub/nextjs:15.5.6",
+        "vulhub/langflow:1.2.0"
+        ],
+    "scanners": ["clair"]
+}
