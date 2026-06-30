@@ -1,12 +1,14 @@
 name: scan_workflow
 
 on:
+  # Branch filters use globs so the workflow stays branch-agnostic.
+  # Enable as needed; runtime branch is resolved via github.ref_name in steps.
   # push:
   #   branches:
-  #     - main
+  #     - '**'
   # pull_request:
   #   branches:
-  #     - main
+  #     - '**'
   workflow_dispatch:
 
 permissions:
@@ -433,13 +435,28 @@ jobs:
             BRANCH="${GITHUB_REF#refs/heads/}"
             git commit -m "Add security scan reports $DATE"
 
+            # Scanners may leave other generated files unstaged (e.g. Clair's
+            # .txt fallback). git pull --rebase refuses to run with a dirty
+            # working tree, so stash anything that wasn't committed first.
+            # stash push exits non-zero when there is nothing to stash, so
+            # gate STASHED on whether a stash entry was actually created.
+            STASHED=0
+            git stash push --include-untracked -m "scan-wf-leftovers" || true
+            if git stash list | grep -q "scan-wf-leftovers"; then
+              STASHED=1
+            fi
+
             # Rebase onto the latest remote tip to avoid non-fast-forward
             # rejections if the branch advanced since checkout.
             git pull --rebase origin "$BRANCH" || {
               echo "Rebase failed; aborting and leaving reports as artifacts."
               git rebase --abort 2>/dev/null || true
+              [ "$STASHED" = "1" ] && git stash drop 2>/dev/null || true
               exit 0
             }
+
+            # Drop the stashed leftovers; they are uncommitted artifacts only.
+            [ "$STASHED" = "1" ] && git stash drop 2>/dev/null || true
 
             # Try to push with error handling
             if git push origin "HEAD:$BRANCH"; then
