@@ -1,6 +1,6 @@
 # Terraform - Cloud Infrastructure Provisioning
 
-This directory contains Terraform configuration to provision an AWS EC2 instance for running the AI Network Assistant lab (Containerlab + pyATS + Arista cEOS).
+This directory contains Terraform configuration to provision an AWS EC2 instance and run the setup in cloud.
 
 ---
 
